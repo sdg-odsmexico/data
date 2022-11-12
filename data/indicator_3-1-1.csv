@@ -1,14 +1,14 @@
 ﻿Year,Entidad_federativa,GeoCode,Value
-2019,Estados Unidos Mexicanos,"	00",34.16066
-2019,Aguascalientes,"	01",12.15067
-2019,Baja California,"	02",32.58893
-2019,Baja California Sur,"	03",43.3526
-2019,Campeche,"	04",10.96611
-2019,Coahuila de Zaragoza,"	05",25.16308
-2019,Colima,"	06",29.77298
-2019,Chiapas,"	07",42.78075
-2019,Chihuahua,"	08",48.79969
-2019,Ciudad de México,"	09",36.11375
+2019,Estados Unidos Mexicanos,"0",34.16066
+2019,Aguascalientes,"1",12.15067
+2019,Baja California,"2",32.58893
+2019,Baja California Sur,"3",43.3526
+2019,Campeche,"4",10.96611
+2019,Coahuila de Zaragoza,"5",25.16308
+2019,Colima,"6",29.77298
+2019,Chiapas,"7",42.78075
+2019,Chihuahua,"8",48.79969
+2019,Ciudad de México,"9",36.11375
 2019,Durango,"	10",66.65334
 2019,Guanajuato,"	11",24.75554
 2019,Guerrero,"	12",56.43423
@@ -32,16 +32,16 @@
 2019,Veracruz de Ignacio de la Llave,"	30",34.41625
 2019,Yucatán,"	31",21.62563
 2019,Zacatecas,"	32",29.20561
-2018,Estados Unidos Mexicanos,"	00",34.55469
-2018,Aguascalientes,"	01",23.62391
-2018,Baja California,"	02",33.66537
-2018,Baja California Sur,"	03",25.2419
-2018,Campeche,"	04",33.65681
-2018,Coahuila de Zaragoza,"	05",36.9324
-2018,Colima,"	06",14.81372
-2018,Chiapas,"	07",62.31426
-2018,Chihuahua,"	08",52.31311
-2018,Ciudad de México,"	09",34.49533
+2018,Estados Unidos Mexicanos,"	0",34.55469
+2018,Aguascalientes,"1",23.62391
+2018,Baja California,"2",33.66537
+2018,Baja California Sur,"3",25.2419
+2018,Campeche,"4",33.65681
+2018,Coahuila de Zaragoza,"5",36.9324
+2018,Colima,"6",14.81372
+2018,Chiapas,"7",62.31426
+2018,Chihuahua,"8",52.31311
+2018,Ciudad de México,"9",34.49533
 2018,Durango,"	10",53.43559
 2018,Guanajuato,"	11",20.75419
 2018,Guerrero,"	12",33.10053
@@ -65,16 +65,16 @@
 2018,Veracruz de Ignacio de la Llave,"	30",27.41729
 2018,Yucatán,"	31",52.64697
 2018,Zacatecas,"	32",31.21856
-2017,Estados Unidos Mexicanos,"	00",34.95725
-2017,Aguascalientes,"	01",22.10026
-2017,Baja California,"	02",41.29129
-2017,Baja California Sur,"	03",7.25321
-2017,Campeche,"	04",27.96108
-2017,Coahuila de Zaragoza,"	05",38.64259
-2017,Colima,"	06",7.34268
-2017,Chiapas,"	07",50.81185
-2017,Chihuahua,"	08",52.18611
-2017,Ciudad de México,"	09",35.34912
+2017,Estados Unidos Mexicanos,"	0",34.95725
+2017,Aguascalientes,"1",22.10026
+2017,Baja California,"2",41.29129
+2017,Baja California Sur,"3",7.25321
+2017,Campeche,"4",27.96108
+2017,Coahuila de Zaragoza,"5",38.64259
+2017,Colima,"6",7.34268
+2017,Chiapas,"7",50.81185
+2017,Chihuahua,"8",52.18611
+2017,Ciudad de México,"9",35.34912
 2017,Durango,"	10",29.18345
 2017,Guanajuato,"	11",34.53128
 2017,Guerrero,"	12",61.34114
@@ -98,16 +98,16 @@
 2017,Veracruz de Ignacio de la Llave,"	30",31.11947
 2017,Yucatán,"	31",14.52728
 2017,Zacatecas,"	32",29.34272
-2016,Estados Unidos Mexicanos,"	00",37.20037
-2016,Aguascalientes,"	01",18.50481
-2016,Baja California,"	02",28.83164
-2016,Baja California Sur,"	03",7.31743
-2016,Campeche,"	04",45.52957
-2016,Coahuila de Zaragoza,"	05",42.69709
-2016,Colima,"	06",36.71072
-2016,Chiapas,"	07",50.63291
-2016,Chihuahua,"	08",43.97681
-2016,Ciudad de México,"	09",28.32956
+2016,Estados Unidos Mexicanos,"	0",37.20037
+2016,Aguascalientes,"1",18.50481
+2016,Baja California,"2",28.83164
+2016,Baja California Sur,"3",7.31743
+2016,Campeche,"4",45.52957
+2016,Coahuila de Zaragoza,"5",42.69709
+2016,Colima,"6",36.71072
+2016,Chiapas,"7",50.63291
+2016,Chihuahua,"8",43.97681
+2016,Ciudad de México,"9",28.32956
 2016,Durango,"	10",40.05837
 2016,Guanajuato,"	11",32.36756
 2016,Guerrero,"	12",53.75603
@@ -131,16 +131,16 @@
 2016,Veracruz de Ignacio de la Llave,"	30",28.27294
 2016,Yucatán,"	31",31.70851
 2016,Zacatecas,"	32",22.83403
-2015,Estados Unidos Mexicanos,"	00",34.96753
-2015,Aguascalientes,"	01",25.82645
-2015,Baja California,"	02",32.02211
-2015,Baja California Sur,"	03",22.33306
-2015,Campeche,"	04",46.51974
-2015,Coahuila de Zaragoza,"	05",28.30314
-2015,Colima,"	06",22.37637
-2015,Chiapas,"	07",59.8472
-2015,Chihuahua,"	08",48.30218
-2015,Ciudad de México,"	09",44.33221
+2015,Estados Unidos Mexicanos,"	0",34.96753
+2015,Aguascalientes,"1",25.82645
+2015,Baja California,"2",32.02211
+2015,Baja California Sur,"3",22.33306
+2015,Campeche,"4",46.51974
+2015,Coahuila de Zaragoza,"5",28.30314
+2015,Colima,"6",22.37637
+2015,Chiapas,"7",59.8472
+2015,Chihuahua,"8",48.30218
+2015,Ciudad de México,"9",44.33221
 2015,Durango,"	10",31.14383
 2015,Guanajuato,"	11",31.19449
 2015,Guerrero,"	12",48.62631
@@ -164,16 +164,16 @@
 2015,Veracruz de Ignacio de la Llave,"	30",28.71873
 2015,Yucatán,"	31",35.29252
 2015,Zacatecas,"	32",32.55314
-2014,Estados Unidos Mexicanos,"	00",38.65963
-2014,Aguascalientes,"	01",22.05315
-2014,Baja California,"	02",28.21109
-2014,Baja California Sur,"	03",15.8705
-2014,Campeche,"	04",17.97591
-2014,Coahuila de Zaragoza,"	05",36.95616
-2014,Colima,"	06",29.66919
-2014,Chiapas,"	07",60.30229
-2014,Chihuahua,"	08",58.06509
-2014,Ciudad de México,"	09",41.86446
+2014,Estados Unidos Mexicanos,"	0",38.65963
+2014,Aguascalientes,"1",22.05315
+2014,Baja California,"2",28.21109
+2014,Baja California Sur,"3",15.8705
+2014,Campeche,"4",17.97591
+2014,Coahuila de Zaragoza,"5",36.95616
+2014,Colima,"6",29.66919
+2014,Chiapas,"7",60.30229
+2014,Chihuahua,"8",58.06509
+2014,Ciudad de México,"9",41.86446
 2014,Durango,"	10",71.22101
 2014,Guanajuato,"	11",27.67256
 2014,Guerrero,"	12",57.28216
@@ -197,16 +197,16 @@
 2014,Veracruz de Ignacio de la Llave,"	30",40.27854
 2014,Yucatán,"	31",46.78427
 2014,Zacatecas,"	32",30.53342
-2013,Estados Unidos Mexicanos,"	00",37.86181
-2013,Aguascalientes,"	01",25.73529
-2013,Baja California,"	02",39.70749
-2013,Baja California Sur,"	03",32.11046
-2013,Campeche,"	04",65.39834
-2013,Coahuila de Zaragoza,"	05",27.0065
-2013,Colima,"	06",22.81022
-2013,Chiapas,"	07",49.22588
-2013,Chihuahua,"	08",60.66884
-2013,Ciudad de México,"	09",41.92348
+2013,Estados Unidos Mexicanos,"	0",37.86181
+2013,Aguascalientes,"1",25.73529
+2013,Baja California,"2",39.70749
+2013,Baja California Sur,"3",32.11046
+2013,Campeche,"4",65.39834
+2013,Coahuila de Zaragoza,"5",27.0065
+2013,Colima,"6",22.81022
+2013,Chiapas,"7",49.22588
+2013,Chihuahua,"8",60.66884
+2013,Ciudad de México,"9",41.92348
 2013,Durango,"	10",41.24165
 2013,Guanajuato,"	11",34.9159
 2013,Guerrero,"	12",57.70795
@@ -230,16 +230,16 @@
 2013,Veracruz de Ignacio de la Llave,"	30",43.58693
 2013,Yucatán,"	31",56.54829
 2013,Zacatecas,"	32",44.15011
-2012,Estados Unidos Mexicanos,"	00",42.10368
-2012,Aguascalientes,"	01",47.65396
-2012,Baja California,"	02",30.96242
-2012,Baja California Sur,"	03",23.28289
-2012,Campeche,"	04",42.84752
-2012,Coahuila de Zaragoza,"	05",34.39322
-2012,Colima,"	06",23.57008
-2012,Chiapas,"	07",55.32278
-2012,Chihuahua,"	08",46.76312
-2012,Ciudad de México,"	09",40.14596
+2012,Estados Unidos Mexicanos,"	0",42.10368
+2012,Aguascalientes,"1",47.65396
+2012,Baja California,"2",30.96242
+2012,Baja California Sur,"3",23.28289
+2012,Campeche,"4",42.84752
+2012,Coahuila de Zaragoza,"5",34.39322
+2012,Colima,"6",23.57008
+2012,Chiapas,"7",55.32278
+2012,Chihuahua,"8",46.76312
+2012,Ciudad de México,"9",40.14596
 2012,Durango,"	10",52.5152
 2012,Guanajuato,"	11",34.82327
 2012,Guerrero,"	12",73.43588
@@ -263,16 +263,16 @@
 2012,Veracruz de Ignacio de la Llave,"	30",48.93
 2012,Yucatán,"	31",56.36025
 2012,Zacatecas,"	32",32.0482
-2011,Estados Unidos Mexicanos,"	00",42.90793
-2011,Aguascalientes,"	01",18.53019
-2011,Baja California,"	02",33.37572
-2011,Baja California Sur,"	03",31.6907
-2011,Campeche,"	04",63.13929
-2011,Coahuila de Zaragoza,"	05",39.49376
-2011,Colima,"	06",39.32982
-2011,Chiapas,"	07",48.25595
-2011,Chihuahua,"	08",66.75761
-2011,Ciudad de México,"	09",40.78214
+2011,Estados Unidos Mexicanos,"	0",42.90793
+2011,Aguascalientes,"1",18.53019
+2011,Baja California,"2",33.37572
+2011,Baja California Sur,"3",31.6907
+2011,Campeche,"4",63.13929
+2011,Coahuila de Zaragoza,"5",39.49376
+2011,Colima,"6",39.32982
+2011,Chiapas,"7",48.25595
+2011,Chihuahua,"8",66.75761
+2011,Ciudad de México,"9",40.78214
 2011,Durango,"	10",35.92252
 2011,Guanajuato,"	11",34.9761
 2011,Guerrero,"	12",86.90614
@@ -296,16 +296,16 @@
 2011,Veracruz de Ignacio de la Llave,"	30",54.13498
 2011,Yucatán,"	31",41.55536
 2011,Zacatecas,"	32",39.12746
-2010,Estados Unidos Mexicanos,"	00",43.69536
-2010,Aguascalientes,"	01",39.25109
-2010,Baja California,"	02",38.26348
-2010,Baja California Sur,"	03",32.34937
-2010,Campeche,"	04",47.18372
-2010,Coahuila de Zaragoza,"	05",40.67728
-2010,Colima,"	06",0
-2010,Chiapas,"	07",57.0578
-2010,Chihuahua,"	08",56.04576
-2010,Ciudad de México,"	09",59.91187
+2010,Estados Unidos Mexicanos,"	0",43.69536
+2010,Aguascalientes,"1",39.25109
+2010,Baja California,"2",38.26348
+2010,Baja California Sur,"3",32.34937
+2010,Campeche,"4",47.18372
+2010,Coahuila de Zaragoza,"5",40.67728
+2010,Colima,"6",0
+2010,Chiapas,"7",57.0578
+2010,Chihuahua,"8",56.04576
+2010,Ciudad de México,"9",59.91187
 2010,Durango,"	10",42.42921
 2010,Guanajuato,"	11",34.61434
 2010,Guerrero,"	12",67.19748
@@ -329,16 +329,16 @@
 2010,Veracruz de Ignacio de la Llave,"	30",52.74761
 2010,Yucatán,"	31",33.30835
 2010,Zacatecas,"	32",35.95721
-2009,Estados Unidos Mexicanos,"	00",53.17143
-2009,Aguascalientes,"	01",51.07854
-2009,Baja California,"	02",48.19277
-2009,Baja California Sur,"	03",41.41473
-2009,Campeche,"	04",47.17537
-2009,Coahuila de Zaragoza,"	05",25.75284
-2009,Colima,"	06",23.80386
-2009,Chiapas,"	07",59.25951
-2009,Chihuahua,"	08",79.269
-2009,Ciudad de México,"	09",56.29134
+2009,Estados Unidos Mexicanos,"0",53.17143
+2009,Aguascalientes,"1",51.07854
+2009,Baja California,"2",48.19277
+2009,Baja California Sur,"3",41.41473
+2009,Campeche,"4",47.17537
+2009,Coahuila de Zaragoza,"5",25.75284
+2009,Colima,"6",23.80386
+2009,Chiapas,"7",59.25951
+2009,Chihuahua,"8",79.269
+2009,Ciudad de México,"9",56.29134
 2009,Durango,"	10",36.70761
 2009,Guanajuato,"	11",49.68574
 2009,Guerrero,"	12",86.07268
@@ -362,16 +362,16 @@
 2009,Veracruz de Ignacio de la Llave,"	30",62.70438
 2009,Yucatán,"	31",41.16921
 2009,Zacatecas,"	32",50.95771
-2008,Estados Unidos Mexicanos,"	00",49.29455
-2008,Aguascalientes,"	01",35.41355
-2008,Baja California,"	02",38.92313
-2008,Baja California Sur,"	03",42.94426
-2008,Campeche,"	04",41.21283
-2008,Coahuila de Zaragoza,"	05",33.03601
-2008,Colima,"	06",32.11819
-2008,Chiapas,"	07",77.74998
-2008,Chihuahua,"	08",54.73296
-2008,Ciudad de México,"	09",53.10429
+2008,Estados Unidos Mexicanos,"	0",49.29455
+2008,Aguascalientes,"1",35.41355
+2008,Baja California,"2",38.92313
+2008,Baja California Sur,"3",42.94426
+2008,Campeche,"4",41.21283
+2008,Coahuila de Zaragoza,"5",33.03601
+2008,Colima,"6",32.11819
+2008,Chiapas,"7",77.74998
+2008,Chihuahua,"8",54.73296
+2008,Ciudad de México,"9",53.10429
 2008,Durango,"	10",64.77414
 2008,Guanajuato,"	11",32.54991
 2008,Guerrero,"	12",78.48598
@@ -395,16 +395,16 @@
 2008,Veracruz de Ignacio de la Llave,"	30",65.8151
 2008,Yucatán,"	31",40.67245
 2008,Zacatecas,"	32",35.97338
-2007,Estados Unidos Mexicanos,"	00",48.3354
-2007,Aguascalientes,"	01",15.77163
-2007,Baja California,"	02",36.01598
-2007,Baja California Sur,"	03",71.32668
-2007,Campeche,"	04",17.63668
-2007,Coahuila de Zaragoza,"	05",22.88491
-2007,Colima,"	06",16.25356
-2007,Chiapas,"	07",66.74653
-2007,Chihuahua,"	08",66.20515
-2007,Ciudad de México,"	09",67.44928
+2007,Estados Unidos Mexicanos,"	0",48.3354
+2007,Aguascalientes,"1",15.77163
+2007,Baja California,"2",36.01598
+2007,Baja California Sur,"3",71.32668
+2007,Campeche,"4",17.63668
+2007,Coahuila de Zaragoza,"5",22.88491
+2007,Colima,"6",16.25356
+2007,Chiapas,"7",66.74653
+2007,Chihuahua,"8",66.20515
+2007,Ciudad de México,"9",67.44928
 2007,Durango,"	10",39.34131
 2007,Guanajuato,"	11",33.65785
 2007,Guerrero,"	12",81.06088
@@ -428,16 +428,16 @@
 2007,Veracruz de Ignacio de la Llave,"	30",66.23757
 2007,Yucatán,"	31",53.6193
 2007,Zacatecas,"	32",29.9958
-2006,Estados Unidos Mexicanos,"	00",51.30676
-2006,Aguascalientes,"	01",47.34475
-2006,Baja California,"	02",37.93877
-2006,Baja California Sur,"	03",36.97883
-2006,Campeche,"	04",58.62352
-2006,Coahuila de Zaragoza,"	05",24.90306
-2006,Colima,"	06",49.27322
-2006,Chiapas,"	07",70.92935
-2006,Chihuahua,"	08",61.72396
-2006,Ciudad de México,"	09",58.13044
+2006,Estados Unidos Mexicanos,"	0",51.30676
+2006,Aguascalientes,"1",47.34475
+2006,Baja California,"2",37.93877
+2006,Baja California Sur,"3",36.97883
+2006,Campeche,"4",58.62352
+2006,Coahuila de Zaragoza,"5",24.90306
+2006,Colima,"6",49.27322
+2006,Chiapas,"7",70.92935
+2006,Chihuahua,"8",61.72396
+2006,Ciudad de México,"9",58.13044
 2006,Durango,"	10",72.78835
 2006,Guanajuato,"	11",36.42586
 2006,Guerrero,"	12",106.30086
@@ -461,16 +461,16 @@
 2006,Veracruz de Ignacio de la Llave,"	30",52.57589
 2006,Yucatán,"	31",26.48095
 2006,Zacatecas,"	32",41.95008
-2005,Estados Unidos Mexicanos,"	00",54.45377
-2005,Aguascalientes,"	01",27.64067
-2005,Baja California,"	02",46.62238
-2005,Baja California Sur,"	03",28.52524
-2005,Campeche,"	04",64.44431
-2005,Coahuila de Zaragoza,"	05",43.03157
-2005,Colima,"	06",8.23113
-2005,Chiapas,"	07",71.51579
-2005,Chihuahua,"	08",81.57891
-2005,Ciudad de México,"	09",58.65963
+2005,Estados Unidos Mexicanos,"	0",54.45377
+2005,Aguascalientes,"1",27.64067
+2005,Baja California,"2",46.62238
+2005,Baja California Sur,"3",28.52524
+2005,Campeche,"4",64.44431
+2005,Coahuila de Zaragoza,"5",43.03157
+2005,Colima,"6",8.23113
+2005,Chiapas,"7",71.51579
+2005,Chihuahua,"8",81.57891
+2005,Ciudad de México,"9",58.65963
 2005,Durango,"	10",38.93106
 2005,Guanajuato,"	11",35.61797
 2005,Guerrero,"	12",106.81076
@@ -494,16 +494,16 @@
 2005,Veracruz de Ignacio de la Llave,"	30",54.1172
 2005,Yucatán,"	31",49.85306
 2005,Zacatecas,"	32",23.81945
-2004,Estados Unidos Mexicanos,"	00",54.09547
-2004,Aguascalientes,"	01",19.79571
-2004,Baja California,"	02",55.67741
-2004,Baja California Sur,"	03",38.83118
-2004,Campeche,"	04",41.15952
-2004,Coahuila de Zaragoza,"	05",27.08804
-2004,Colima,"	06",32.77882
-2004,Chiapas,"	07",84.35037
-2004,Chihuahua,"	08",48.57976
-2004,Ciudad de México,"	09",62.89763
+2004,Estados Unidos Mexicanos,"	0",54.09547
+2004,Aguascalientes,"1",19.79571
+2004,Baja California,"2",55.67741
+2004,Baja California Sur,"3",38.83118
+2004,Campeche,"4",41.15952
+2004,Coahuila de Zaragoza,"5",27.08804
+2004,Colima,"6",32.77882
+2004,Chiapas,"7",84.35037
+2004,Chihuahua,"8",48.57976
+2004,Ciudad de México,"9",62.89763
 2004,Durango,"	10",66.19594
 2004,Guanajuato,"	11",44.81802
 2004,Guerrero,"	12",85.70896
@@ -527,16 +527,16 @@
 2004,Veracruz de Ignacio de la Llave,"	30",65.35606
 2004,Yucatán,"	31",44.41541
 2004,Zacatecas,"	32",26.53537
-2003,Estados Unidos Mexicanos,"	00",57.19351
-2003,Aguascalientes,"	01",47.73839
-2003,Baja California,"	02",37.68091
-2003,Baja California Sur,"	03",89.3655
-2003,Campeche,"	04",53.2135
-2003,Coahuila de Zaragoza,"	05",38.25346
-2003,Colima,"	06",24.52182
-2003,Chiapas,"	07",93.9983
-2003,Chihuahua,"	08",47.14488
-2003,Ciudad de México,"	09",70.69813
+2003,Estados Unidos Mexicanos,"	0",57.19351
+2003,Aguascalientes,"1",47.73839
+2003,Baja California,"2",37.68091
+2003,Baja California Sur,"3",89.3655
+2003,Campeche,"4",53.2135
+2003,Coahuila de Zaragoza,"5",38.25346
+2003,Colima,"6",24.52182
+2003,Chiapas,"7",93.9983
+2003,Chihuahua,"8",47.14488
+2003,Ciudad de México,"9",70.69813
 2003,Durango,"	10",52.08476
 2003,Guanajuato,"	11",52.37946
 2003,Guerrero,"	12",104.57034
@@ -560,16 +560,16 @@
 2003,Veracruz de Ignacio de la Llave,"	30",60.95189
 2003,Yucatán,"	31",54.76594
 2003,Zacatecas,"	32",64.34818
-2002,Estados Unidos Mexicanos,"	00",56.85229
-2002,Aguascalientes,"	01",23.9789
-2002,Baja California,"	02",29.53953
-2002,Baja California Sur,"	03",60.90134
-2002,Campeche,"	04",65.36725
-2002,Coahuila de Zaragoza,"	05",42.2181
-2002,Colima,"	06",16.29461
-2002,Chiapas,"	07",84.06969
-2002,Chihuahua,"	08",71.35823
-2002,Ciudad de México,"	09",54.2804
+2002,Estados Unidos Mexicanos,"0",56.85229
+2002,Aguascalientes,"1",23.9789
+2002,Baja California,"2",29.53953
+2002,Baja California Sur,"3",60.90134
+2002,Campeche,"4",65.36725
+2002,Coahuila de Zaragoza,"5",42.2181
+2002,Colima,"6",16.29461
+2002,Chiapas,"7",84.06969
+2002,Chihuahua,"8",71.35823
+2002,Ciudad de México,"9",54.2804
 2002,Durango,"	10",38.12532
 2002,Guanajuato,"	11",48.92533
 2002,Guerrero,"	12",93.77093
@@ -593,16 +593,16 @@
 2002,Veracruz de Ignacio de la Llave,"	30",72.64966
 2002,Yucatán,"	31",75.47759
 2002,Zacatecas,"	32",46.40775
-2001,Estados Unidos Mexicanos,"	00",69.95604
-2001,Aguascalientes,"	01",60.14435
-2001,Baja California,"	02",40.49011
-2001,Baja California Sur,"	03",20.72109
-2001,Campeche,"	04",23.84643
-2001,Coahuila de Zaragoza,"	05",49.84309
-2001,Colima,"	06",8.1057
-2001,Chiapas,"	07",102.65091
-2001,Chihuahua,"	08",76.84536
-2001,Ciudad de México,"	09",76.42339
+2001,Estados Unidos Mexicanos,"0",69.95604
+2001,Aguascalientes,"1",60.14435
+2001,Baja California,"2",40.49011
+2001,Baja California Sur,"3",20.72109
+2001,Campeche,"4",23.84643
+2001,Coahuila de Zaragoza,"5",49.84309
+2001,Colima,"6",8.1057
+2001,Chiapas,"7",102.65091
+2001,Chihuahua,"8",76.84536
+2001,Ciudad de México,"9",76.42339
 2001,Durango,"	10",48.61449
 2001,Guanajuato,"	11",46.25386
 2001,Guerrero,"	12",122.7688
@@ -626,16 +626,16 @@
 2001,Veracruz de Ignacio de la Llave,"	30",67.45921
 2001,Yucatán,"	31",59.6829
 2001,Zacatecas,"	32",51.69591
-2000,Estados Unidos Mexicanos,"	00",75.40832
-2000,Aguascalientes,"	01",72.48128
-2000,Baja California,"	02",53.5437
-2000,Baja California Sur,"	03",21.16402
-2000,Campeche,"	04",53.87286
-2000,Coahuila de Zaragoza,"	05",44.56245
-2000,Colima,"	06",56.47438
-2000,Chiapas,"	07",80.71391
-2000,Chihuahua,"	08",66.70925
-2000,Ciudad de México,"	09",87.69646
+2000,Estados Unidos Mexicanos,"0",75.40832
+2000,Aguascalientes,"1",72.48128
+2000,Baja California,"2",53.5437
+2000,Baja California Sur,"3",21.16402
+2000,Campeche,"4",53.87286
+2000,Coahuila de Zaragoza,"5",44.56245
+2000,Colima,"6",56.47438
+2000,Chiapas,"7",80.71391
+2000,Chihuahua,"8",66.70925
+2000,Ciudad de México,"9",87.69646
 2000,Durango,"	10",48.24702
 2000,Guanajuato,"	11",66.28295
 2000,Guerrero,"	12",121.41123
@@ -659,16 +659,16 @@
 2000,Veracruz de Ignacio de la Llave,"	30",88.23455
 2000,Yucatán,"	31",82.8715
 2000,Zacatecas,"	32",68.30601
-1999,Estados Unidos Mexicanos,"	00",81.62345
-1999,Aguascalientes,"	01",84.75602
-1999,Baja California,"	02",41.65459
-1999,Baja California Sur,"	03",42.96917
-1999,Campeche,"	04",53.88899
-1999,Coahuila de Zaragoza,"	05",42.75172
-1999,Colima,"	06",32.23207
-1999,Chiapas,"	07",111.29356
-1999,Chihuahua,"	08",72.23898
-1999,Ciudad de México,"	09",112.25759
+1999,Estados Unidos Mexicanos,"0",81.62345
+1999,Aguascalientes,"1",84.75602
+1999,Baja California,"2",41.65459
+1999,Baja California Sur,"3",42.96917
+1999,Campeche,"4",53.88899
+1999,Coahuila de Zaragoza,"5",42.75172
+1999,Colima,"6",32.23207
+1999,Chiapas,"7",111.29356
+1999,Chihuahua,"8",72.23898
+1999,Ciudad de México,"9",112.25759
 1999,Durango,"	10",55.54233
 1999,Guanajuato,"	11",71.13566
 1999,Guerrero,"	12",127.22796
@@ -692,16 +692,16 @@
 1999,Veracruz de Ignacio de la Llave,"	30",101.34421
 1999,Yucatán,"	31",51.52913
 1999,Zacatecas,"	32",56.32058
-1998,Estados Unidos Mexicanos,"	00",79.83539
-1998,Aguascalientes,"	01",36.30496
-1998,Baja California,"	02",47.77129
-1998,Baja California Sur,"	03",75.76578
-1998,Campeche,"	04",59.62674
-1998,Coahuila de Zaragoza,"	05",75.84587
-1998,Colima,"	06",32.26847
-1998,Chiapas,"	07",102.5425
-1998,Chihuahua,"	08",46.624
-1998,Ciudad de México,"	09",109.47517
+1998,Estados Unidos Mexicanos,"0",79.83539
+1998,Aguascalientes,"1",36.30496
+1998,Baja California,"2",47.77129
+1998,Baja California Sur,"3",75.76578
+1998,Campeche,"4",59.62674
+1998,Coahuila de Zaragoza,"5",75.84587
+1998,Colima,"6",32.26847
+1998,Chiapas,"7",102.5425
+1998,Chihuahua,"8",46.624
+1998,Ciudad de México,"9",109.47517
 1998,Durango,"	10",46.66114
 1998,Guanajuato,"	11",67.52138
 1998,Guerrero,"	12",144.54068
@@ -725,16 +725,16 @@
 1998,Veracruz de Ignacio de la Llave,"	30",86.6805
 1998,Yucatán,"	31",68.91447
 1998,Zacatecas,"	32",55.57717
-1997,Estados Unidos Mexicanos,"	00",79.33091
-1997,Aguascalientes,"	01",48.37929
-1997,Baja California,"	02",31.6969
-1997,Baja California Sur,"	03",76.32755
-1997,Campeche,"	04",71.2716
-1997,Coahuila de Zaragoza,"	05",33.12599
-1997,Colima,"	06",80.73632
-1997,Chiapas,"	07",107.49231
-1997,Chihuahua,"	08",88.75615
-1997,Ciudad de México,"	09",93.35277
+1997,Estados Unidos Mexicanos,"0",79.33091
+1997,Aguascalientes,"1",48.37929
+1997,Baja California,"2",31.6969
+1997,Baja California Sur,"3",76.32755
+1997,Campeche,"4",71.2716
+1997,Coahuila de Zaragoza,"5",33.12599
+1997,Colima,"6",80.73632
+1997,Chiapas,"7",107.49231
+1997,Chihuahua,"8",88.75615
+1997,Ciudad de México,"9",93.35277
 1997,Durango,"	10",55.90425
 1997,Guanajuato,"	11",58.95345
 1997,Guerrero,"	12",110.73048
@@ -758,16 +758,16 @@
 1997,Veracruz de Ignacio de la Llave,"	30",76.70504
 1997,Yucatán,"	31",88.51796
 1997,Zacatecas,"	32",90.48781
-1996,Estados Unidos Mexicanos,"	00",81.4795
-1996,Aguascalientes,"	01",40.3047
-1996,Baja California,"	02",30.27894
-1996,Baja California Sur,"	03",10.98418
-1996,Campeche,"	04",94.64096
-1996,Coahuila de Zaragoza,"	05",51.24545
-1996,Colima,"	06",72.70965
-1996,Chiapas,"	07",94.03175
-1996,Chihuahua,"	08",82.85586
-1996,Ciudad de México,"	09",101.05862
+1996,Estados Unidos Mexicanos,"0",81.4795
+1996,Aguascalientes,"1",40.3047
+1996,Baja California,"2",30.27894
+1996,Baja California Sur,"3",10.98418
+1996,Campeche,"4",94.64096
+1996,Coahuila de Zaragoza,"5",51.24545
+1996,Colima,"6",72.70965
+1996,Chiapas,"7",94.03175
+1996,Chihuahua,"8",82.85586
+1996,Ciudad de México,"9",101.05862
 1996,Durango,"	10",39.86049
 1996,Guanajuato,"	11",64.5172
 1996,Guerrero,"	12",158.66312
@@ -791,16 +791,16 @@
 1996,Veracruz de Ignacio de la Llave,"	30",108.25058
 1996,Yucatán,"	31",87.74569
 1996,Zacatecas,"	32",59.53992
-1995,Estados Unidos Mexicanos,"	00",82.1554
-1995,Aguascalientes,"	01",56.50174
-1995,Baja California,"	02",24.91233
-1995,Baja California Sur,"	03",33.05057
-1995,Campeche,"	04",135.71724
-1995,Coahuila de Zaragoza,"	05",41.86842
-1995,Colima,"	06",40.31608
-1995,Chiapas,"	07",118.52042
-1995,Chihuahua,"	08",47.5325
-1995,Ciudad de México,"	09",86.472
+1995,Estados Unidos Mexicanos,"0",82.1554
+1995,Aguascalientes,"1",56.50174
+1995,Baja California,"2",24.91233
+1995,Baja California Sur,"3",33.05057
+1995,Campeche,"4",135.71724
+1995,Coahuila de Zaragoza,"5",41.86842
+1995,Colima,"6",40.31608
+1995,Chiapas,"7",118.52042
+1995,Chihuahua,"8",47.5325
+1995,Ciudad de México,"9",86.472
 1995,Durango,"	10",46.48545
 1995,Guanajuato,"	11",73.28239
 1995,Guerrero,"	12",102.69721
@@ -824,16 +824,16 @@
 1995,Veracruz de Ignacio de la Llave,"	30",105.15247
 1995,Yucatán,"	31",91.88894
 1995,Zacatecas,"	32",58.82196
-1994,Estados Unidos Mexicanos,"	00",83.86292
-1994,Aguascalientes,"	01",49.0096
-1994,Baja California,"	02",23.05387
-1994,Baja California Sur,"	03",0
-1994,Campeche,"	04",111.03319
-1994,Coahuila de Zaragoza,"	05",45.30627
-1994,Colima,"	06",32.62643
-1994,Chiapas,"	07",121.06319
-1994,Chihuahua,"	08",53.0023
-1994,Ciudad de México,"	09",106.39124
+1994,Estados Unidos Mexicanos,"0",83.86292
+1994,Aguascalientes,"1",49.0096
+1994,Baja California,"2",23.05387
+1994,Baja California Sur,"3",0
+1994,Campeche,"4",111.03319
+1994,Coahuila de Zaragoza,"5",45.30627
+1994,Colima,"6",32.62643
+1994,Chiapas,"7",121.06319
+1994,Chihuahua,"8",53.0023
+1994,Ciudad de México,"9",106.39124
 1994,Durango,"	10",55.00419
 1994,Guanajuato,"	11",70.17887
 1994,Guerrero,"	12",153.43607
@@ -857,16 +857,16 @@
 1994,Veracruz de Ignacio de la Llave,"	30",109.62521
 1994,Yucatán,"	31",90.30117
 1994,Zacatecas,"	32",65.33044
-1993,Estados Unidos Mexicanos,"	00",85.17373
-1993,Aguascalientes,"	01",20.74517
-1993,Baja California,"	02",30.93043
-1993,Baja California Sur,"	03",55.24251
-1993,Campeche,"	04",98.8832
-1993,Coahuila de Zaragoza,"	05",47.07842
-1993,Colima,"	06",107.61589
-1993,Chiapas,"	07",132.96211
-1993,Chihuahua,"	08",62.86145
-1993,Ciudad de México,"	09",110.78569
+1993,Estados Unidos Mexicanos,"0",85.17373
+1993,Aguascalientes,"1",20.74517
+1993,Baja California,"2",30.93043
+1993,Baja California Sur,"3",55.24251
+1993,Campeche,"4",98.8832
+1993,Coahuila de Zaragoza,"5",47.07842
+1993,Colima,"6",107.61589
+1993,Chiapas,"7",132.96211
+1993,Chihuahua,"8",62.86145
+1993,Ciudad de México,"9",110.78569
 1993,Durango,"	10",35.21044
 1993,Guanajuato,"	11",65.78894
 1993,Guerrero,"	12",108.21062
@@ -890,16 +890,16 @@
 1993,Veracruz de Ignacio de la Llave,"	30",120.73563
 1993,Yucatán,"	31",108.45464
 1993,Zacatecas,"	32",66.72141
-1992,Estados Unidos Mexicanos,"	00",86.41474
-1992,Aguascalientes,"	01",50.6607
-1992,Baja California,"	02",23.38042
-1992,Baja California Sur,"	03",33.31113
-1992,Campeche,"	04",92.81819
-1992,Coahuila de Zaragoza,"	05",21.73913
-1992,Colima,"	06",42.05568
-1992,Chiapas,"	07",144.86097
-1992,Chihuahua,"	08",61.64969
-1992,Ciudad de México,"	09",107.70279
+1992,Estados Unidos Mexicanos,"0",86.41474
+1992,Aguascalientes,"1",50.6607
+1992,Baja California,"2",23.38042
+1992,Baja California Sur,"3",33.31113
+1992,Campeche,"4",92.81819
+1992,Coahuila de Zaragoza,"5",21.73913
+1992,Colima,"6",42.05568
+1992,Chiapas,"7",144.86097
+1992,Chihuahua,"8",61.64969
+1992,Ciudad de México,"9",107.70279
 1992,Durango,"	10",27.70211
 1992,Guanajuato,"	11",98.81823
 1992,Guerrero,"	12",92.36796
@@ -923,16 +923,16 @@
 1992,Veracruz de Ignacio de la Llave,"	30",121.67048
 1992,Yucatán,"	31",83.52225
 1992,Zacatecas,"	32",53.04504
-1991,Estados Unidos Mexicanos,"	00",87.17008
-1991,Aguascalientes,"	01",51.59515
-1991,Baja California,"	02",55.04443
-1991,Baja California Sur,"	03",0
-1991,Campeche,"	04",52.18904
-1991,Coahuila de Zaragoza,"	05",27.20842
-1991,Colima,"	06",128.25994
-1991,Chiapas,"	07",144.48969
-1991,Chihuahua,"	08",42.20478
-1991,Ciudad de México,"	09",115.7614
+1991,Estados Unidos Mexicanos,"0",87.17008
+1991,Aguascalientes,"1",51.59515
+1991,Baja California,"2",55.04443
+1991,Baja California Sur,"3",0
+1991,Campeche,"4",52.18904
+1991,Coahuila de Zaragoza,"5",27.20842
+1991,Colima,"6",128.25994
+1991,Chiapas,"7",144.48969
+1991,Chihuahua,"8",42.20478
+1991,Ciudad de México,"9",115.7614
 1991,Durango,"	10",25.00568
 1991,Guanajuato,"	11",74.41138
 1991,Guerrero,"	12",87.78265
@@ -956,7 +956,7 @@
 1991,Veracruz de Ignacio de la Llave,"	30",108.4314
 1991,Yucatán,"	31",101.79442
 1991,Zacatecas,"	32",82.19792
-1990,Estados Unidos Mexicanos,"	00",89.25345
+1990,Estados Unidos Mexicanos,"0",89.25345
 1990,Aguascalientes,"01",26.29273
 1990,Baja California,"02",47.65876
 1990,Baja California Sur,"03",33.72681
