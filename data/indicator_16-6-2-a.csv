@@ -1,0 +1,496 @@
+﻿Year,Entidad_federativa,Grupo,Clasificación,GeoCode,Value
+2021,Estados Unidos Mexicanos,Sexo,Total,"00",71.25527004
+2021,Estados Unidos Mexicanos,Sexo,Hombres,"00",71.39652943
+2021,Estados Unidos Mexicanos,Sexo,Mujeres,"00",71.14969735
+2019,Estados Unidos Mexicanos,Sexo,Total,"00",68.17105598
+2019,Estados Unidos Mexicanos,Sexo,Hombres,"00",68.28294711
+2019,Estados Unidos Mexicanos,Sexo,Mujeres,"00",68.0851845
+2017,Estados Unidos Mexicanos,Sexo,Total,"00",66.74826646
+2017,Estados Unidos Mexicanos,Sexo,Hombres,"00",66.40743621
+2017,Estados Unidos Mexicanos,Sexo,Mujeres,"00",67.00311652
+2015,Estados Unidos Mexicanos,Sexo,Total,"00",61.01191074
+2015,Estados Unidos Mexicanos,Sexo,Hombres,"00",60.33248111
+2015,Estados Unidos Mexicanos,Sexo,Mujeres,"00",61.18979111
+2013,Estados Unidos Mexicanos,Sexo,Total,"00",62.00299885
+2013,Estados Unidos Mexicanos,Sexo,Hombres,"00",62.61441471
+2013,Estados Unidos Mexicanos,Sexo,Mujeres,"00",61.55190411
+2021,Aguascalientes,Sexo,Total,"01",74.07643534
+2021,Aguascalientes,Sexo,Hombres,"01",71.28009015
+2021,Aguascalientes,Sexo,Mujeres,"01",76.06407908
+2019,Aguascalientes,Sexo,Total,"01",75.6367139
+2019,Aguascalientes,Sexo,Hombres,"01",74.5541855
+2019,Aguascalientes,Sexo,Mujeres,"01",76.49806512
+2017,Aguascalientes,Sexo,Total,"01",68.01632125
+2017,Aguascalientes,Sexo,Hombres,"01",68.26324082
+2017,Aguascalientes,Sexo,Mujeres,"01",67.84432907
+2015,Aguascalientes,Sexo,Total,"01",67.85773162
+2015,Aguascalientes,Sexo,Hombres,"01",73.45345895
+2015,Aguascalientes,Sexo,Mujeres,"01",66.71997917
+2013,Aguascalientes,Sexo,Total,"01",68.41669379
+2013,Aguascalientes,Sexo,Hombres,"01",70.69371526
+2013,Aguascalientes,Sexo,Mujeres,"01",66.72035086
+2021,Baja California,Sexo,Total,"02",56.26523265
+2021,Baja California,Sexo,Hombres,"02",55.21143617
+2021,Baja California,Sexo,Mujeres,"02",57.33790552
+2019,Baja California,Sexo,Total,"02",70.34005375
+2019,Baja California,Sexo,Hombres,"02",68.27026452
+2019,Baja California,Sexo,Mujeres,"02",71.89723091
+2017,Baja California,Sexo,Total,"02",76.88448683
+2017,Baja California,Sexo,Hombres,"02",75.39276864
+2017,Baja California,Sexo,Mujeres,"02",78.10842497
+2015,Baja California,Sexo,Total,"02",67.77768471
+2015,Baja California,Sexo,Hombres,"02",74.28596634
+2015,Baja California,Sexo,Mujeres,"02",66.55424174
+2013,Baja California,Sexo,Total,"02",73.25129371
+2013,Baja California,Sexo,Hombres,"02",70.37756378
+2013,Baja California,Sexo,Mujeres,"02",75.6364499
+2021,Baja California_Sur,Sexo,Total,"03",73.39198581
+2021,Baja California_Sur,Sexo,Hombres,"03",72.17626203
+2021,Baja California_Sur,Sexo,Mujeres,"03",74.33907668
+2019,Baja California_Sur,Sexo,Total,"03",84.22444572
+2019,Baja California_Sur,Sexo,Hombres,"03",84.84567185
+2019,Baja California_Sur,Sexo,Mujeres,"03",83.73001214
+2017,Baja California_Sur,Sexo,Total,"03",78.5684825
+2017,Baja California_Sur,Sexo,Hombres,"03",80.01580715
+2017,Baja California_Sur,Sexo,Mujeres,"03",77.59785864
+2015,Baja California_Sur,Sexo,Total,"03",72.42041391
+2015,Baja California_Sur,Sexo,Hombres,"03",75.61566638
+2015,Baja California_Sur,Sexo,Mujeres,"03",71.29726839
+2013,Baja California_Sur,Sexo,Total,"03",74.62453905
+2013,Baja California_Sur,Sexo,Hombres,"03",70.54220851
+2013,Baja California_Sur,Sexo,Mujeres,"03",78.05043468
+2021,Campeche,Sexo,Total,"04",72.29944093
+2021,Campeche,Sexo,Hombres,"04",68.87856814
+2021,Campeche,Sexo,Mujeres,"04",74.72575282
+2019,Campeche,Sexo,Total,"04",77.82798005
+2019,Campeche,Sexo,Hombres,"04",83.10480569
+2019,Campeche,Sexo,Mujeres,"04",74.0986239
+2017,Campeche,Sexo,Total,"04",79.46594394
+2017,Campeche,Sexo,Hombres,"04",77.17457704
+2017,Campeche,Sexo,Mujeres,"04",81.03564346
+2015,Campeche,Sexo,Total,"04",67.89305094
+2015,Campeche,Sexo,Hombres,"04",71.48889961
+2015,Campeche,Sexo,Mujeres,"04",66.68646001
+2013,Campeche,Sexo,Total,"04",66.22904781
+2013,Campeche,Sexo,Hombres,"04",71.01213801
+2013,Campeche,Sexo,Mujeres,"04",62.89195992
+2021,Coahuila de Zaragoza,Sexo,Total,"05",72.87798383
+2021,Coahuila de Zaragoza,Sexo,Hombres,"05",72.70768138
+2021,Coahuila de Zaragoza,Sexo,Mujeres,"05",73.02663822
+2019,Coahuila de Zaragoza,Sexo,Total,"05",73.84819254
+2019,Coahuila de Zaragoza,Sexo,Hombres,"05",75.04089422
+2019,Coahuila de Zaragoza,Sexo,Mujeres,"05",73.02115206
+2017,Coahuila de Zaragoza,Sexo,Total,"05",71.91689571
+2017,Coahuila de Zaragoza,Sexo,Hombres,"05",70.97243056
+2017,Coahuila de Zaragoza,Sexo,Mujeres,"05",72.69299381
+2015,Coahuila de Zaragoza,Sexo,Total,"05",70.61814897
+2015,Coahuila de Zaragoza,Sexo,Hombres,"05",58.32220813
+2015,Coahuila de Zaragoza,Sexo,Mujeres,"05",72.2344332
+2013,Coahuila de Zaragoza,Sexo,Total,"05",77.32886709
+2013,Coahuila de Zaragoza,Sexo,Hombres,"05",83.04115749
+2013,Coahuila de Zaragoza,Sexo,Mujeres,"05",73.73919171
+2021,Colima,Sexo,Total,"06",79.18822882
+2021,Colima,Sexo,Hombres,"06",79.36614657
+2021,Colima,Sexo,Mujeres,"06",79.05305432
+2019,Colima,Sexo,Total,"06",80.57000706
+2019,Colima,Sexo,Hombres,"06",77.90754398
+2019,Colima,Sexo,Mujeres,"06",82.47272578
+2017,Colima,Sexo,Total,"06",78.66859191
+2017,Colima,Sexo,Hombres,"06",79.47129982
+2017,Colima,Sexo,Mujeres,"06",78.10325515
+2015,Colima,Sexo,Total,"06",72.80643635
+2015,Colima,Sexo,Hombres,"06",72.92839123
+2015,Colima,Sexo,Mujeres,"06",72.7827594
+2013,Colima,Sexo,Total,"06",71.98418462
+2013,Colima,Sexo,Hombres,"06",72.5714967
+2013,Colima,Sexo,Mujeres,"06",71.33149088
+2021,Chiapas,Sexo,Total,"07",75.02757619
+2021,Chiapas,Sexo,Hombres,"07",75.85614446
+2021,Chiapas,Sexo,Mujeres,"07",74.33623033
+2019,Chiapas,Sexo,Total,"07",62.15887673
+2019,Chiapas,Sexo,Hombres,"07",63.70582859
+2019,Chiapas,Sexo,Mujeres,"07",60.79838062
+2017,Chiapas,Sexo,Total,"07",59.09936657
+2017,Chiapas,Sexo,Hombres,"07",54.48593875
+2017,Chiapas,Sexo,Mujeres,"07",62.52767398
+2015,Chiapas,Sexo,Total,"07",51.0398329
+2015,Chiapas,Sexo,Hombres,"07",59.98702027
+2015,Chiapas,Sexo,Mujeres,"07",49.40361553
+2013,Chiapas,Sexo,Total,"07",47.62331771
+2013,Chiapas,Sexo,Hombres,"07",46.84347294
+2013,Chiapas,Sexo,Mujeres,"07",48.24058452
+2021,Chihuahua,Sexo,Total,"08",80.26237847
+2021,Chihuahua,Sexo,Hombres,"08",81.40934514
+2021,Chihuahua,Sexo,Mujeres,"08",79.29683638
+2019,Chihuahua,Sexo,Total,"08",77.71192413
+2019,Chihuahua,Sexo,Hombres,"08",77.63284868
+2019,Chihuahua,Sexo,Mujeres,"08",77.75809682
+2017,Chihuahua,Sexo,Total,"08",74.60952361
+2017,Chihuahua,Sexo,Hombres,"08",74.48841164
+2017,Chihuahua,Sexo,Mujeres,"08",74.71952197
+2015,Chihuahua,Sexo,Total,"08",62.21649943
+2015,Chihuahua,Sexo,Hombres,"08",65.26254458
+2015,Chihuahua,Sexo,Mujeres,"08",61.35419461
+2013,Chihuahua,Sexo,Total,"08",75.54660754
+2013,Chihuahua,Sexo,Hombres,"08",80.91269841
+2013,Chihuahua,Sexo,Mujeres,"08",70.75994041
+2021,Ciudad de México,Sexo,Total,"09",68.0078302
+2021,Ciudad de México,Sexo,Hombres,"09",66.65272832
+2021,Ciudad de México,Sexo,Mujeres,"09",69.02302878
+2019,Ciudad de México,Sexo,Total,"09",59.3584487
+2019,Ciudad de México,Sexo,Hombres,"09",59.02859607
+2019,Ciudad de México,Sexo,Mujeres,"09",59.62849314
+2017,Ciudad de México,Sexo,Total,"09",59.37177042
+2017,Ciudad de México,Sexo,Hombres,"09",60.62511416
+2017,Ciudad de México,Sexo,Mujeres,"09",58.49547672
+2015,Ciudad de México,Sexo,Total,"09",59.5091975
+2015,Ciudad de México,Sexo,Hombres,"09",64.19814228
+2015,Ciudad de México,Sexo,Mujeres,"09",58.11435056
+2013,Ciudad de México,Sexo,Total,"09",54.91431819
+2013,Ciudad de México,Sexo,Hombres,"09",53.39564033
+2013,Ciudad de México,Sexo,Mujeres,"09",55.96816285
+2021,Durango,Sexo,Total,"10",77.46632312
+2021,Durango,Sexo,Hombres,"10",72.69212033
+2021,Durango,Sexo,Mujeres,"10",81.30053469
+2019,Durango,Sexo,Total,"10",77.2551631
+2019,Durango,Sexo,Hombres,"10",75.62400982
+2019,Durango,Sexo,Mujeres,"10",78.49455508
+2017,Durango,Sexo,Total,"10",71.51055827
+2017,Durango,Sexo,Hombres,"10",67.61879901
+2017,Durango,Sexo,Mujeres,"10",74.43619237
+2015,Durango,Sexo,Total,"10",73.37958178
+2015,Durango,Sexo,Hombres,"10",64.33651302
+2015,Durango,Sexo,Mujeres,"10",75.32993064
+2013,Durango,Sexo,Total,"10",82.39057826
+2013,Durango,Sexo,Hombres,"10",82.78817872
+2013,Durango,Sexo,Mujeres,"10",82.02525781
+2021,Guanajuato,Sexo,Total,"11",78.01054206
+2021,Guanajuato,Sexo,Hombres,"11",71.61072631
+2021,Guanajuato,Sexo,Mujeres,"11",82.75439506
+2019,Guanajuato,Sexo,Total,"11",70.21706576
+2019,Guanajuato,Sexo,Hombres,"11",74.77826837
+2019,Guanajuato,Sexo,Mujeres,"11",65.56143942
+2017,Guanajuato,Sexo,Total,"11",74.43032222
+2017,Guanajuato,Sexo,Hombres,"11",75.08898128
+2017,Guanajuato,Sexo,Mujeres,"11",73.97478498
+2015,Guanajuato,Sexo,Total,"11",65.82202959
+2015,Guanajuato,Sexo,Hombres,"11",54.4311051
+2015,Guanajuato,Sexo,Mujeres,"11",68.58873001
+2013,Guanajuato,Sexo,Total,"11",58.33027954
+2013,Guanajuato,Sexo,Hombres,"11",55.54190794
+2013,Guanajuato,Sexo,Mujeres,"11",60.29815012
+2021,Guerrero,Sexo,Total,"12",67.25671441
+2021,Guerrero,Sexo,Hombres,"12",65.75875486
+2021,Guerrero,Sexo,Mujeres,"12",68.37907594
+2019,Guerrero,Sexo,Total,"12",63.59888309
+2019,Guerrero,Sexo,Hombres,"12",67.58506474
+2019,Guerrero,Sexo,Mujeres,"12",60.83038153
+2017,Guerrero,Sexo,Total,"12",63.59399775
+2017,Guerrero,Sexo,Hombres,"12",62.72920056
+2017,Guerrero,Sexo,Mujeres,"12",64.18569454
+2015,Guerrero,Sexo,Total,"12",53.56785407
+2015,Guerrero,Sexo,Hombres,"12",51.93330055
+2015,Guerrero,Sexo,Mujeres,"12",53.94087748
+2013,Guerrero,Sexo,Total,"12",49.05982374
+2013,Guerrero,Sexo,Hombres,"12",39.27955775
+2013,Guerrero,Sexo,Mujeres,"12",57.31728301
+2021,Hidalgo,Sexo,Total,"13",73.14857758
+2021,Hidalgo,Sexo,Hombres,"13",64.6193655
+2021,Hidalgo,Sexo,Mujeres,"13",59.45424531
+2019,Hidalgo,Sexo,Total,"13",68.41805017
+2019,Hidalgo,Sexo,Hombres,"13",79.14437539
+2019,Hidalgo,Sexo,Mujeres,"13",67.48408836
+2017,Hidalgo,Sexo,Total,"13",69.20684039
+2017,Hidalgo,Sexo,Hombres,"13",69.4826114
+2017,Hidalgo,Sexo,Mujeres,"13",69.00746436
+2015,Hidalgo,Sexo,Total,"13",60.12964529
+2015,Hidalgo,Sexo,Hombres,"13",61.35267762
+2015,Hidalgo,Sexo,Mujeres,"13",59.84516129
+2013,Hidalgo,Sexo,Total,"13",61.68245578
+2013,Hidalgo,Sexo,Hombres,"13",55.94986545
+2013,Hidalgo,Sexo,Mujeres,"13",68.63608482
+2021,Jalisco,Sexo,Total,"14",74.01864236
+2021,Jalisco,Sexo,Hombres,"14",75.87483193
+2021,Jalisco,Sexo,Mujeres,"14",72.40948867
+2019,Jalisco,Sexo,Total,"14",70.9527058
+2019,Jalisco,Sexo,Hombres,"14",77.58221951
+2019,Jalisco,Sexo,Mujeres,"14",65.76828704
+2017,Jalisco,Sexo,Total,"14",67.82416553
+2017,Jalisco,Sexo,Hombres,"14",61.87559483
+2017,Jalisco,Sexo,Mujeres,"14",71.63736091
+2015,Jalisco,Sexo,Total,"14",64.67011485
+2015,Jalisco,Sexo,Hombres,"14",68.35059559
+2015,Jalisco,Sexo,Mujeres,"14",63.77616343
+2013,Jalisco,Sexo,Total,"14",62.64037602
+2013,Jalisco,Sexo,Hombres,"14",59.36488187
+2013,Jalisco,Sexo,Mujeres,"14",65.52173305
+2021,México,Sexo,Total,"15",73.77774586
+2021,México,Sexo,Hombres,"15",76.33726738
+2021,México,Sexo,Mujeres,"15",72.07128736
+2019,México,Sexo,Total,"15",65.36917441
+2019,México,Sexo,Hombres,"15",64.24919261
+2019,México,Sexo,Mujeres,"15",66.21644105
+2017,México,Sexo,Total,"15",60.20548714
+2017,México,Sexo,Hombres,"15",59.22861936
+2017,México,Sexo,Mujeres,"15",60.92891888
+2015,México,Sexo,Total,"15",53.01089391
+2015,México,Sexo,Hombres,"15",47.9328962
+2015,México,Sexo,Mujeres,"15",54.72934722
+2013,México,Sexo,Total,"15",60.96403457
+2013,México,Sexo,Hombres,"15",66.18025719
+2013,México,Sexo,Mujeres,"15",57.30850346
+2021,Michoacán de Ocampo,Sexo,Total,"16",59.47417765
+2021,Michoacán de Ocampo,Sexo,Hombres,"16",59.89289172
+2021,Michoacán de Ocampo,Sexo,Mujeres,"16",59.13875985
+2019,Michoacán de Ocampo,Sexo,Total,"16",57.51143911
+2019,Michoacán de Ocampo,Sexo,Hombres,"16",57.85916169
+2019,Michoacán de Ocampo,Sexo,Mujeres,"16",57.3080582
+2017,Michoacán de Ocampo,Sexo,Total,"16",54.53114511
+2017,Michoacán de Ocampo,Sexo,Hombres,"16",47.43480302
+2017,Michoacán de Ocampo,Sexo,Mujeres,"16",59.96941671
+2015,Michoacán de Ocampo,Sexo,Total,"16",48.39000623
+2015,Michoacán de Ocampo,Sexo,Hombres,"16",39.51511146
+2015,Michoacán de Ocampo,Sexo,Mujeres,"16",50.01485083
+2013,Michoacán de Ocampo,Sexo,Total,"16",43.04595504
+2013,Michoacán de Ocampo,Sexo,Hombres,"16",45.7345043
+2013,Michoacán de Ocampo,Sexo,Mujeres,"16",40.38322515
+2021,Morelos,Sexo,Total,"17",65.12608212
+2021,Morelos,Sexo,Hombres,"17",62.73769517
+2021,Morelos,Sexo,Mujeres,"17",66.49142225
+2019,Morelos,Sexo,Total,"17",66.04292875
+2019,Morelos,Sexo,Hombres,"17",62.58089075
+2019,Morelos,Sexo,Mujeres,"17",68.66366502
+2017,Morelos,Sexo,Total,"17",64.96839661
+2017,Morelos,Sexo,Hombres,"17",65.56125434
+2017,Morelos,Sexo,Mujeres,"17",64.50074607
+2015,Morelos,Sexo,Total,"17",55.11101782
+2015,Morelos,Sexo,Hombres,"17",62.7024037
+2015,Morelos,Sexo,Mujeres,"17",53.42788017
+2013,Morelos,Sexo,Total,"17",64.79588342
+2013,Morelos,Sexo,Hombres,"17",62.18396458
+2013,Morelos,Sexo,Mujeres,"17",67.52019552
+2021,Nayarit,Sexo,Total,"18",74.43813872
+2021,Nayarit,Sexo,Hombres,"18",77.21304779
+2021,Nayarit,Sexo,Mujeres,"18",72.81478826
+2019,Nayarit,Sexo,Total,"18",74.93975637
+2019,Nayarit,Sexo,Hombres,"18",75.14228227
+2019,Nayarit,Sexo,Mujeres,"18",74.81320497
+2017,Nayarit,Sexo,Total,"18",78.23515939
+2017,Nayarit,Sexo,Hombres,"18",76.10995472
+2017,Nayarit,Sexo,Mujeres,"18",80.23780155
+2015,Nayarit,Sexo,Total,"18",71.19964389
+2015,Nayarit,Sexo,Hombres,"18",69.04322767
+2015,Nayarit,Sexo,Mujeres,"18",71.71562543
+2013,Nayarit,Sexo,Total,"18",74.98152215
+2013,Nayarit,Sexo,Hombres,"18",73.47695439
+2013,Nayarit,Sexo,Mujeres,"18",76.17347233
+2021,Nuevo León,Sexo,Total,"19",72.24346166
+2021,Nuevo León,Sexo,Hombres,"19",71.41736969
+2021,Nuevo León,Sexo,Mujeres,"19",72.91401826
+2019,Nuevo León,Sexo,Total,"19",75.41391789
+2019,Nuevo León,Sexo,Hombres,"19",67.85161638
+2019,Nuevo León,Sexo,Mujeres,"19",81.24441708
+2017,Nuevo León,Sexo,Total,"19",73.45941324
+2017,Nuevo León,Sexo,Hombres,"19",74.69796729
+2017,Nuevo León,Sexo,Mujeres,"19",72.49752792
+2015,Nuevo León,Sexo,Total,"19",67.90026926
+2015,Nuevo León,Sexo,Hombres,"19",69.86918222
+2015,Nuevo León,Sexo,Mujeres,"19",67.31634496
+2013,Nuevo León,Sexo,Total,"19",72.11631679
+2013,Nuevo León,Sexo,Hombres,"19",76.34583424
+2013,Nuevo León,Sexo,Mujeres,"19",69.47090904
+2021,Oaxaca,Sexo,Total,"20",59.0546925
+2021,Oaxaca,Sexo,Hombres,"20",56.83513987
+2021,Oaxaca,Sexo,Mujeres,"20",60.76107741
+2019,Oaxaca,Sexo,Total,"20",53.31411238
+2019,Oaxaca,Sexo,Hombres,"20",57.32517598
+2019,Oaxaca,Sexo,Mujeres,"20",49.94473917
+2017,Oaxaca,Sexo,Total,"20",61.46866311
+2017,Oaxaca,Sexo,Hombres,"20",57.31305819
+2017,Oaxaca,Sexo,Mujeres,"20",64.64254953
+2015,Oaxaca,Sexo,Total,"20",44.98564753
+2015,Oaxaca,Sexo,Hombres,"20",45.01047391
+2015,Oaxaca,Sexo,Mujeres,"20",44.97829935
+2013,Oaxaca,Sexo,Total,"20",45.72413696
+2013,Oaxaca,Sexo,Hombres,"20",37.574145
+2013,Oaxaca,Sexo,Mujeres,"20",51.49044342
+2021,Puebla,Sexo,Total,"21",64.29425169
+2021,Puebla,Sexo,Hombres,"21",64.12203885
+2021,Puebla,Sexo,Mujeres,"21",64.42563835
+2019,Puebla,Sexo,Total,"21",57.43309805
+2019,Puebla,Sexo,Hombres,"21",59.04807108
+2019,Puebla,Sexo,Mujeres,"21",55.86410104
+2017,Puebla,Sexo,Total,"21",66.51718531
+2017,Puebla,Sexo,Hombres,"21",70.52178463
+2017,Puebla,Sexo,Mujeres,"21",63.56103299
+2015,Puebla,Sexo,Total,"21",51.52426086
+2015,Puebla,Sexo,Hombres,"21",52.10516331
+2015,Puebla,Sexo,Mujeres,"21",51.4073595
+2013,Puebla,Sexo,Total,"21",43.5296871
+2013,Puebla,Sexo,Hombres,"21",41.60982051
+2013,Puebla,Sexo,Mujeres,"21",45.20946178
+2021,Querétaro,Sexo,Total,"22",56.85433543
+2021,Querétaro,Sexo,Hombres,"22",55.36224057
+2021,Querétaro,Sexo,Mujeres,"22",57.54749104
+2019,Querétaro,Sexo,Total,"22",67.9131183
+2019,Querétaro,Sexo,Hombres,"22",65.69216326
+2019,Querétaro,Sexo,Mujeres,"22",69.99857813
+2017,Querétaro,Sexo,Total,"22",64.78018828
+2017,Querétaro,Sexo,Hombres,"22",64.018234
+2017,Querétaro,Sexo,Mujeres,"22",65.31142344
+2015,Querétaro,Sexo,Total,"22",49.18598339
+2015,Querétaro,Sexo,Hombres,"22",52.51030171
+2015,Querétaro,Sexo,Mujeres,"22",48.27966917
+2013,Querétaro,Sexo,Total,"22",57.03100625
+2013,Querétaro,Sexo,Hombres,"22",48.76949587
+2013,Querétaro,Sexo,Mujeres,"22",63.74523093
+2021,Quintana Roo,Sexo,Total,"23",66.11411275
+2021,Quintana Roo,Sexo,Hombres,"23",61.44048993
+2021,Quintana Roo,Sexo,Mujeres,"23",70.02084771
+2019,Quintana Roo,Sexo,Total,"23",72.66711497
+2019,Quintana Roo,Sexo,Hombres,"23",78.23919884
+2019,Quintana Roo,Sexo,Mujeres,"23",67.47024086
+2017,Quintana Roo,Sexo,Total,"23",58.27300419
+2017,Quintana Roo,Sexo,Hombres,"23",60.31051062
+2017,Quintana Roo,Sexo,Mujeres,"23",56.53049504
+2015,Quintana Roo,Sexo,Total,"23",66.47254077
+2015,Quintana Roo,Sexo,Hombres,"23",64.75794689
+2015,Quintana Roo,Sexo,Mujeres,"23",66.8401573
+2013,Quintana Roo,Sexo,Total,"23",52.92681755
+2013,Quintana Roo,Sexo,Hombres,"23",54.1316895
+2013,Quintana Roo,Sexo,Mujeres,"23",51.88640013
+2021,San Luis Potosí,Sexo,Total,"24",76.72950473
+2021,San Luis Potosí,Sexo,Hombres,"24",73.34460254
+2021,San Luis Potosí,Sexo,Mujeres,"24",79.32633676
+2019,San Luis Potosí,Sexo,Total,"24",66.31377664
+2019,San Luis Potosí,Sexo,Hombres,"24",68.96599068
+2019,San Luis Potosí,Sexo,Mujeres,"24",64.38891722
+2017,San Luis Potosí,Sexo,Total,"24",66.97498293
+2017,San Luis Potosí,Sexo,Hombres,"24",64.06920166
+2017,San Luis Potosí,Sexo,Mujeres,"24",68.67475807
+2015,San Luis Potosí,Sexo,Total,"24",61.44160394
+2015,San Luis Potosí,Sexo,Hombres,"24",75.52249284
+2015,San Luis Potosí,Sexo,Mujeres,"24",58.74802426
+2013,San Luis Potosí,Sexo,Total,"24",47.38853503
+2013,San Luis Potosí,Sexo,Hombres,"24",47.24251419
+2013,San Luis Potosí,Sexo,Mujeres,"24",47.51050137
+2021,Sinaloa,Sexo,Total,"25",74.52944191
+2021,Sinaloa,Sexo,Hombres,"25",75.03260156
+2021,Sinaloa,Sexo,Mujeres,"25",74.21993552
+2019,Sinaloa,Sexo,Total,"25",75.71900924
+2019,Sinaloa,Sexo,Hombres,"25",77.58952131
+2019,Sinaloa,Sexo,Mujeres,"25",74.45163655
+2017,Sinaloa,Sexo,Total,"25",84.18352725
+2017,Sinaloa,Sexo,Hombres,"25",87.30345601
+2017,Sinaloa,Sexo,Mujeres,"25",82.07740394
+2015,Sinaloa,Sexo,Total,"25",75.01240363
+2015,Sinaloa,Sexo,Hombres,"25",65.94449791
+2015,Sinaloa,Sexo,Mujeres,"25",77.69747051
+2013,Sinaloa,Sexo,Total,"25",73.74257212
+2013,Sinaloa,Sexo,Hombres,"25",71.45753159
+2013,Sinaloa,Sexo,Mujeres,"25",75.61343267
+2021,Sonora,Sexo,Total,"26",71.10908438
+2021,Sonora,Sexo,Hombres,"26",71.49745009
+2021,Sonora,Sexo,Mujeres,"26",70.81614706
+2019,Sonora,Sexo,Total,"26",79.09548381
+2019,Sonora,Sexo,Hombres,"26",77.43887307
+2019,Sonora,Sexo,Mujeres,"26",80.45550462
+2017,Sonora,Sexo,Total,"26",76.34607642
+2017,Sonora,Sexo,Hombres,"26",78.59656567
+2017,Sonora,Sexo,Mujeres,"26",74.72301974
+2015,Sonora,Sexo,Total,"26",71.77810912
+2015,Sonora,Sexo,Hombres,"26",77.65357118
+2015,Sonora,Sexo,Mujeres,"26",69.74480471
+2013,Sonora,Sexo,Total,"26",72.64760274
+2013,Sonora,Sexo,Hombres,"26",70.90316379
+2013,Sonora,Sexo,Mujeres,"26",73.82828936
+2021,Tabasco,Sexo,Total,"27",67.82663634
+2021,Tabasco,Sexo,Hombres,"27",69.72534954
+2021,Tabasco,Sexo,Mujeres,"27",66.66054784
+2019,Tabasco,Sexo,Total,"27",52.46689159
+2019,Tabasco,Sexo,Hombres,"27",57.06927217
+2019,Tabasco,Sexo,Mujeres,"27",48.90896754
+2017,Tabasco,Sexo,Total,"27",61.34863632
+2017,Tabasco,Sexo,Hombres,"27",57.42715705
+2017,Tabasco,Sexo,Mujeres,"27",63.6043956
+2015,Tabasco,Sexo,Total,"27",46.38627472
+2015,Tabasco,Sexo,Hombres,"27",43.2291122
+2015,Tabasco,Sexo,Mujeres,"27",46.84308474
+2013,Tabasco,Sexo,Total,"27",54.88762022
+2013,Tabasco,Sexo,Hombres,"27",52.17512614
+2013,Tabasco,Sexo,Mujeres,"27",57.03981109
+2021,Tamaulipas,Sexo,Total,"28",73.64965184
+2021,Tamaulipas,Sexo,Hombres,"28",73.21756613
+2021,Tamaulipas,Sexo,Mujeres,"28",73.93665158
+2019,Tamaulipas,Sexo,Total,"28",69.32070292
+2019,Tamaulipas,Sexo,Hombres,"28",73.53581568
+2019,Tamaulipas,Sexo,Mujeres,"28",66.14523867
+2017,Tamaulipas,Sexo,Total,"28",70.91474617
+2017,Tamaulipas,Sexo,Hombres,"28",68.92954538
+2017,Tamaulipas,Sexo,Mujeres,"28",72.48205564
+2015,Tamaulipas,Sexo,Total,"28",67.04872929
+2015,Tamaulipas,Sexo,Hombres,"28",59.61538462
+2015,Tamaulipas,Sexo,Mujeres,"28",68.10684985
+2013,Tamaulipas,Sexo,Total,"28",67.62823015
+2013,Tamaulipas,Sexo,Hombres,"28",65.46953299
+2013,Tamaulipas,Sexo,Mujeres,"28",68.90650423
+2021,Tlaxcala,Sexo,Total,"29",67.32389161
+2021,Tlaxcala,Sexo,Hombres,"29",71.75294762
+2021,Tlaxcala,Sexo,Mujeres,"29",63.84166804
+2019,Tlaxcala,Sexo,Total,"29",65.88469718
+2019,Tlaxcala,Sexo,Hombres,"29",69.609375
+2019,Tlaxcala,Sexo,Mujeres,"29",62.92295823
+2017,Tlaxcala,Sexo,Total,"29",59.40955666
+2017,Tlaxcala,Sexo,Hombres,"29",56.86861336
+2017,Tlaxcala,Sexo,Mujeres,"29",61.48784025
+2015,Tlaxcala,Sexo,Total,"29",65.47065214
+2015,Tlaxcala,Sexo,Hombres,"29",61.71426339
+2015,Tlaxcala,Sexo,Mujeres,"29",66.09547203
+2013,Tlaxcala,Sexo,Total,"29",50.3506021
+2013,Tlaxcala,Sexo,Hombres,"29",49.65589102
+2013,Tlaxcala,Sexo,Mujeres,"29",50.81816765
+2021,Veracruz de Ignacio de la Llave,Sexo,Total,"30",67.52163901
+2021,Veracruz de Ignacio de la Llave,Sexo,Hombres,"30",73.10807229
+2021,Veracruz de Ignacio de la Llave,Sexo,Mujeres,"30",63.87618031
+2019,Veracruz de Ignacio de la Llave,Sexo,Total,"30",72.48979532
+2019,Veracruz de Ignacio de la Llave,Sexo,Hombres,"30",67.67816277
+2019,Veracruz de Ignacio de la Llave,Sexo,Mujeres,"30",75.22946312
+2017,Veracruz de Ignacio de la Llave,Sexo,Total,"30",64.07612372
+2017,Veracruz de Ignacio de la Llave,Sexo,Hombres,"30",68.44940381
+2017,Veracruz de Ignacio de la Llave,Sexo,Mujeres,"30",60.83671327
+2015,Veracruz de Ignacio de la Llave,Sexo,Total,"30",62.41735914
+2015,Veracruz de Ignacio de la Llave,Sexo,Hombres,"30",68.15545097
+2015,Veracruz de Ignacio de la Llave,Sexo,Mujeres,"30",60.906687
+2013,Veracruz de Ignacio de la Llave,Sexo,Total,"30",52.24475747
+2013,Veracruz de Ignacio de la Llave,Sexo,Hombres,"30",51.50141293
+2013,Veracruz de Ignacio de la Llave,Sexo,Mujeres,"30",52.64419943
+2021,Yucatán,Sexo,Total,"31",77.78604611
+2021,Yucatán,Sexo,Hombres,"31",85.53920276
+2021,Yucatán,Sexo,Mujeres,"31",70.35910997
+2019,Yucatán,Sexo,Total,"31",73.30791171
+2019,Yucatán,Sexo,Hombres,"31",73.30497467
+2019,Yucatán,Sexo,Mujeres,"31",73.30970746
+2017,Yucatán,Sexo,Total,"31",78.10096255
+2017,Yucatán,Sexo,Hombres,"31",78.52917418
+2017,Yucatán,Sexo,Mujeres,"31",77.64600834
+2015,Yucatán,Sexo,Total,"31",73.07434017
+2015,Yucatán,Sexo,Hombres,"31",79.18300521
+2015,Yucatán,Sexo,Mujeres,"31",71.27468261
+2013,Yucatán,Sexo,Total,"31",68.69732795
+2013,Yucatán,Sexo,Hombres,"31",73.22710242
+2013,Yucatán,Sexo,Mujeres,"31",65.54301701
+2021,Zacatecas,Sexo,Total,"32",75.96229213
+2021,Zacatecas,Sexo,Hombres,"32",76.65716225
+2021,Zacatecas,Sexo,Mujeres,"32",75.51793002
+2019,Zacatecas,Sexo,Total,"32",62.79174035
+2019,Zacatecas,Sexo,Hombres,"32",59.25178021
+2019,Zacatecas,Sexo,Mujeres,"32",65.91495147
+2017,Zacatecas,Sexo,Total,"32",63.80951358
+2017,Zacatecas,Sexo,Hombres,"32",65.48750591
+2017,Zacatecas,Sexo,Mujeres,"32",62.13454686
+2015,Zacatecas,Sexo,Total,"32",58.86146186
+2015,Zacatecas,Sexo,Hombres,"32",60.56163732
+2015,Zacatecas,Sexo,Mujeres,"32",58.66194508
+2013,Zacatecas,Sexo,Total,"32",67.73035467
+2013,Zacatecas,Sexo,Hombres,"32",70.69859934
+2013,Zacatecas,Sexo,Mujeres,"32",64.85590368
