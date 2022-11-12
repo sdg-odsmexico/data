@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Trimestre",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
