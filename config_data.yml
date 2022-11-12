@@ -98,6 +98,14 @@ reporting_status_extra_fields: []
 #    id_property: rgn17cd
 #    output_subfolder: regions
 #    filename_prefix: indicator_
+map_layers:
+  - 
+    geojson_file: map/entidades-federativas/entidades.geojson
+    name_property: NOM_ENT
+    id_property: CVE_ENT
+    output_subfolder: map/entidades-federativas
+    filename_prefix: indicator_
+
 
 # Documentation settings
 # ----------------------
