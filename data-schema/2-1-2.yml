@@ -1,0 +1,23 @@
+fields:
+  - name: Value
+    type: number
+  - name: Year
+    type: integer
+  - name: Sexo
+    type: string
+    constraints:
+      enum:
+        - Total
+        - Mujeres
+        - Hombres
+  - name: Grupo de edad 
+    type: string
+    constraints:
+      enum:
+        - ""
+        - Menores de 18 años
+        - De 18 años o más
+        - Entre 12 y 29 años de edad
+        - De 0 a 11 años y de 30 años o más
+        - De 65 años o más
+        - Menores de 65 años
