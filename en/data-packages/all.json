@@ -61,28 +61,17 @@
             "title": "Entidad_federativa"
           },
           {
-            "name": "Grupo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sexo",
-                ""
-              ]
-            },
-            "title": "Grupo"
-          },
-          {
-            "name": "Clasificación",
+            "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
                 "Total",
-                "Hombres",
                 "Mujeres",
+                "Hombres",
                 ""
               ]
             },
-            "title": "Clasificación"
+            "title": "Sexo"
           },
           {
             "name": "GeoCode",

@@ -59,23 +59,13 @@
             }
           },
           {
-            "name": "Grupo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sexo",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Clasificación",
+            "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
                 "Total",
-                "Hombres",
                 "Mujeres",
+                "Hombres",
                 ""
               ]
             }
