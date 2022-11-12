@@ -63,6 +63,7 @@ COVERAGE: >-
   Nacional
 COMPARABILITY: >-
 OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/1.5.1_es.zip">Datos para el cálculo </a>
 indicator_name: Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes
 indicator_number: 1.5.1
 computation_units: Tasa por cada 100 mil habitantes.
