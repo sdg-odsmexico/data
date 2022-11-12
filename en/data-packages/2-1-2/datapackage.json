@@ -12,8 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Grupo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sexo",
+                "Grupo_de_edad",
+                ""
+              ]
+            },
+            "title": "Grupo"
+          },
+          {
+            "name": "Clasificación",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                "Menores_de_18_años",
+                "De_18_años_o_más",
+                "Entre_12_y_29_años_de_edad",
+                "De_0_a_11_años_y_de_30_años_o_más",
+                "De_65_años_o_más",
+                "Menores_de_65_años",
+                ""
+              ]
+            },
+            "title": "Clasificación"
           },
           {
             "name": "Value",
