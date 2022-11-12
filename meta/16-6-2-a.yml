@@ -60,10 +60,12 @@ COVERAGE: >-
   1990-2019
 COMPARABILITY: >-
 OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/16.6.2.a_es.zip"></a>
 indicator_name: Satisfacción con el servicio de educación pública obligatoria
 indicator_number: 16.6.2.a
 computation_units: Porcentaje
-source_active_1: false
+source_active_1: true
 source_organisation_1: 
-source_url_1: ""
+  <br>Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG).
+source_url_1: " https://www.inegi.org.mx/programas/encig/2021/"
 reporting_status: complete
