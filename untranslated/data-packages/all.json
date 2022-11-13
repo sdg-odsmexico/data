@@ -5627,6 +5627,28 @@
       "title": "Tuberculosis incidence per 100,000 population"
     },
     {
+      "path": "1-2-1-a2/data.csv",
+      "name": "1-2-1-a2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proporción de la población que vive por debajo del umbral nacional de la pobreza, por desglose geográfico"
+    },
+    {
       "path": "17-11-1/data.csv",
       "name": "17-11-1",
       "profile": "tabular-data-resource",
@@ -6571,6 +6593,28 @@
         ]
       },
       "title": "Coverage by protected areas of important sites for mountain biodiversity"
+    },
+    {
+      "path": "1-2-1-a1/data.csv",
+      "name": "1-2-1-a1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proporción de la población que vive por debajo del umbral nacional de la pobreza, por desglose geográfico"
     },
     {
       "path": "15-9-1/data.csv",
