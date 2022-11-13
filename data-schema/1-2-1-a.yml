@@ -8,7 +8,7 @@ fields:
     constraints:
       enum:
         - Estados Unidos Mexicanos
-	      - Aguascalientes
+	- Aguascalientes
         - Aguascalientes
         - Asientos
         - Calvillo
