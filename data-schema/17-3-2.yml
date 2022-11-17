@@ -3,11 +3,4 @@ fields:
     type: number
   - name: Year
     type: integer
-  - name: Trimestre
-    type: string
-    constraints:
-      enum:
-        - I
-        - II
-        - III
-        - IV
+ 
