@@ -67,5 +67,7 @@ computation_units: Porcentaje
 source_active_1: true
 source_organisation_1: 
   <br>Para ingresos por remesas, Banco de México (BANXICO), Balanza de Pagos, estadística trimestral; para PIB en dólares, cálculo de Banco de México (BANXICO) con base en la estadística trimestral del PIB nominal en pesos del Instituto Nacional de Estadística y Geografía (INEGI), Indicadores Económicos de Coyuntura y el tipo de cambio promedio del periodo del peso respecto al dólar de los EE.UU., fecha de determinación (FIX) de Banco de México.
+  <br><br>Llamadas
+  <br>P Cifras preliminares a partir de la fecha en que se indica.
 source_url_1: ""
 reporting_status: complete
