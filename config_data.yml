@@ -105,7 +105,12 @@ map_layers:
     id_property: CVE_ENT
     output_subfolder: map/entidades-federativas
     filename_prefix: indicator_
-
+  - 
+    geojson_file: map/municipios/muni.geojson
+    name_property: NOMGEO
+    id_property: CVEGEO
+    output_subfolder: map/municipios
+    filename_prefix: indicator_
 
 # Documentation settings
 # ----------------------
