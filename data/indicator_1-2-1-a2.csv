@@ -18,6 +18,7 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2008,Baja California,Tecate,"	02003",
 2008,Baja California,Tijuana,"	02004",
 2008,Baja California,Playas de Rosarito,"	02005",
+2008,Baja California,San Quintín,"02006",
 2008,Baja California Sur,,"	03",26.04216101
 2008,Baja California Sur,Comondú,"	03001",
 2008,Baja California Sur,Mulegé,"	03002",
@@ -205,6 +206,10 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2008,Chiapas,Montecristo de Guerrero,"	07117",
 2008,Chiapas,San Andrés Duraznal,"	07118",
 2008,Chiapas,Santiago el Pinar,"	07119",
+2008,Chiapas,Rincón Chamula San Pedro,"	07121",
+2008,Chiapas,El Parral,"	07122",
+2008,Chiapas,Emiliano Zapata,"	07123",
+2008,Chiapas,Mezcalapa,"	07124",
 2008,Chihuahua,,"	08",39.3909625
 2008,Chihuahua,Ahumada,"	08001",
 2008,Chihuahua,Aldama,"	08002",
@@ -2509,6 +2514,7 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2010,Baja California,Tecate,"	02003",36.62245026
 2010,Baja California,Tijuana,"	02004",37.40799863
 2010,Baja California,Playas de Rosarito,"	02005",45.67650752
+2010,Baja California,San Quintín,"02006",
 2010,Baja California Sur,,"	03",35.53581191
 2010,Baja California Sur,Comondú,"	03001",47.31399952
 2010,Baja California Sur,Mulegé,"	03002",45.20622672
@@ -2696,6 +2702,10 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2010,Chiapas,Montecristo de Guerrero,"	07117",97.12984293
 2010,Chiapas,San Andrés Duraznal,"	07118",98.38082589
 2010,Chiapas,Santiago el Pinar,"	07119",99.09848485
+2010,Chiapas,Rincón Chamula San Pedro,"	07121",
+2010,Chiapas,El Parral,"	07122",
+2010,Chiapas,Emiliano Zapata,"	07123",
+2010,Chiapas,Mezcalapa,"	07124",
 2010,Chihuahua,,"	08",51.76099844
 2010,Chihuahua,Ahumada,"	08001",59.0228401
 2010,Chihuahua,Aldama,"	08002",56.05638
@@ -5000,6 +5010,7 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2012,Baja California,Tecate,"	02003",
 2012,Baja California,Tijuana,"	02004",
 2012,Baja California,Playas de Rosarito,"	02005",
+2012,Baja California,San Quintín,"02006",
 2012,Baja California Sur,,"	03",38.02397855
 2012,Baja California Sur,Comondú,"	03001",
 2012,Baja California Sur,Mulegé,"	03002",
@@ -5187,6 +5198,10 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2012,Chiapas,Montecristo de Guerrero,"	07117",
 2012,Chiapas,San Andrés Duraznal,"	07118",
 2012,Chiapas,Santiago el Pinar,"	07119",
+2012,Chiapas,Rincón Chamula San Pedro,"	07121",
+2012,Chiapas,El Parral,"	07122",
+2012,Chiapas,Emiliano Zapata,"	07123",
+2012,Chiapas,Mezcalapa,"	07124",
 2012,Chihuahua,,"	08",45.97196557
 2012,Chihuahua,Ahumada,"	08001",
 2012,Chihuahua,Aldama,"	08002",
@@ -7491,6 +7506,7 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2014,Baja California,Tecate,"	02003",
 2014,Baja California,Tijuana,"	02004",
 2014,Baja California,Playas de Rosarito,"	02005",
+2014,Baja California,San Quintín,"02006",
 2014,Baja California Sur,,"	03",35.86220366
 2014,Baja California Sur,Comondú,"	03001",
 2014,Baja California Sur,Mulegé,"	03002",
@@ -7678,6 +7694,10 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2014,Chiapas,Montecristo de Guerrero,"	07117",
 2014,Chiapas,San Andrés Duraznal,"	07118",
 2014,Chiapas,Santiago el Pinar,"	07119",
+2014,Chiapas,Rincón Chamula San Pedro,"	07121",
+2014,Chiapas,El Parral,"	07122",
+2014,Chiapas,Emiliano Zapata,"	07123",
+2014,Chiapas,Mezcalapa,"	07124",
 2014,Chihuahua,,"	08",46.36102711
 2014,Chihuahua,Ahumada,"	08001",
 2014,Chihuahua,Aldama,"	08002",
@@ -9982,6 +10002,7 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2015,Baja California,Tecate,"	02003",33.77568447
 2015,Baja California,Tijuana,"	02004",37.85025491
 2015,Baja California,Playas de Rosarito,"	02005",43.30955161
+2015,Baja California,San Quintín,"02006",
 2015,Baja California Sur,,"	03",
 2015,Baja California Sur,Comondú,"	03001",45.57250917
 2015,Baja California Sur,Mulegé,"	03002",35.00976213
@@ -10169,6 +10190,10 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2015,Chiapas,Montecristo de Guerrero,"	07117",96.72762227
 2015,Chiapas,San Andrés Duraznal,"	07118",99.69502618
 2015,Chiapas,Santiago el Pinar,"	07119",99.01096892
+2015,Chiapas,Rincón Chamula San Pedro,"	07121",
+2015,Chiapas,El Parral,"	07122",
+2015,Chiapas,Emiliano Zapata,"	07123",
+2015,Chiapas,Mezcalapa,"	07124",
 2015,Chihuahua,,"	08",
 2015,Chihuahua,Ahumada,"	08001",50.2087954
 2015,Chihuahua,Aldama,"	08002",45.00146895
@@ -12473,6 +12498,7 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2016,Baja California,Tecate,"	02003",
 2016,Baja California,Tijuana,"	02004",
 2016,Baja California,Playas de Rosarito,"	02005",
+2016,Baja California,San Quintín,"02006",
 2016,Baja California Sur,,"	03",28.57632256
 2016,Baja California Sur,Comondú,"	03001",
 2016,Baja California Sur,Mulegé,"	03002",
@@ -12660,6 +12686,10 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2016,Chiapas,Montecristo de Guerrero,"	07117",
 2016,Chiapas,San Andrés Duraznal,"	07118",
 2016,Chiapas,Santiago el Pinar,"	07119",
+2016,Chiapas,Rincón Chamula San Pedro,"	07121",
+2016,Chiapas,El Parral,"	07122",
+2016,Chiapas,Emiliano Zapata,"	07123",
+2016,Chiapas,Mezcalapa,"	07124",
 2016,Chihuahua,,"	08",41.73042297
 2016,Chihuahua,Ahumada,"	08001",
 2016,Chihuahua,Aldama,"	08002",
@@ -14964,6 +14994,7 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2018,Baja California,Tecate,"	02003",
 2018,Baja California,Tijuana,"	02004",
 2018,Baja California,Playas de Rosarito,"	02005",
+2018,Baja California,San Quintín,"02006",
 2018,Baja California Sur,,"	03",22.73760681
 2018,Baja California Sur,Comondú,"	03001",
 2018,Baja California Sur,Mulegé,"	03002",
@@ -15151,6 +15182,10 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2018,Chiapas,Montecristo de Guerrero,"	07117",
 2018,Chiapas,San Andrés Duraznal,"	07118",
 2018,Chiapas,Santiago el Pinar,"	07119",
+2018,Chiapas,Rincón Chamula San Pedro,"	07121",
+2018,Chiapas,El Parral,"	07122",
+2018,Chiapas,Emiliano Zapata,"	07123",
+2018,Chiapas,Mezcalapa,"	07124",
 2018,Chihuahua,,"	08",36.52186638
 2018,Chihuahua,Ahumada,"	08001",
 2018,Chihuahua,Aldama,"	08002",
@@ -17436,3 +17471,4 @@ Year,Entidad_federativa,Municipio,GeoCode,Value
 2018,Zacatecas,Zacatecas,"	32056",
 2018,Zacatecas,Trancoso,"	32057",
 2018,Zacatecas,Santa María de la Paz,"	32058",
+
