@@ -1,0 +1,20 @@
+alpha: Alfa
+disclaimer: Este es un sitio web de desarrollo. Agradecemos sus <a href="mailto:%email_contacts.suggestions">comentarios</a>.
+skip_link: Saltar al contenido principal
+tag_line: 17 Objetivos para transformar nuestro mundo
+high_contrast: 'Alto contraste'
+default_contrast: 'Contraste estándar'
+enable_high_contrast: Habilitar alto contraste
+disable_high_contrast: Desactivar alto contraste
+toggle_menu: Alternar menú. Haga clic para expandir o contraer el menú.
+toggle_search: Barra de búsqueda. Haga clic para ampliar o reducir la barra de búsqueda.
+internet_explorer_message_title: Este navegador de Internet ya no es compatible
+internet_explorer_message: Hemos detectado que está utilizando Internet Explorer para
+  visitar este sitio web. Internet Explorer ahora está siendo eliminado por Microsoft.
+  Como resultado, este sitio web ya no es compatible con ninguna versión de Internet
+  Explorer. Algunas características de este sitio no funcionarán. Debe usar un navegador
+  moderno como Edge, Chrome, Firefox o Safari. Si tiene dificultades para instalar
+  o acceder a un navegador diferente, comuníquese con su equipo de soporte de TI.
+show_menu: Mostrar el menú de navegación
+hide_menu: Ocultar el menú de navegación
+logo_title: Ir a la página de inicio
