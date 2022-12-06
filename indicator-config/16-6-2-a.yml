@@ -12,7 +12,7 @@ data_start_values:
   - field: Entidad_federativa
     value: Estados Unidos Mexicanos
   - field: Sexo
-    value: Total
+    value: Total a/
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
