@@ -44,6 +44,6 @@ fields:
     type: string
     constraints:
       enum:
-        - Total
+        - Total a/
         - Hombres
         - Mujeres
