@@ -62,11 +62,7 @@ COVERAGE: >-
 COMPARABILITY: >-
 OTHER_DOC: >-
   <a href="https://agenda2030.mx/docs/files/csv/zip/16.7.2._es.zip">Datos para el cálculo</a>
-indicator_name: Proporción de la población que considera que la adopción de decisiones es inclusiva y participativa
-indicator_number: 16.7.2
-computation_units: Porcentaje
 source_active_1: true
 source_organisation_1: 
   <br>Número de personas de 15 años y más que declaró estar de acuerdo en que el gobierno considera sus opiniones para la toma de decisiones, como proporción de la población de 15 años y más.
 source_url_1: ""
-reporting_status: complete

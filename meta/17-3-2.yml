@@ -61,13 +61,7 @@ COVERAGE: >-
 COMPARABILITY: >-
 OTHER_DOC: >-
   <a href="https://agenda2030.mx/docs/files/csv/zip/17.3.2_es.zip">Datos para el cálculo</a>
-indicator_name: Volumen de las remesas (en dólares de los Estados Unidos) como proporción del PIB total
-indicator_number: 17.3.2
-computation_units: Porcentaje
 source_active_1: true
 source_organisation_1: 
   <br>Para ingresos por remesas, Banco de México (BANXICO), Balanza de Pagos, estadística trimestral; para PIB en dólares, cálculo de Banco de México (BANXICO) con base en la estadística trimestral del PIB nominal en pesos del Instituto Nacional de Estadística y Geografía (INEGI), Indicadores Económicos de Coyuntura y el tipo de cambio promedio del periodo del peso respecto al dólar de los EE.UU., fecha de determinación (FIX) de Banco de México.
-  <br><br>Llamadas
-  <br>P Cifras preliminares a partir de la fecha en que se indica.
 source_url_1: ""
-reporting_status: complete

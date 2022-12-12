@@ -61,11 +61,7 @@ COVERAGE: >-
 COMPARABILITY: >-
 OTHER_DOC: >-
   <a href="https://agenda2030.mx/docs/files/csv/zip/2.1.2_es.zip">Datos para el cálculo</a>
-indicator_name: Proporción de la población con inseguridad alimentaria moderada o severa, desglosada por sexo y edad
-indicator_number: 2.1.2
-computation_units: Porcentaje
 source_active_1: true
 source_organisation_1: 
   <br>Comisión Económica para América Latina y el Caribe (CEPAL), Manual para la evaluación del impacto socioeconómico y ambiental de los desastres, 2003.
 source_url_1: ""
-reporting_status: complete
