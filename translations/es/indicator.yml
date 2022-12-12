@@ -22,7 +22,7 @@ download_geojson_title: Descargar los datos del mapa como GeoJSON
 edit: Editar el indicador
 edit_data: Editar datos
 edit_metadata: Editar metadatos
-footnote: Nota
+footnote: Nota(s) y/o llamada(s)
 geographical_area: Área geográfica
 global_metadata: Metadatos globales
 global_metadata_blurb: Esta tabla proporciona información sobre los metadatos para
