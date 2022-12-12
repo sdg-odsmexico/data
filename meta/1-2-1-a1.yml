@@ -59,10 +59,6 @@ COVERAGE: >-
 COMPARABILITY: >-
 OTHER_DOC: >-
   <a href="https://agenda2030.mx/docs/files/csv/zip/2.1.2.a_es.zip">Datos para el cálculo</a>
-indicator_name: Proporción de la población que vive por debajo del umbral nacional de la pobreza, por desglose geográfico
-indicator_number: 1.2.1.a1
-computation_units: Defunciones de mujeres por cada 100 mil nacidos vivos
 source_active_1: true
 source_organisation_1: <br>SALUD. Base de datos del Subsistema de Información sobre Nacimientos. Bases de datos de mortalidad.
 source_url_1: ""
-reporting_status: complete

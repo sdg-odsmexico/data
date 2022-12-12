@@ -61,15 +61,7 @@ COVERAGE: >-
 COMPARABILITY: >-
 OTHER_DOC: >-
   <a href="https://agenda2030.mx/docs/files/csv/zip/16.6.2.a_es.zip">Datos para el cálculo</a>
-indicator_name: Satisfacción con el servicio de educación pública obligatoria
-indicator_number: 16.6.2.a
-computation_units: Porcentaje
 source_active_1: true
 source_organisation_1: 
   <br>Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG).
-  <br><br>Llamadas
-  <br>a/ Ejemplo llamada para desagregación total.
-  <br><br>
-  Periodo 2013, Chiapas, Sexo-Hombres.- Las estimaciones tienen un coeficiente de variación (%) en el rango de [15,30), por lo que su nivel de precisión es clasificado como Moderado.
 source_url_1: " https://www.inegi.org.mx/programas/encig/2021/"
-reporting_status: complete
