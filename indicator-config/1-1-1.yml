@@ -1,6 +1,6 @@
-﻿data_start_values: 
-	- field: Group
-    	  value: B
+﻿data_start_values:
+  - field: Group
+    value: B
 expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
