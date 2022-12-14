@@ -1,0 +1,135 @@
+Objetivo,SDG_GOAL
+Meta,SDG_TARGET
+Indicador,SDG_INDICATOR
+Descripción,SDG_SERIES_DESCR
+Fecha de actualización,META_LAST_UPDATE
+Vínculos con otros objetivos y metas,SDG_RELATED_INDICATORS
+Organismos que custodian los ODS,SDG_CUSTODIAN_AGENCIES
+Organización responsable,CONTACT_ORGANISATION
+Contacto,CONTACT_NAME
+Departamento del contacto,ORGANISATION_UNIT
+Funciones del contacto,CONTACT_FUNCT
+Teléfono,CONTACT_PHONE
+email,CONTACT_MAIL
+Definición,STAT_CONC_DEF
+Descripción de la unidad de medida,UNIT_MEASURE
+Referencias y clasificaciones,CLASS_SYSTEM
+Fuentes,SOURCE_TYPE
+Métodos para recopilación de datos,COLL_METHOD
+Próxima fecha de recopilación,FREQ_COLL
+Fechas previstas de publicación,REL_CAL_POLICY
+Proveedores de datos nacionales y/o internacionales,DATA_SOURCE
+Organización(es) responsable(s),COMPILING_ORG
+Reglas,INST_MANDATE
+Propósito y justificación,RATIONALE
+Limitaciones,REC_USE_LIM
+Cálculo,DATA_COMP
+Descripción del proceso de seguimiento de los resultados,DATA_VALIDATION
+Ajustes,ADJUSTMENT
+Tratamiento de los valores perdidos,IMPUTATION
+Agregaciones regionales,REG_AGG
+Metadatos disponibles a nivel mundial,DOC_METHOD
+Descripción de los sistemas y marcos establecidos,QUALITY_MGMNT
+Descripción de las prácticas y lineamientos,QUALITY_ASSURE
+Descripción de la evaluación general,QUALITY_ASSMNT
+Desgloses,COVERAGE
+Comparabilidad,COMPARABILITY
+Otras descripciones y documentos referentes al indicador,OTHER_DOC
+Etiqueta_desglose_compuesto,composite_breakdown_label
+Unidad de medida,computation_units
+Derechos de autor,copyright
+Notas_llamadas,data_footnote
+Datos no estadísticos,data_non_statistical
+Color de aviso,data_notice_class
+título de aviso,data_notice_heading
+Texto de aviso,data_notice_text
+Visualizar mapa,data_show_map
+Pie de página características incrustadas,embedded_feature_footer
+Función incrustada html,embedded_feature_html
+Título de pestaña de la función incrustada,embedded_feature_tab_title
+Título_de_características_incrustadas,embedded_feature_title
+Url_característica_incrustada,embedded_feature_url
+Desagregación apilada grafo,graph_stacked_disaggregation
+Título de la gráfica,graph_title
+Tipo de gráfica,graph_type
+Nombre del indicador,indicator_name
+Código del indicador,indicator_number
+Cobertura geográfica nacional,national_geographical_coverage
+Contenido de página,page_content
+Enlace permanente,permalink
+Estatus,reporting_status
+Orden,sort
+Ser único,standalone
+Fuente_activa1,source_active_1
+Organización1,source_organisation_1
+Periodicidad1,source_periodicity_1
+Fuente disponible1,source_earliest_available_1
+Cobertura geográfica de la fuente1,source_geographical_coverage_1
+Url1,source_url_1
+Texto de la url1,source_url_text_1
+Fecha de publicación de la fuente1,source_release_date_1
+Fuente siguiente lanzamiento1,source_next_release_1
+Clasificación estadística de la fuente1,source_statistical_classification_1
+Contacto de la fuente1,source_contact_1
+Otra información de la fuente1,source_other_info_1
+Fuente_activa2,source_active_2
+Organización2,source_organisation_2
+Periodicidad2,source_periodicity_2
+Fuente disponible2,source_earliest_available_2
+Cobertura geográfica de la fuente2,source_geographical_coverage_2
+Url2,source_url_2
+Texto de la url2,source_url_text_2
+Fecha de publicación de la fuente2,source_release_date_2
+Fuente siguiente lanzamiento2,source_next_release_2
+Clasificación estadística de la fuente2,source_statistical_classification_2
+Contacto de la fuente2,source_contact_2
+Otra información de la fuente2,source_other_info_2
+Fuente_activa3,source_active_3
+Organización3,source_organisation_3
+Periodicidad3,source_periodicity_3
+Fuente disponible3,source_earliest_available_3
+Cobertura geográfica de la fuente3,source_geographical_coverage_3
+Url3,source_url_3
+Texto de la url3,source_url_text_3
+Fecha de publicación de la fuente3,source_release_date_3
+Fuente siguiente lanzamiento3,source_next_release_3
+Clasificación estadística de la fuente3,source_statistical_classification_3
+Contacto de la fuente3,source_contact_3
+Otra información de la fuente3,source_other_info_3
+Fuente_activa4,source_active_4
+Organización4,source_organisation_4
+Periodicidad4,source_periodicity_4
+Fuente disponible4,source_earliest_available_4
+Cobertura geográfica de la fuente4,source_geographical_coverage_4
+Url4,source_url_4
+Texto de la url4,source_url_text_4
+Fecha de publicación de la fuente4,source_release_date_4
+Fuente siguiente lanzamiento4,source_next_release_4
+Clasificación estadística de la fuente4,source_statistical_classification_4
+Contacto de la fuente4,source_contact_4
+Otra información de la fuente4,source_other_info_4
+Fuente_activa5,source_active_5
+Organización5,source_organisation_5
+Periodicidad5,source_periodicity_5
+Fuente disponible5,source_earliest_available_5
+Cobertura geográfica de la fuente5,source_geographical_coverage_5
+Url5,source_url_5
+Texto de la url5,source_url_text_5
+Fecha de publicación de la fuente5,source_release_date_5
+Fuente siguiente lanzamiento5,source_next_release_5
+Clasificación estadística de la fuente5,source_statistical_classification_5
+Contacto de la fuente5,source_contact_5
+Otra información de la fuente5,source_other_info_5
+Fuente_activa6,source_active_6
+Organización6,source_organisation_6
+Periodicidad6,source_periodicity_6
+Fuente disponible6,source_earliest_available_6
+Cobertura geográfica de la fuente6,source_geographical_coverage_6
+Url6,source_url_6
+Texto de la url6,source_url_text_6
+Fecha de publicación de la fuente6,source_release_date_6
+Fuente siguiente lanzamiento6,source_next_release_6
+Clasificación estadística de la fuente6,source_statistical_classification_6
+Contacto de la fuente6,source_contact_6
+Otra información de la fuente6,source_other_info_6
+Nivel no designado,un_designated_tier
