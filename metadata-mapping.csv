@@ -35,20 +35,20 @@ Descripción de la evaluación general,QUALITY_ASSMNT
 Desgloses,COVERAGE
 Comparabilidad,COMPARABILITY
 Otras descripciones y documentos referentes al indicador,OTHER_DOC
-Etiqueta_desglose_compuesto,composite_breakdown_label
+Etiqueta desglose compuesto,composite_breakdown_label
 Unidad de medida,computation_units
 Derechos de autor,copyright
 Notas_llamadas,data_footnote
 Datos no estadísticos,data_non_statistical
 Color de aviso,data_notice_class
-título de aviso,data_notice_heading
+Título de aviso,data_notice_heading
 Texto de aviso,data_notice_text
 Visualizar mapa,data_show_map
 Pie de página características incrustadas,embedded_feature_footer
 Función incrustada html,embedded_feature_html
 Título de pestaña de la función incrustada,embedded_feature_tab_title
-Título_de_características_incrustadas,embedded_feature_title
-Url_característica_incrustada,embedded_feature_url
+Título de características incrustadas,embedded_feature_title
+Url característica incrustada,embedded_feature_url
 Desagregación apilada grafo,graph_stacked_disaggregation
 Título de la gráfica,graph_title
 Tipo de gráfica,graph_type
