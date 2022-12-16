@@ -63,5 +63,6 @@ OTHER_DOC: >-
   <a href="https://agenda2030.mx/docs/files/csv/zip/2.1.2_es.zip">Datos para el cálculo</a>
 source_active_1: true
 source_organisation_1: 
-  <br>Comisión Económica para América Latina y el Caribe (CEPAL), Manual para la evaluación del impacto socioeconómico y ambiental de los desastres, 2003.
+  <br>Estimaciones del CONEVAL con base en información del INEGI, MCS-ENIGH 2008 - 2014 y el MEC del MCS-ENIGH 2016 y 2018.
+  <br>Estimaciones del CONEVAL con base en información del INEGI. Para nacional y entidad federativa MCS-ENIGH 2008 - 2014 y el MEC del MCS-ENIGH 2016 y 2018. Para municipios MCS-ENIGH 2010, la muestra del Censo de Población y Vivienda 2010, el Modelo estadístico 2015 (MEC 2015) para la continuidad del MCS-ENIGH y la Encuesta Intercensal 2015.
 source_url_1: ""
