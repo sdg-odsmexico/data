@@ -23,7 +23,11 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.2-1-2-title
-graph_titles: []
+graph_titles: 
+  - series: Proporción de la población con inseguridad alimentaria moderada o severa, desglosada por sexo y edad
+    title: Proporción de la población con inseguridad alimentaria moderada o severa, desglosada por sexo y edad
+  - series: Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico
+    title: Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico
 graph_type: line
 indicator_name: global_indicators.2-1-2-title
 indicator_number: '2.1.2'
