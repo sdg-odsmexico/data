@@ -6625,7 +6625,7 @@
           }
         ]
       },
-      "title": "Indicator name missing"
+      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
     },
     {
       "path": "1-4-2/data.csv",
@@ -9617,7 +9617,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-3-3-title"
+      "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism"
     },
     {
       "path": "8-4-2/data.csv",
