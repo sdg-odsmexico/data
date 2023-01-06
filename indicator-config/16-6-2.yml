@@ -18,7 +18,11 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.16-6-2-title
-graph_titles: []
+graph_titles: 
+  - series: Satisfacción con el servicio de educación pública obligatoria
+    title: Satisfacción con el servicio de educación pública obligatoria
+  - series: Satisfacción con el servicio de educación pública universitaria
+    title: Satisfacción con el servicio de educación pública universitaria
 graph_type: line
 indicator_name: global_indicators.16-6-2-title
 indicator_number: '16.6.2'
