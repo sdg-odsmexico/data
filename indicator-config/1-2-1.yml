@@ -18,7 +18,11 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.1-2-1-title
-graph_titles: []
+graph_titles: 
+  - series: Proporción de la población que vive por debajo del umbral nacional de la pobreza, desglosada por sexo y edad
+    title: Proporción de la población que vive por debajo del umbral nacional de la pobreza, desglosada por sexo y edad
+  - series: Proporción de la población que vive por debajo del umbral nacional de la pobreza, por desglose geográfico
+    title: Proporción de la población que vive por debajo del umbral nacional de la pobreza, por desglose geográfico
 graph_type: line
 indicator_name: global_indicators.1-2-1-title
 indicator_number: '1.2.1'
