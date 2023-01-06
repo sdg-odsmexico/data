@@ -57,8 +57,13 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
-  - class: InputCsvMeta
-    path_pattern: meta/*-*.csv
+  #- class: InputCsvMeta
+   # path_pattern: meta/*-*.csv
+   # git: true
+   # git_data_dir: data
+   # metadata_mapping: 'metadata-mapping.csv'
+  - class: InputExcelMeta
+    path_pattern: meta/*-*.xlsx
    # git: true
    # git_data_dir: data
     metadata_mapping: 'metadata-mapping.csv'
