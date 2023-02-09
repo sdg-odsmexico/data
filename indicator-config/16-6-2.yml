@@ -8,11 +8,11 @@ data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
 data_start_values: 
-  - field: Entidad Federativa
-    value: Estados unidos mexicanos
+  - field: Entidad federativa
+    value: Estados Unidos Mexicanos
   - field: Sexo
-    value: Total a/
-  - field : Tipo de servicio
+    value: Total
+  - field: Tipo de servicio
     value: Satisfacción con el servicio de educación pública obligatoria
 embedded_feature_footer: ''
 embedded_feature_html: ''
