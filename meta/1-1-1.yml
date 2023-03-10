@@ -131,8 +131,8 @@ source_active_1: true
 source_organisation_1: Instituto Nacional de Estadística y Geografía (INEGI). Índice Nacional de Precios al Consumidor (INPC).<br>
 source_periodicity_1: Bienal
 source_geographical_coverage_1: Nacional, urbano y rural.
-source_url_1: 'https://www.inegi.org.mx/programas/inpc/2018/'
-source_url_text_1: 'INEGI'
+source_url_1: https://www.inegi.org.mx/programas/inpc/2018/
+source_url_text_1: INEGI
 source_release_date_1: 12 de noviembre de 2019
 source_next_release_1: Segundo semestre de 2021
 source_statistical_classification_1: Ámbito
@@ -142,8 +142,8 @@ source_active_2: true
 source_organisation_2: Banco Mundial (BM). Global Purchasing Power Parities and Real Expenditures. 2011 International Comparison Program.
 source_periodicity_2: Bienal
 source_geographical_coverage_2: Nacional, urbano y rural.
-source_url_2: 'http://icp.worldbank.org/'
-source_url_text_2: 'Banco Mundial'
+source_url_2: http://icp.worldbank.org/
+source_url_text_2: Banco Mundial
 source_release_date_2: 12 de noviembre de 2019
 source_next_release_2: Segundo semestre de 2021
 source_statistical_classification_2: Ámbito
