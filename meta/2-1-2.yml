@@ -1,54 +1,54 @@
 SDG_GOAL: >-
-  Objetivo 2. Hambre cero
+  Objetivo 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible
 SDG_TARGET: >-
-  Meta 1.5: De aquí a 2030, fomentar la resiliencia de los pobres y las personas que se encuentran en situaciones de vulnerabilidad y reducir su exposición y vulnerabilidad a los fenómenos extremos relacionados con el clima y otras perturbaciones y desastres económicos, sociales y ambientales
+  2.1 De aquí a 2030, poner fin al hambre y asegurar el acceso de todas las personas, en particular los pobres y las personas en situaciones de vulnerabilidad, incluidos los niños menores de 1 año, a una alimentación sana, nutritiva y suficiente durante todo el año
 SDG_INDICATOR: >-
-  2.1.2  Proporción de la población con inseguridad alimentaria moderada o severa, desglosada por sexo y edad
+  2.1.2 Proporción de la población con inseguridad alimentaria moderada o severa (carencia por acceso a la alimentación), desglosada por sexo y edad
 SDG_SERIES_DESCR: >-
-  Se determina a partir de una distinción entre los hogares con población menor de dieciocho años y los hogares sin población menor de dieciocho años. Para el total de hogares donde no habitan menores de dieciocho años de edad se identifican aquellos en los que algún adulto, por falta de dinero o recursos, al menos: no tuvo una alimentación variada; dejó de desayunar, comer o cenar; comió menos de lo que debería comer; se quedaron sin comida; sintió hambre, pero no comió; o hizo sólo una comida o dejó de comer durante todo el día. En el caso del total de hogares donde habitan menores de dieciocho años de edad se identifican aquellos en los que por falta de dinero o recursos, tanto las personas mayores como las menores de dieciocho años: tuvieron una alimentación variada; comieron menos de lo necesario; se les disminuyeron las cantidades servidas en la comida; sintieron hambre, pero no comieron; o hicieron una comida o dejaron de comer durante todo el día.
+  La inseguridad alimentaria moderada o severa son los grados de inseguridad alimentaria que reflejan la existencia de limitaciones en la cantidad de alimentos en el hogar y experiencias de hambre en la alimentación de los integrantes de los hogares. La clasificación de la situación de seguridad o inseguridad alimentaria se hace con base en la Escala Mexicana de Seguridad Alimentaria (EMSA).
 META_LAST_UPDATE: >-
   11 de noviembre de 2019
 SDG_RELATED_INDICATORS: >-
 SDG_CUSTODIAN_AGENCIES: >-
 CONTACT_ORGANISATION: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).
 CONTACT_NAME: >-
   Alida Marcela Gutiérrez Landeros
 ORGANISATION_UNIT: >-
-  Coordinadora General de Análisis de la Pobreza
 CONTACT_FUNCT: >-
+  Directora Ejecutiva de Medición de Pobreza y Seguimiento de Indicadores
 CONTACT_PHONE: >-
-  Insurgentes Sur #810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México
   54 81 72 75 o 00, ext. 70075
 CONTACT_MAIL: >-
   amgutierrez@coneval.org.mx
-CONTACT_EMAIL: >-
 STAT_CONC_DEF: >- 
-  ## Definicion:
-  
-  La inseguridad alimentaria moderada o severa son los grados de inseguridad alimentaria que reflejan la existencia de limitaciones en la cantidad de alimentos en el hogar y experiencias de hambre en la alimentación de los integrantes de los hogares. La clasificación de la situación de seguridad o inseguridad alimentaria se hace con base en la Escala Mexicana de Seguridad Alimentaria (EMSA).
+  Este indicador está ligado a la Meta 1.2 de reducir al menos a la mitad la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones de acuerdo con las definiciones nacionales. Permite dar seguimiento a la evolución de la población que carece de un ingreso suficiente para satisfacer sus necesidades alimentarias y no alimentarias, como insumo para la generación de estrategias, políticas y acciones de generación de ingreso.
 UNIT_MEASURE: >-
   Porcentaje
 CLASS_SYSTEM: >-
-  Comisión Económica para América Latina y el Caribe (CEPAL), Manual para la evaluación del impacto socioeconómico y ambiental de los desastres, 2003.
 SOURCE_TYPE: >-
   Instituto Nacional de Estadística y Geografía (INEGI). Módulo de Condiciones Socioeconómicas de la Encuesta Nacional de Ingresos y Gastos de los Hogares (MCS-ENIGH) 2008-2014. https://www.inegi.org.mx/programas/mcs/2008/y Modelo Estadístico para la Continuidad (MEC) del MCS-ENIGH 2016 y 2018. https://www.inegi.org.mx/investigacion/eash/2018/
-
-  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). Metodología para la medición multidimensional de la pobreza en México. Fecha de consulta: 05 de agosto de 2019.
+  
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).  Metodología para la medición multidimensional de la pobreza en México. Fecha de consulta 05 de agosto de 2019.
 COLL_METHOD: >-
-  
 FREQ_COLL: >-
-  
 REL_CAL_POLICY: >-
   Segundo semestre de 2021 */
 DATA_SOURCE: >-
-  Comisión Económica para América Latina y el Caribe (CEPAL), Manual para la evaluación del impacto socioeconómico y ambiental de los desastres, 2003.
+  Se emplea una escala de seguridad alimentaria basada en una propuesta de Pérez-Escamilla, Melgar-Quiñonez, Nord, Álvarez y Segall-Correa. Esta escala reconoce cuatro posibles niveles de inseguridad alimentaria inseguridad alimentaria severa, inseguridad alimentaria moderada, inseguridad alimentaria leve y seguridad alimentaria.
+  
+  Para mayor detalle consultar
+  La Metodología para la medición multidimensional de la pobreza en México.
+  
+  Datos de CONEVAL sobre acceso a la alimentación http://www.coneval.gob.mx/Medicion/Paginas/PobrezaInicio.aspx
 COMPILING_ORG: >-
-  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).
 INST_MANDATE: >-
 RATIONALE: >-
+  
 REC_USE_LIM: >-
 DATA_COMP: >-
 DATA_VALIDATION: >-
+  El Indicador describe el  porcentaje de personas que han visto reducida la cantidad de alimentos y han experimentado episodios de hambre en su hogar. El indicador ha sido utilizado para evaluar el impacto de algunos programas de ayuda alimentaria que forman parte de la Cruzada Nacional Contra el Hambre.
 ADJUSTMENT: >-
 IMPUTATION: >-
 REG_AGG: >-
@@ -57,12 +57,64 @@ QUALITY_MGMNT: >-
 QUALITY_ASSURE: >-
 QUALITY_ASSMNT: >-
 COVERAGE: >-
-  Nacional, grupos de edad y sexo
+  2008 - 2018
 COMPARABILITY: >-
 OTHER_DOC: >-
   <a href="https://agenda2030.mx/docs/files/csv/zip/2.1.2_es.zip">Datos para el cálculo</a>
+composite_breakdown_label: ''
+computation_units: Porcentaje
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values:
+  - field: Sexo
+    value: Total
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_series_breaks: []
+graph_stacked_disaggregation: ''
+graph_title: 2.1.2 Proporción de la población con inseguridad alimentaria moderada o severa (carencia por acceso a la alimentación), desglosada por sexo y edad
+graph_titles: []
+graph_type: line
+graph_types: 
+  - series: Proporción de la población con inseguridad alimentaria moderada o severa, desglosada por sexo y edad
+    title: Proporción de la población con inseguridad alimentaria moderada o severa, desglosada por sexo y edad
+  - series: Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico
+    title: Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico
+indicator_name: 2.1.2 Proporción de la población con inseguridad alimentaria moderada o severa (carencia por acceso a la alimentación), desglosada por sexo y edad
+indicator_number: 2.1.2
+national_geographical_coverage: Nacional, grupos de edad y sexo
+page_content: ''
+permalink: ''
+precision: []
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []
 source_active_1: true
 source_organisation_1: 
-  <br>Estimaciones del CONEVAL con base en información del INEGI, MCS-ENIGH 2008 - 2014 y el MEC del MCS-ENIGH 2016 y 2018.
-  <br>Estimaciones del CONEVAL con base en información del INEGI. Para nacional y entidad federativa MCS-ENIGH 2008 - 2014 y el MEC del MCS-ENIGH 2016 y 2018. Para municipios MCS-ENIGH 2010, la muestra del Censo de Población y Vivienda 2010, el Modelo estadístico 2015 (MEC 2015) para la continuidad del MCS-ENIGH y la Encuesta Intercensal 2015.
-source_url_1: ""
+  Se emplea una escala de seguridad alimentaria basada en una propuesta de Pérez-Escamilla, Melgar-Quiñonez, Nord, Álvarez y Segall-Correa. Esta escala reconoce cuatro posibles niveles de inseguridad alimentaria inseguridad alimentaria severa, inseguridad alimentaria moderada, inseguridad alimentaria leve y seguridad alimentaria.
+  
+  Para mayor detalle consultar
+  La Metodología para la medición multidimensional de la pobreza en México.
+  
+  Datos de CONEVAL sobre acceso a la alimentación http://www.coneval.gob.mx/Medicion/Paginas/PobrezaInicio.aspx
+source_periodicity_1: Bienal
+source_geographical_coverage_1: Nacional, grupos de edad y sexo
+source_url_1: ''
+source_url_text_1: ''
+source_release_date_1: 11 de noviembre de 2019
+source_next_release_1: Segundo semestre de 2021 */
+source_statistical_classification_1: ''
+source_contact_1: ''
+source_other_info_1: ''
