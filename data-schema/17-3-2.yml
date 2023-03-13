@@ -1,6 +1,0 @@
-fields:
-  - name: Value
-    type: number
-  - name: Year
-    type: integer
- 
