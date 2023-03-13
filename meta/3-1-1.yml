@@ -1,0 +1,115 @@
+SDG_GOAL: >-
+  3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+SDG_TARGET: >-
+  3.1 De aquí a 2030, reducir la tasa mundial de mortalidad materna a menos de 70 por cada 100,000 nacidos vivos
+SDG_INDICATOR: >-
+  3.1.1 Razón de mortalidad materna
+SDG_SERIES_DESCR: >-
+  Es el número de defunciones de mujeres mientras se encuentren embarazadas o dentro de los 42 días siguientes a la terminación del embarazo, debida a cualquier causa relacionada con o agravada por el embarazo mismo o su atención (con exclusión de las muertes accidentales o incidentales), en un determinado año, por cada 100 mil nacidos vivos en ese mismo año. Representa el riesgo obstétrico.
+META_LAST_UPDATE: >-
+  13 de febrero de 2023
+SDG_RELATED_INDICATORS: >-
+SDG_CUSTODIAN_AGENCIES: >-
+CONTACT_ORGANISATION: >-
+  Secretaría de Salud (SS). Dirección General de Información en Salud (DGIS).
+CONTACT_NAME: >-
+  Delfino Campos Díaz
+ORGANISATION_UNIT: >-
+CONTACT_FUNCT: >-
+  Director de Evaluación del Desempeño de los Sistemas de Salud
+CONTACT_PHONE: >-
+  55 6392 2300, ext. 52681
+CONTACT_MAIL: >-
+  mgutierrez@coneval.org.mx
+STAT_CONC_DEF: >- 
+  Este indicador resulta de dividir el número de muertes maternas en un determinado año, entre el total de nacidos vivos en el mismo periodo, multiplicado por 100 mil.
+UNIT_MEASURE: >-
+  Defunciones de mujeres por cada 100 mil  nacidos vivos
+CLASS_SYSTEM: >-
+SOURCE_TYPE: >-
+  SALUD. Base de datos del Subsistema de Información sobre Nacimientos. Bases de datos de mortalidad.
+COLL_METHOD: >-
+FREQ_COLL: >-
+REL_CAL_POLICY: >-
+  No definida
+DATA_SOURCE: >-
+  Secretaría de Salud (SS). Dirección General de Información en Salud (DGIS).
+COMPILING_ORG: >-
+INST_MANDATE: >-
+RATIONALE: >-
+  
+REC_USE_LIM: >-
+DATA_COMP: >-
+DATA_VALIDATION: >-
+  Los datos del periodo 1990-2001 corresponden a razones de mortalidad materna estimadas. Para este periodo, la estimación a nivel nacional se basó en diversos estudios nacionales e internacionales sobre el subregistro de la mortalidad materna, y en datos de la Encuesta Nacional de la Dinámica Demográfica. La estimación para las entidades federativas se calculó respecto a la estimación nacional, tomando en cuenta la distribución porcentual de las muertes maternas observadas, por lo que los datos no consideraron la heterogeneidad del subregistro entre entidades.
+  
+  Sin embargo, a partir de 2002, este indicador se calcula considerando para el numerador el número de defunciones maternas de 10 a 54 años ocurridas en el año por entidad de residencia habitual, según las estadísticas vitales de defunciones del INEGI/SS que corresponden a los resultados de la "Búsqueda Intencionada y Reclasificación de muertes maternas".
+  
+  A partir de 2007 se excluyen defunciones con residencia en el extranjero y a partir de 2009 se excluyen las muertes maternas registradas de manera extemporánea.
+  
+  En cuanto a los nacidos vivos, cabe destacar que en las siguientes entidades Chihuahua, Hidalgo, San Luis Potosí, Sonora, Veracruz y Yucatán, aún falta mejorar la cobertura del SINAC, por lo cual las cifras se corrigen a través de un factor de ajuste por entidad federativa, que se obtiene a partir de la tendencia de las diferencias porcentuales entre los nacimientos estimados del CONAPO y los nacidos vivos ocurridos del SINAC.
+  
+  Según la Clasificación Internacional de Enfermedades 10a rev. (CIE-10) se considera una defunción materna a la clasificada en los códigos O00-O99, A34, D392, F53, M830 y embarazadas con B20-B24. Excluye muertes maternas tardías (O96 y O97) y defunciones por coriocarcinoma (C58). Los códigos CIE9 correspondientes son 630-679.
+  
+  La descripción de los códigos de la Clasificación Internacional de Enfermedades 10a rev. (CIE-10) se encuentra disponible en la siguiente dirección http://www.who.int/classifications/apps/icd/icd10online/
+  
+  Este indicador forma parte del Catálogo Nacional de Indicadores (CNI).
+ADJUSTMENT: >-
+IMPUTATION: >-
+REG_AGG: >-
+DOC_METHOD: >-
+QUALITY_MGMNT: >-
+QUALITY_ASSURE: >-
+QUALITY_ASSMNT: >-
+COVERAGE: >-
+  1990 - 2021
+COMPARABILITY: >-
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/3.1.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label: ''
+computation_units: Defunciones de mujeres por cada 100 mil  nacidos vivos
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: true
+data_start_values: 
+   - field: Entidad federativa
+     value: Estados Unidos Mexicanos
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_series_breaks: []
+graph_stacked_disaggregation: ''
+graph_title: 3.1.1 Razón de mortalidad materna
+graph_titles: []
+graph_type: line
+graph_types: []
+indicator_name: 3.1.1 Razón de mortalidad materna
+indicator_number: 3.1.1
+national_geographical_coverage: Nacional y entidad federativa
+page_content: ''
+permalink: ''
+precision: []
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []
+source_active_1: true
+source_organisation_1: SALUD. Base de datos del Subsistema de Información sobre Nacimientos. Bases de datos de mortalidad.
+source_periodicity_1: Anual
+source_geographical_coverage_1: Nacional y entidad federativa
+source_url_1: ''
+source_url_text_1: ''
+source_release_date_1: 13 de febrero de 2023
+source_next_release_1: No definida
+source_statistical_classification_1: ''
+source_contact_1: ''
+source_other_info_1: ''
