@@ -5534,7 +5534,7 @@
             "type": "integer"
           },
           {
-            "name": "Entidad_federativa",
+            "name": "Entidad federativa",
             "type": "string",
             "constraints": {
               "enum": [

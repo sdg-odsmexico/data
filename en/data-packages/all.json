@@ -5598,7 +5598,7 @@
             "title": "Year"
           },
           {
-            "name": "Entidad_federativa",
+            "name": "Entidad federativa",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5638,7 +5638,7 @@
                 ""
               ]
             },
-            "title": "Entidad_federativa"
+            "title": "Entidad federativa"
           },
           {
             "name": "GeoCode",
