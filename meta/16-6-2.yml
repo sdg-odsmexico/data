@@ -1,0 +1,109 @@
+SDG_GOAL: >-
+  16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+SDG_TARGET: >-
+  16.6 Crear a todos los niveles instituciones eficaces y transparentes que rindan cuentas
+SDG_INDICATOR: >-
+  16.6.2 Crear a todos los niveles instituciones eficaces y transparentes que rindan cuentas
+SDG_SERIES_DESCR: >-
+  Es el porcentaje de la población de 18 años y más que habita en áreas urbanas de cien mil habitantes y más usuaria de servicios públicos educativos (primaria, secundaria y bachillerato) que manifiesta estar muy satisfecha o satisfecha con su experiencia en los servicios públicos educativos.
+META_LAST_UPDATE: >-
+  01 de septiembre de 2022
+SDG_RELATED_INDICATORS: >-
+SDG_CUSTODIAN_AGENCIES: >-
+CONTACT_ORGANISATION: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI
+ORGANISATION_UNIT: >-
+  INEGI
+CONTACT_FUNCT: >-
+  atención a usuarios
+CONTACT_PHONE: >-
+  Nacional sin costo: 800 111 46 34
+  Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301
+CONTACT_MAIL: >-
+  atencion.usuarios@inegi.org.mx
+STAT_CONC_DEF: >- 
+  Número de personas de 18 años y más cuyos hijos e hijas fueron usuarios de los servicios de educación pública en primaria, secundaria o bachillerato que respondieron estar muy satisfechas o satisfechas con el servicio de educación en estos niveles, entre la población de 18 años y más que habita en áreas urbanas de cien mil habitantes y más usuaria de estos servicios, multiplicado por 100; desagregado por sexo y entidad federativa.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos en los Hogares (ENIGH) 2016, 2018 y 2020; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.
+COLL_METHOD: >-
+FREQ_COLL: >-
+REL_CAL_POLICY: >-
+  Tercer trimestre de 2024
+DATA_SOURCE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG).  https://www.inegi.org.mx/programas/encig/2021/
+COMPILING_ORG: >-
+INST_MANDATE: >-
+RATIONALE: >-
+  
+REC_USE_LIM: >-
+DATA_COMP: >-
+DATA_VALIDATION: >-
+  Medir la satisfacción con los servicios públicos es el núcleo de un enfoque centrado en la ciudadanía para la prestación de servicios y un importante indicador de resultados del desempeño general del gobierno.
+ADJUSTMENT: >-
+IMPUTATION: >-
+REG_AGG: >-
+DOC_METHOD: >-
+QUALITY_MGMNT: >-
+QUALITY_ASSURE: >-
+QUALITY_ASSMNT: >-
+COVERAGE: >-
+  2013 - 2021
+COMPARABILITY: >-
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/16.6.2_es.zip">Datos para el cálculo</a>
+composite_breakdown_label: ''
+computation_units: Porcentaje
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: 
+  - field: Entidad federativa
+    value: Estados Unidos Mexicanos
+  - field: Sexo
+    value: Total
+  - field: Tipo de servicio
+    value: Satisfacción con el servicio de educación pública obligatoria
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_series_breaks: []
+graph_stacked_disaggregation: ''
+graph_title: 16.6.2 Crear a todos los niveles instituciones eficaces y transparentes que rindan cuentas
+graph_titles: []
+graph_type: line
+graph_types: []
+indicator_name: 16.6.2 Crear a todos los niveles instituciones eficaces y transparentes que rindan cuentas
+indicator_number: 16.6.2
+national_geographical_coverage: Nacional y entidad federativa
+page_content: ''
+permalink: ''
+precision: []
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []
+source_active_1: true
+source_organisation_1: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG).  
+source_periodicity_1: Bienal
+source_geographical_coverage_1: Nacional y entidad federativa
+source_url_1: https://www.inegi.org.mx/programas/encig/2021/
+source_url_text_1: INEGI
+source_release_date_1: 01 de septiembre de 2022
+source_next_release_1: Tercer trimestre de 2024
+source_statistical_classification_1: ''
+source_contact_1: ''
+source_other_info_1: ''
