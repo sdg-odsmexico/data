@@ -10,7 +10,7 @@ Clasificación,1,7
 Coahuila de Zaragoza,1,38
 Colima,1,10
 Durango,1,39
-Entidad federativa,4,33
+Entidad federativa,5,33
 Grupo de edad,2,12
 Guanajuato,1,46
 Guerrero,1,81
@@ -18,16 +18,18 @@ Hidalgo,1,84
 Jalisco,1,125
 Michoacán de Ocampo,1,113
 Morelos,1,36
-Municipios,1,2329
+Municipios,2,2329
 México,1,125
 Nayarit,1,20
 Nuevo León,1,51
 Oaxaca,1,570
+Poblaciones,1,4
 Puebla,1,217
 Querétaro,1,18
 Quintana Roo,1,11
 San Luis Potosí,1,58
-Sexo,4,7
+Serie de tiempo,1,2
+Sexo,5,8
 Sinaloa,1,18
 Sonora,1,72
 Tabasco,1,17
