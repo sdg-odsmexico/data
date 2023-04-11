@@ -176,10 +176,7 @@ sources:
     contact: ''
     other_info: ''
     logo: ''
-  - organisation: 
-    Censo de Población y Vivienda 2010. INEGI.
-    Encuesta Intercensal
-    Censo de Población y Vivienda 2020. INEGI
+  - organisation: Censo de Población y Vivienda 2010. INEGI.<br> Encuesta Intercensal<br> Censo de Población y Vivienda 2020. INEGI
     periodicity: Quinquenal
     earliest_available: ''
     geographical_coverage: ''
