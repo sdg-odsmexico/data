@@ -163,23 +163,31 @@ standalone:
   false
 tags:
   []
-source_active_1:
-  true
-source_organisation_1:
-  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).
-source_periodicity_1:
-  Bianual
-source_geographical_coverage_1:
-  ''
-source_url_1:
-  Naciona, entidad federativa y municipal
-source_url_text_1:
-  ''
-source_release_date_1:
-  13 de julio de 2022
-source_next_release_1:
-  Febrero de 2023
-source_statistical_classification_1:
-  ''
-source_contact_1:
-  ''
+sources:
+  - organisation: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).
+    periodicity: Bianual
+    earliest_available: ''
+    geographical_coverage: ''
+    url: ''
+    url_text: ''
+    release_date: 13 de julio de 2022
+    next_release: Febrero de 2023
+    statistical_classification: ''
+    contact: ''
+    other_info: ''
+    logo: ''
+  - organisation: 
+    Censo de Población y Vivienda 2010. INEGI.
+    Encuesta Intercensal
+    Censo de Población y Vivienda 2020. INEGI
+    periodicity: Quinquenal
+    earliest_available: ''
+    geographical_coverage: ''
+    url: ''
+    url_text: ''
+    release_date: 29 de septiembre de 2022
+    next_release: No definida
+    statistical_classification: ''
+    contact: ''
+    other_info: ''
+    logo: ''
