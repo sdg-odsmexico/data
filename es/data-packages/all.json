@@ -94,8 +94,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Censo de Población y Vivienda",
                 "Encuesta Nacional de Ingresos y Gastos de los Hogares",
+                "Censo de Población y Vivienda",
                 ""
               ]
             },
