@@ -85,12 +85,12 @@
             "type": "integer"
           },
           {
-            "name": "Serie de tiempo",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Encuesta Nacional de Ingresos y Gastos de los Hogares",
                 "Censo de Población y Vivienda",
+                "Encuesta Nacional de Ingresos y Gastos de los Hogares",
                 ""
               ]
             }
@@ -2489,17 +2489,6 @@
           },
           {
             "name": "Poblaciones",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hablantes de lengua indigena",
-                "Discapacidad",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poblaciones.1",
             "type": "string",
             "constraints": {
               "enum": [

@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Serie de tiempo",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Encuesta Nacional de Ingresos y Gastos de los Hogares",
                 "Censo de Población y Vivienda",
+                "Encuesta Nacional de Ingresos y Gastos de los Hogares",
                 ""
               ]
             },
-            "title": "Serie de tiempo"
+            "title": "Series"
           },
           {
             "name": "Entidad federativa",
@@ -2429,24 +2429,12 @@
               "enum": [
                 "Hablantes de lengua indigena",
                 "Discapacidad",
-                ""
-              ]
-            },
-            "title": "Poblaciones"
-          },
-          {
-            "name": "Poblaciones.1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hablantes de lengua indigena",
-                "Discapacidad",
                 "Afromexicana o afrodescendiente",
                 "Residentes en otra entidad 5 años atrás",
                 ""
               ]
             },
-            "title": "Poblaciones.1"
+            "title": "Poblaciones"
           },
           {
             "name": "GeoCode",
