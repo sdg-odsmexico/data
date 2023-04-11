@@ -119,11 +119,11 @@ graph_annotations:
   []
 graph_limits:
   - series: Censo de Población y Vivienda 
-       minimum: 0
-       maximum: 100
+    minimum: 0
+    maximum: 100
   - series: Encuesta Nacional de Ingresos y Gastos de los Hogares
-       minimum: 60
-       maximum: 100
+    minimum: 60
+    maximum: 100
 graph_series_breaks:
   []
 graph_stacked_disaggregation:
@@ -132,16 +132,16 @@ graph_title:
   ''
 graph_titles:
   - series: Censo de Población y Vivienda 
-       title: Censo de Población y Vivienda
+    title: Censo de Población y Vivienda
   - series: Encuesta Nacional de Ingresos y Gastos de los Hogares
-       title: Encuesta Nacional de Ingresos y Gastos de los Hogares
+    title: Encuesta Nacional de Ingresos y Gastos de los Hogares
 graph_type:
   ''
 graph_types:
   - series: Censo de Población y Vivienda 
-       type: bar
+    type: bar
   - series: Encuesta Nacional de Ingresos y Gastos de los Hogares
-       type: line
+    type: line
 indicator_name:
   7.1.1 Proporción de la población que tiene acceso a la electricidad
 indicator_number:
