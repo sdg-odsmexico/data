@@ -166,7 +166,7 @@ standalone:
 tags:
   []
 source_active_1: true
-source_organisation_1: Censo de Población y Vivienda 2010. INEGI.<br> Encuesta Intercensal.<br> Censo de Población y Vivienda 2020. INEGI.
+source_organisation_1: <br>Censo de Población y Vivienda 2010. INEGI.<br> Encuesta Intercensal.<br> Censo de Población y Vivienda 2020. INEGI.
 source_periodicity_1: Quinquenal
 source_geographical_coverage_1: ''
 source_url_1: ''
@@ -177,7 +177,7 @@ source_statistical_classification_1: ''
 source_contact_1: ''
 source_other_info_1: ''
 source_active_2: true
-source_organisation_2: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).
+source_organisation_2: <br>Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).
 source_periodicity_2: Bianual
 source_geographical_coverage_2: ''
 source_url_2: ''
