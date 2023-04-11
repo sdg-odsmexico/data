@@ -132,11 +132,9 @@ graph_title:
   ''
 graph_titles:
   - series: Censo de Población y Vivienda
-    source: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).
     unit: Porcentaje
     title: Censo de Población y Vivienda
   - series: Encuesta Nacional de Ingresos y Gastos de los Hogares
-    source: Censo de Población y Vivienda 2010. INEGI.Encuesta Intercensal. Censo de Población y Vivienda 2020. INEGI
     unit: Porcentaje
     title: Encuesta Nacional de Ingresos y Gastos de los Hogares
 graph_type:
@@ -167,6 +165,8 @@ standalone:
   false
 tags:
   []
+source_organisation_1: Censo de Población y Vivienda 2010. INEGI.<br> Encuesta Intercensal.<br> Censo de Población y Vivienda 2020. INEGI.
+source_organisation_2: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).
 sources:
   - organisation: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).
     periodicity: Bianual
@@ -180,7 +180,7 @@ sources:
     contact: ''
     other_info: ''
     logo: ''
-  - organisation: Censo de Población y Vivienda 2010. INEGI.<br> Encuesta Intercensal<br> Censo de Población y Vivienda 2020. INEGI
+  - organisation: Censo de Población y Vivienda 2010. INEGI.<br> Encuesta Intercensal.<br> Censo de Población y Vivienda 2020. INEGI
     periodicity: Quinquenal
     earliest_available: ''
     geographical_coverage: ''
