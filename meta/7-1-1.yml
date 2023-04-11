@@ -165,30 +165,25 @@ standalone:
   false
 tags:
   []
+source_active_1: true
 source_organisation_1: Censo de Población y Vivienda 2010. INEGI.<br> Encuesta Intercensal.<br> Censo de Población y Vivienda 2020. INEGI.
+source_periodicity_1: Quinquenal
+source_geographical_coverage_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_release_date_1: 29 de septiembre de 2022
+source_next_release_1: No definida
+source_statistical_classification_1: ''
+source_contact_1: ''
+source_other_info_1: ''
+source_active_2: true
 source_organisation_2: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).
-sources:
-  - organisation: Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).
-    periodicity: Bianual
-    earliest_available: ''
-    geographical_coverage: ''
-    url: ''
-    url_text: ''
-    release_date: 13 de julio de 2022
-    next_release: Febrero de 2023
-    statistical_classification: ''
-    contact: ''
-    other_info: ''
-    logo: ''
-  - organisation: Censo de Población y Vivienda 2010. INEGI.<br> Encuesta Intercensal.<br> Censo de Población y Vivienda 2020. INEGI
-    periodicity: Quinquenal
-    earliest_available: ''
-    geographical_coverage: ''
-    url: ''
-    url_text: ''
-    release_date: 29 de septiembre de 2022
-    next_release: No definida
-    statistical_classification: ''
-    contact: ''
-    other_info: ''
-    logo: ''
+source_periodicity_2: Bianual
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: 13 de julio de 2022
+source_next_release_2: Febrero de 2023
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
