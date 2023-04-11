@@ -122,7 +122,7 @@ graph_limits:
     minimum: 0
     maximum: 100
   - series: Encuesta Nacional de Ingresos y Gastos de los Hogares
-    minimum: 60
+    minimum: 70
     maximum: 100
 graph_series_breaks:
   []
