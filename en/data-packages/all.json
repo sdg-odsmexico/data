@@ -2503,12 +2503,24 @@
               "enum": [
                 "Hablantes de lengua indigena",
                 "Discapacidad",
+                ""
+              ]
+            },
+            "title": "Poblaciones"
+          },
+          {
+            "name": "Poblaciones.1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hablantes de lengua indigena",
+                "Discapacidad",
                 "Afromexicana o afrodescendiente",
                 "Residentes en otra entidad 5 años atrás",
                 ""
               ]
             },
-            "title": "Poblaciones"
+            "title": "Poblaciones.1"
           },
           {
             "name": "GeoCode",

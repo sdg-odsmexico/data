@@ -2424,6 +2424,17 @@
               "enum": [
                 "Hablantes de lengua indigena",
                 "Discapacidad",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Poblaciones.1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hablantes de lengua indigena",
+                "Discapacidad",
                 "Afromexicana o afrodescendiente",
                 "Residentes en otra entidad 5 años atrás",
                 ""
