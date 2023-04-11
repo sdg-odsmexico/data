@@ -97,7 +97,7 @@ data_notice_text:
 data_show_map:
   true
 data_start_values:
-  - field: Serie de tiempo
+  - field: Series
     value: Encuesta Nacional de Ingresos y Gastos de los Hogares
   - field: Entidad federativa
     value: Estados Unidos Mexicanos
