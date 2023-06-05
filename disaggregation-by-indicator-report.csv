@@ -1,8 +1,8 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,Ámbito,1
-#1-2-1,"Entidad federativa, Sexo, Grupo de edad, Municipios",4
+#1-2-1,"Entidad federativa, Municipios, Sexo, Grupo de edad",4
 #16-6-2,"Entidad federativa, Sexo, Tipo de servicio",3
 #16-7-2,"Sexo, Clasificación",2
 #2-1-2,"Entidad federativa, Sexo, Grupo de edad, Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Ciudad de México, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán de Ocampo, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave, Yucatán, Zacatecas",35
 #3-1-1,Entidad federativa,1
-#7-1-1,"Entidad federativa, Sexo, Municipios, Poblaciones",4
+#7-1-1,"Entidad federativa, Municipios, Sexo, Poblaciones",4
