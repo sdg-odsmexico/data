@@ -5416,7 +5416,7 @@
             "type": "integer"
           },
           {
-            "name": "Serie de tiempo",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
