@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "Serie de tiempo",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Serie de tiempo"
           },
           {
             "name": "Entidad federativa",
@@ -1267,7 +1267,6 @@
                 "San Marcial Ozolotepec",
                 "San Marcos Arteaga",
                 "San Martín de los Cansecos",
-                "San Martín Huamelúlpam",
                 "San Martín Itunyoso",
                 "San Martín Lachilá",
                 "San Martín Peras",
@@ -2404,6 +2403,7 @@
                 "Zacatecas",
                 "Trancoso",
                 "Santa María de la Paz",
+                "San Martín Huamelúlpam",
                 ""
               ]
             },
@@ -2427,9 +2427,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hablantes de lengua indigena",
-                "Discapacidad",
                 "Afromexicana o afrodescendiente",
+                "Discapacidad",
+                "Hablantes de lengua indigena",
                 "Residentes en otra entidad 5 años atrás",
                 ""
               ]
