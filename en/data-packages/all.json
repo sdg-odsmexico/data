@@ -51,6 +51,30 @@
       "title": ""
     },
     {
+      "path": "5-n1-2/data.csv",
+      "name": "5-n1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-7-r-a/data.csv",
       "name": "3-7-r-a",
       "profile": "tabular-data-resource",
@@ -97,6 +121,54 @@
         ]
       },
       "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+    },
+    {
+      "path": "5-3-1a/data.csv",
+      "name": "5-3-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-a-1b/data.csv",
+      "name": "5-a-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "3-c-1/data.csv",
@@ -363,6 +435,54 @@
       "title": "Under‑5 mortality rate"
     },
     {
+      "path": "5-4-1a/data.csv",
+      "name": "5-4-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-4-1c/data.csv",
+      "name": "5-4-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-3-1/data.csv",
       "name": "3-3-1",
       "profile": "tabular-data-resource",
@@ -385,6 +505,30 @@
         ]
       },
       "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
+    },
+    {
+      "path": "5-3-1b/data.csv",
+      "name": "5-3-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "4-a-1-d1/data.csv",
@@ -483,6 +627,30 @@
       "title": ""
     },
     {
+      "path": "5-n1-4/data.csv",
+      "name": "5-n1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "4-n1-1/data.csv",
       "name": "4-n1-1",
       "profile": "tabular-data-resource",
@@ -553,6 +721,102 @@
         ]
       },
       "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+    },
+    {
+      "path": "5-n1-3/data.csv",
+      "name": "5-n1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-n2-1/data.csv",
+      "name": "5-n2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "6-n1-1/data.csv",
+      "name": "6-n1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "6-2-1/data.csv",
+      "name": "6-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
       "path": "3-n3-1/data.csv",
@@ -651,8 +915,56 @@
       "title": ""
     },
     {
+      "path": "6-3-2/data.csv",
+      "name": "6-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of bodies of water with good ambient water quality"
+    },
+    {
       "path": "3-3-r-2/data.csv",
       "name": "3-3-r-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-n1-1/data.csv",
+      "name": "5-n1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -771,6 +1083,78 @@
       "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
+      "path": "5-2-2-a/data.csv",
+      "name": "5-2-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "6-a-1/data.csv",
+      "name": "6-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
+    },
+    {
+      "path": "5-n3-1/data.csv",
+      "name": "5-n3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "4-a-1-c/data.csv",
       "name": "4-a-1-c",
       "profile": "tabular-data-resource",
@@ -817,6 +1201,30 @@
         ]
       },
       "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+    },
+    {
+      "path": "5-2-1-a/data.csv",
+      "name": "5-2-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "4-c-1-b/data.csv",
@@ -963,6 +1371,30 @@
       "title": "Number of people requiring interventions against neglected tropical diseases"
     },
     {
+      "path": "5-4-r/data.csv",
+      "name": "5-4-r",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-3-2/data.csv",
       "name": "3-3-2",
       "profile": "tabular-data-resource",
@@ -985,6 +1417,30 @@
         ]
       },
       "title": "Tuberculosis incidence per 100,000 population"
+    },
+    {
+      "path": "6-1-1/data.csv",
+      "name": "6-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population using safely managed drinking water services"
     },
     {
       "path": "1-2-2(1)/data.csv",
@@ -1011,8 +1467,80 @@
       "title": ""
     },
     {
+      "path": "5-4-1b/data.csv",
+      "name": "5-4-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "1-n3-2/data.csv",
       "name": "1-n3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-5-2/data.csv",
+      "name": "5-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women in managerial positions"
+    },
+    {
+      "path": "5-5-1-d/data.csv",
+      "name": "5-5-1-d",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1131,8 +1659,56 @@
       "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
     },
     {
+      "path": "5-2-r/data.csv",
+      "name": "5-2-r",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "2-n1-1/data.csv",
       "name": "2-n1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-5-1-a/data.csv",
+      "name": "5-5-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1299,6 +1875,54 @@
       "title": ""
     },
     {
+      "path": "5-b-1/data.csv",
+      "name": "5-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of individuals who own a mobile telephone, by sex"
+    },
+    {
+      "path": "6-n2-2/data.csv",
+      "name": "6-n2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "2-n3-1/data.csv",
       "name": "2-n3-1",
       "profile": "tabular-data-resource",
@@ -1323,8 +1947,104 @@
       "title": ""
     },
     {
+      "path": "6-5-2/data.csv",
+      "name": "6-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
+    },
+    {
+      "path": "5-2-1-b/data.csv",
+      "name": "5-2-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "6-n2-1/data.csv",
+      "name": "6-n2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "4-6-1-a/data.csv",
       "name": "4-6-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-5-1-e/data.csv",
+      "name": "5-5-1-e",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1393,6 +2113,30 @@
         ]
       },
       "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
+    },
+    {
+      "path": "5-5-1-c/data.csv",
+      "name": "5-5-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "4-a-1-f/data.csv",
@@ -1563,6 +2307,54 @@
       "title": ""
     },
     {
+      "path": "5-5-1-b/data.csv",
+      "name": "5-5-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "6-5-1/data.csv",
+      "name": "6-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Degree of integrated water resources management"
+    },
+    {
       "path": "3-9-3b/data.csv",
       "name": "3-9-3b",
       "profile": "tabular-data-resource",
@@ -1635,8 +2427,56 @@
       "title": ""
     },
     {
+      "path": "5-6-1/data.csv",
+      "name": "5-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+    },
+    {
       "path": "1-2-1(2)/data.csv",
       "name": "1-2-1(2)",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-a-1a/data.csv",
+      "name": "5-a-1a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1681,6 +2521,30 @@
         ]
       },
       "title": ""
+    },
+    {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
       "path": "3-3-r-1/data.csv",
@@ -1731,6 +2595,54 @@
       "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
     },
     {
+      "path": "5-2-2-b/data.csv",
+      "name": "5-2-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "6-4-1/data.csv",
+      "name": "6-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Change in water-use efficiency over time"
+    },
+    {
       "path": "1-2-2-a/data.csv",
       "name": "1-2-2-a",
       "profile": "tabular-data-resource",
@@ -1753,6 +2665,30 @@
         ]
       },
       "title": ""
+    },
+    {
+      "path": "6-4-2/data.csv",
+      "name": "6-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
     },
     {
       "path": "4-a-1-g/data.csv",
@@ -3099,54 +4035,6 @@
       "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
-      "path": "5-5-2/data.csv",
-      "name": "5-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of women in managerial positions"
-    },
-    {
-      "path": "5-6-1/data.csv",
-      "name": "5-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
-    },
-    {
       "path": "5-6-2/data.csv",
       "name": "5-6-2",
       "profile": "tabular-data-resource",
@@ -3219,30 +4107,6 @@
       "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control"
     },
     {
-      "path": "5-b-1/data.csv",
-      "name": "5-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of individuals who own a mobile telephone, by sex"
-    },
-    {
       "path": "5-c-1/data.csv",
       "name": "5-c-1",
       "profile": "tabular-data-resource",
@@ -3267,198 +4131,6 @@
       "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment"
     },
     {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population using safely managed drinking water services"
-    },
-    {
-      "path": "6-2-1/data.csv",
-      "name": "6-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
-    },
-    {
-      "path": "6-3-2/data.csv",
-      "name": "6-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of bodies of water with good ambient water quality"
-    },
-    {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of domestic and industrial wastewater flows safely treated"
-    },
-    {
-      "path": "6-4-1/data.csv",
-      "name": "6-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Change in water-use efficiency over time"
-    },
-    {
-      "path": "6-4-2/data.csv",
-      "name": "6-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
-    },
-    {
-      "path": "6-5-1/data.csv",
-      "name": "6-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Degree of integrated water resources management"
-    },
-    {
-      "path": "6-5-2/data.csv",
-      "name": "6-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
-    },
-    {
       "path": "6-6-1/data.csv",
       "name": "6-6-1",
       "profile": "tabular-data-resource",
@@ -3481,30 +4153,6 @@
         ]
       },
       "title": "Change in the extent of water-related ecosystems over time"
-    },
-    {
-      "path": "6-a-1/data.csv",
-      "name": "6-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
     },
     {
       "path": "6-b-1/data.csv",
