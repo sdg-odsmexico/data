@@ -3,6 +3,28 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "8-6-1c/data.csv",
+      "name": "8-6-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "4-c-1-c/data.csv",
       "name": "4-c-1-c",
       "profile": "tabular-data-resource",
@@ -91,6 +113,28 @@
       "title": ""
     },
     {
+      "path": "7-n3-1/data.csv",
+      "name": "7-n3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "4-4-1/data.csv",
       "name": "4-4-1",
       "profile": "tabular-data-resource",
@@ -137,6 +181,28 @@
     {
       "path": "5-a-1b/data.csv",
       "name": "5-a-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-5-1d/data.csv",
+      "name": "8-5-1d",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -619,6 +685,28 @@
       "title": ""
     },
     {
+      "path": "8-10-2/data.csv",
+      "name": "8-10-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+    },
+    {
       "path": "3-7-2-a/data.csv",
       "name": "3-7-2-a",
       "profile": "tabular-data-resource",
@@ -639,6 +727,28 @@
         ]
       },
       "title": ""
+    },
+    {
+      "path": "8-7-1/data.csv",
+      "name": "8-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
     },
     {
       "path": "1-4-2/data.csv",
@@ -685,6 +795,50 @@
       "title": ""
     },
     {
+      "path": "8-5-1b/data.csv",
+      "name": "8-5-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "7-3-1/data.csv",
+      "name": "7-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Energy intensity measured in terms of primary energy and GDP"
+    },
+    {
       "path": "5-n2-1/data.csv",
       "name": "5-n2-1",
       "profile": "tabular-data-resource",
@@ -705,6 +859,72 @@
         ]
       },
       "title": ""
+    },
+    {
+      "path": "7-n1-1/data.csv",
+      "name": "7-n1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "9-b-1/data.csv",
+      "name": "9-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of medium and high-tech industry value added in total value added"
+    },
+    {
+      "path": "9-5-1/data.csv",
+      "name": "9-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Research and development expenditure as a proportion of GDP"
     },
     {
       "path": "6-n1-1/data.csv",
@@ -861,8 +1081,118 @@
       "title": "Proportion of bodies of water with good ambient water quality"
     },
     {
+      "path": "8-n3-1c/data.csv",
+      "name": "8-n3-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-5-1c/data.csv",
+      "name": "8-5-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "9-2-2/data.csv",
+      "name": "9-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Manufacturing employment as a proportion of total employment"
+    },
+    {
+      "path": "9-1-1/data.csv",
+      "name": "9-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of the rural population who live within 2 km of an all-season road"
+    },
+    {
       "path": "3-3-r-2/data.csv",
       "name": "3-3-r-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-6-r-1/data.csv",
+      "name": "8-6-r-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -969,6 +1299,28 @@
         ]
       },
       "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+    },
+    {
+      "path": "9-2-1-a/data.csv",
+      "name": "9-2-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "1-1-1/data.csv",
@@ -1147,8 +1499,74 @@
       "title": ""
     },
     {
+      "path": "8-n2-2/data.csv",
+      "name": "8-n2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "1-1-1-a/data.csv",
       "name": "1-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-8-1/data.csv",
+      "name": "8-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+    },
+    {
+      "path": "9-2-1-b/data.csv",
+      "name": "9-2-1-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1367,6 +1785,28 @@
       "title": ""
     },
     {
+      "path": "8-n1-1/data.csv",
+      "name": "8-n1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "1-n3-2/data.csv",
       "name": "1-n3-2",
       "profile": "tabular-data-resource",
@@ -1413,6 +1853,28 @@
     {
       "path": "5-5-1-d/data.csv",
       "name": "5-5-1-d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-n3-1d/data.csv",
+      "name": "8-n3-1d",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1585,6 +2047,28 @@
         ]
       },
       "title": ""
+    },
+    {
+      "path": "8-2-1/data.csv",
+      "name": "8-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Annual growth rate of real GDP per employed person"
     },
     {
       "path": "3-n4-1/data.csv",
@@ -1785,6 +2269,28 @@
       "title": ""
     },
     {
+      "path": "8-3-1/data.csv",
+      "name": "8-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of informal employment in total employment, by sector and sex"
+    },
+    {
       "path": "6-5-2/data.csv",
       "name": "6-5-2",
       "profile": "tabular-data-resource",
@@ -1805,6 +2311,28 @@
         ]
       },
       "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
+    },
+    {
+      "path": "8-10-1-b/data.csv",
+      "name": "8-10-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "5-2-1-b/data.csv",
@@ -1917,6 +2445,28 @@
       "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
+      "path": "9-1-2-b/data.csv",
+      "name": "9-1-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "4-2-1/data.csv",
       "name": "4-2-1",
       "profile": "tabular-data-resource",
@@ -1941,6 +2491,28 @@
     {
       "path": "5-5-1-c/data.csv",
       "name": "5-5-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-3-1(2)/data.csv",
+      "name": "8-3-1(2)",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2005,8 +2577,52 @@
       "title": ""
     },
     {
+      "path": "9-n1-1/data.csv",
+      "name": "9-n1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-9-3a/data.csv",
       "name": "3-9-3a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "9-2-2(2)/data.csv",
+      "name": "9-2-2(2)",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2093,6 +2709,50 @@
       "title": ""
     },
     {
+      "path": "8-2-1(2)/data.csv",
+      "name": "8-2-1(2)",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-n4-1/data.csv",
+      "name": "8-n4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "4-a-1-a/data.csv",
       "name": "4-a-1-a",
       "profile": "tabular-data-resource",
@@ -2113,6 +2773,50 @@
         ]
       },
       "title": ""
+    },
+    {
+      "path": "8-n3-1b/data.csv",
+      "name": "8-n3-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "7-2-1/data.csv",
+      "name": "7-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Renewable energy share in the total final energy consumption"
     },
     {
       "path": "5-5-1-b/data.csv",
@@ -2157,6 +2861,28 @@
         ]
       },
       "title": "Degree of integrated water resources management"
+    },
+    {
+      "path": "9-n3-1/data.csv",
+      "name": "9-n3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "3-9-3b/data.csv",
@@ -2225,6 +2951,28 @@
       "title": ""
     },
     {
+      "path": "8-1-1/data.csv",
+      "name": "8-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Annual growth rate of real GDP per capita"
+    },
+    {
       "path": "5-6-1/data.csv",
       "name": "5-6-1",
       "profile": "tabular-data-resource",
@@ -2291,8 +3039,74 @@
       "title": ""
     },
     {
+      "path": "8-6-1a/data.csv",
+      "name": "8-6-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-3-r-c/data.csv",
       "name": "3-3-r-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-10-1-a/data.csv",
+      "name": "8-10-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-5-2(2)/data.csv",
+      "name": "8-5-2(2)",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2333,6 +3147,50 @@
         ]
       },
       "title": "Proportion of domestic and industrial wastewater flows safely treated"
+    },
+    {
+      "path": "8-n2-1/data.csv",
+      "name": "8-n2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "9-5-2/data.csv",
+      "name": "9-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Researchers (in full-time equivalent) per million inhabitants"
     },
     {
       "path": "3-3-r-1/data.csv",
@@ -2467,8 +3325,118 @@
       "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
     },
     {
+      "path": "9-1-2-a/data.csv",
+      "name": "9-1-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-5-2/data.csv",
+      "name": "8-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Unemployment rate, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "9-n2-1/data.csv",
+      "name": "9-n2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "4-a-1-g/data.csv",
       "name": "4-a-1-g",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "9-4-1/data.csv",
+      "name": "9-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "CO2 emission per unit of value added"
+    },
+    {
+      "path": "7-n2-1/data.csv",
+      "name": "7-n2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2533,6 +3501,28 @@
       "title": "Proportion of total government spending on essential services (education, health and social protection)"
     },
     {
+      "path": "8-5-1a/data.csv",
+      "name": "8-5-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-n1-2/data.csv",
       "name": "3-n1-2",
       "profile": "tabular-data-resource",
@@ -2575,6 +3565,28 @@
         ]
       },
       "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+    },
+    {
+      "path": "8-9-1/data.csv",
+      "name": "8-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
       "path": "1-n3-1-a/data.csv",
@@ -2623,6 +3635,50 @@
     {
       "path": "1-2-1(1)/data.csv",
       "name": "1-2-1(1)",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-n3-1a/data.csv",
+      "name": "8-n3-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-6-1b/data.csv",
+      "name": "8-6-1b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3875,50 +4931,6 @@
       "title": "Proportion of population with primary reliance on clean fuels and technology"
     },
     {
-      "path": "7-2-1/data.csv",
-      "name": "7-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Renewable energy share in the total final energy consumption"
-    },
-    {
-      "path": "7-3-1/data.csv",
-      "name": "7-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Energy intensity measured in terms of primary energy and GDP"
-    },
-    {
       "path": "7-a-1/data.csv",
       "name": "7-a-1",
       "profile": "tabular-data-resource",
@@ -3939,72 +4951,6 @@
         ]
       },
       "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
-    },
-    {
-      "path": "8-1-1/data.csv",
-      "name": "8-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Annual growth rate of real GDP per capita"
-    },
-    {
-      "path": "8-2-1/data.csv",
-      "name": "8-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Annual growth rate of real GDP per employed person"
-    },
-    {
-      "path": "8-3-1/data.csv",
-      "name": "8-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
       "path": "8-5-1/data.csv",
@@ -4029,28 +4975,6 @@
       "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
     },
     {
-      "path": "8-5-2/data.csv",
-      "name": "8-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Unemployment rate, by sex, age and persons with disabilities"
-    },
-    {
       "path": "8-6-1/data.csv",
       "name": "8-6-1",
       "profile": "tabular-data-resource",
@@ -4073,50 +4997,6 @@
       "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
     },
     {
-      "path": "8-7-1/data.csv",
-      "name": "8-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
-    },
-    {
-      "path": "8-8-1/data.csv",
-      "name": "8-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
-    },
-    {
       "path": "8-8-2/data.csv",
       "name": "8-8-2",
       "profile": "tabular-data-resource",
@@ -4137,28 +5017,6 @@
         ]
       },
       "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status"
-    },
-    {
-      "path": "8-9-1/data.csv",
-      "name": "8-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
       "path": "8-a-1/data.csv",
@@ -4227,50 +5085,6 @@
       "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
     },
     {
-      "path": "8-10-2/data.csv",
-      "name": "8-10-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
-    },
-    {
-      "path": "9-1-1/data.csv",
-      "name": "9-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of the rural population who live within 2 km of an all-season road"
-    },
-    {
       "path": "9-1-2/data.csv",
       "name": "9-1-2",
       "profile": "tabular-data-resource",
@@ -4313,28 +5127,6 @@
         ]
       },
       "title": "Manufacturing value added as a proportion of GDP and per capita"
-    },
-    {
-      "path": "9-2-2/data.csv",
-      "name": "9-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Manufacturing employment as a proportion of total employment"
     },
     {
       "path": "9-3-1/data.csv",
@@ -4381,72 +5173,6 @@
       "title": "Proportion of small-scale industries with a loan or line of credit"
     },
     {
-      "path": "9-4-1/data.csv",
-      "name": "9-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "CO2 emission per unit of value added"
-    },
-    {
-      "path": "9-5-1/data.csv",
-      "name": "9-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Research and development expenditure as a proportion of GDP"
-    },
-    {
-      "path": "9-5-2/data.csv",
-      "name": "9-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Researchers (in full-time equivalent) per million inhabitants"
-    },
-    {
       "path": "9-a-1/data.csv",
       "name": "9-a-1",
       "profile": "tabular-data-resource",
@@ -4467,28 +5193,6 @@
         ]
       },
       "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
-    },
-    {
-      "path": "9-b-1/data.csv",
-      "name": "9-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of medium and high-tech industry value added in total value added"
     },
     {
       "path": "9-c-1/data.csv",
