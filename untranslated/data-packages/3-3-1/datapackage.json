@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Estimación",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estimación puntual",
+                "Límite inferior",
+                "Límite superior",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

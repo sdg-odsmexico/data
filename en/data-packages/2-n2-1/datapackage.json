@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Grupos de interés",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nacional",
+                "Población indígena",
+                "Personas con discapacidad",
+                ""
+              ]
+            },
+            "title": "Grupos de interés"
           },
           {
             "name": "Value",

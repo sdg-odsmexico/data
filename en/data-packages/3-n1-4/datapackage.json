@@ -12,8 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Quintiles de Ingreso",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V",
+                ""
+              ]
+            },
+            "title": "Quintiles de Ingreso"
+          },
+          {
+            "name": "Cobertura geografica",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nacional",
+                "Urbana",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Cobertura geografica"
           },
           {
             "name": "Value",

@@ -1,1 +1,100 @@
-Year,Value
+Year,Entidad federativa,GeoCode,Value
+2018,Estados Unidos Mexicanos,0,83.14449
+2014,Estados Unidos Mexicanos,0,81.55143
+2009,Estados Unidos Mexicanos,0,81.64172
+2018,Aguascalientes,1,81.02164
+2014,Aguascalientes,1,80.21599
+2009,Aguascalientes,1,78.15315
+2018,Baja California,2,87.24494
+2014,Baja California,2,85.88508
+2009,Baja California,2,87.9833
+2018,Baja California Sur,3,85.99408
+2014,Baja California Sur,3,85.15618
+2009,Baja California Sur,3,89.15194
+2018,Campeche,4,80.41794
+2014,Campeche,4,80.53081
+2009,Campeche,4,80.80772
+2018,Coahuila de Zaragoza,5,86.39543
+2014,Coahuila de Zaragoza,5,84.46578
+2009,Coahuila de Zaragoza,5,87.21984
+2018,Colima,6,82.06954
+2014,Colima,6,83.44745
+2009,Colima,6,85.38818
+2018,Chiapas,7,75.56538
+2014,Chiapas,7,72.13419
+2009,Chiapas,7,66.70213
+2018,Chihuahua,8,87.14105
+2014,Chihuahua,8,86.7436
+2009,Chihuahua,8,88.43076
+2018,Ciudad de México,9,87.23661
+2014,Ciudad de México,9,86.09118
+2009,Ciudad de México,9,87.6096
+2018,Durango,10,84.35506
+2014,Durango,10,83.44114
+2009,Durango,10,86.50335
+2018,Guanajuato,11,80.80334
+2014,Guanajuato,11,75.24434
+2009,Guanajuato,11,75.34206
+2018,Guerrero,12,78.77621
+2014,Guerrero,12,78.41153
+2009,Guerrero,12,73.39378
+2018,Hidalgo,13,86.48911
+2014,Hidalgo,13,83.90682
+2009,Hidalgo,13,78.84463
+2018,Jalisco,14,80.09841
+2014,Jalisco,14,77.07463
+2009,Jalisco,14,77.82742
+2018,México,15,86.4367
+2014,México,15,84.3727
+2009,México,15,84.57253
+2018,Michoacán de Ocampo,16,77.62983
+2014,Michoacán de Ocampo,16,76.81604
+2009,Michoacán de Ocampo,16,72.96018
+2018,Morelos,17,86.66176
+2014,Morelos,17,84.25014
+2009,Morelos,17,85.87949
+2018,Nayarit,18,84.21493
+2014,Nayarit,18,84.44025
+2009,Nayarit,18,89.43508
+2018,Nuevo León,19,83.45225
+2014,Nuevo León,19,83.64227
+2009,Nuevo León,19,87.19853
+2018,Oaxaca,20,80.47425
+2014,Oaxaca,20,74.69575
+2009,Oaxaca,20,75.54144
+2018,Puebla,21,80.60993
+2014,Puebla,21,80.23756
+2009,Puebla,21,76.80233
+2018,Querétaro,22,81.56738
+2014,Querétaro,22,81.07756
+2009,Querétaro,22,77.35775
+2018,Quintana Roo,23,80.09824
+2014,Quintana Roo,23,80.09678
+2009,Quintana Roo,23,82.32672
+2018,San Luis Potosí,24,84.12292
+2014,San Luis Potosí,24,83.04312
+2009,San Luis Potosí,24,80.45231
+2018,Sinaloa,25,87.56028
+2014,Sinaloa,25,88.6841
+2009,Sinaloa,25,91.31761
+2018,Sonora,26,88.12599
+2014,Sonora,26,84.83982
+2009,Sonora,26,89.47308
+2018,Tabasco,27,80.62562
+2014,Tabasco,27,80.91067
+2009,Tabasco,27,80.84926
+2018,Tamaulipas,28,82.67811
+2014,Tamaulipas,28,84.99381
+2009,Tamaulipas,28,84.68772
+2018,Tlaxcala,29,84.15889
+2014,Tlaxcala,29,82.34784
+2009,Tlaxcala,29,76.50198
+2018,Veracruz de Ignacio de la Llave,30,82.96111
+2014,Veracruz de Ignacio de la Llave,30,80.60269
+2009,Veracruz de Ignacio de la Llave,30,82.60507
+2018,Yucatán,31,79.08479
+2014,Yucatán,31,76.85357
+2009,Yucatán,31,73.71982
+2018,Zacatecas,32,79.13305
+2014,Zacatecas,32,80.82411
+2009,Zacatecas,32,82.92639

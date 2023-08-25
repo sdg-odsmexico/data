@@ -12,8 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Población debajo de umbral de pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nacional",
+                "Hombres",
+                "Mujeres",
+                "Menor de 18 años",
+                "18 años o más",
+                "Entre 12 y 29 años de edad",
+                "De 0 a 11 años y de 30 años o más",
+                "De 65 años o más",
+                "Menor de 65 años",
+                ""
+              ]
+            },
+            "title": "Población debajo de umbral de pobreza"
           },
           {
             "name": "Value",

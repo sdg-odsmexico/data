@@ -12,11 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sexo (t-h-m-na)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                "No especificado",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Residencia habitual fuera de México o no especificada",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos de Norteamérica",
+                "Países latinoamericanos",
+                "Otros países",
+                "No especificado",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

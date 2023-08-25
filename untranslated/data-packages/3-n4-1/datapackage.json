@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Población con sobrepeso y obesidad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5-11 años",
+                "12-19 años mujeres",
+                "12-19 años hombres",
+                "20 y más años mujeres",
+                "20 y más años hombres",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

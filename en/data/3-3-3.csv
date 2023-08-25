@@ -1,1 +1,1057 @@
-Year,Value
+Year,Entidad federativa,GeoCode,Value
+2021,Estados Unidos Mexicanos,0,0.19074
+2020,Estados Unidos Mexicanos,0,0.27858
+2019,Estados Unidos Mexicanos,0,0.48113
+2018,Estados Unidos Mexicanos,0,0.64072
+2017,Estados Unidos Mexicanos,0,0.59335
+2016,Estados Unidos Mexicanos,0,0.44901
+2015,Estados Unidos Mexicanos,0,0.42605
+2014,Estados Unidos Mexicanos,0,0.54696
+2013,Estados Unidos Mexicanos,0,0.41788
+2012,Estados Unidos Mexicanos,0,0.71236
+2011,Estados Unidos Mexicanos,0,0.97428
+2010,Estados Unidos Mexicanos,0,1.07781
+2009,Estados Unidos Mexicanos,0,2.35157
+2008,Estados Unidos Mexicanos,0,2.13486
+2007,Estados Unidos Mexicanos,0,2.17114
+2006,Estados Unidos Mexicanos,0,2.34613
+2005,Estados Unidos Mexicanos,0,2.80781
+2004,Estados Unidos Mexicanos,0,3.26644
+2003,Estados Unidos Mexicanos,0,3.71171
+2002,Estados Unidos Mexicanos,0,4.55593
+2001,Estados Unidos Mexicanos,0,4.99074
+2000,Estados Unidos Mexicanos,0,7.48087
+1999,Estados Unidos Mexicanos,0,13.79734
+1998,Estados Unidos Mexicanos,0,26.03391
+1997,Estados Unidos Mexicanos,0,5.07598
+1996,Estados Unidos Mexicanos,0,6.74529
+1995,Estados Unidos Mexicanos,0,8.08219
+1994,Estados Unidos Mexicanos,0,14.23596
+1993,Estados Unidos Mexicanos,0,17.77473
+1992,Estados Unidos Mexicanos,0,18.51972
+1991,Estados Unidos Mexicanos,0,30.98005
+1990,Estados Unidos Mexicanos,0,52.88491
+2021,Aguascalientes,1,0.0
+2020,Aguascalientes,1,0.0
+2019,Aguascalientes,1,0.0
+2018,Aguascalientes,1,0.0
+2017,Aguascalientes,1,0.0
+2016,Aguascalientes,1,0.0
+2015,Aguascalientes,1,0.0
+2014,Aguascalientes,1,0.0
+2013,Aguascalientes,1,0.0
+2012,Aguascalientes,1,0.0
+2011,Aguascalientes,1,0.0
+2010,Aguascalientes,1,0.0
+2009,Aguascalientes,1,0.0
+2008,Aguascalientes,1,0.0
+2007,Aguascalientes,1,0.0
+2006,Aguascalientes,1,0.0
+2005,Aguascalientes,1,0.0
+2004,Aguascalientes,1,0.0
+2003,Aguascalientes,1,0.0
+2002,Aguascalientes,1,0.0
+2001,Aguascalientes,1,0.0
+2000,Aguascalientes,1,0.0
+1999,Aguascalientes,1,0.0
+1998,Aguascalientes,1,0.0
+1997,Aguascalientes,1,0.0
+1996,Aguascalientes,1,0.11304
+1995,Aguascalientes,1,0.0
+1994,Aguascalientes,1,0.0
+1993,Aguascalientes,1,0.0
+1992,Aguascalientes,1,0.0
+1991,Aguascalientes,1,0.0
+1990,Aguascalientes,1,0.53423
+2021,Baja California,2,0.0
+2020,Baja California,2,0.0
+2019,Baja California,2,0.0
+2018,Baja California,2,0.0
+2017,Baja California,2,0.0
+2016,Baja California,2,0.0
+2015,Baja California,2,0.0
+2014,Baja California,2,0.0
+2013,Baja California,2,0.0
+2012,Baja California,2,0.0
+2011,Baja California,2,0.0
+2010,Baja California,2,0.0
+2009,Baja California,2,0.0
+2008,Baja California,2,0.0
+2007,Baja California,2,0.0
+2006,Baja California,2,0.0
+2005,Baja California,2,0.0
+2004,Baja California,2,0.0
+2003,Baja California,2,0.0
+2002,Baja California,2,0.0
+2001,Baja California,2,0.0
+2000,Baja California,2,0.0
+1999,Baja California,2,0.0
+1998,Baja California,2,0.0
+1997,Baja California,2,0.0
+1996,Baja California,2,0.0
+1995,Baja California,2,0.0
+1994,Baja California,2,0.0
+1993,Baja California,2,0.0
+1992,Baja California,2,0.0
+1991,Baja California,2,0.0
+1990,Baja California,2,0.11533
+2021,Baja California Sur,3,0.0
+2020,Baja California Sur,3,0.0
+2019,Baja California Sur,3,0.0
+2018,Baja California Sur,3,0.0
+2017,Baja California Sur,3,0.0
+2016,Baja California Sur,3,0.0
+2015,Baja California Sur,3,0.0
+2014,Baja California Sur,3,0.0
+2013,Baja California Sur,3,0.0
+2012,Baja California Sur,3,0.0
+2011,Baja California Sur,3,0.0
+2010,Baja California Sur,3,0.0
+2009,Baja California Sur,3,0.0
+2008,Baja California Sur,3,0.0
+2007,Baja California Sur,3,0.0
+2006,Baja California Sur,3,0.0
+2005,Baja California Sur,3,0.0
+2004,Baja California Sur,3,0.0
+2003,Baja California Sur,3,0.0
+2002,Baja California Sur,3,0.0
+2001,Baja California Sur,3,0.0
+2000,Baja California Sur,3,0.0
+1999,Baja California Sur,3,0.0
+1998,Baja California Sur,3,0.0
+1997,Baja California Sur,3,0.0
+1996,Baja California Sur,3,0.51833
+1995,Baja California Sur,3,0.79909
+1994,Baja California Sur,3,0.27312
+1993,Baja California Sur,3,2.52201
+1992,Baja California Sur,3,16.11121
+1991,Baja California Sur,3,0.88673
+1990,Baja California Sur,3,5.77295
+2021,Campeche,4,4.12975
+2020,Campeche,4,0.89945
+2019,Campeche,4,0.20324
+2018,Campeche,4,0.41351
+2017,Campeche,4,0.73649
+2016,Campeche,4,9.21327
+2015,Campeche,4,19.30561
+2014,Campeche,4,24.87261
+2013,Campeche,4,0.0
+2012,Campeche,4,0.0
+2011,Campeche,4,0.0
+2010,Campeche,4,0.23982
+2009,Campeche,4,0.0
+2008,Campeche,4,0.0
+2007,Campeche,4,0.0
+2006,Campeche,4,0.0
+2005,Campeche,4,0.1292
+2004,Campeche,4,0.52657
+2003,Campeche,4,2.81679
+2002,Campeche,4,7.38265
+2001,Campeche,4,7.94337
+2000,Campeche,4,5.253
+1999,Campeche,4,9.10004
+1998,Campeche,4,7.49153
+1997,Campeche,4,10.91098
+1996,Campeche,4,13.54292
+1995,Campeche,4,11.66838
+1994,Campeche,4,41.86059
+1993,Campeche,4,90.64203
+1992,Campeche,4,93.56227
+1991,Campeche,4,139.76435
+1990,Campeche,4,289.71753
+2021,Coahuila de Zaragoza,5,0.0
+2020,Coahuila de Zaragoza,5,0.0
+2019,Coahuila de Zaragoza,5,0.0
+2018,Coahuila de Zaragoza,5,0.0
+2017,Coahuila de Zaragoza,5,0.0
+2016,Coahuila de Zaragoza,5,0.0
+2015,Coahuila de Zaragoza,5,0.0
+2014,Coahuila de Zaragoza,5,0.0
+2013,Coahuila de Zaragoza,5,0.0
+2012,Coahuila de Zaragoza,5,0.0
+2011,Coahuila de Zaragoza,5,0.0
+2010,Coahuila de Zaragoza,5,0.0
+2009,Coahuila de Zaragoza,5,0.0
+2008,Coahuila de Zaragoza,5,0.0
+2007,Coahuila de Zaragoza,5,0.0
+2006,Coahuila de Zaragoza,5,0.0
+2005,Coahuila de Zaragoza,5,0.0
+2004,Coahuila de Zaragoza,5,0.0
+2003,Coahuila de Zaragoza,5,0.0
+2002,Coahuila de Zaragoza,5,0.0
+2001,Coahuila de Zaragoza,5,0.0
+2000,Coahuila de Zaragoza,5,0.0
+1999,Coahuila de Zaragoza,5,0.0
+1998,Coahuila de Zaragoza,5,0.0
+1997,Coahuila de Zaragoza,5,0.0
+1996,Coahuila de Zaragoza,5,0.0
+1995,Coahuila de Zaragoza,5,0.04573
+1994,Coahuila de Zaragoza,5,0.0
+1993,Coahuila de Zaragoza,5,0.04698
+1992,Coahuila de Zaragoza,5,0.0
+1991,Coahuila de Zaragoza,5,0.0
+1990,Coahuila de Zaragoza,5,0.0
+2021,Colima,6,0.0
+2020,Colima,6,0.0
+2019,Colima,6,0.0
+2018,Colima,6,0.0
+2017,Colima,6,0.0
+2016,Colima,6,0.0
+2015,Colima,6,0.0
+2014,Colima,6,0.0
+2013,Colima,6,0.0
+2012,Colima,6,0.0
+2011,Colima,6,0.0
+2010,Colima,6,0.0
+2009,Colima,6,0.0
+2008,Colima,6,0.0
+2007,Colima,6,0.0
+2006,Colima,6,0.0
+2005,Colima,6,0.0
+2004,Colima,6,0.0
+2003,Colima,6,0.0
+2002,Colima,6,0.0
+2001,Colima,6,0.18145
+2000,Colima,6,0.0
+1999,Colima,6,0.37366
+1998,Colima,6,0.0
+1997,Colima,6,0.19508
+1996,Colima,6,0.39897
+1995,Colima,6,2.24075
+1994,Colima,6,1.24632
+1993,Colima,6,2.96712
+1992,Colima,6,5.19285
+1991,Colima,6,18.78727
+1990,Colima,6,95.5537
+2021,Chiapas,7,2.33984
+2020,Chiapas,7,3.99625
+2019,Chiapas,7,7.25981
+2018,Chiapas,7,7.90817
+2017,Chiapas,7,8.46815
+2016,Chiapas,7,6.26629
+2015,Chiapas,7,3.57962
+2014,Chiapas,7,3.35209
+2013,Chiapas,7,3.02115
+2012,Chiapas,7,5.06074
+2011,Chiapas,7,10.39447
+2010,Chiapas,7,13.97722
+2009,Chiapas,7,22.54579
+2008,Chiapas,7,24.34205
+2007,Chiapas,7,33.89048
+2006,Chiapas,7,30.69981
+2005,Chiapas,7,19.43544
+2004,Chiapas,7,28.13202
+2003,Chiapas,7,44.8623
+2002,Chiapas,7,59.74286
+2001,Chiapas,7,64.06737
+2000,Chiapas,7,91.30715
+1999,Chiapas,7,111.09982
+1998,Chiapas,7,136.28144
+1997,Chiapas,7,51.43519
+1996,Chiapas,7,41.75228
+1995,Chiapas,7,66.58205
+1994,Chiapas,7,77.04866
+1993,Chiapas,7,115.96184
+1992,Chiapas,7,112.65544
+1991,Chiapas,7,170.38567
+1990,Chiapas,7,219.30107
+2021,Chihuahua,8,1.04262
+2020,Chihuahua,8,2.8936
+2019,Chihuahua,8,3.69158
+2018,Chihuahua,8,8.42278
+2017,Chihuahua,8,5.39383
+2016,Chihuahua,8,1.6715
+2015,Chihuahua,8,0.63598
+2014,Chihuahua,8,0.47349
+2013,Chihuahua,8,0.92652
+2012,Chihuahua,8,4.44557
+2011,Chihuahua,8,8.4868
+2010,Chihuahua,8,4.59288
+2009,Chihuahua,8,12.78116
+2008,Chihuahua,8,5.4444
+2007,Chihuahua,8,4.63031
+2006,Chihuahua,8,3.74072
+2005,Chihuahua,8,5.47655
+2004,Chihuahua,8,5.58416
+2003,Chihuahua,8,8.46343
+2002,Chihuahua,8,13.60534
+2001,Chihuahua,8,12.97219
+2000,Chihuahua,8,22.90239
+1999,Chihuahua,8,18.64594
+1998,Chihuahua,8,11.12486
+1997,Chihuahua,8,8.87068
+1996,Chihuahua,8,10.79097
+1995,Chihuahua,8,13.92329
+1994,Chihuahua,8,25.23838
+1993,Chihuahua,8,15.1939
+1992,Chihuahua,8,13.9639
+1991,Chihuahua,8,22.04136
+1990,Chihuahua,8,32.77571
+2021,Ciudad de México,9,0.0
+2020,Ciudad de México,9,0.0
+2019,Ciudad de México,9,0.0
+2018,Ciudad de México,9,0.0
+2017,Ciudad de México,9,0.0
+2016,Ciudad de México,9,0.0
+2015,Ciudad de México,9,0.0
+2014,Ciudad de México,9,0.0
+2013,Ciudad de México,9,0.0
+2012,Ciudad de México,9,0.0
+2011,Ciudad de México,9,0.0
+2010,Ciudad de México,9,0.0
+2009,Ciudad de México,9,0.0
+2008,Ciudad de México,9,0.0
+2007,Ciudad de México,9,0.0
+2006,Ciudad de México,9,0.0
+2005,Ciudad de México,9,0.0
+2004,Ciudad de México,9,0.0
+2003,Ciudad de México,9,0.0
+2002,Ciudad de México,9,0.0
+2001,Ciudad de México,9,0.0
+2000,Ciudad de México,9,0.0
+1999,Ciudad de México,9,0.0
+1998,Ciudad de México,9,0.0
+1997,Ciudad de México,9,0.01162
+1996,Ciudad de México,9,0.01164
+1995,Ciudad de México,9,0.0
+1994,Ciudad de México,9,0.0
+1993,Ciudad de México,9,0.0
+1992,Ciudad de México,9,0.0
+1991,Ciudad de México,9,0.0
+1990,Ciudad de México,9,0.0
+2021,Durango,10,0.0
+2020,Durango,10,0.0
+2019,Durango,10,0.0
+2018,Durango,10,0.10891
+2017,Durango,10,0.0
+2016,Durango,10,0.16649
+2015,Durango,10,0.16839
+2014,Durango,10,1.36506
+2013,Durango,10,3.86478
+2012,Durango,10,7.25809
+2011,Durango,10,3.98232
+2010,Durango,10,3.07859
+2009,Durango,10,2.57134
+2008,Durango,10,2.35759
+2007,Durango,10,2.8292
+2006,Durango,10,8.46994
+2005,Durango,10,7.3452
+2004,Durango,10,3.51643
+2003,Durango,10,5.4628
+2002,Durango,10,6.92062
+2001,Durango,10,9.28584
+2000,Durango,10,11.62929
+1999,Durango,10,12.0975
+1998,Durango,10,3.6232
+1997,Durango,10,3.76333
+1996,Durango,10,9.25211
+1995,Durango,10,9.8414
+1994,Durango,10,15.24407
+1993,Durango,10,14.66038
+1992,Durango,10,17.17252
+1991,Durango,10,19.52422
+1990,Durango,10,31.88899
+2021,Guanajuato,11,0.0
+2020,Guanajuato,11,0.0
+2019,Guanajuato,11,0.0
+2018,Guanajuato,11,0.0
+2017,Guanajuato,11,0.0
+2016,Guanajuato,11,0.0
+2015,Guanajuato,11,0.0
+2014,Guanajuato,11,0.0
+2013,Guanajuato,11,0.0
+2012,Guanajuato,11,0.0
+2011,Guanajuato,11,0.0
+2010,Guanajuato,11,0.0
+2009,Guanajuato,11,0.0
+2008,Guanajuato,11,0.0
+2007,Guanajuato,11,0.0
+2006,Guanajuato,11,0.0
+2005,Guanajuato,11,0.0
+2004,Guanajuato,11,0.0
+2003,Guanajuato,11,0.0
+2002,Guanajuato,11,0.0
+2001,Guanajuato,11,0.0
+2000,Guanajuato,11,0.0
+1999,Guanajuato,11,0.0
+1998,Guanajuato,11,0.0
+1997,Guanajuato,11,0.0
+1996,Guanajuato,11,0.04445
+1995,Guanajuato,11,0.0
+1994,Guanajuato,11,0.0
+1993,Guanajuato,11,0.0
+1992,Guanajuato,11,0.02351
+1991,Guanajuato,11,0.04775
+1990,Guanajuato,11,0.60657
+2021,Guerrero,12,0.0
+2020,Guerrero,12,0.0
+2019,Guerrero,12,0.0
+2018,Guerrero,12,0.0
+2017,Guerrero,12,0.0
+2016,Guerrero,12,0.0
+2015,Guerrero,12,0.0
+2014,Guerrero,12,0.0
+2013,Guerrero,12,0.0
+2012,Guerrero,12,0.0
+2011,Guerrero,12,0.0
+2010,Guerrero,12,0.0
+2009,Guerrero,12,0.0
+2008,Guerrero,12,0.0
+2007,Guerrero,12,0.0
+2006,Guerrero,12,0.0
+2005,Guerrero,12,0.0
+2004,Guerrero,12,0.09392
+2003,Guerrero,12,0.22034
+2002,Guerrero,12,0.75981
+2001,Guerrero,12,2.83414
+2000,Guerrero,12,5.15441
+1999,Guerrero,12,7.13329
+1998,Guerrero,12,4.60527
+1997,Guerrero,12,4.59677
+1996,Guerrero,12,2.47939
+1995,Guerrero,12,6.55326
+1994,Guerrero,12,13.28678
+1993,Guerrero,12,11.13924
+1992,Guerrero,12,22.65132
+1991,Guerrero,12,48.57659
+1990,Guerrero,12,195.78139
+2021,Hidalgo,13,0.0
+2020,Hidalgo,13,0.0
+2019,Hidalgo,13,0.0
+2018,Hidalgo,13,0.0
+2017,Hidalgo,13,0.0
+2016,Hidalgo,13,0.0
+2015,Hidalgo,13,0.0
+2014,Hidalgo,13,0.0
+2013,Hidalgo,13,0.0
+2012,Hidalgo,13,0.0
+2011,Hidalgo,13,0.0
+2010,Hidalgo,13,0.0
+2009,Hidalgo,13,0.0
+2008,Hidalgo,13,0.0
+2007,Hidalgo,13,0.0
+2006,Hidalgo,13,0.0
+2005,Hidalgo,13,0.0
+2004,Hidalgo,13,0.0
+2003,Hidalgo,13,0.0
+2002,Hidalgo,13,0.0
+2001,Hidalgo,13,0.0
+2000,Hidalgo,13,0.0
+1999,Hidalgo,13,0.13314
+1998,Hidalgo,13,0.1798
+1997,Hidalgo,13,1.13873
+1996,Hidalgo,13,7.29627
+1995,Hidalgo,13,3.88976
+1994,Hidalgo,13,5.42812
+1993,Hidalgo,13,16.02332
+1992,Hidalgo,13,44.8141
+1991,Hidalgo,13,42.45938
+1990,Hidalgo,13,18.22677
+2021,Jalisco,14,0.0
+2020,Jalisco,14,0.0
+2019,Jalisco,14,0.0
+2018,Jalisco,14,0.0
+2017,Jalisco,14,0.0
+2016,Jalisco,14,0.0
+2015,Jalisco,14,0.0
+2014,Jalisco,14,0.01271
+2013,Jalisco,14,0.03859
+2012,Jalisco,14,0.05213
+2011,Jalisco,14,0.14533
+2010,Jalisco,14,0.09381
+2009,Jalisco,14,0.10883
+2008,Jalisco,14,0.1382
+2007,Jalisco,14,0.02808
+2006,Jalisco,14,0.02851
+2005,Jalisco,14,0.02894
+2004,Jalisco,14,0.08809
+2003,Jalisco,14,0.08938
+2002,Jalisco,14,0.16633
+2001,Jalisco,14,0.41448
+2000,Jalisco,14,0.79443
+1999,Jalisco,14,0.18925
+1998,Jalisco,14,0.58994
+1997,Jalisco,14,1.03222
+1996,Jalisco,14,1.50179
+1995,Jalisco,14,1.14265
+1994,Jalisco,14,1.24622
+1993,Jalisco,14,1.98782
+1992,Jalisco,14,2.9311
+1991,Jalisco,14,5.88301
+1990,Jalisco,14,10.59704
+2021,México,15,0.0
+2020,México,15,0.0
+2019,México,15,0.0
+2018,México,15,0.0
+2017,México,15,0.0
+2016,México,15,0.0
+2015,México,15,0.0
+2014,México,15,0.0
+2013,México,15,0.0
+2012,México,15,0.0
+2011,México,15,0.0
+2010,México,15,0.0
+2009,México,15,0.0
+2008,México,15,0.0
+2007,México,15,0.0
+2006,México,15,0.0
+2005,México,15,0.0
+2004,México,15,0.0
+2003,México,15,0.0
+2002,México,15,0.0
+2001,México,15,0.0
+2000,México,15,0.0
+1999,México,15,0.0
+1998,México,15,0.0
+1997,México,15,0.0081
+1996,México,15,0.0083
+1995,México,15,0.01704
+1994,México,15,0.04373
+1993,México,15,0.0988
+1992,México,15,0.13845
+1991,México,15,0.15187
+1990,México,15,0.61527
+2021,Michoacán de Ocampo,16,0.0
+2020,Michoacán de Ocampo,16,0.0
+2019,Michoacán de Ocampo,16,0.0
+2018,Michoacán de Ocampo,16,0.0
+2017,Michoacán de Ocampo,16,0.0
+2016,Michoacán de Ocampo,16,0.0
+2015,Michoacán de Ocampo,16,0.0
+2014,Michoacán de Ocampo,16,0.0
+2013,Michoacán de Ocampo,16,0.0
+2012,Michoacán de Ocampo,16,0.0
+2011,Michoacán de Ocampo,16,0.0
+2010,Michoacán de Ocampo,16,0.0
+2009,Michoacán de Ocampo,16,0.0
+2008,Michoacán de Ocampo,16,0.0
+2007,Michoacán de Ocampo,16,0.0
+2006,Michoacán de Ocampo,16,0.0
+2005,Michoacán de Ocampo,16,0.0
+2004,Michoacán de Ocampo,16,0.17139
+2003,Michoacán de Ocampo,16,0.07364
+2002,Michoacán de Ocampo,16,0.51699
+2001,Michoacán de Ocampo,16,1.33346
+2000,Michoacán de Ocampo,16,3.34221
+1999,Michoacán de Ocampo,16,4.96747
+1998,Michoacán de Ocampo,16,5.36539
+1997,Michoacán de Ocampo,16,1.48022
+1996,Michoacán de Ocampo,16,8.60596
+1995,Michoacán de Ocampo,16,13.89681
+1994,Michoacán de Ocampo,16,15.15838
+1993,Michoacán de Ocampo,16,16.95107
+1992,Michoacán de Ocampo,16,31.55353
+1991,Michoacán de Ocampo,16,60.21394
+1990,Michoacán de Ocampo,16,129.25124
+2021,Morelos,17,0.0
+2020,Morelos,17,0.0
+2019,Morelos,17,0.0
+2018,Morelos,17,0.0
+2017,Morelos,17,0.0
+2016,Morelos,17,0.0
+2015,Morelos,17,0.0
+2014,Morelos,17,0.0
+2013,Morelos,17,0.0
+2012,Morelos,17,0.0
+2011,Morelos,17,0.0
+2010,Morelos,17,0.0
+2009,Morelos,17,0.0
+2008,Morelos,17,0.0
+2007,Morelos,17,0.0
+2006,Morelos,17,0.0
+2005,Morelos,17,0.0
+2004,Morelos,17,0.0
+2003,Morelos,17,0.06184
+2002,Morelos,17,0.0
+2001,Morelos,17,0.0
+2000,Morelos,17,0.0
+1999,Morelos,17,0.12898
+1998,Morelos,17,0.06553
+1997,Morelos,17,0.0
+1996,Morelos,17,0.13551
+1995,Morelos,17,0.0693
+1994,Morelos,17,0.0
+1993,Morelos,17,0.44067
+1992,Morelos,17,0.98403
+1991,Morelos,17,3.20109
+1990,Morelos,17,19.01822
+2021,Nayarit,18,0.0
+2020,Nayarit,18,0.0
+2019,Nayarit,18,0.0787
+2018,Nayarit,18,0.0
+2017,Nayarit,18,0.24317
+2016,Nayarit,18,0.65864
+2015,Nayarit,18,3.51323
+2014,Nayarit,18,3.91113
+2013,Nayarit,18,10.89938
+2012,Nayarit,18,10.12742
+2011,Nayarit,18,11.6644
+2010,Nayarit,18,6.76149
+2009,Nayarit,18,6.99735
+2008,Nayarit,18,6.79214
+2007,Nayarit,18,3.72809
+2006,Nayarit,18,2.41418
+2005,Nayarit,18,3.78593
+2004,Nayarit,18,2.78769
+2003,Nayarit,18,5.31347
+2002,Nayarit,18,9.57013
+2001,Nayarit,18,16.66875
+2000,Nayarit,18,23.35435
+1999,Nayarit,18,23.40112
+1998,Nayarit,18,18.42477
+1997,Nayarit,18,28.00971
+1996,Nayarit,18,42.54787
+1995,Nayarit,18,40.92287
+1994,Nayarit,18,30.30635
+1993,Nayarit,18,40.73191
+1992,Nayarit,18,69.98438
+1991,Nayarit,18,98.61716
+1990,Nayarit,18,150.03169
+2021,Nuevo León,19,0.0
+2020,Nuevo León,19,0.0
+2019,Nuevo León,19,0.0
+2018,Nuevo León,19,0.0
+2017,Nuevo León,19,0.0
+2016,Nuevo León,19,0.0
+2015,Nuevo León,19,0.0
+2014,Nuevo León,19,0.0
+2013,Nuevo León,19,0.0
+2012,Nuevo León,19,0.0
+2011,Nuevo León,19,0.0
+2010,Nuevo León,19,0.0
+2009,Nuevo León,19,0.0
+2008,Nuevo León,19,0.0
+2007,Nuevo León,19,0.0
+2006,Nuevo León,19,0.0
+2005,Nuevo León,19,0.0
+2004,Nuevo León,19,0.0
+2003,Nuevo León,19,0.0
+2002,Nuevo León,19,0.0
+2001,Nuevo León,19,0.0
+2000,Nuevo León,19,0.0
+1999,Nuevo León,19,0.02621
+1998,Nuevo León,19,0.02664
+1997,Nuevo León,19,0.05417
+1996,Nuevo León,19,0.0
+1995,Nuevo León,19,0.0
+1994,Nuevo León,19,0.05735
+1993,Nuevo León,19,0.05859
+1992,Nuevo León,19,0.0599
+1991,Nuevo León,19,0.06127
+1990,Nuevo León,19,0.31354
+2021,Oaxaca,20,0.0
+2020,Oaxaca,20,0.0
+2019,Oaxaca,20,0.0
+2018,Oaxaca,20,0.0
+2017,Oaxaca,20,0.0
+2016,Oaxaca,20,0.0
+2015,Oaxaca,20,0.0
+2014,Oaxaca,20,0.0
+2013,Oaxaca,20,0.02526
+2012,Oaxaca,20,0.17837
+2011,Oaxaca,20,0.54006
+2010,Oaxaca,20,4.34154
+2009,Oaxaca,20,23.58992
+2008,Oaxaca,20,21.45471
+2007,Oaxaca,20,10.25036
+2006,Oaxaca,20,17.06984
+2005,Oaxaca,20,39.61546
+2004,Oaxaca,20,31.51536
+2003,Oaxaca,20,20.36909
+2002,Oaxaca,20,7.33336
+2001,Oaxaca,20,8.20654
+2000,Oaxaca,20,19.23045
+1999,Oaxaca,20,157.62908
+1998,Oaxaca,20,512.68485
+1997,Oaxaca,20,25.06095
+1996,Oaxaca,20,31.68349
+1995,Oaxaca,20,34.65731
+1994,Oaxaca,20,138.44659
+1993,Oaxaca,20,161.55929
+1992,Oaxaca,20,87.58644
+1991,Oaxaca,20,145.33515
+1990,Oaxaca,20,289.78999
+2021,Puebla,21,0.0
+2020,Puebla,21,0.0
+2019,Puebla,21,0.0
+2018,Puebla,21,0.0
+2017,Puebla,21,0.0
+2016,Puebla,21,0.0
+2015,Puebla,21,0.0
+2014,Puebla,21,0.0
+2013,Puebla,21,0.0
+2012,Puebla,21,0.0
+2011,Puebla,21,0.0
+2010,Puebla,21,0.0
+2009,Puebla,21,0.0
+2008,Puebla,21,0.0
+2007,Puebla,21,0.0
+2006,Puebla,21,0.0
+2005,Puebla,21,0.0
+2004,Puebla,21,0.0
+2003,Puebla,21,0.0
+2002,Puebla,21,0.0
+2001,Puebla,21,0.01909
+2000,Puebla,21,0.1354
+1999,Puebla,21,0.0
+1998,Puebla,21,0.02006
+1997,Puebla,21,0.12289
+1996,Puebla,21,0.23018
+1995,Puebla,21,0.17055
+1994,Puebla,21,0.5632
+1993,Puebla,21,0.50655
+1992,Puebla,21,1.14276
+1991,Puebla,21,2.76021
+1990,Puebla,21,11.10699
+2021,Querétaro,22,0.0
+2020,Querétaro,22,0.0
+2019,Querétaro,22,0.0
+2018,Querétaro,22,0.0
+2017,Querétaro,22,0.0
+2016,Querétaro,22,0.0
+2015,Querétaro,22,0.0
+2014,Querétaro,22,0.0
+2013,Querétaro,22,0.0
+2012,Querétaro,22,0.0
+2011,Querétaro,22,0.0
+2010,Querétaro,22,0.0
+2009,Querétaro,22,0.0
+2008,Querétaro,22,0.0
+2007,Querétaro,22,0.0
+2006,Querétaro,22,0.0
+2005,Querétaro,22,0.0
+2004,Querétaro,22,0.0
+2003,Querétaro,22,0.0
+2002,Querétaro,22,0.0
+2001,Querétaro,22,0.0
+2000,Querétaro,22,0.0
+1999,Querétaro,22,0.0
+1998,Querétaro,22,0.0
+1997,Querétaro,22,0.07547
+1996,Querétaro,22,0.31054
+1995,Querétaro,22,1.51509
+1994,Querétaro,22,0.0
+1993,Querétaro,22,0.0
+1992,Querétaro,22,0.17237
+1991,Querétaro,22,0.97426
+1990,Querétaro,22,3.46063
+2021,Quintana Roo,23,0.0
+2020,Quintana Roo,23,0.0
+2019,Quintana Roo,23,0.17809
+2018,Quintana Roo,23,1.03329
+2017,Quintana Roo,23,1.49499
+2016,Quintana Roo,23,1.98093
+2015,Quintana Roo,23,2.75433
+2014,Quintana Roo,23,0.94244
+2013,Quintana Roo,23,0.76078
+2012,Quintana Roo,23,0.99544
+2011,Quintana Roo,23,0.36578
+2010,Quintana Roo,23,0.60018
+2009,Quintana Roo,23,0.30867
+2008,Quintana Roo,23,1.19962
+2007,Quintana Roo,23,1.16081
+2006,Quintana Roo,23,1.80521
+2005,Quintana Roo,23,0.98254
+2004,Quintana Roo,23,4.18737
+2003,Quintana Roo,23,8.24685
+2002,Quintana Roo,23,27.95356
+2001,Quintana Roo,23,25.18756
+2000,Quintana Roo,23,37.28194
+1999,Quintana Roo,23,73.06466
+1998,Quintana Roo,23,7.20291
+1997,Quintana Roo,23,12.74975
+1996,Quintana Roo,23,19.19882
+1995,Quintana Roo,23,35.22463
+1994,Quintana Roo,23,88.82058
+1993,Quintana Roo,23,40.19376
+1992,Quintana Roo,23,39.50914
+1991,Quintana Roo,23,81.34764
+1990,Quintana Roo,23,301.78852
+2021,San Luis Potosí,24,0.0
+2020,San Luis Potosí,24,0.0
+2019,San Luis Potosí,24,0.0
+2018,San Luis Potosí,24,0.0
+2017,San Luis Potosí,24,0.17834
+2016,San Luis Potosí,24,0.0
+2015,San Luis Potosí,24,0.0
+2014,San Luis Potosí,24,0.0
+2013,San Luis Potosí,24,0.0
+2012,San Luis Potosí,24,0.0
+2011,San Luis Potosí,24,0.0
+2010,San Luis Potosí,24,0.0
+2009,San Luis Potosí,24,0.0
+2008,San Luis Potosí,24,0.0
+2007,San Luis Potosí,24,0.0
+2006,San Luis Potosí,24,0.0
+2005,San Luis Potosí,24,0.0
+2004,San Luis Potosí,24,0.0
+2003,San Luis Potosí,24,0.0
+2002,San Luis Potosí,24,0.0
+2001,San Luis Potosí,24,0.0
+2000,San Luis Potosí,24,0.0
+1999,San Luis Potosí,24,0.0
+1998,San Luis Potosí,24,0.04359
+1997,San Luis Potosí,24,0.79228
+1996,San Luis Potosí,24,2.93492
+1995,San Luis Potosí,24,3.32826
+1994,San Luis Potosí,24,2.6872
+1993,San Luis Potosí,24,2.86146
+1992,San Luis Potosí,24,10.85703
+1991,San Luis Potosí,24,32.5246
+1990,San Luis Potosí,24,11.47209
+2021,Sinaloa,25,0.88006
+2020,Sinaloa,25,0.22175
+2019,Sinaloa,25,1.21367
+2018,Sinaloa,25,0.45094
+2017,Sinaloa,25,0.38994
+2016,Sinaloa,25,0.42632
+2015,Sinaloa,25,0.89529
+2014,Sinaloa,25,4.33398
+2013,Sinaloa,25,2.8957
+2012,Sinaloa,25,5.18419
+2011,Sinaloa,25,2.21034
+2010,Sinaloa,25,2.10212
+2009,Sinaloa,25,2.59713
+2008,Sinaloa,25,2.76778
+2007,Sinaloa,25,4.118
+2006,Sinaloa,25,3.82191
+2005,Sinaloa,25,7.78494
+2004,Sinaloa,25,19.96165
+2003,Sinaloa,25,15.33151
+2002,Sinaloa,25,25.47447
+2001,Sinaloa,25,24.10519
+2000,Sinaloa,25,30.84863
+1999,Sinaloa,25,42.06573
+1998,Sinaloa,25,30.30768
+1997,Sinaloa,25,29.27701
+1996,Sinaloa,25,61.33351
+1995,Sinaloa,25,52.5689
+1994,Sinaloa,25,74.50754
+1993,Sinaloa,25,90.61713
+1992,Sinaloa,25,117.45512
+1991,Sinaloa,25,230.90578
+1990,Sinaloa,25,308.31547
+2021,Sonora,26,0.0
+2020,Sonora,26,0.0
+2019,Sonora,26,0.26335
+2018,Sonora,26,0.0
+2017,Sonora,26,0.0
+2016,Sonora,26,0.0
+2015,Sonora,26,0.03467
+2014,Sonora,26,0.38626
+2013,Sonora,26,0.0
+2012,Sonora,26,0.0
+2011,Sonora,26,0.10994
+2010,Sonora,26,0.29768
+2009,Sonora,26,0.68135
+2008,Sonora,26,0.38595
+2007,Sonora,26,0.51158
+2006,Sonora,26,0.68186
+2005,Sonora,26,1.18411
+2004,Sonora,26,2.03452
+2003,Sonora,26,3.29354
+2002,Sonora,26,1.37461
+2001,Sonora,26,2.57877
+2000,Sonora,26,3.51178
+1999,Sonora,26,0.0
+1998,Sonora,26,0.09133
+1997,Sonora,26,1.89712
+1996,Sonora,26,3.09608
+1995,Sonora,26,5.62955
+1994,Sonora,26,7.83726
+1993,Sonora,26,13.022
+1992,Sonora,26,16.85913
+1991,Sonora,26,26.26997
+1990,Sonora,26,37.92025
+2021,Tabasco,27,0.0
+2020,Tabasco,27,0.03888
+2019,Tabasco,27,0.31442
+2018,Tabasco,27,0.47696
+2017,Tabasco,27,0.88462
+2016,Tabasco,27,0.44763
+2015,Tabasco,27,0.49459
+2014,Tabasco,27,0.62666
+2013,Tabasco,27,0.59327
+2012,Tabasco,27,0.30103
+2011,Tabasco,27,0.56766
+2010,Tabasco,27,0.53209
+2009,Tabasco,27,0.3612
+2008,Tabasco,27,0.55358
+2007,Tabasco,27,2.54522
+2006,Tabasco,27,4.47656
+2005,Tabasco,27,4.74666
+2004,Tabasco,27,7.57688
+2003,Tabasco,27,8.66971
+2002,Tabasco,27,7.10171
+2001,Tabasco,27,11.65603
+2000,Tabasco,27,15.84328
+1999,Tabasco,27,19.81302
+1998,Tabasco,27,21.03067
+1997,Tabasco,27,8.25204
+1996,Tabasco,27,11.08327
+1995,Tabasco,27,9.49508
+1994,Tabasco,27,10.93225
+1993,Tabasco,27,26.42305
+1992,Tabasco,27,37.29717
+1991,Tabasco,27,49.33418
+1990,Tabasco,27,57.24065
+2021,Tamaulipas,28,0.0
+2020,Tamaulipas,28,0.0
+2019,Tamaulipas,28,0.0
+2018,Tamaulipas,28,0.0
+2017,Tamaulipas,28,0.0
+2016,Tamaulipas,28,0.0
+2015,Tamaulipas,28,0.0
+2014,Tamaulipas,28,0.0
+2013,Tamaulipas,28,0.0
+2012,Tamaulipas,28,0.0
+2011,Tamaulipas,28,0.0
+2010,Tamaulipas,28,0.0
+2009,Tamaulipas,28,0.0
+2008,Tamaulipas,28,0.0
+2007,Tamaulipas,28,0.0
+2006,Tamaulipas,28,0.0
+2005,Tamaulipas,28,0.0
+2004,Tamaulipas,28,0.0
+2003,Tamaulipas,28,0.0
+2002,Tamaulipas,28,0.0
+2001,Tamaulipas,28,0.0
+2000,Tamaulipas,28,0.0
+1999,Tamaulipas,28,0.0
+1998,Tamaulipas,28,0.0
+1997,Tamaulipas,28,0.03785
+1996,Tamaulipas,28,0.0
+1995,Tamaulipas,28,0.0
+1994,Tamaulipas,28,0.08006
+1993,Tamaulipas,28,0.28519
+1992,Tamaulipas,28,0.12447
+1991,Tamaulipas,28,0.59191
+1990,Tamaulipas,28,0.43105
+2021,Tlaxcala,29,0.0
+2020,Tlaxcala,29,0.0
+2019,Tlaxcala,29,0.0
+2018,Tlaxcala,29,0.0
+2017,Tlaxcala,29,0.0
+2016,Tlaxcala,29,0.0
+2015,Tlaxcala,29,0.0
+2014,Tlaxcala,29,0.0
+2013,Tlaxcala,29,0.0
+2012,Tlaxcala,29,0.0
+2011,Tlaxcala,29,0.0
+2010,Tlaxcala,29,0.0
+2009,Tlaxcala,29,0.0
+2008,Tlaxcala,29,0.0
+2007,Tlaxcala,29,0.0
+2006,Tlaxcala,29,0.0
+2005,Tlaxcala,29,0.0
+2004,Tlaxcala,29,0.0
+2003,Tlaxcala,29,0.0
+2002,Tlaxcala,29,0.0
+2001,Tlaxcala,29,0.0
+2000,Tlaxcala,29,0.0
+1999,Tlaxcala,29,0.0
+1998,Tlaxcala,29,0.0
+1997,Tlaxcala,29,0.0
+1996,Tlaxcala,29,0.0
+1995,Tlaxcala,29,0.0
+1994,Tlaxcala,29,0.0
+1993,Tlaxcala,29,0.0
+1992,Tlaxcala,29,0.0
+1991,Tlaxcala,29,0.0
+1990,Tlaxcala,29,0.0
+2021,Veracruz de Ignacio de la Llave,30,0.0
+2020,Veracruz de Ignacio de la Llave,30,0.0
+2019,Veracruz de Ignacio de la Llave,30,0.0
+2018,Veracruz de Ignacio de la Llave,30,0.0
+2017,Veracruz de Ignacio de la Llave,30,0.0
+2016,Veracruz de Ignacio de la Llave,30,0.0
+2015,Veracruz de Ignacio de la Llave,30,0.0
+2014,Veracruz de Ignacio de la Llave,30,0.0
+2013,Veracruz de Ignacio de la Llave,30,0.0
+2012,Veracruz de Ignacio de la Llave,30,0.0
+2011,Veracruz de Ignacio de la Llave,30,0.0
+2010,Veracruz de Ignacio de la Llave,30,0.0
+2009,Veracruz de Ignacio de la Llave,30,0.0
+2008,Veracruz de Ignacio de la Llave,30,0.0
+2007,Veracruz de Ignacio de la Llave,30,0.0
+2006,Veracruz de Ignacio de la Llave,30,0.0
+2005,Veracruz de Ignacio de la Llave,30,0.02732
+2004,Veracruz de Ignacio de la Llave,30,0.0
+2003,Veracruz de Ignacio de la Llave,30,0.0139
+2002,Veracruz de Ignacio de la Llave,30,0.15428
+2001,Veracruz de Ignacio de la Llave,30,0.32554
+2000,Veracruz de Ignacio de la Llave,30,0.51393
+1999,Veracruz de Ignacio de la Llave,30,0.56012
+1998,Veracruz de Ignacio de la Llave,30,0.70673
+1997,Veracruz de Ignacio de la Llave,30,0.63767
+1996,Veracruz de Ignacio de la Llave,30,1.32591
+1995,Veracruz de Ignacio de la Llave,30,0.73431
+1994,Veracruz de Ignacio de la Llave,30,1.81071
+1993,Veracruz de Ignacio de la Llave,30,4.11239
+1992,Veracruz de Ignacio de la Llave,30,6.25697
+1991,Veracruz de Ignacio de la Llave,30,11.64018
+1990,Veracruz de Ignacio de la Llave,30,15.28165
+2021,Yucatán,31,0.0
+2020,Yucatán,31,0.0
+2019,Yucatán,31,0.0
+2018,Yucatán,31,0.0
+2017,Yucatán,31,0.0
+2016,Yucatán,31,0.0
+2015,Yucatán,31,0.0
+2014,Yucatán,31,0.0
+2013,Yucatán,31,0.0
+2012,Yucatán,31,0.0
+2011,Yucatán,31,0.0
+2010,Yucatán,31,0.0
+2009,Yucatán,31,0.0
+2008,Yucatán,31,0.0
+2007,Yucatán,31,0.0
+2006,Yucatán,31,0.0
+2005,Yucatán,31,0.05383
+2004,Yucatán,31,0.27421
+2003,Yucatán,31,0.83819
+2002,Yucatán,31,1.87962
+2001,Yucatán,31,0.52261
+2000,Yucatán,31,3.01784
+1999,Yucatán,31,4.20933
+1998,Yucatán,31,0.42692
+1997,Yucatán,31,0.12379
+1996,Yucatán,31,0.75416
+1995,Yucatán,31,1.34239
+1994,Yucatán,31,2.60541
+1993,Yucatán,31,1.19545
+1992,Yucatán,31,0.88088
+1991,Yucatán,31,1.79859
+1990,Yucatán,31,6.50063
+2021,Zacatecas,32,0.0
+2020,Zacatecas,32,0.0
+2019,Zacatecas,32,0.0
+2018,Zacatecas,32,0.0
+2017,Zacatecas,32,0.0
+2016,Zacatecas,32,0.0
+2015,Zacatecas,32,0.0
+2014,Zacatecas,32,0.0
+2013,Zacatecas,32,0.0
+2012,Zacatecas,32,0.0
+2011,Zacatecas,32,0.0
+2010,Zacatecas,32,0.0
+2009,Zacatecas,32,0.0
+2008,Zacatecas,32,0.0
+2007,Zacatecas,32,0.0
+2006,Zacatecas,32,0.0
+2005,Zacatecas,32,0.0
+2004,Zacatecas,32,0.0
+2003,Zacatecas,32,0.0
+2002,Zacatecas,32,0.0
+2001,Zacatecas,32,0.0
+2000,Zacatecas,32,0.0
+1999,Zacatecas,32,0.0
+1998,Zacatecas,32,0.0
+1997,Zacatecas,32,0.0
+1996,Zacatecas,32,0.0
+1995,Zacatecas,32,0.0
+1994,Zacatecas,32,0.0
+1993,Zacatecas,32,0.81952
+1992,Zacatecas,32,2.02356
+1991,Zacatecas,32,3.54583
+1990,Zacatecas,32,3.72321

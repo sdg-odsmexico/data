@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Tasa de mortalidad-enfermedad no transmisible",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Enfermedades respiratorias crónicas",
+                "Diabetes",
+                "Enfermedades cardiovasculares",
+                "Cáncer",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

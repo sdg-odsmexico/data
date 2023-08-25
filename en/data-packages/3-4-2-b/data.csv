@@ -1,1 +1,497 @@
-Year,Value
+Year,Sexo (t-h-m-na),Residencia habitual fuera de México o no especificada,Value
+2020,Total,Estados Unidos de Norteamérica,7
+2019,Total,Estados Unidos de Norteamérica,11
+2018,Total,Estados Unidos de Norteamérica,7
+2017,Total,Estados Unidos de Norteamérica,8
+2016,Total,Estados Unidos de Norteamérica,18
+2015,Total,Estados Unidos de Norteamérica,7
+2014,Total,Estados Unidos de Norteamérica,12
+2013,Total,Estados Unidos de Norteamérica,14
+2012,Total,Estados Unidos de Norteamérica,9
+2011,Total,Estados Unidos de Norteamérica,2
+2010,Total,Estados Unidos de Norteamérica,3
+2009,Total,Estados Unidos de Norteamérica,3
+2008,Total,Estados Unidos de Norteamérica,10
+2007,Total,Estados Unidos de Norteamérica,5
+2006,Total,Estados Unidos de Norteamérica,8
+2005,Total,Estados Unidos de Norteamérica,6
+2004,Total,Estados Unidos de Norteamérica,14
+2003,Total,Estados Unidos de Norteamérica,11
+2002,Total,Estados Unidos de Norteamérica,22
+2001,Total,Estados Unidos de Norteamérica,21
+2000,Total,Estados Unidos de Norteamérica,15
+1999,Total,Estados Unidos de Norteamérica,24
+1998,Total,Estados Unidos de Norteamérica,27
+1997,Total,Estados Unidos de Norteamérica,21
+1996,Total,Estados Unidos de Norteamérica,27
+1995,Total,Estados Unidos de Norteamérica,26
+1994,Total,Estados Unidos de Norteamérica,27
+1993,Total,Estados Unidos de Norteamérica,26
+1992,Total,Estados Unidos de Norteamérica,12
+1991,Total,Estados Unidos de Norteamérica,12
+1990,Total,Estados Unidos de Norteamérica,9
+2020,Total,Países latinoamericanos,5
+2019,Total,Países latinoamericanos,8
+2018,Total,Países latinoamericanos,6
+2017,Total,Países latinoamericanos,8
+2016,Total,Países latinoamericanos,14
+2015,Total,Países latinoamericanos,6
+2014,Total,Países latinoamericanos,11
+2013,Total,Países latinoamericanos,9
+2012,Total,Países latinoamericanos,9
+2011,Total,Países latinoamericanos,1
+2010,Total,Países latinoamericanos,2
+2009,Total,Países latinoamericanos,2
+2008,Total,Países latinoamericanos,8
+2007,Total,Países latinoamericanos,5
+2006,Total,Países latinoamericanos,8
+2005,Total,Países latinoamericanos,5
+2004,Total,Países latinoamericanos,14
+2003,Total,Países latinoamericanos,11
+2002,Total,Países latinoamericanos,19
+2001,Total,Países latinoamericanos,19
+2000,Total,Países latinoamericanos,13
+1999,Total,Países latinoamericanos,23
+1998,Total,Países latinoamericanos,26
+1997,Total,Países latinoamericanos,17
+1996,Total,Países latinoamericanos,26
+1995,Total,Países latinoamericanos,26
+1994,Total,Países latinoamericanos,26
+1993,Total,Países latinoamericanos,23
+1992,Total,Países latinoamericanos,12
+1991,Total,Países latinoamericanos,10
+1990,Total,Países latinoamericanos,9
+2020,Total,Otros países,2
+2019,Total,Otros países,3
+2018,Total,Otros países,1
+2017,Total,Otros países,0
+2016,Total,Otros países,4
+2015,Total,Otros países,1
+2014,Total,Otros países,1
+2013,Total,Otros países,5
+2012,Total,Otros países,0
+2011,Total,Otros países,1
+2010,Total,Otros países,1
+2009,Total,Otros países,1
+2008,Total,Otros países,2
+2007,Total,Otros países,0
+2006,Total,Otros países,0
+2005,Total,Otros países,1
+2004,Total,Otros países,0
+2003,Total,Otros países,0
+2002,Total,Otros países,3
+2001,Total,Otros países,2
+2000,Total,Otros países,2
+1999,Total,Otros países,1
+1998,Total,Otros países,0
+1997,Total,Otros países,3
+1996,Total,Otros países,1
+1995,Total,Otros países,0
+1994,Total,Otros países,1
+1993,Total,Otros países,3
+1992,Total,Otros países,0
+1991,Total,Otros países,2
+1990,Total,Otros países,0
+2020,Total,No especificado,0
+2019,Total,No especificado,0
+2018,Total,No especificado,0
+2017,Total,No especificado,0
+2016,Total,No especificado,0
+2015,Total,No especificado,0
+2014,Total,No especificado,0
+2013,Total,No especificado,0
+2012,Total,No especificado,0
+2011,Total,No especificado,0
+2010,Total,No especificado,0
+2009,Total,No especificado,0
+2008,Total,No especificado,0
+2007,Total,No especificado,0
+2006,Total,No especificado,0
+2005,Total,No especificado,0
+2004,Total,No especificado,0
+2003,Total,No especificado,0
+2002,Total,No especificado,0
+2001,Total,No especificado,0
+2000,Total,No especificado,0
+1999,Total,No especificado,0
+1998,Total,No especificado,1
+1997,Total,No especificado,1
+1996,Total,No especificado,0
+1995,Total,No especificado,0
+1994,Total,No especificado,0
+1993,Total,No especificado,0
+1992,Total,No especificado,0
+1991,Total,No especificado,0
+1990,Total,No especificado,0
+2020,Hombres,Estados Unidos de Norteamérica,3
+2019,Hombres,Estados Unidos de Norteamérica,2
+2018,Hombres,Estados Unidos de Norteamérica,1
+2017,Hombres,Estados Unidos de Norteamérica,3
+2016,Hombres,Estados Unidos de Norteamérica,2
+2015,Hombres,Estados Unidos de Norteamérica,2
+2014,Hombres,Estados Unidos de Norteamérica,4
+2013,Hombres,Estados Unidos de Norteamérica,5
+2012,Hombres,Estados Unidos de Norteamérica,2
+2011,Hombres,Estados Unidos de Norteamérica,2
+2010,Hombres,Estados Unidos de Norteamérica,3
+2009,Hombres,Estados Unidos de Norteamérica,0
+2008,Hombres,Estados Unidos de Norteamérica,3
+2007,Hombres,Estados Unidos de Norteamérica,0
+2006,Hombres,Estados Unidos de Norteamérica,1
+2005,Hombres,Estados Unidos de Norteamérica,0
+2004,Hombres,Estados Unidos de Norteamérica,0
+2003,Hombres,Estados Unidos de Norteamérica,1
+2002,Hombres,Estados Unidos de Norteamérica,1
+2001,Hombres,Estados Unidos de Norteamérica,0
+2000,Hombres,Estados Unidos de Norteamérica,0
+1999,Hombres,Estados Unidos de Norteamérica,0
+1998,Hombres,Estados Unidos de Norteamérica,2
+1997,Hombres,Estados Unidos de Norteamérica,2
+1996,Hombres,Estados Unidos de Norteamérica,1
+1995,Hombres,Estados Unidos de Norteamérica,1
+1994,Hombres,Estados Unidos de Norteamérica,2
+1993,Hombres,Estados Unidos de Norteamérica,0
+1992,Hombres,Estados Unidos de Norteamérica,0
+1991,Hombres,Estados Unidos de Norteamérica,0
+1990,Hombres,Estados Unidos de Norteamérica,0
+2020,Hombres,Países latinoamericanos,3
+2019,Hombres,Países latinoamericanos,2
+2018,Hombres,Países latinoamericanos,1
+2017,Hombres,Países latinoamericanos,3
+2016,Hombres,Países latinoamericanos,2
+2015,Hombres,Países latinoamericanos,2
+2014,Hombres,Países latinoamericanos,3
+2013,Hombres,Países latinoamericanos,4
+2012,Hombres,Países latinoamericanos,1
+2011,Hombres,Países latinoamericanos,2
+2010,Hombres,Países latinoamericanos,3
+2009,Hombres,Países latinoamericanos,0
+2008,Hombres,Países latinoamericanos,3
+2007,Hombres,Países latinoamericanos,0
+2006,Hombres,Países latinoamericanos,1
+2005,Hombres,Países latinoamericanos,0
+2004,Hombres,Países latinoamericanos,0
+2003,Hombres,Países latinoamericanos,1
+2002,Hombres,Países latinoamericanos,1
+2001,Hombres,Países latinoamericanos,0
+2000,Hombres,Países latinoamericanos,0
+1999,Hombres,Países latinoamericanos,0
+1998,Hombres,Países latinoamericanos,2
+1997,Hombres,Países latinoamericanos,1
+1996,Hombres,Países latinoamericanos,1
+1995,Hombres,Países latinoamericanos,1
+1994,Hombres,Países latinoamericanos,2
+1993,Hombres,Países latinoamericanos,0
+1992,Hombres,Países latinoamericanos,0
+1991,Hombres,Países latinoamericanos,0
+1990,Hombres,Países latinoamericanos,0
+2020,Hombres,Otros países,0
+2019,Hombres,Otros países,0
+2018,Hombres,Otros países,0
+2017,Hombres,Otros países,0
+2016,Hombres,Otros países,0
+2015,Hombres,Otros países,0
+2014,Hombres,Otros países,1
+2013,Hombres,Otros países,1
+2012,Hombres,Otros países,1
+2011,Hombres,Otros países,0
+2010,Hombres,Otros países,0
+2009,Hombres,Otros países,0
+2008,Hombres,Otros países,0
+2007,Hombres,Otros países,0
+2006,Hombres,Otros países,0
+2005,Hombres,Otros países,0
+2004,Hombres,Otros países,0
+2003,Hombres,Otros países,0
+2002,Hombres,Otros países,0
+2001,Hombres,Otros países,0
+2000,Hombres,Otros países,0
+1999,Hombres,Otros países,0
+1998,Hombres,Otros países,0
+1997,Hombres,Otros países,0
+1996,Hombres,Otros países,0
+1995,Hombres,Otros países,0
+1994,Hombres,Otros países,0
+1993,Hombres,Otros países,0
+1992,Hombres,Otros países,0
+1991,Hombres,Otros países,0
+1990,Hombres,Otros países,0
+2020,Hombres,No especificado,0
+2019,Hombres,No especificado,0
+2018,Hombres,No especificado,0
+2017,Hombres,No especificado,0
+2016,Hombres,No especificado,0
+2015,Hombres,No especificado,0
+2014,Hombres,No especificado,0
+2013,Hombres,No especificado,0
+2012,Hombres,No especificado,0
+2011,Hombres,No especificado,0
+2010,Hombres,No especificado,0
+2009,Hombres,No especificado,0
+2008,Hombres,No especificado,0
+2007,Hombres,No especificado,0
+2006,Hombres,No especificado,0
+2005,Hombres,No especificado,0
+2004,Hombres,No especificado,0
+2003,Hombres,No especificado,0
+2002,Hombres,No especificado,0
+2001,Hombres,No especificado,0
+2000,Hombres,No especificado,0
+1999,Hombres,No especificado,0
+1998,Hombres,No especificado,0
+1997,Hombres,No especificado,0
+1996,Hombres,No especificado,0
+1995,Hombres,No especificado,0
+1994,Hombres,No especificado,0
+1993,Hombres,No especificado,0
+1992,Hombres,No especificado,0
+1991,Hombres,No especificado,0
+1990,Hombres,No especificado,0
+2020,Mujeres,Estados Unidos de Norteamérica,3
+2019,Mujeres,Estados Unidos de Norteamérica,0
+2018,Mujeres,Estados Unidos de Norteamérica,2
+2017,Mujeres,Estados Unidos de Norteamérica,2
+2016,Mujeres,Estados Unidos de Norteamérica,2
+2015,Mujeres,Estados Unidos de Norteamérica,6
+2014,Mujeres,Estados Unidos de Norteamérica,4
+2013,Mujeres,Estados Unidos de Norteamérica,1
+2012,Mujeres,Estados Unidos de Norteamérica,0
+2011,Mujeres,Estados Unidos de Norteamérica,2
+2010,Mujeres,Estados Unidos de Norteamérica,0
+2009,Mujeres,Estados Unidos de Norteamérica,1
+2008,Mujeres,Estados Unidos de Norteamérica,0
+2007,Mujeres,Estados Unidos de Norteamérica,1
+2006,Mujeres,Estados Unidos de Norteamérica,1
+2005,Mujeres,Estados Unidos de Norteamérica,2
+2004,Mujeres,Estados Unidos de Norteamérica,2
+2003,Mujeres,Estados Unidos de Norteamérica,3
+2002,Mujeres,Estados Unidos de Norteamérica,2
+2001,Mujeres,Estados Unidos de Norteamérica,6
+2000,Mujeres,Estados Unidos de Norteamérica,1
+1999,Mujeres,Estados Unidos de Norteamérica,2
+1998,Mujeres,Estados Unidos de Norteamérica,2
+1997,Mujeres,Estados Unidos de Norteamérica,1
+1996,Mujeres,Estados Unidos de Norteamérica,1
+1995,Mujeres,Estados Unidos de Norteamérica,1
+1994,Mujeres,Estados Unidos de Norteamérica,1
+1993,Mujeres,Estados Unidos de Norteamérica,0
+1992,Mujeres,Estados Unidos de Norteamérica,0
+1991,Mujeres,Estados Unidos de Norteamérica,0
+1990,Mujeres,Estados Unidos de Norteamérica,2
+2020,Mujeres,Países latinoamericanos,3
+2019,Mujeres,Países latinoamericanos,0
+2018,Mujeres,Países latinoamericanos,1
+2017,Mujeres,Países latinoamericanos,1
+2016,Mujeres,Países latinoamericanos,2
+2015,Mujeres,Países latinoamericanos,5
+2014,Mujeres,Países latinoamericanos,4
+2013,Mujeres,Países latinoamericanos,0
+2012,Mujeres,Países latinoamericanos,0
+2011,Mujeres,Países latinoamericanos,1
+2010,Mujeres,Países latinoamericanos,0
+2009,Mujeres,Países latinoamericanos,0
+2008,Mujeres,Países latinoamericanos,0
+2007,Mujeres,Países latinoamericanos,1
+2006,Mujeres,Países latinoamericanos,1
+2005,Mujeres,Países latinoamericanos,2
+2004,Mujeres,Países latinoamericanos,2
+2003,Mujeres,Países latinoamericanos,3
+2002,Mujeres,Países latinoamericanos,2
+2001,Mujeres,Países latinoamericanos,4
+2000,Mujeres,Países latinoamericanos,1
+1999,Mujeres,Países latinoamericanos,2
+1998,Mujeres,Países latinoamericanos,2
+1997,Mujeres,Países latinoamericanos,1
+1996,Mujeres,Países latinoamericanos,0
+1995,Mujeres,Países latinoamericanos,0
+1994,Mujeres,Países latinoamericanos,1
+1993,Mujeres,Países latinoamericanos,0
+1992,Mujeres,Países latinoamericanos,0
+1991,Mujeres,Países latinoamericanos,0
+1990,Mujeres,Países latinoamericanos,2
+2020,Mujeres,Otros países,0
+2019,Mujeres,Otros países,0
+2018,Mujeres,Otros países,1
+2017,Mujeres,Otros países,1
+2016,Mujeres,Otros países,0
+2015,Mujeres,Otros países,1
+2014,Mujeres,Otros países,0
+2013,Mujeres,Otros países,1
+2012,Mujeres,Otros países,0
+2011,Mujeres,Otros países,1
+2010,Mujeres,Otros países,0
+2009,Mujeres,Otros países,1
+2008,Mujeres,Otros países,0
+2007,Mujeres,Otros países,0
+2006,Mujeres,Otros países,0
+2005,Mujeres,Otros países,0
+2004,Mujeres,Otros países,0
+2003,Mujeres,Otros países,0
+2002,Mujeres,Otros países,0
+2001,Mujeres,Otros países,2
+2000,Mujeres,Otros países,0
+1999,Mujeres,Otros países,0
+1998,Mujeres,Otros países,0
+1997,Mujeres,Otros países,0
+1996,Mujeres,Otros países,1
+1995,Mujeres,Otros países,1
+1994,Mujeres,Otros países,0
+1993,Mujeres,Otros países,0
+1992,Mujeres,Otros países,0
+1991,Mujeres,Otros países,0
+1990,Mujeres,Otros países,0
+2020,Mujeres,No especificado,0
+2019,Mujeres,No especificado,0
+2018,Mujeres,No especificado,0
+2017,Mujeres,No especificado,0
+2016,Mujeres,No especificado,0
+2015,Mujeres,No especificado,0
+2014,Mujeres,No especificado,0
+2013,Mujeres,No especificado,0
+2012,Mujeres,No especificado,0
+2011,Mujeres,No especificado,0
+2010,Mujeres,No especificado,0
+2009,Mujeres,No especificado,0
+2008,Mujeres,No especificado,0
+2007,Mujeres,No especificado,0
+2006,Mujeres,No especificado,0
+2005,Mujeres,No especificado,0
+2004,Mujeres,No especificado,0
+2003,Mujeres,No especificado,0
+2002,Mujeres,No especificado,0
+2001,Mujeres,No especificado,0
+2000,Mujeres,No especificado,0
+1999,Mujeres,No especificado,0
+1998,Mujeres,No especificado,0
+1997,Mujeres,No especificado,0
+1996,Mujeres,No especificado,0
+1995,Mujeres,No especificado,0
+1994,Mujeres,No especificado,0
+1993,Mujeres,No especificado,0
+1992,Mujeres,No especificado,0
+1991,Mujeres,No especificado,0
+1990,Mujeres,No especificado,0
+2020,No especificado,Estados Unidos de Norteamérica,154
+2019,No especificado,Estados Unidos de Norteamérica,178
+2018,No especificado,Estados Unidos de Norteamérica,328
+2017,No especificado,Estados Unidos de Norteamérica,77
+2016,No especificado,Estados Unidos de Norteamérica,0
+2015,No especificado,Estados Unidos de Norteamérica,0
+2014,No especificado,Estados Unidos de Norteamérica,0
+2013,No especificado,Estados Unidos de Norteamérica,0
+2012,No especificado,Estados Unidos de Norteamérica,0
+2011,No especificado,Estados Unidos de Norteamérica,0
+2010,No especificado,Estados Unidos de Norteamérica,0
+2009,No especificado,Estados Unidos de Norteamérica,0
+2008,No especificado,Estados Unidos de Norteamérica,0
+2007,No especificado,Estados Unidos de Norteamérica,0
+2006,No especificado,Estados Unidos de Norteamérica,0
+2005,No especificado,Estados Unidos de Norteamérica,0
+2004,No especificado,Estados Unidos de Norteamérica,0
+2003,No especificado,Estados Unidos de Norteamérica,0
+2002,No especificado,Estados Unidos de Norteamérica,0
+2001,No especificado,Estados Unidos de Norteamérica,0
+2000,No especificado,Estados Unidos de Norteamérica,0
+1999,No especificado,Estados Unidos de Norteamérica,0
+1998,No especificado,Estados Unidos de Norteamérica,0
+1997,No especificado,Estados Unidos de Norteamérica,0
+1996,No especificado,Estados Unidos de Norteamérica,0
+1995,No especificado,Estados Unidos de Norteamérica,0
+1994,No especificado,Estados Unidos de Norteamérica,0
+1993,No especificado,Estados Unidos de Norteamérica,0
+1992,No especificado,Estados Unidos de Norteamérica,0
+1991,No especificado,Estados Unidos de Norteamérica,0
+1990,No especificado,Estados Unidos de Norteamérica,0
+2020,No especificado,Países latinoamericanos,131
+2019,No especificado,Países latinoamericanos,151
+2018,No especificado,Países latinoamericanos,280
+2017,No especificado,Países latinoamericanos,71
+2016,No especificado,Países latinoamericanos,0
+2015,No especificado,Países latinoamericanos,0
+2014,No especificado,Países latinoamericanos,0
+2013,No especificado,Países latinoamericanos,0
+2012,No especificado,Países latinoamericanos,0
+2011,No especificado,Países latinoamericanos,0
+2010,No especificado,Países latinoamericanos,0
+2009,No especificado,Países latinoamericanos,0
+2008,No especificado,Países latinoamericanos,0
+2007,No especificado,Países latinoamericanos,0
+2006,No especificado,Países latinoamericanos,0
+2005,No especificado,Países latinoamericanos,0
+2004,No especificado,Países latinoamericanos,0
+2003,No especificado,Países latinoamericanos,0
+2002,No especificado,Países latinoamericanos,0
+2001,No especificado,Países latinoamericanos,0
+2000,No especificado,Países latinoamericanos,0
+1999,No especificado,Países latinoamericanos,0
+1998,No especificado,Países latinoamericanos,0
+1997,No especificado,Países latinoamericanos,0
+1996,No especificado,Países latinoamericanos,0
+1995,No especificado,Países latinoamericanos,0
+1994,No especificado,Países latinoamericanos,0
+1993,No especificado,Países latinoamericanos,0
+1992,No especificado,Países latinoamericanos,0
+1991,No especificado,Países latinoamericanos,0
+1990,No especificado,Países latinoamericanos,0
+2020,No especificado,Otros países,21
+2019,No especificado,Otros países,23
+2018,No especificado,Otros países,45
+2017,No especificado,Otros países,4
+2016,No especificado,Otros países,0
+2015,No especificado,Otros países,0
+2014,No especificado,Otros países,0
+2013,No especificado,Otros países,0
+2012,No especificado,Otros países,0
+2011,No especificado,Otros países,0
+2010,No especificado,Otros países,0
+2009,No especificado,Otros países,0
+2008,No especificado,Otros países,0
+2007,No especificado,Otros países,0
+2006,No especificado,Otros países,0
+2005,No especificado,Otros países,0
+2004,No especificado,Otros países,0
+2003,No especificado,Otros países,0
+2002,No especificado,Otros países,0
+2001,No especificado,Otros países,0
+2000,No especificado,Otros países,0
+1999,No especificado,Otros países,0
+1998,No especificado,Otros países,0
+1997,No especificado,Otros países,0
+1996,No especificado,Otros países,0
+1995,No especificado,Otros países,0
+1994,No especificado,Otros países,0
+1993,No especificado,Otros países,0
+1992,No especificado,Otros países,0
+1991,No especificado,Otros países,0
+1990,No especificado,Otros países,0
+2020,No especificado,No especificado,2
+2019,No especificado,No especificado,4
+2018,No especificado,No especificado,3
+2017,No especificado,No especificado,2
+2016,No especificado,No especificado,0
+2015,No especificado,No especificado,0
+2014,No especificado,No especificado,0
+2013,No especificado,No especificado,0
+2012,No especificado,No especificado,0
+2011,No especificado,No especificado,0
+2010,No especificado,No especificado,0
+2009,No especificado,No especificado,0
+2008,No especificado,No especificado,0
+2007,No especificado,No especificado,0
+2006,No especificado,No especificado,0
+2005,No especificado,No especificado,0
+2004,No especificado,No especificado,0
+2003,No especificado,No especificado,0
+2002,No especificado,No especificado,0
+2001,No especificado,No especificado,0
+2000,No especificado,No especificado,0
+1999,No especificado,No especificado,0
+1998,No especificado,No especificado,0
+1997,No especificado,No especificado,0
+1996,No especificado,No especificado,0
+1995,No especificado,No especificado,0
+1994,No especificado,No especificado,0
+1993,No especificado,No especificado,0
+1992,No especificado,No especificado,0
+1991,No especificado,No especificado,0
+1990,No especificado,No especificado,0
