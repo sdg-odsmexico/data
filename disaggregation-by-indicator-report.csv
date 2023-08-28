@@ -85,3 +85,23 @@ Indicator,Disaggregations,Number of disaggregations
 #5-n1-4,"Entidad federativa, Usuarios",2
 #5-n2-1,Entidad federativa,1
 #5-n3-1,Entidad federativa,1
+#6-n1-1,"Entidad federativa, Población con acceso al agua entubada y al saneamiento",2
+#8-3-1,Sexo,1
+#8-3-1(2),Sexo,1
+#8-5-1a,"Sexo, Entidad federativa, Municipio",3
+#8-5-1b,"Sexo, Grupos de edad_ocupados",2
+#8-5-1c,"Sexo, Tipo de ocupación",2
+#8-5-1d,"Sexo, Condición de residencia y país de nacimiento",2
+#8-5-2,"Sexo, Entidad federativa, Grupo de edad",3
+#8-5-2(2),"Sexo, Entidad federativa, Grupo de edad",3
+#8-6-1a,"Entidad federativa, Jóvenes de 15 a 24 años, Jóvenes de 15 a 19 años, Jóvenes de 20 a 24 años",4
+#8-6-1b,"Sexo, Entidad federativa, Municipio, Edades de 15 a 24 años",4
+#8-6-1c,Jóvenes de 15 a 24 que no estudian ni trabajan,1
+#8-6-r-1,"Sexo, Jóvenes de 15 a 24 años que no estudian, no tienen empleo ni reciben capacitación",2
+#8-7-1,"Sexo, Entidad federativa, Grupo de edad",3
+#8-8-1,Sexo,1
+#8-n2-2,"Sexo, Entidad federativa, Edades IMSS",3
+#8-n3-1a,Sexo,1
+#8-n3-1b,Edades (18 a 70 años),1
+#8-n3-1c,Escolaridad y sin escolaridad,1
+#8-n3-1d,Regiones,1

@@ -10,7 +10,7 @@ Acanceh,3,3
 Acapetahua,3,3
 Acaponeta,3,3
 Acapulco de Juárez,3,3
-Acapulco,3,2
+Acapulco,15,4
 Acateno,3,3
 Acatepec,3,3
 Acatic,3,3
@@ -35,7 +35,7 @@ Agua Blanca de Iturbide,3,3
 Agua Dulce,3,3
 Agua Prieta,3,3
 Agualeguas,3,3
-Aguascalientes,6,5
+Aguascalientes,18,7
 Aguililla,3,3
 Ahome,3,3
 Ahuacatlán,6,3
@@ -241,10 +241,10 @@ Camargo,6,3
 Camarón de Tejeda,3,3
 Camerino Z. Mendoza,3,3
 Camocuautla,3,3
-Campeche,6,5
+Campeche,18,7
 Cananea,3,3
 Canatlán,3,3
-Cancún,3,2
+Cancún,15,4
 Candela,3,3
 Candelaria Loxicha,3,3
 Candelaria,3,3
@@ -275,7 +275,7 @@ Cañada Morelos,3,3
 Cañadas de Obregón,3,3
 Cañitas de Felipe Pescador,3,3
 Cedral,3,3
-Celaya,6,5
+Celaya,18,7
 Celestún,3,3
 Cenotillo,3,3
 Centla,3,3
@@ -332,7 +332,7 @@ Chietla,3,3
 Chigmecatitlán,3,3
 Chignahuapan,3,3
 Chignautla,3,3
-Chihuahua,6,5
+Chihuahua,18,7
 Chikindzonot,3,3
 Chila de la Sal,3,3
 Chila,3,3
@@ -340,7 +340,7 @@ Chilapa de Álvarez,3,3
 Chilchota,3,3
 Chilchotla,3,3
 Chilcuautla,3,3
-Chilpancingo de los Bravo,6,5
+Chilpancingo de los Bravo,18,7
 Chilón,3,3
 Chimalhuacán,3,3
 Chimaltitán,3,3
@@ -364,12 +364,12 @@ Chínipas,3,3
 Cihuatlán,3,3
 Cintalapa,3,3
 Citlaltépetl,3,3
-Ciudad del Carmen,1,1
+Ciudad del Carmen,13,3
 Ciudad del Maíz,3,3
 Ciudad Fernández,3,3
 Ciudad Ixtepec,3,3
 Ciudad Madero,3,3
-Ciudad Obregón,3,2
+Ciudad Obregón,15,4
 Ciudad Valles,3,3
 Ciénega de Flores,3,3
 Ciénega de Zimatlán,3,3
@@ -385,7 +385,7 @@ Coatepec Harinas,3,3
 Coatepec,6,3
 Coatetelco,3,3
 Coatlán del Río,3,3
-Coatzacoalcos,6,5
+Coatzacoalcos,18,7
 Coatzingo,3,3
 Coatzintla,3,3
 Cochoapa el Grande,3,3
@@ -397,7 +397,7 @@ Cohetzala,3,3
 Cohuecan,3,3
 Coicoyán de las Flores,3,3
 Cojumatlán de Régules,3,3
-Colima,6,5
+Colima,18,7
 Colipa,3,3
 Colotlán,3,3
 Colón,3,3
@@ -470,7 +470,7 @@ Cuaxomulco,3,3
 Cuayuca de Andrade,3,3
 Cucurpe,3,3
 Cuencamé,3,3
-Cuernavaca,6,5
+Cuernavaca,18,7
 Cuerámaro,3,3
 Cuetzala del Progreso,3,3
 Cuetzalan del Progreso,3,3
@@ -478,7 +478,7 @@ Cuichapa,3,3
 Cuilápam de Guerrero,3,3
 Cuitláhuac,3,3
 Cuitzeo,3,3
-Culiacán,6,5
+Culiacán,18,7
 Cumpas,3,3
 Cuncunul,3,3
 Cunduacán,3,3
@@ -502,7 +502,7 @@ Dolores Hidalgo Cuna de la Independencia Nacional,3,3
 Domingo Arenas,3,3
 Donato Guerra,3,3
 Dr. Belisario Domínguez,3,3
-Durango,6,5
+Durango,18,7
 Dzemul,3,3
 Dzidzantún,3,3
 Dzilam de Bravo,3,3
@@ -544,7 +544,7 @@ Eloxochitlán,6,3
 Emiliano Zapata,18,3
 Empalme,3,3
 Encarnación de Díaz,3,3
-Ensenada,6,5
+Ensenada,18,7
 Epatlán,3,3
 Epazoyucan,3,3
 Epitacio Huerta,3,3
@@ -597,7 +597,7 @@ Gran Morelos,3,3
 Granados,3,3
 Guachinango,3,3
 Guachochi,3,3
-Guadalajara,6,5
+Guadalajara,18,7
 Guadalcázar,3,3
 Guadalupe de Ramírez,3,3
 Guadalupe Etla,3,3
@@ -621,12 +621,12 @@ Güémez,3,3
 Halachó,3,3
 Hecelchakán,3,3
 Hermenegildo Galeana,3,3
-Hermosillo,6,5
+Hermosillo,18,7
 Heroica Ciudad de Ejutla de Crespo,3,3
 Heroica Ciudad de Huajuapan de León,3,3
 Heroica Ciudad de Juchitán de Zaragoza,3,3
 Heroica Ciudad de Tlaxiaco,3,3
-Heroica Matamoros,3,2
+Heroica Matamoros,15,4
 "Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca",3,3
 Hidalgo del Parral,3,3
 Hidalgo,15,3
@@ -703,7 +703,7 @@ Iliatenco,3,3
 Imuris,3,3
 Indaparapeo,3,3
 Indé,3,3
-Irapuato,6,5
+Irapuato,18,7
 Irimbo,3,3
 Isidro Fabela,3,3
 Isla Mujeres,3,3
@@ -806,7 +806,7 @@ Juchitán,3,3
 Julimes,3,3
 Jungapeo,3,3
 Juárez Hidalgo,3,3
-Juárez,18,5
+Juárez,30,7
 Jáltipan,3,3
 Kanasín,3,3
 Kantunil,3,3
@@ -829,7 +829,7 @@ La Magdalena Tlaltelulco,3,3
 La Magdalena Tlatlauquitepec,3,3
 La Manzanilla de la Paz,3,3
 La Misión,3,3
-La Paz,9,5
+La Paz,21,7
 La Pe,3,3
 La Perla,3,3
 La Piedad,3,3
@@ -855,7 +855,7 @@ Leonardo Bravo,3,3
 Lerdo de Tejada,3,3
 Lerdo,3,3
 Lerma,3,3
-León,6,5
+León,18,7
 Libres,3,3
 Linares,3,3
 Llera,3,3
@@ -923,7 +923,7 @@ Mazapiltepec de Juárez,3,3
 Mazatecochco de José María Morelos,3,3
 Mazatepec,3,3
 Mazatlán Villa de Flores,3,3
-Mazatlán,6,5
+Mazatlán,18,7
 Mazatán,6,3
 Mecatlán,3,3
 Mecayapan,3,3
@@ -935,7 +935,7 @@ Metapa,3,3
 Metepec,6,3
 Metlatónoc,3,3
 Metztitlán,3,3
-Mexicali,6,5
+Mexicali,18,7
 Mexicaltzingo,3,3
 Mexquitic de Carmona,3,3
 Mexticacán,3,3
@@ -978,8 +978,8 @@ Monjas,3,3
 Monte Escobedo,3,3
 Montecristo de Guerrero,3,3
 Montemorelos,3,3
-Monterrey,6,5
-Morelia,6,5
+Monterrey,18,7
+Morelia,18,7
 Morelos,15,3
 Moris,3,3
 Moroleón,3,3
@@ -993,7 +993,7 @@ Muñoz de Domingo Arenas,3,3
 Mártir de Cuilapan,3,3
 Mártires de Tacubaya,3,3
 Méndez,3,3
-Mérida,6,5
+Mérida,18,7
 Múgica,3,3
 Múzquiz,3,3
 Nacajuca,3,3
@@ -1037,7 +1037,7 @@ Nopalucan,3,3
 Noria de Ángeles,3,3
 Nuevo Casas Grandes,3,3
 Nuevo Ideal,3,3
-Nuevo Laredo,6,5
+Nuevo Laredo,18,7
 Nuevo Morelos,3,3
 Nuevo Parangaricutiro,3,3
 Nuevo Urecho,3,3
@@ -1045,7 +1045,7 @@ Nuevo Zoquiápam,3,3
 Numarán,3,3
 Nácori Chico,3,3
 Oaxaca de Juárez,3,3
-Oaxaca,3,2
+Oaxaca,15,4
 Ocampo,18,3
 Ocosingo,3,3
 Ocotepec,6,3
@@ -1086,7 +1086,7 @@ Ozuluama de Mascareñas,3,3
 Ozumba,3,3
 Pabellón de Arteaga,3,3
 Pachuca de Soto,3,3
-Pachuca,3,2
+Pachuca,15,4
 Pacula,3,3
 Padilla,3,3
 Pahuatlán,3,3
@@ -1144,7 +1144,7 @@ Poza Rica de Hidalgo,3,3
 Praxedis G. Guerrero,3,3
 Progreso de Obregón,3,3
 Progreso,6,3
-Puebla,6,5
+Puebla,18,7
 Pueblo Nuevo Solistahuacán,3,3
 Pueblo Nuevo,6,3
 Pueblo Viejo,3,3
@@ -1165,7 +1165,7 @@ Pénjamo,3,3
 Quecholac,3,3
 Quechultenango,3,3
 Queréndaro,3,3
-Querétaro,6,5
+Querétaro,18,7
 Quimixtlán,3,3
 Quintana Roo,3,3
 Quiriego,3,3
@@ -1180,7 +1180,7 @@ Rayón,12,3
 Reforma de Pineda,3,3
 Reforma,3,3
 Reyes Etla,3,3
-Reynosa,6,5
+Reynosa,18,7
 Rincón Chamula San Pedro,3,3
 Rincón de Romos,3,3
 Rioverde,3,3
@@ -1209,7 +1209,7 @@ Salina Cruz,3,3
 Salinas Victoria,3,3
 Salinas,3,3
 Saltabarranca,3,3
-Saltillo,6,5
+Saltillo,18,7
 Salto de Agua,3,3
 Salvador Alvarado,3,3
 Salvador Escalante,3,3
@@ -1441,7 +1441,7 @@ San Luis Acatlán,3,3
 San Luis Amatlán,3,3
 San Luis de la Paz,3,3
 San Luis del Cordero,3,3
-San Luis Potosí,6,5
+San Luis Potosí,18,7
 San Luis Río Colorado,3,3
 San Marcial Ozolotepec,3,3
 San Marcos Arteaga,3,3
@@ -1877,7 +1877,7 @@ Tamiahua,3,3
 Tampacán,3,3
 Tampamolón Corona,3,3
 Tampico Alto,3,3
-Tampico,6,5
+Tampico,18,7
 Tamuín,3,3
 Tancanhuitz,3,3
 Tancoco,3,3
@@ -1891,7 +1891,7 @@ Tanlajás,3,3
 Tanquián de Escobedo,3,3
 Tantima,3,3
 Tantoyuca,3,3
-Tapachula,6,5
+Tapachula,18,7
 Tapalapa,3,3
 Tapalpa,3,3
 Tapilula,3,3
@@ -1921,7 +1921,7 @@ Tecozautla,3,3
 Tecpatán,3,3
 Tecuala,3,3
 Tecámac,3,3
-Tehuacán,6,5
+Tehuacán,18,7
 Tehuipango,3,3
 Tehuitzingo,3,3
 Tejupilco,3,3
@@ -2000,7 +2000,7 @@ Tepeyahualco de Cuauhtémoc,3,3
 Tepeyahualco,3,3
 Tepeyanco,3,3
 Tepezalá,3,3
-Tepic,6,5
+Tepic,18,7
 Tepotzotlán,3,3
 Tepoztlán,3,3
 Tequila,6,3
@@ -2036,7 +2036,7 @@ Ticul,3,3
 Tierra Blanca,6,3
 Tierra Nueva,3,3
 Tihuatlán,3,3
-Tijuana,6,5
+Tijuana,18,7
 Tila,3,3
 Tilapa,3,3
 Timilpan,3,3
@@ -2097,7 +2097,7 @@ Tlaquilpa,3,3
 Tlaquiltenango,3,3
 Tlatlauquitepec,3,3
 Tlatlaya,3,3
-Tlaxcala,6,5
+Tlaxcala,18,7
 Tlaxco,6,3
 Tlaxcoapan,3,3
 Tlayacapan,3,3
@@ -2110,7 +2110,7 @@ Tochtepec,3,3
 Tocumbo,3,3
 Tolcayuca,3,3
 Tolimán,6,3
-Toluca,6,5
+Toluca,18,7
 Tomatlán,6,3
 Tonalá,6,3
 Tonanitla,3,3
@@ -2119,7 +2119,7 @@ Tonaya,3,3
 Tonayán,3,3
 Tonila,3,3
 Topia,3,3
-Torreón,6,5
+Torreón,18,7
 Totatiche,3,3
 Totolac,3,3
 Totolapa,3,3
@@ -2150,7 +2150,7 @@ Tuxcueca,3,3
 Tuxpan,12,3
 Tuxtilla,3,3
 Tuxtla Chico,3,3
-Tuxtla Gutiérrez,6,5
+Tuxtla Gutiérrez,18,7
 Tuzamapan de Galeana,3,3
 Tuzantla,3,3
 Tuzantán,3,3
@@ -2173,7 +2173,7 @@ Uriangato,3,3
 Urique,3,3
 Ursulo Galván,3,3
 Uruachi,3,3
-Uruapan,6,5
+Uruapan,18,7
 Uxpanapa,3,3
 Valerio Trujano,3,3
 Valladolid,3,3
@@ -2190,7 +2190,7 @@ Vanegas,3,3
 Vega de Alatorre,3,3
 Venado,3,3
 Venustiano Carranza,12,3
-Veracruz,6,5
+Veracruz,18,7
 Vetagrande,3,3
 Vicente Guerrero,6,3
 Victoria,6,3
@@ -2230,12 +2230,12 @@ Villa Unión,3,3
 Villa Victoria,3,3
 Villaflores,3,3
 Villagrán,6,3
-Villahermosa,3,2
+Villahermosa,15,4
 Villaldama,3,3
 Villamar,3,3
 Villanueva,3,3
 Vista Hermosa,3,3
-Xalapa-Enríquez,3,2
+Xalapa-Enríquez,15,4
 Xalapa,3,3
 Xalatlaco,3,3
 Xalisco,3,3
@@ -2286,7 +2286,7 @@ Yécora,3,3
 Zacapala,3,3
 Zacapoaxtla,3,3
 Zacapu,3,3
-Zacatecas,6,5
+Zacatecas,18,7
 Zacatelco,3,3
 Zacatepec,3,3
 Zacatlán,3,3
@@ -2326,7 +2326,7 @@ Ziracuaretiro,3,3
 Zirándaro,3,3
 Zitlala,3,3
 Zitácuaro,3,3
-Zona Metropolitana del Valle de México,3,2
+Zona Metropolitana del Valle de México,15,4
 Zongolica,3,3
 Zongozotla,3,3
 Zontecomatlán de López y Fuentes,3,3
