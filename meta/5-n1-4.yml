@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+SDG_TARGET: >-
+  Meta 5.n1 Participación paritaria y efectiva de las mujeres en la vida política, económica y pública, con énfasis en la disminución de brechas de todo tipo, entre ellas la salarial, en el mercado laboral y la carga doméstica de cuidados
+SDG_INDICATOR: >-
+  5.n1.4 Ingreso laboral real promedio de las personas ocupadas según sexo
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de dividir la sumatoria del Ingreso laboral de la población de 12 años o más según sexo por entidad federativa entre el total de la población de 12 años o más ocupada según sexo por entidad federativa.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Alida Marcela Gutiérrez Landeros<br>Coordinadora General de Análisis de la Pobreza<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70075<br>amgutierrez@coneval.org.mx<br><br>David Antonio Rojas Rosey<br>Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70100<br>drojas@coneval.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  El indicador expresa el ingreso laboral real promedio que reciben las personas ocupados según sexo en cada una de las 32 entidades federativas del país. Esto permite observar a los estados en donde se encuentra la brecha salarial  real entre  el ingreso laboral  que perciben las mujeres ocupadas, respecto al que perciben los hombres sin considerar el nivel jerárquico. <br>  <br>  El indicador se encuentra deflactado a precios del 1T 2010 y muestra los pesos reales que perciben por su trabajo en cada entidad federativa. <br>  <br>  La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+UNIT_MEASURE: >-
+  Pesos reales promedio
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Estimaciones del CONEVAL con base en la serie de la ENOE<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Segundo semestre de 2021
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
+COMPILING_ORG: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  La Constitución de la Organización Internacional del Trabajo plantea una aspiración en cuestión de remuneración laboral, "igual salario por trabajo de igual valor".  La incorporación de las mujeres en el mercado laboral presenta una tendencia creciente, sin embargo, esta incorporación aún se presenta en condiciones de desventaja, una de estas desventajas es en el acceso a ciertos puestos y otra es en las remuneraciones. <br>A nivel mundial se ha encontrado un respaldo hacia la igualdad salarial, sin embargo, estas aún persisten, a pesar de los grandes esfuerzos que se han llevado a cabo.<br>El indicador se integra en el objetivo de dar seguimiento al ingreso laboral real promedio que perciben ambos sexos por su trabajo.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El indicador se refiere al salario real percibido en el trabajo principal de la población ocupada de quince años o más sin considerar el mismo nivel jerárquico. Asimismo, se informa que derivado de la contingencia sanitaria por la COVID-19 no se cuenta con datos para el segundo trimestre del 2020 y a partir del tercer trimestre del mismo año la encuesta tendrá cambios en su levantamiento al incorporar encuestas telefónicas según informa el INEGI en la siguiente nota técnica: https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/doc/enoe_n_nota_tecnica_0720.pdf 
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/5n.1.4_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Pesos reales promedio
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '5.n1.4 Ingreso laboral real promedio de las personas ocupadas según sexo'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '5.n1.4 Ingreso laboral real promedio de las personas ocupadas según sexo'
+indicator_number:
+  '5.n1.4'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

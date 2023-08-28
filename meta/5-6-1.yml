@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+SDG_TARGET: >-
+  Meta 5.6 Asegurar el acceso universal a la salud sexual y reproductiva y los derechos reproductivos según lo acordado de conformidad con el Programa de Acción de la Conferencia Internacional sobre la Población y el Desarrollo, la Plataforma de Acción de Beijing y los documentos finales de sus conferencias de examen
+SDG_INDICATOR: >-
+  5.6.1 Proporción de mujeres de entre 15 y 49 años que toman sus propias decisiones informadas sobre las relaciones sexuales, el uso de anticonceptivos y la atención de la salud reproductiva
+SDG_SERIES_DESCR: >-
+  Se consideran mujeres de 15 a 49 años unidas, es decir, casadas o en unión libre que toman decisiones principalmente ellas (ellas mismas o entre su pareja y ella, pero ella un poco) o conjuntamente con la pareja, sobre derechos sexuales y reproductivos identificados en la ENDIREH sobre sobre cuándo tener relaciones sexuales (considerando principalmente a ellas), el uso de métodos anticonceptivos y el cuidado de su salud sexual y reproductiva.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  María de la Cruz Muradás Troitiño<br>Directora General de Estudios Sociodemográficos y Prospectiva<br>Doctor José María Vertiz 852<br>Colonia Narvarte, 03020<br>Benito Juárez, Ciudad de México<br>55 5128 0000, ext. 19511<br>maria.muradas@conapo.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Proporción de mujeres en edad fértil unidas que toman decisiones en cuanto a tener relaciones sexuales con su esposo o pareja si no lo desean, decidir si se usan anticonceptivos y sobre el cuidado de su salud sexual y reproductiva.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH), 2016 y 2022.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  2026
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  ONU, Departamento de Economía y Asuntos Sociales, División de Población (2016). Model-based Estimates and Projections of Family Planning Indicators 2016. Nueva York: Naciones Unidas. Disponible en: <a target="_blank" class="liga3" href=" https://www.un.org/development/desa/pd/data/family-planning-indicators"> https://www.un.org/development/desa/pd/data/family-planning-indicators</a><br>
+COMPILING_ORG: >-
+  Consejo Nacional de Población (CONAPO). Dirección General de Estudios Sociodemográficos y Prospectiva.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  La autonomía de las mujeres en la toma de decisiones sobre las relaciones sexuales consensuales, el uso de métodos anticonceptivos y el acceso a los servicios de salud sexual y reproductiva son elementos clave para conocer el nivel de empoderamiento en el pleno ejercicio de sus derechos reproductivos.<br><br>La capacidad de una mujer para decir "no" a su esposo o compañero si no quiere tener relaciones sexuales está bien alineada con el concepto de autonomía sexual y el empoderamiento de la mujer.<br><br>Con respecto a la toma de decisiones sobre el uso de métodos anticonceptivos, expertas/os que analizaron datos de varios países indicaron que se obtiene una comprensión más clara del empoderamiento de las mujeres al observar el indicador desde la perspectiva de las decisiones que se toman "principalmente por parte de la pareja" a diferencia de la decisión tomada "solo por la mujer" o "por la mujer conjuntamente con la pareja", por lo que, dependiendo del tipo de método anticonceptivo que se use, la decisión de la mujer "sola" o "en conjunto con la pareja" no siempre implica que la mujer esté facultada o tenga habilidades de negociación, por tal motivo, se puede asumir que una mujer que no participa, en absoluto, en tomar decisiones anticonceptivas y en el cuidado de su salud sexual y reproductiva no tiene poder en lo que respecta a las decisiones sexuales y reproductivas.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El indicador es factible de cálculo a partir de la ENDIREH 2021 en la que se incluyó por primera vez  la pregunta sobre el cuidado de la salud sexual y reproductiva de la mujer.<br><br>Referente a las relaciones sexuales, en la construcción del indicador originalemtne propuesto se incluye la pregunta si la mujer puede decir que "no".  Dado que no se cuenta con dicha pregunta en la ENDIREH, se realizó la aproximación al indicador indluyendo la pregunta sobre de quién es la decisión de cuando tener relaciones sexuales, considerando solamente cuando es decisión principalmente de la mujer (solo la entrevistada o entre los dos, pero la entrevistadas un poco más).<br><br>La decisión de uso de métodos anticonceptivos se pregunta a todas las MEFU, ya que en el cuestionario para mujer casada o unida, no existe una pregunta para mujeres usuarias actuales de métodos anticonceptivos, por lo que las preguntas sobre las decisiones y libertad personal, se formulan a las mujeres sin tener un conocimiento previo de que actualmente usan anticonceptivos.<br><br>Las preguntas consideradas para el cálculo del indicador pertenecen a la "Sección XV. Decisiones y libertad personal": pregunta 15.1AB12, considerando principalmente a la mujer ("solo usted (la entrevistada)" o "entre los dos, pero usted un poco más"), es decir, los códigos de respuesta 1 y 4; pregunta 15.1AB13, considerando principalmente a la mujer ("solo usted (la entrevistada)" o "entre los dos, pero usted un poco más")  y conjuntamente ("entre los dos por igual"), es decir, los códigos de respuesta  1, 4 y 5; y pregunta 15.1AB14, considerando principalmente a la mujer ("solo usted (la entrevistada)" o "entre los dos, pero usted un poco más")  y conjuntamente ("entre los dos por igual"), es decir, los códigos de respuesta  1, 4 y 5.<br><br>Las estimaciones obtenidas tienen representatividad suficiente a nivel nacional, mientras que, en algunas entidades federativas el coeficiente de variación supera el 15%, por lo que se sugiere un uso cauteloso de la estimación considerando las causas de la alta variabilidad y se consideren otros indicadores de precisión y confiabilidad, como el intervalo de confianza.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/5.6.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>La decisión de uso de métodos anticonceptivos se pregunta a todas las MEFU, ya que, en el cuestionario para mujer casada o unida, no existe una pregunta para mujeres usuarias actuales de métodos anticonceptivos, por lo que las preguntas sobre las decisiones y libertad personal se formulan a las mujeres sin tener un conocimiento previo de que actualmente usan anticonceptivos.<br><br>Solo se consideran las mujeres que responden “sólo usted (la entrevistada)” y "Entre los dos, pero usted un poco más", en la pregunta XV.15.1AB.12; y "solo usted (la entrevistada)", "entre los dos, pero usted un poco más" y "entre los dos por igual" en las preguntas XV.15.1AB.13 y XV.15.1AB.14 de la Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares, 2021, en la Sección XV.<br><br>Las estimaciones obtenidas tienen representatividad suficiente a nivel nacional, sin embargo, en algunas entidades federativas, el coeficiente de variación supera el 15%, por lo que requiere un uso cauteloso de la estimación en el que se analicen las causas de la alta variabilidad y se consideren otros indicadores de precisión y confiabilidad, como el intervalo de confianza.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '5.6.1 Proporción de mujeres de entre 15 y 49 años que toman sus propias decisiones informadas sobre las relaciones sexuales, el uso de anticonceptivos y la atención de la salud reproductiva'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '5.6.1 Proporción de mujeres de entre 15 y 49 años que toman sus propias decisiones informadas sobre las relaciones sexuales, el uso de anticonceptivos y la atención de la salud reproductiva'
+indicator_number:
+  '5.6.1'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Estimaciones de la SGCONAPO, con base en la Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares, 2021.
+source_periodicity_1:
+  Quinquenal
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

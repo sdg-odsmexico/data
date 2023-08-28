@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+SDG_TARGET: >-
+  Meta 5.b Mejorar el uso de la tecnología instrumental, en particular la tecnología de la información y las comunicaciones, para promover el empoderamiento de la mujer
+SDG_INDICATOR: >-
+  5.b.1 Proporción de personas que utilizan teléfonos móviles, desglosada por sexo
+SDG_SERIES_DESCR: >-
+  Este indicador se calcula dividiendo el número total de individuos objetivo que son dueños o que poseen un teléfono móvil entre el número total del volumen de los individuos.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Jorge Eduardo Ponce Leyva<br>Coordinación General de Planeación Estratégica<br>Avenida Insurgentes sur 1143, Colonia Noche Buena, 03720<br>Benito Juárez, Benito Juárez, Ciudad de México<br>55 5015 4368<br>jorge.ponce@ift.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Se entiende como la cantidad de personas, desglosada por sexo, que cuentan con algún dispositivo que les permita tener el servicio de telefonía móvil. Este indicador permite valorar el porcentaje de mujeres y hombres que actualmente cuentan con servicios de telefonía móvil, de modo que podamos medir la convergencia en igualdad de uso en las tecnologías de la información y las comunicaciones.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Federal de Telecomunicaciones (IFT). Coordinación General de Planeación Estratégica, con base en los resultados de las Encuestas Nacionales sobre Disponibilidad y Uso de Tecnología de Información en los Hogares (ENDUTIH) del Instituto Nacional de Estadística y Geografía (INEGI), 2015, 2016, 2017 y 2018.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Unión Internacional de Telecomunicaciones (UIT).<br><a target="_blank" class="liga3" href="http://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ITCMEAS-2014-PDF-E.pdf">http://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ITCMEAS-2014-PDF-E.pdf</a><br>
+COMPILING_ORG: >-
+  Instituto Federal de Telecomunicaciones (IFT).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Las redes de telefonía móvil se han extendido rápidamente en la última década y el número de suscripciones de telefonía móvil y celular, es casi igual al número de las personas que viven en la tierra. Sin embargo, no todas las personas utilizan, o poseen un teléfono celular móvil. La propiedad de teléfonos móviles, en particular suele ser de uso personal, por lo tanto es importante hacer un seguimiento de igualdad de género, considerando que este servicio proporciona un grado de independencia y autonomía, incluso para fines profesionales. Diversos estudios han puesto de relieve el vínculo entre la propiedad del teléfono móvil y el crecimiento de la productividad.<br><br>Los datos existentes sobre la proporción de mujeres que poseen un teléfono móvil nos permiten conocer y realizar un seguimiento en temas de igualdad y empoderamiento de la mujer, de modo que se puedan diseñar políticas dirigidas a reducir la brecha de género. La colección de este indicador fue propuesto por el Grupo de Trabajo sobre Género de la Asociación para la Medición de las TIC para Desarrollo.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Este indicador es un indicador de la UIT de nuevo desarrollo que fue aprobado por el Simposio Mundial de Indicadores de las Telecomunicaciones / TIC (WTIS) 2014. La definición de indicadores y la metodología se desarrollaron en el marco de la coordinación de la UIT, a través de sus grupos de expertos y tras un amplio proceso de consulta con los países.<br><br>Los datos para la proporción de individuos que poseen un teléfono móvil se recogerán a través de un cuestionario anual que la UIT envía a las oficinas nacionales de estadística (NSO), a partir de 2015. En este cuestionario, a través del cual la UIT ya recoge una serie de indicadores de las TIC, la UIT recoge los valores absolutos. Los porcentajes se calculan a posteriori.<br><br>La metodología de la encuesta se verifica para asegurarse de que cumple con los estándares estadísticos adecuados. Los datos son verificados para asegurar la consistencia con los datos de años anteriores y otros indicadores a nivel de país correspondiente (TIC y económico).
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional, desglose por entidad federativa.
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/5.b.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>La Zona Metropolitana del Valle de México incluye 16 delegaciones de la Ciudad de México, 59 municipios del estado de México y uno del estado de Hidalgo.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '5.b.1 Proporción de personas que utilizan teléfonos móviles, desglosada por sexo'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '5.b.1 Proporción de personas que utilizan teléfonos móviles, desglosada por sexo'
+indicator_number:
+  '5.b.1'
+national_geographical_coverage:
+  Nacional, desglose por entidad federativa.
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Instituto Federal de Telecomunicaciones (IFT), con base en los resultados de las Encuestas Nacionales sobre Disponibilidad y Uso de Tecnología de Información en los Hogares (ENDUTIH) del Instituto Nacional de Estadística y Geografía (INEGI).
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional, desglose por entidad federativa.
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

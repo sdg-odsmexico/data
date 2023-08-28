@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+SDG_TARGET: >-
+  Meta 5.n1 Participación paritaria y efectiva de las mujeres en la vida política, económica y pública, con énfasis en la disminución de brechas de todo tipo, entre ellas la salarial, en el mercado laboral y la carga doméstica de cuidados
+SDG_INDICATOR: >-
+  5.n1.1 Razón del ingreso laboral de trabajadoras/trabajadores por nivel de escolaridad
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de dividir la media del ingreso laboral  por hora de las mujeres entre el de los hombres por nivel educativo. 
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Alida Marcela Gutiérrez Landeros<br>Coordinadora General de Análisis de la Pobreza<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70075<br>amgutierrez@coneval.org.mx<br><br>Héctor Figueroa Palafox<br>Director Ejecutivo de Lineamientos de Medición de Pobreza y de Desarrollo Social<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70135<br>hfigueroa@coneval.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  El indicador expresa la relación que existe entre el ingreso laboral por hora que perciben las mujeres ocupadas, respecto al que perciben los hombres, considerando que ambos tienen el mismo nivel educativo. <br>  <br>  El indicador toma valores positivos. Un valor menor de cien indica que el salario mediano por hora de las mujeres es menor que el de los hombres, a pesar de contar ambos con el mismo nivel educativo. Un valor mayor a cien expresa que el ingreso por trabajo que reciben las mujeres es mayor que el de los hombres, aunque su escolaridad sea igual.
+UNIT_MEASURE: >-
+  Razón
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Estimaciones del CONEVAL con base en el MCS-ENIGH 2008, 2010, 2012, 2014 y el MEC del MCS-ENIGH 2016 y 2018.<br>Dirección Ejecutiva de Medición de Pobreza y Seguimiento de Indicadores, Dirección General Adjunta de Análisis de la Pobreza (DGAAP), Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Segundo semestre de 2021
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
+COMPILING_ORG: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  La Constitución de la Organización Internacional del Trabajo plantea una aspiración en cuestión de remuneración laboral, "igual salario por trabajo de igual valor".  La incorporación de las mujeres en el mercado laboral presenta una tendencia creciente, sin embargo, esta incorporación aún se presenta en condiciones de desventaja, una de estas desventajas es en el acceso a ciertos puestos y otra es en las remuneraciones. <br>A nivel mundial se ha encontrado un respaldo hacia la igualdad salarial, sin embargo, estas aún persisten, a pesar de los grandes esfuerzos que se han llevado a cabo.<br>El indicador se integra on el objetivo de dar seguimiento a la brecha de ingresos que aún existen entre hombres y mujeres que tienen el mismo nivel educativo.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El indicador se refiere al salario percibido en el trabajo principal de la población ocupada de dieciséis años o más en posición subordinada. Se considera el ingreso mediano -percentil 50- por hora.<br><br>La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/5n.1.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Razón
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '5.n1.1 Razón del ingreso laboral de trabajadoras/trabajadores por nivel de escolaridad'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '5.n1.1 Razón del ingreso laboral de trabajadoras/trabajadores por nivel de escolaridad'
+indicator_number:
+  '5.n1.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

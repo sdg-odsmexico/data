@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+SDG_TARGET: >-
+  Meta 5.n2 Igualdad de oportunidad en el acceso a recursos económicos, acceso a la propiedad y servicios financieros para las mujeres
+SDG_INDICATOR: >-
+  5.n2.1 Porcentaje de certificados y títulos expedidos a mujeres como sujetos agrarios con respecto a los hombres
+SDG_SERIES_DESCR: >-
+  Es el porcentaje de mujeres ejidatarias que cuentan con por lo menos un certificado parcelario o de uso comun vigente  o aquellos que tienen la calidad de ejidatario aun cuando no se les han expedido documentos, con respecto a los hombres.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Abraham Issaí Nuñez Morales<br>Subdirector de Vinculación de la Unidad de Planeación y Desarrollo Institucional<br>Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México<br>5568209700 Ext. 50710<br>abraham.nunez@sedatu.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Porcentaje de certificados y títulos expedidos a mujeres como sujetos agrarios con respecto a los hombres.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Elaboración propia con base en la información Sistema Integral de Modernización Catastral y Registral (SIMCR) del Registro Agrario Nacional (RAN)<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  01 de junio de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Agenda 2030<br>
+COMPILING_ORG: >-
+  Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU). Unidad de Planeación y Desarrollo Institucional.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El indicador mide el avance que se tiene en reducir la desigualdad en materia de certeza juridica y derechos de la propiedad del Sector Agrario.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Solo se consideran a las mujeres ejidatarias que cuentan con por lo menos un certificado parcelario o de uso común vigente o aquellos que tienen la calidad de ejidatario aun cuando no se les han expedido documentos, con respecto a los hombres. No se toma en consideración a la población ejidataria que son comuneros, posesionarios y avecindados.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/5n.2.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '5.n2.1 Porcentaje de certificados y títulos expedidos a mujeres como sujetos agrarios con respecto a los hombres'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '5.n2.1 Porcentaje de certificados y títulos expedidos a mujeres como sujetos agrarios con respecto a los hombres'
+indicator_number:
+  '5.n2.1'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Registro Agrario Nacional (RAN)
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+SDG_TARGET: >-
+  Meta 5.a. Emprender reformas que otorguen a las mujeres igualdad de derechos a los recursos económicos, así como acceso a la propiedad y al control de la tierra y otros tipos de bienes, los servicios financieros, la herencia y los recursos naturales, de conformidad con las leyes nacionales
+SDG_INDICATOR: >-
+  5.a.1b Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia
+SDG_SERIES_DESCR: >-
+  Es el porcentaje de mujeres agrícolas con derechos seguros sobre tierras agrícolas con relación al total de la población agrícola con derechos sobre tierras agrícolas.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Abraham Issaí Nuñez Morales<br>Subdirector de Vinculación de la Unidad de Planeación y Desarrollo Institucional<br>Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México<br>5568209700 Ext. 50710<br>abraham.nunez@sedatu.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  El subindicador 5.a.1 (b) se centra en la paridad de género, midiendo hasta qué punto las mujeres están en desventaja en la propiedad o los derechos seguros sobre las tierras agrícolas.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Elaboración propia con base en la encuesta ampliada del Censo de Población y Vivienda 2020 del Instituto Nacional de Estadística y Geografía (INEGI)<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  2026
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
+COMPILING_ORG: >-
+  Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El indicador permite visualizar el avance para reducir la brecha en la certeza juridica del sector agricola entre hombres y mujeres.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  La población agricola incluye a todas las personas que trabajan en actividades agrícolas, ganaderas, forestales, caza y pesca.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/5.a.1b_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '5.a.1b Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '5.a.1b Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia'
+indicator_number:
+  '5.a.1b'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

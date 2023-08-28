@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+SDG_TARGET: >-
+  Meta 5.4. Reconocer y valorar los cuidados y el trabajo doméstico no remunerados mediante servicios públicos, infraestructuras y políticas de protección social, y promoviendo la responsabilidad compartida en el hogar y la familia, según proceda en cada país
+SDG_INDICATOR: >-
+  5.4.1b Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por entidad federativa
+SDG_SERIES_DESCR: >-
+  El indicador se calcula sobre la base del número promedio de horas que la población dedica al trabajo doméstico y de cuidado no remunerado por día en el propio hogar y otros hogares, respecto al tiempo total del día, lo que representa la proporción del tiempo dedicado a este tipo de actividades. Este tipo de medidas se pueden utilizar para comparar diferentes grupos poblacionales, desgloses geográficos y evaluar cambios a lo largo del tiempo.<br><br>El indicador se presenta desagregado a nivel nacional y entidades federativas, por sexo y grupos de edad. Este indicador no incluye cuidados pasivos.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Este indicador se define como la proporción del tiempo dedicado al trabajo doméstico y de cuidado no remunerado para el propio hogar como para otros hogares. El trabajo doméstico no remunerado incluye la preparación de alimentos, el lavado de platos, la limpieza y el mantenimiento de una vivienda, la lavandería, el planchado, la jardinería, el cuidado de mascotas, las compras, la instalación, el mantenimiento y la reparación de artículos personales y domésticos. Estas actividades se enumeran en ICATUS 2016 bajo la división principal “3. Unpaid domestic services for household and family members ” y la división principal 4 "Unpaid caregiving services for household and family members". En el caso de la Clasificación Mexicana de Uso del Tiempo (CMAUT) 2014 que es la referencia para ENUT, son las actividades que se enumeran bajo la división principal 2 " Trabajo doméstico no remunerado para el propio hogar", la división principal “3. Trabajo no remunerado de cuidado para miembros del propio hogar;  excluyendo el tiempo de trabajo de cuidados pasivos. Así como la división 41 "Trabajo de apoyo a otros hogares no remunerado".
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI).<br>Instituto Nacional de las Mujeres (INMUJERES).<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  2025, cuarto trimestre del año
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Clasificación Mexicana de Actividades de Uso del Tiempo (CMAUT) 2014.<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). <a target="_blank" class="liga3" href="https://www.inegi.org.mx/">https://www.inegi.org.mx/ </a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Permite conocer la cantidad de tiempo que la población de 12 años y más dedica a proporcionar trabajo doméstico y de cuidados no remunerados. Este indicador muestra la desigual carga de trabajo de las mujeres y de los hombres en el propio hogar y otros hogares. Es útil para la formulación de políticas públicas encaminadas a tener una mejor distribución de las cargas de trabajo doméstico y de cuidados no remunerado entre las mujeres, los hombres, las empresas y el Estado, así como para sustentar elaboración de las políticas y programas públicos orientados al desarrollo de sistemas de cuidados.  
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Los datos presentados para este indicador se expresan como una proporción de tiempo total que se dedica en un día al trabajo doméstico y de cuidado. Los datos promedio por día se dividen entre 24 horas y se multiplican por 100. Lo cual, corresponde a la fórmula de cálculo propuesta en el metadato NU pero expresada de manera diferente.<br><br>El número promedio de horas dedicadas al trabajo doméstico y de cuidados no remunerado se deriva de las estadísticas de uso del tiempo que se recopilan mediante la Encuesta Nacional de Uso del Tiempo (ENUT).<br><br>Para 2014 los resultados por entidad federativa no son representativos.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y estatal
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/5.4.1b_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '5.4.1b Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por entidad federativa'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '5.4.1b Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por entidad federativa'
+indicator_number:
+  '5.4.1b'
+national_geographical_coverage:
+  Nacional y estatal
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

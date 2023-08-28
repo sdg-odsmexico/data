@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+SDG_TARGET: >-
+  Meta 5.n3 Eliminar todas las formas de violencia contra las mujeres y las niñas en los ámbitos público y privado
+SDG_INDICATOR: >-
+  5.n3.1 Proporción de mujeres y niñas a partir de 15 años de edad que han experimentado violencia física o sexual  por otro agresor distinto a la pareja y pidieron apoyo a alguna institución o presentaron una queja o denuncia ante alguna autoridad
+SDG_SERIES_DESCR: >-
+  El indicador se calcula como el número de mujeres y niñas de 15 años y más  que experimentaron violencia física o sexual  por otro agresor distinto a la pareja y pidieron apoyo a alguna institución o presentaron una queja o denuncia ante alguna autoridad, dividido entre el total de mujeres de 15 años y más que experimentaron violencia física o sexual  por otro agresor distinto a la pareja, multiplicado por 100. Se considera un desglose por entidad federativa.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>Alejandra Ríos Cázares<br>Directora General Adjunta de Desarrollo, Análisis e Indicadores de Gobierno<br>Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX<br>5552781000, extensión 1698<br>alejandra.riosc@inegi.org.mx<br><br>Eloina Meneses Mendoza<br>Directora de Desarrollo de Información Gubernamental<br>Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX<br>5552781000, extensión 1779<br>eloina.meneses@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el número de mujeres y niñas a partir de 15 años de edad que han experimentado  violencia física o sexual  por otro agresor distinto a la pareja y pidieron apoyo a alguna institución o presentaron una queja o denuncia ante alguna autoridad, dividido entre el total de mujeres y niñas de 15 años de edad que vivieron violencia física o sexual  por otro agresor distinto a la pareja , por 100.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI).Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH). <a target="_blank" class="liga3" href="https://www.inegi.org.mx/programas/endireh/2016/">Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH).</a> Base de datos.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Octubre de 2027
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Objetivos del Desarrollo Sostenible. Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas. 5.2 Eliminar todas las formas de violencia contra todas las mujeres y las niñas en los ámbitos público y privado, incluidas la trata y la explotación sexual y otros tipos de explotación<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  La violencia contra las mujeres es uno de los mayores problemas de México en la actualidad y que va en incremento. De acuerdo con la Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE) 2018, la sensación de inseguridad de las mujeres pasó de 74.7% en 2013 a 82.1% en 2018. Aunque pueda pensarse que la inseguridad es un problema creciente general, datos de la ENVIPE sugieren que se refleja con mayor frecuencia en las mujeres. <br><br>Existen datos que dan cuenta de la violencia contra las mujeres por parte de su pareja; sin embargo, se propone un indicador complementario, el cual mide el nivel de violencia que viven las mujeres por parte de un agresor distinto a la pareja. Además, este indicador da un signo del empoderamiento de las mujeres, porque considera el reporte o denuncia ante alguna autoridad. <br><br>Por lo anterior, el indicador permite aproximarnos al nivel de violencia severa que experimentan las mujeres, además el denunciar o pedir ayuda implica un paso en el empoderamiento de las mujeres, así como confianza en el gobierno o estado de derecho, lo que permitirá el diseño, seguimiento y evaluación de políticas públicas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres. 
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  De acuerdo con la ENDIREH, se considera que una mujer sufrió violencia por parte de algún agresor distinto a la pareja, en el ámbito escolar, laboral, comunitario o familiar, si en al menos uno de los actos por los que se indaga la violencia física o sexual, la mujer respondió que sí lo ha experimentado. <br>Actos de violencia física: "La han pellizcado, jalado el cabello, empujado, jaloneado, abofeteado o aventado algún objeto"; "La han pateado o golpeado con el puño"; "La han atacado o agredido con un cuchillo, navaja o arma de fuego". <br>Actos de violencia sexual: "la han manoseado, tocado, besado o se le han arrimado, recargado o encimado sin su consentimiento"; "le han propuesto o insinuado tener relaciones sexuales a cambio de (beneficios)"; "la castigaron, trataron mal o se vengaron, porque se negó a tener relaciones sexuales (la reprobaron, le bajaron la calificación, la expulsaron o sacaron de la escuela, etc.)"; "la han obligado a tener relaciones sexuales en contra de su voluntad"; "le han hecho sentir miedo de ser atacada o abusada sexualmente"; "la han obligado a mirar escenas o actos sexuales o pornográficos (fotos, revistas, vídeos o películas pornográficas)"; "le han dicho piropos groseros u ofensivos de tipo sexual o sobre su cuerpo"; "le han enviado mensajes o publicado comentarios con insinuaciones sexuales, insultos u ofensas, a través del celular, correo electrónico o redes sociales (como Facebook, Twitter, WhatsApp)"; "alguna persona le mostró sus partes íntimas o se las manoseó enfrente de usted"; "le han levantado la falda, el vestido o le han jaloneado la ropa para ver sus partes íntimas o su ropa interior"; "han tratado de obligarla a tener relaciones sexuales en contra de su voluntad".
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/5n.3.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '5.n3.1 Proporción de mujeres y niñas a partir de 15 años de edad que han experimentado violencia física o sexual  por otro agresor distinto a la pareja y pidieron apoyo a alguna institución o presentaron una queja o denuncia ante alguna autoridad'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '5.n3.1 Proporción de mujeres y niñas a partir de 15 años de edad que han experimentado violencia física o sexual  por otro agresor distinto a la pareja y pidieron apoyo a alguna institución o presentaron una queja o denuncia ante alguna autoridad'
+indicator_number:
+  '5.n3.1'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Instituto Nacional de Estadística y Geografía (INEGI), Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia (DGEGSPJ). Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH) 2016 y 2021.
+source_periodicity_1:
+  Quinquenal
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

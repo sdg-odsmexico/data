@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+SDG_TARGET: >-
+  Meta 5.2 Eliminar todas las formas de violencia contra todas las mujeres y las niñas en los ámbitos público y privado, incluidas la trata y la explotación sexual y otros tipos de explotación
+SDG_INDICATOR: >-
+  5.2.1.b Proporción de mujeres de 15 años de edad o más, que han sufrido violencia física, sexual o psicológica infligida por un compañero íntimo actual o anterior, en los 12 meses anteriores, por grupos de edad según tipo de violencia
+SDG_SERIES_DESCR: >-
+  Es el resultado de dividir el número de mujeres y niñas del grupo de edad e que experimentaron algún evento de violencia física, sexual o psicológica por parte de un compañero intimo actual o anterior en los últimos 12 meses, entre el número de mujeres y niñas del grupo de edad e que han tenido pareja, multiplicado por cien.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>Alejandra Ríos Cázares<br>Directora General Adjunta de Desarrollo, Análisis e Indicadores de Gobierno<br>Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX<br>5552781000, extensión 1698<br>alejandra.riosc@inegi.org.mx<br><br>Eloina Meneses Mendoza<br>Directora de Desarrollo de Información Gubernamental<br>Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX<br>5552781000, extensión 1779<br>eloina.meneses@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Porcentaje de mujeres y niñas de 15 años y más que declararon haber experimentado al menos un incidente de violencia física, sexual o psicológica por parte de un compañero íntimo actual o anterior, durante los 12 meses anteriores a la entrevista.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH), 2011, 2016 y 2021.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  octubre 2027
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Convención sobre la eliminación de todas las formas de discriminación contra la mujer (CEDAW). Disponible en: <a target="_blank" class="liga3" href=" https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women"> https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Para el diseño, seguimiento y evaluación de políticas públicas sobre prevención, atención, sanción y erradicación de la violencia contra las mujeres, alineadas con los instrumentos de planeación nacional:<br>Programa Sectorial de Bienestar:<br>Objetivo prioritario 5. Contribuir a una cultura para la paz para incidir en la disminución de la violencia en comunidades y territorios<br>Estrategia prioritaria 5.3 Contribuir a una cultura para la paz y disminuir las violencias contra las mujeres para lograr su bienestar<br><br>Programa Sectorial de Gobernación:<br>Objetivo prioritario 3: Garantizar, promover y proteger los derechos humanos de las personas mediante políticas públicas y mecanismos que aseguren el ejercicio pleno de sus derechos. <br>Estrategia prioritaria 3.3 Garantizar el derecho de las mujeres a una vida libre de violencia, a través de la construcción de medidas que modifiquen los estereotipos y conductas que atentan contra la vida y la dignidad, así como asegurar su acceso a la justicia.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Los 12 meses anteriores a la encuesta corresponde a octubre de 2010 a octubre de 2011 para la ENDIREH 2011, de octubre de 2015 a octubre de 2016 para la ENDIREH 2016 y octubre de 2020 a octubre de 2021 para la ENDIREH 2021.<br><br>Se consideran los siguientes ítems sobre la violencia de la pareja actual o última, por tipo de violencia.<br><br>ENDIREH 2011) Violencia física, incluye las siguientes agresiones: "La ha empujado o le ha jalado el cabello"; "La ha amarrado"; "La ha pateado"; "Le ha aventado algún objeto"; "La ha golpeado con las manos o con algún objeto"; "La ha tratado de ahorcar o asfixiar"; "La ha agredido con cuchillo o navaja"; "Le ha disparado con un arma".<br><br>ENDIREH 2016 y 2021) Violencia física, incluye las siguientes agresiones: "La ha empujado o le ha jalado el cabello"; "La ha amarrado"; "La ha pateado"; "Le ha aventado algún objeto"; "La ha abofeteado o cacheteado"; "La ha golpeado con el puño o con algún objeto"; "La ha tratado de ahorcar o asfixiar"; "La ha agredido con cuchillo o navaja"; "Le ha disparado con un arma de fuego".<br><br>ENDIREH 2011) Violencia emocional, se consideran las siguientes agresiones: "La ha avergonzado, menospreciado o humillado (le ha dicho que es fea o la ha comparado con otras mujeres"; "La ha ignorado, no la ha tomado en cuenta o no le ha brindado cariño"; "Le ha dicho que usted lo engaña"; "Le ha hecho sentir miedo"; "La ha amenazado con irse, dañarla, quitarle a los hijos o correrla de la casa"; "La ha encerrado, le ha prohibido salir o que la visiten"; "La ha vigilado o espiado"; "La ha amenazado con algún arma (cuchillo, navaja, pistola o rifle)"; "La ha amenazado con matarla, matarse él o matar a los niños"; "Le ha destruido, tirado o escondido cosas de usted o del hogar"; "Le ha dejado de hablar"; "Ha hecho que los hijos o parientes se pongan contra usted"; "Se ha enojado mucho porque no está listo el quehacer, porque la comida no está como él quiere o cree que usted no cumplió con sus obligaciones".<br><br>ENDIREH 2016 y 2021) Violencia emocional, se consideran las siguientes agresiones: "La ha avergonzado, ofendido, menospreciado o humillado (le ha dicho que es fea o la ha comparado con otras mujeres)"; "La ha ignorado, no la toma en cuenta o no le brinda cariño"; "Le ha dicho que usted lo engaña"; "Le ha hecho sentir miedo"; "La ha amenazado con dejarla/abandonarla, dañarla, quitarle a los(as) hijos(as) o correrla de la casa"; "La ha encerrado, le ha prohibido salir o que la visiten"; "La ha vigilado, espiado, la ha seguido cuando sale de su casa o se le aparece de manera sorpresiva"; "La ha amenazado con algún arma (cuchillo, navaja, pistola o rifle) o con quemarla"; "La ha amenazado con matarla, matarse él o matar a los niños(as)"; "Le ha destruido, tirado o escondido cosas de usted o del hogar"; "Le ha dejado de hablar"; "Ha hecho que los hijos(as) o parientes se pongan en su contra"; "Se ha enojado mucho porque no está listo el quehacer, porque la comida no está como él quiere o cree que usted no cumplió con sus obligaciones"; "La llama o le manda mensajes por teléfono todo el tiempo, para saber dónde y con quién está y qué está haciendo"; "Le revisa su correo o celular y le exige que le dé las contraseñas".<br><br>ENDIREH 2011) Violencia sexual, se consideran las siguientes agresiones: "Le ha exigido tener relaciones sexuales, aunque usted no quiera"; "Cuando tienen relaciones sexuales la ha obligado a hacer cosas que a usted no le gustan"; "Ha usado su fuerza física para obligarla a tener relaciones sexuales".<br><br>ENDIREH 2016 y 2021) Violencia sexual, se consideran las siguientes agresiones: "Le ha exigido con amenazas o chantajes tener relaciones sexuales, aunque usted no quiera"; "Cuando tienen relaciones sexuales la ha obligado a hacer cosas que a usted no le gustan"; "Ha usado su fuerza física para obligarla a tener relaciones sexuales"; "La ha obligado a tener relaciones sexuales sin protección"; "La ha obligado a mirar escenas o actos sexuales o pornográficos (fotos, revistas, videos o películas pornográficas)".
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/5.2.1.b_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Excepto las estimaciones con notas /a, /b, /c y /d, las estimaciones presentadas en este cuadro tienen un coeficiente de variación (%) en el rango de (0,15), por lo que su nivel de precisión es clasificado como Alto.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '5.2.1.b Proporción de mujeres de 15 años de edad o más, que han sufrido violencia física, sexual o psicológica infligida por un compañero íntimo actual o anterior, en los 12 meses anteriores, por grupos de edad según tipo de violencia'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '5.2.1.b Proporción de mujeres de 15 años de edad o más, que han sufrido violencia física, sexual o psicológica infligida por un compañero íntimo actual o anterior, en los 12 meses anteriores, por grupos de edad según tipo de violencia'
+indicator_number:
+  '5.2.1.b'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Instituto Nacional de Estadística y Geografía (INEGI), Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia (DGEGSPJ). Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH) 2011, 2016 y 2021.
+source_periodicity_1:
+  Quinquenal
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

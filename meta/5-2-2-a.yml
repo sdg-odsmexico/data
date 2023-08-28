@@ -1,0 +1,167 @@
+﻿SDG_GOAL: >-
+  Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+SDG_TARGET: >-
+  Meta 5.2 Eliminar todas las formas de violencia contra todas las mujeres y las niñas en los ámbitos público y privado, incluidas la trata y la explotación sexual y otros tipos de explotación
+SDG_INDICATOR: >-
+  5.2.2.a Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia sexual a manos de personas que no eran su pareja en los últimos 12 meses, por entidad federativa y lugar del hecho
+SDG_SERIES_DESCR: >-
+  Es el resultado de dividir el número de mujeres y niñas de 15 años y más que vivieron al menos un incidente de violencia sexual por parte de otra persona que no es un actual o último compañero íntimo en los últimos 12 meses y ocurrió en el lugar l, entre el número de mujeres y niñas de 15 años y más que vivieron al menos un incidente de violencia sexual por parte de otra persona que no es un actual o último compañero íntimo en los últimos 12 meses, multiplicado por cien.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>Alejandra Ríos Cázares<br>Directora General Adjunta de Desarrollo, Análisis e Indicadores de Gobierno<br>Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX<br>5552781000, extensión 1698<br>alejandra.riosc@inegi.org.mx<br><br>Eloina Meneses Mendoza<br>Directora de Desarrollo de Información Gubernamental<br>Av. Patriotismo 711. Colonia San Juan, Alcaldía Benito Juárez, CDMX<br>5552781000, extensión 1779<br>eloina.meneses@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Porcentaje de mujeres y niñas de 15 años y más que declararon haber experimentado al menos un incidente de violencia sexual infligida por otra persona que no sea un compañero íntimo, durante los 12 meses anteriores a la encuesta, por lugar del hecho.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH), 2011, 2016 y 2021.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  octubre 2027
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Convención sobre la eliminación de todas las formas de discriminación contra la mujer (CEDAW). Disponible en: <a target="_blank" class="liga3" href=" https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women"> https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Para el diseño, seguimiento y evaluación de políticas públicas sobre prevención, atención, sanción y erradicación de la violencia contra las mujeres, alineadas con los instrumentos de planeación nacional:<br>Programa Sectorial de Bienestar:<br>Objetivo prioritario 5. Contribuir a una cultura para la paz para incidir en la disminución de la violencia en comunidades y territorios<br>Estrategia prioritaria 5.3 Contribuir a una cultura para la paz y disminuir las violencias contra las mujeres para lograr su bienestar<br><br>Programa Sectorial de Gobernación:<br>Objetivo prioritario 3: Garantizar, promover y proteger los derechos humanos de las personas mediante políticas públicas y mecanismos que aseguren el ejercicio pleno de sus derechos. <br>Estrategia prioritaria 3.3 Garantizar el derecho de las mujeres a una vida libre de violencia, a través de la construcción de medidas que modifiquen los estereotipos y conductas que atentan contra la vida y la dignidad, así como asegurar su acceso a la justicia.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  ENDIREH 2011) Actos de violencia sexual: "la han manoseado, tocado, besado o se le han arrimado, recargado o encimado sin su consentimiento"; "le han propuesto o insinuado tener relaciones sexuales a cambio de algo"; "la castigaron, trataron mal o se vengaron, porque se negó a tener relaciones sexuales"; "la han obligado a tener relaciones sexuales en contra de su voluntad"; "le han hecho sentir miedo de ser atacada o abusada sexualmente"; "la han obligado a realizar actos sexuales por dinero"; "la han obligado a mirar escenas o actos sexuales o pornográficos"; "le han dicho piropos groseros u ofensivos de tipo sexual o sobre su cuerpo".<br><br>ENDIREH 2016 y 2021) Actos de violencia sexual: "la han manoseado, tocado, besado o se le han arrimado, recargado o encimado sin su consentimiento"; "le han propuesto o insinuado tener relaciones sexuales a cambio de (beneficios)"; "la castigaron, trataron mal o se vengaron, porque se negó a tener relaciones sexuales (la reprobaron, le bajaron la calificación, la expulsaron o sacaron de la escuela, etc.)"; "la han obligado a tener relaciones sexuales en contra de su voluntad"; "le han hecho sentir miedo de ser atacada o abusada sexualmente"; "la han obligado a mirar escenas o actos sexuales o pornográficos (fotos, revistas, vídeos o películas pornográficas)"; "le han dicho piropos groseros u ofensivos de tipo sexual o sobre su cuerpo"; "le han enviado mensajes o publicado comentarios con insinuaciones sexuales, insultos u ofensas, a través del celular, correo electrónico o redes sociales (como Facebook, Twitter, WhatsApp)"; "alguna persona le mostró sus partes íntimas o se las manoseó enfrente de usted"; "le han levantado la falda, el vestido o le han jaloneado la ropa para ver sus partes íntimas o su ropa interior"; "han tratado de obligarla a tener relaciones sexuales en contra de su voluntad".<br><br>ENDIREH 2011) Lugares donde ocurrió la agresión: "la calle"; "la escuela"; "la oficina"; "la fábrica o taller"; "la casa"; "el transporte público"; "el cine"; "el centro comercial"; "otro lugar".<br><br>ENDIREH 2016 y 2021) Los lugares donde ocurrió la agresión: "la escuela"; "en las instalaciones del trabajo"; "la calle, parque"; "el transporte público"; "una casa particular"; "mercado, plaza, tianguis, centro comercial, iglesia o templo, una cantina, bar, antro, feria, fiesta, asamblea o junta vecinal"; "otro lugar público"; "otro".
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/5.2.2.a_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Excepto las estimaciones con notas /a, /b, /c  y /d, las estimaciones presentadas en este cuadro tienen un coeficiente de variación (%) en el rango de (0,15), por lo que su nivel de precisión es clasificado como Alto.<br><br><br><sup>1</sup> En la ENDIREH 2016 y 2021 incluye las categorías autobús, microbús, metro, metrobús y taxi.<br><sup>2</sup> En la ENDIREH 2011 incluye las categorías escuela, fábrica y taller.<br><sup>3</sup> En la ENDIREH 2011 incluye sólo la categoría centro comercial. En la ENDIREH 2016 y 2021 incluye las categorías mercado, plaza, tianguis, centro comercial, iglesia, cantina, bar, antro, feria, fiesta y asamblea o junta vecinal.<br><sup>4</sup> En la ENDIREH 2011 incluye las categorías cine y otro. En la ENDIREH 2016 y 2021 incluye las categorías otro y otro lugar público.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  - field: 'Entidad federativa'
+    value: 'Estados Unidos Mexicanos'
+  - field: 'Violencia sexual'
+    value: 'Con al menos un incidente'
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '5.2.2.a Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia sexual a manos de personas que no eran su pareja en los últimos 12 meses, por entidad federativa y lugar del hecho'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '5.2.2.a Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia sexual a manos de personas que no eran su pareja en los últimos 12 meses, por entidad federativa y lugar del hecho'
+indicator_number:
+  '5.2.2.a'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Instituto Nacional de Estadística y Geografía (INEGI), Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia (DGEGSPJ). Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH) 2011, 2016 y 2021.
+source_periodicity_1:
+  Quinquenal
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

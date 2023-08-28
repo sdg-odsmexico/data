@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 5. Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+SDG_TARGET: >-
+  Meta 5.5 Asegurar la participación plena y efectiva de las mujeres y la igualdad de oportunidades de liderazgo a todos los niveles decisorios en la vida política, económica y pública
+SDG_INDICATOR: >-
+  5.5.2 Proporción de mujeres en cargos directivos
+SDG_SERIES_DESCR: >-
+  Proporción de mujeres ocupadas en cargos directivos como funcionarias y directoras con respecto al total de la población ocupada en ese grupo de ocupación.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Octavio Heredia Hernández<br>Director General Adjunto de Encuestas Sociodemográficas<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276<br>Aguascalientes, Aguascalientes<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Telefóno: 4499105300, Ext. 4322, 4223<br>octavio.heredia@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Participación de las mujeres ocupadas en cargos directivos como funcionarias o directoras.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOE). Primer trimestre de 2016 al primer trimestre de 2020.<br>Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOEN) (Nueva edición). Tercer trimestre de 2020 al cuarto trimestre de 2021.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Abril de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Sin referencia<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Sociodemográficas.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Medir la participación de las mujeres en puestos de nivel directivo.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Los datos se calculan con el promedio aritmético de los trimestres de los cuales se dispone información.<br><br>Se considera el grupo de ocupación funcionarios y directivos de los sectores público, privado y social de los grupos de ocupación de la Encuesta Nacional de Ocupación y Empleo que se levanta trimestralmente.<br><br>El indicador considera a la población de 15 años o más.<br><br>Para conocer la conformación de las ciudades autorrepresentadas por entidad, municipio y localidad de la ENOE, consultar el documento Cómo se hace la ENOE: Métodos y procedimientos. Disponible en: <a target="_blank" class="liga3" href="https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825190613.pdf">https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825190613.pdf</a> 
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional, entidad federativa y áreas metropolitanas autorrepresentadas
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/5.5.2_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '5.5.2 Proporción de mujeres en cargos directivos'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '5.5.2 Proporción de mujeres en cargos directivos'
+indicator_number:
+  '5.5.2'
+national_geographical_coverage:
+  Nacional, entidad federativa y áreas metropolitanas autorrepresentadas
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOE). Primer trimestre de 2016 a primer trimestre de 2020. Encuesta Nacional de Ocupación y Empleo (Nueva Edición) (ENOEN). Tercer trimestre de 2020 a cuarto trimestre de 2021.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional, entidad federativa y áreas metropolitanas autorrepresentadas
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''
