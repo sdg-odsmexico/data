@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible
+SDG_TARGET: >-
+  Meta 17.8 Poner en pleno funcionamiento, a más tardar en 2017, el banco de tecnología y el mecanismo de apoyo a la creación de capacidad en materia de ciencia, tecnología e innovación para los países menos adelantados y aumentar la utilización de tecnologías instrumentales, en particular la tecnología de la información y las comunicaciones
+SDG_INDICATOR: >-
+  17.8.1 Proporción de personas que usan internet, por entidad federativa y principales ciudades
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de dividir el total de individuos que al cierre del año usaron el servicio de internet en cualquier sitio en los 12 meses anteriores, entre la población estimada al cierre del mismo año, el resultado se expresa como porcentaje.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Jorge Eduardo Ponce Leyva<br>Coordinación General de Planeación Estratégica<br>Avenida Insurgentes sur 1143, Colonia Noche Buena, 03720<br>Benito Juárez, Benito Juárez, Ciudad de México<br>55 5015 4368<br>jorge.ponce@ift.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Este indicador nos muestra el porcentaje de personas que usaron internet en los 12 meses anteriores por cada 100 habitantes del país.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Federal de Telecomunicaciones (IFT).<br>Para 2015, 2016, 2017, 2018, 2019, 2020 y 2021, con datos del Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional sobre Disponibilidad y Uso de Tecnología de Información en los Hogares (ENDUTIH).<br>Consejo Nacional de Población (CONAPO) con base en las Proyecciones de la población de México 2010-2050.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Unión Internacional de Telecomunicaciones (UIT).<br><a target="_blank" class="liga3" href="http://www.itu.int/es/pages/default.aspx">http://www.itu.int/es/pages/default.aspx</a><br>
+COMPILING_ORG: >-
+  Instituto Federal de Telecomunicaciones (IFT).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  La penetración del servicio de Internet representa un factor importante para conocer el nivel de desarrollo de la conectividad del país y el avance en la reducción de la brecha digital.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El IFT es el organismo federal encargado de integrar las cifras de este indicador, con base en información de la ENDUTIH, del CONAPO y en reportes administrativos de las empresas que proporcionan el servicio de acceso a Internet.<br><br>El INEGI a través de la ENDUTIH genera información estadística anual sobre la disponibilidad de las tecnologías de la información y comunicaciones en los hogares, así como de sus usos por los individuos, de manera particular los usuarios de Internet; en esta encuesta se define a un usuario de Internet como un individuo de seis o más años de edad que en forma eventual o cotidiana, y de manera autónoma, ha accedido y realizado alguna actividad en Internet en cualquier sitio en los últimos 12 meses.<br><br>Se actualizaron los datos de población desde 1991 a la fecha porque el universo de usuarios de Internet que captura la MODUTIH y ENDUTIH es sólo aquel que es mayor a 6 años de edad, en ese sentido y con el objeto de usar el mismo conjunto de personas, se utilizan las proyecciones de CONAPO usando exclusivamente la población mayor a 6 años de edad.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/17.8.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Debido al cambio metodológico observado entre MODUTIH y ENDUTIH, al pasar de un informante que responde sobre el uso de las TIC por los demás miembros del hogar, hacia un informante seleccionado aleatoriamente que proporciona únicamente el uso que le brinda él mismo a estas tecnologías, las cifras de usuarios no son comparables entre 2014 y 2015.La Zona Metropolitana del Valle de México incluye 16 delegaciones de la Ciudad de México, 59 municipios del Estado de México y uno del estado de Hidalgo.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '17.8.1 Proporción de personas que usan internet, por entidad federativa y principales ciudades'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '17.8.1 Proporción de personas que usan internet, por entidad federativa y principales ciudades'
+indicator_number:
+  '17.8.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Instituto Federal de Telecomunicaciones (IFT), Coordinación General de Planeación Estratégica, con información proporcionada por los operadores y con datos de la Encuestas Nacionales sobre Disponibilidad y Uso de Tecnología de Información en los Hogares (ENDUTIH) del Instituto Nacional de Estadística y Geografía (INEGI).
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

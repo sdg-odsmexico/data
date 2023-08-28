@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas
+SDG_TARGET: >-
+  Meta 16.1 Reducir significativamente todas las formas de violencia y las correspondientes tasas de mortalidad en todo el mundo
+SDG_INDICATOR: >-
+  16.1.1 Número de defunciones por homicidio por cada 100 000 habitantes, desglosado por sexo y edad
+SDG_SERIES_DESCR: >-
+  El indicador se calcula como el número de defunciones por homicidio (por entidad de registro) en el año, dividido entre el total de población a mitad de año, multiplicado por cien mil. Se considera un desglose por sexo, por grupos de edad: personas menores de 15 años; 15-24; 25-64; 65 o más años, y entidad federativa.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el número de defunciones por homicidio por entidad de registro durante el año, dividido entre el total de la población a mitad del año, por 100 000.
+UNIT_MEASURE: >-
+  Casos por cada 100 000 habitantes
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). <a target="_blank" class="liga3" href="https://www.inegi.org.mx/programas/mortalidad/">Estadísticas vitales: Base de datos de mortalidad.</a><br>Consejo Nacional de Población  (CONAPO), <a target="_blank" class="liga3" href="https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050">Proyecciones de la Población de México y de las Entidades Federativas 2016-2050.</a> Septiembre de 2018.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  19 de noviembre de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Clasificación Estadística Internacional  de Enfermedades y Problemas Relacionados con la Salud, Décima Revisión (CIE-10).<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Este indicador se utiliza ampliamente a nivel nacional e internacional para medir la forma más extrema de los crímenes violentos y también proporciona un indicio directo de la falta de seguridad. La seguridad frente a la violencia es un requisito previo para que las personas disfruten de una vida segura y eficaz, y para que las sociedades y las economías se desarrollen libremente. Los homicidios intencionales ocurren en todos los países del mundo y este indicador tiene una aplicabilidad a escala mundial.<br>Para el caso de México, el Instituto Nacional de Estadística y Geografía recopila la información sobre las defunciones por homicidio provenientes de los registros administrativos (certificados de defunción), los cuales se basan en la Clasificación Estadística Internacional  de Enfermedades y Problemas Relacionados con la Salud, Décima Revisión (CIE-10).<br>De acuerdo con la CIE-10 el homicidio se define como las "lesiones ocasionadas por otra persona con intento de lesionar o matar, por cualquier medio" y abarca los códigos X85 a Y09.<br>Desde su adopción por los países miembros de la Organización Mundial de la Salud (OMS) en 1994, la CIE-10 constituye uno de los estándares más usados a nivel internacional para elaborar estadísticas de morbilidad y mortalidad en el mundo; cuyo propósito es permitir el registro sistemático, el análisis, la interpretación y la comparación de los datos de mortalidad y morbilidad recolectados en diferentes países o áreas, y en diferentes momentos.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  1. Los resultados se derivan de la información sobre las estadísticas vitales captada de los registros administrativos de defunciones accidentales y violentas, generados por las entidades federativas. Comprende el total de registros con códigos de causa básica para homicidios (X85-Y09) según la Clasificación Estadística Internacional de Enfermedades y Problemas Relacionados con la Salud, Décima Revisión. (CIE-10).<br><br>2. Se consideran homicidios por año de registro y entidad de registro.<br><br>3. La suma de las entidades no coinciden con los totales por las defunciones que no especifican sexo en el registro.<br><br>4. El número absoluto de homicidios desagregados por sexo no coincide con las cifras publicadas en el sitio oficial internacional de los ODS (https://unstats.un.org/sdgs/indicators/database/) debido a que los “no especificados” por sexo fueron prorrateados en alguna de las categorías de hombre o mujer de manera proporcional. Asimismo, las tasas pueden variar ligeramente, ya que por comparabilidad internacional la ONU utiliza como denominador sus propias proyecciones de población.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/16.1.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Casos por cada 100 000 habitantes
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>El número de defunciones por homicidio es el total de registros por grupo de edad con códigos de causas básicas para homicidios (X85-Y09) según la clasificación Estadística Internacional de Enfermedades y Problemas Relacionados con la Salud, Décima Revisión (CIE-10).  El total de defunciones por homicidio registradas (por entidad de ocurrencia) durante el año no coincide con la suma del total de víctimas hombres y mujeres dado que se consideran aquellos casos en los que no se especifica el sexo de la víctima. Se considera el número de defunciones por homicidio por año de registro y entidad de ocurrencia. La suma de las defunciones por grupos de edad para cada año difiere del total porque en el cálculo de cada grupo de edad se excluyen las defunciones donde no se especificó la edad de la persona fallecida. Sin embargo, para el cálculo del total sí se toman en cuenta estas defunciones.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '16.1.1 Número de defunciones por homicidio por cada 100 000 habitantes, desglosado por sexo y edad'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '16.1.1 Número de defunciones por homicidio por cada 100 000 habitantes, desglosado por sexo y edad'
+indicator_number:
+  '16.1.1'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Instituto Nacional de Estadística y Geografía (INEGI), Estadísticas de mortalidad. Consejo Nacional de Población  (CONAPO), Proyecciones de la Población de México y de las Entidades Federativas 2016-2050.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

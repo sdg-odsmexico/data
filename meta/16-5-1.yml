@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas
+SDG_TARGET: >-
+  Meta 16.5 Reducir considerablemente la corrupción y el soborno en todas sus formas
+SDG_INDICATOR: >-
+  16.5.1. Proporción de personas que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a las que un funcionario público les ha pedido un soborno, durante los últimos 12 meses
+SDG_SERIES_DESCR: >-
+  Número total de personas que pagaron al menos un soborno a un funcionario público o a las que un funcionario público les solicitó un soborno en los últimos 12 meses, entre el total de personas que tuvieron al menos un contacto con un funcionario público en el mismo periodo, multiplicado por 100. Desagregada por sexo (total, hombres, mujeres) y entidad federativa.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>Óscar Jaimes Bello<br>Director General de Estadísticas de Gobierno, Seguridad Pública y Justicia<br>Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.<br>52781000, Ext:1592<br>oscar.jaimes@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Personas que pagaron al menos un soborno (le dieron dinero, hicieron un regalo o favor) a un servidor público, o un servidor público les pidió un soborno en los últimos 12 meses, como porcentaje de las personas que tuvieron al menos un contacto con un servidor público en el mismo periodo.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG) de INEGI.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Tercer trimestre de 2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Convención de las Naciones Unidas contra la Corrupción (artículos 15, 16 y 21). Disponible en: <a target="_blank" class="liga3" href="https://www.unodc.org/ropan/es/AntiCorruptionARAC/united-nations-convention-against-corruption.html">https://www.unodc.org/ropan/es/AntiCorruptionARAC/united-nations-convention-against-corruption.html</a><br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  La corrupción es un antónimo de la igualdad de acceso a los servicios públicos y del correcto funcionamiento de la economía; como tal, tiene un impacto negativo en la distribución justa de los recursos y las oportunidades de desarrollo. Además, la corrupción erosiona la confianza pública en las autoridades y el estado de derecho; cuando el soborno administrativo se convierte en una experiencia recurrente de grandes sectores de la población y las empresas, sus efectos tienen un impacto negativo profundo en el estado de derecho, los procesos democráticos y la justicia. Al proporcionar una medida directa de la experiencia del soborno, este indicador proporciona una medida objetiva de la corrupción, así como un criterio para monitorear el progreso en la lucha contra la corrupción.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Los datos se refieren al año previo a la publicación de la encuesta fuente (ENCIG), que se publica en el primer semestre del año que corresponda.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/16.5.1._es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '16.5.1. Proporción de personas que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a las que un funcionario público les ha pedido un soborno, durante los últimos 12 meses'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '16.5.1. Proporción de personas que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a las que un funcionario público les ha pedido un soborno, durante los últimos 12 meses'
+indicator_number:
+  '16.5.1.'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  INEGI. Encuesta Nacional de Calidad e Impacto Gubernamental, 2015, 2017, 2019, 2021.
+source_periodicity_1:
+  Bienal
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

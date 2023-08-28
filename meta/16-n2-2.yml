@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas
+SDG_TARGET: >-
+  Meta 16.n2 Recuperar el Estado de derecho y garantizar la igualdad de acceso a la justicia para todos
+SDG_INDICATOR: >-
+  16.n2.2 Porcentaje de personas de 18 años y más que identifica a los Ministerios Públicos y Procuradurías y manifiesta que les generan confianza
+SDG_SERIES_DESCR: >-
+  Población de 18 años y más que identifica a los Ministerios Públicos y Procuradurías y manifestó que estas le inspiran mucha confianza o algo de confianza, entre la población de 18 años y más que identifica a los Ministerios Públicos y Procuradurías, multiplicada por 100. Desagregada por sexo (total; hombres; mujeres) y entidad federativa.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>Óscar Jaimes Bello<br>Director General de Estadísticas de Gobierno, Seguridad Pública y Justicia<br>Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.<br>52781000, Ext:1592<br>oscar.jaimes@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Mide el porcentaje de la población de 18 años y más que identifica a los Ministerios Públicos y Procuradurías y manifiesta que éstos le generan mucha confianza o algo de confianza respecto al total de la población de 18 años y más que identifica a los Ministerios Públicos y Procuradurías.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE) de INEGI.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Primer trimestre de 2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Handobook on Governance Statistics. <a target="_blank" class="liga3" href=" https://unstats.un.org/unsd/statcom/51st-session/documents/Handbook_on_GovernanceStatistics-Draft_for_global_consultation-E.pdf"> https://unstats.un.org/unsd/statcom/51st-session/documents/Handbook_on_GovernanceStatistics-Draft_for_global_consultation-E.pdf<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI) <a target="_blank" class="liga3" href=" https://inegi.org.mx/default.html"> https://inegi.org.mx/default.html</a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Conocer los niveles de confianza que tiene la población en los ministerios públicos y procuradurías. 
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El nivel de confianza se refiere a las personas que contestaron mucha confianza y algo de confianza en los Ministerios Públicos y Procuradurías de la pregunta 5.4 de la ENVIPE.<br><br>Para 2020, debido a la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19), el levantamiento de la información se realizó del 17 al 31 de marzo y del 27 de julio al 04 de septiembre. Las estimaciones presentadas corresponden al periodo de levantamiento del 17 al 31 de marzo.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/16n.2.2_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '16.n2.2 Porcentaje de personas de 18 años y más que identifica a los Ministerios Públicos y Procuradurías y manifiesta que les generan confianza'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '16.n2.2 Porcentaje de personas de 18 años y más que identifica a los Ministerios Públicos y Procuradurías y manifiesta que les generan confianza'
+indicator_number:
+  '16.n2.2'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública, 2016 a 2022.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

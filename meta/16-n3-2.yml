@@ -1,0 +1,167 @@
+﻿SDG_GOAL: >-
+  Objetivo 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas
+SDG_TARGET: >-
+  Meta 16.n3 Reducir la corrupción y el soborno en todas sus formas
+SDG_INDICATOR: >-
+  16.n3.2 Confianza en el Gobierno Federal
+SDG_SERIES_DESCR: >-
+  Población de 18 años y más, que habita en zonas urbanas de 100 mil habitantes y más, que identifica a la Presidencia de la República y las secretarías de Estado a nivel federal y manifestó que le inspiran mucha confianza o algo de confianza, entre la población de 18 años y más, que habita en zonas urbanas de 100 mil habitantes y más, que identifica a la Presidencia de la República y las secretarías de Estado del nivel federal, multiplicada por 100. Desagregada por sexo (total; hombres; mujeres), entidad federativa y áreas metropolitanas autorrepresentadas.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>Óscar Jaimes Bello<br>Director General de Estadísticas de Gobierno, Seguridad Pública y Justicia<br>Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.<br>52781000, Ext:1592<br>oscar.jaimes@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Mide el porcentaje de la población de 18 años y más que identifica a la Presidencia de la República y las secretarías de Estado a nivel federal y manifiesta que estas instituciones le generan mucha confianza o algo de confianza respecto al total de la población de 18 años y más que identifica a dichas instituciones.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG) de INEGI.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Tercer trimestre de 2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  The United Nations Rule of Law Indicators, 2011. Implementation Guide and Project Tools.United Nations publication. <a target="_blank" class="liga3" href="https://www.snieg.mx/cni/Contenidos/documentos/Estandares/un_rule_of_law_indicators.pdf"> https://www.snieg.mx/cni/Contenidos/documentos/Estandares/un_rule_of_law_indicators.pdf<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El indicador es impotante para dar seguimiento a las estrategias y acciones del Eje General 1.- Política y Gobierno del Plan Nacional de Desarrollo el cual establece las directrices para que las dependencias y entidades de la APF implementen acciones dirigidas a combatir la corrupción en el ámbito administrativo, mejorando los servicios públicos, e incrementando los estándares de eficiencia, eficacia, honestidad y austeridad de las instituciones públicas; en la medida que es un indicador sensible a la percepción de la ciudadanía sobre si las instituciones del Gobierno Federal están dando los resultados esperados por parte de la población. 
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El nivel de confianza se refiere a las personas que contestaron mucha confianza y algo de confianza en la Presidencia de la República y Secretarías de Estado de la pregunta 11.1 de la ENCIG.<br><br>Los datos se refieren al año previo a la publicación de la encuesta fuente (ENCIG), que se publica en el primer semestre del año que corresponda.<br><br>La cobertura de la ENCIG solo abarca zonas urbanas de 100 mil habitantes y más.<br><br>El indicador está alineado a la meta global 16.5 Reducir considerablemente la corrupción y el soborno en todas sus formas.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional, entidad federativa y áreas metropolitanas autorrepresentadas
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/16n.3.2_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  - field: 'Entidad federativa'
+    value: 'Estados Unidos Mexicanos'
+  - field: 'Sexo'
+    value: 'Total'
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '16.n3.2 Confianza en el Gobierno Federal'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '16.n3.2 Confianza en el Gobierno Federal'
+indicator_number:
+  '16.n3.2'
+national_geographical_coverage:
+  Nacional, entidad federativa y áreas metropolitanas autorrepresentadas
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  INEGI. Encuesta Nacional de Calidad e Impacto Gubernamental, 2017, 2019 y 2021.
+source_periodicity_1:
+  Bienal
+source_geographical_coverage_1:
+  Nacional, entidad federativa y áreas metropolitanas autorrepresentadas
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

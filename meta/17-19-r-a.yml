@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible
+SDG_TARGET: >-
+  Meta 17.19 De aquí a 2030, aprovechar las iniciativas existentes para elaborar indicadores que permitan medir los progresos en materia de desarrollo sostenible y complementen el producto interno bruto, y apoyar la creación de capacidad estadística en los países en desarrollo
+SDG_INDICATOR: >-
+  17.19.r.a Porcentaje del presupuesto público que representa a) la oficina nacional de estadística, b) el sistema estadístico nacional, c) el instituto geográfico nacional y d) el sistema geográfico nacional
+SDG_SERIES_DESCR: >-
+  Se obtiene dividiendo el presupuesto autorizado por la H. Cámara de Diputados al Instituto Nacional de Estadística y Geografía entre el presupuesto de egresos de la federación, el resultado multiplicado por 100.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Porcentaje del presupuesto público que representa el Instituto Nacional de Estadística y Geografía y el Sistema Nacional de Información Estadística y Geográfica.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Hacienda y Crédito Público (SHCP). Presupuesto de Egresos de la Federación por ejercicio fiscal. Disponible en: <a target="_blank" class="liga3" href="https://www.pef.hacienda.gob.mx/Num.:~:text=El%20Presupuesto%20de%20Egresos%20de,de%20Hacienda%20y%20Cr%C3%A9dito%20P%C3%BAblico"> https://www.pef.hacienda.gob.mx/Num.:~:text=El%20Presupuesto%20de%20Egresos%20de,de%20Hacienda%20y%20Cr%C3%A9dito%20P%C3%BAblico </a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Al final del 2do trim. del año siguiente a la aprobación del PEF
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Repositorio de Indicadores priorizados para el seguimiento de los ODS en América Latina y el Caribe (CEPAL). Disponible en: <a target="_blank" class="liga3" href="https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html"> https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html</a><br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI), Dirección General de Administración.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Medir la asignación para el gasto público en las oficinas nacionales de estadística es esencial para garantizar la transparencia, la eficiencia y la efectividad en la producción de datos estadísticos y geográficos, lo que a su vez fortalece la toma de decisiones informadas y el desarrollo económico y social de un país.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El indicador refleja el presupuesto autorizado al Instituto Nacional de Estadística (INEGI) y al Sistema Nacional de Información Estadística y Geográfica (SNIEG), y no incluye el resto de las Unidades de Estados del SNIEG que realizan actividades estadísticas y geográficas.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/17r.19.a_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '17.19.r.a Porcentaje del presupuesto público que representa a) la oficina nacional de estadística, b) el sistema estadístico nacional, c) el instituto geográfico nacional y d) el sistema geográfico nacional'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '17.19.r.a Porcentaje del presupuesto público que representa a) la oficina nacional de estadística, b) el sistema estadístico nacional, c) el instituto geográfico nacional y d) el sistema geográfico nacional'
+indicator_number:
+  '17.19.r.a'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Hacienda y Crédito Público (SHCP). Presupuesto de Egresos de la Federación por ejercicio fiscal. Disponible en <a target="_blank" class="liga3" href="https//www.pef.hacienda.gob.mx/Num.~text=El%20Presupuesto%20de%20Egresos%20de,de%20Hacienda%20y%20Cr%C3%A9dito%20P%C3%BAblico"> https//www.pef.hacienda.gob.mx/Num.~text=El%20Presupuesto%20de%20Egresos%20de,de%20Hacienda%20y%20Cr%C3%A9dito%20P%C3%BAblico </a>
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

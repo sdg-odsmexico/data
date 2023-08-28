@@ -1,0 +1,169 @@
+﻿SDG_GOAL: >-
+  Objetivo 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas
+SDG_TARGET: >-
+  Meta 16.7. Garantizar la adopción en todos los niveles de decisiones inclusivas, participativas y representativas que respondan a las necesidades
+SDG_INDICATOR: >-
+  16.7.1c Proporciones de plazas en las instituciones nacionales y locales, entre ellas el Poder Judicial
+SDG_SERIES_DESCR: >-
+  Número de jueces(as), magistrados(as) y secretarios(as) pertenecientes al grupo poblacional de interés (sexo, rangos de edad) entre el total de jueces(as), magistrados(as) y secretarios(as) en el Poder Judicial; entre el número de personas pertenecientes al grupo poblacional de interés en edad de trabajar entre la población nacional total en edad de trabajar.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>Óscar Jaimes Bello<br>Director General de Estadísticas de Gobierno, Seguridad Pública y Justicia<br>Av. Patriotismo 711. Colonia San Juan, delegación Benito Juárez, CDMX.<br>52781000, Ext:1592<br>oscar.jaimes@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Jueces(as), magistrados(as) y secretarios(as) en el grupo de interés poblacional (sexo, rangos de edad) como proporción del total de los servidores públicos, entre el grupo de interés poblacional (sexo, rangos de edad) en edad de trabajar como proporción de la población total  en edad de trabajar.
+UNIT_MEASURE: >-
+  Ratio
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Numerador:• Censo Nacional de Impartición de Justicia Estatal 2020-2021.<a target="_blank" class="liga3" href="https://www.inegi.org.mx/programas/cnije/2021/"> https://www.inegi.org.mx/programas/cnije/2021/</a>• Censo Nacional de Impartición de Justicia Federal 2020-2021. <a target="_blank" class="liga3" href="https://www.inegi.org.mx/programas/cnijf/2021/"> https://www.inegi.org.mx/programas/cnijf/2021/</a>Denominador:• Consejo Nacional de Población  (CONAPO), Proyecciones de la Población de México y de las Entidades Federativas 2016-2050. <a target="_blank" class="liga3" href="https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050"> https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Segundo semestre de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  UNDP (2018), Disability Inclusive Development in UNDP. <a target="_blank" class="liga3" href=" https://www.undp.org/sites/g/files/zskgke326/files/publications/UNDP-Disability-GN-Summary-accessible.pdf"> https://www.undp.org/sites/g/files/zskgke326/files/publications/UNDP-Disability-GN-Summary-accessible.pdf</a><br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Para que la toma de decisiones por parte del poder judicial sea receptiva, inclusiva, participativa y representativa en todos los niveles, como lo exige la meta 16.7, es importante garantizar la diversidad en los puestos clave en los tribunales a nivel nacional y local. La diversidad en los cargos judiciales hace que la toma de decisiones por parte del poder judicial sea más legítima a los ojos de los ciudadanos y las ciudadanas y más receptiva a las preocupaciones de toda la población.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Los ratios de estos indicadores pueden variar respecto a los ratios disponibles en la página de los Objetivos de Desarrollo Sostenible de la División de Estadísticas de las Naciones Unidas  (https://unstats.un.org/sdgs/) debido a que las agencias internacionales utilizan sus propias estimaciones de población.<br><br>La población en edad de trabajar utilizada para el denominador comprende las personas de 18 a 70 años, rango en el que se concentró 99% de la población ocupada en las instituciones públicas en  el cuarto trimestre de 2020, de acuerdo con la Encuesta Nacional de Ocupación y Empleo del mismo periodo.<br><br>El personal considerado en el poder judicial corresponde a los puestos de mininstros(as), magistrados(as), jueces(as), secretarios(as) y secretarios(as) de estudio y cuenta o proyectistas en los ámbitos federal y estatal y en los diversos niveles de tribunales: Suprema Corte de Justicia de la Nación, Tribunal Electoral del Poder Judicial de la Federación, Tribunales Unitarios, Tribunales Colegiados y Juzgados.<br><br>Un ratio mayor a uno (>1) significa que la representación del grupo poblacional de interés en el servicio público es mayor que en el total de la población en edad de trabajar.<br><br>Un ratio de uno (1) significa que  la representación del grupo poblacional de interés en el servicio público es igual que en el total de la población en edad de trabajar.<br><br>Un ratio menor a uno (<1) significa que  la representación del grupo poblacional de interés en el servicio público es menor que en el total de la población en edad de trabajar.<br><br>Un ratio de 0 significa que  no existe representación del grupo poblacional de interés en el servicio público.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/16.7.1c_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Ratio
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  - field: 'Entidad federativa'
+    value: 'Poder judicial de la federación'
+  - field: 'Sexo'
+    value: 'Total'
+  - field: 'Grupos de edad en plazas del Poder judicial'
+    value: 'Total'
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '16.7.1c Proporciones de plazas en las instituciones nacionales y locales, entre ellas el Poder Judicial'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '16.7.1c Proporciones de plazas en las instituciones nacionales y locales, entre ellas el Poder Judicial'
+indicator_number:
+  '16.7.1c'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  • Instituto Nacional de Estadística y Geografía (INEGI), Censo Nacional de Impartición de Justicia Federal 2020 a 2021.• Instituto Nacional de Estadística y Geografía (INEGI), Censo Nacional de Impartición de Justicia Estatal 2020 a 2021.• Consejo Nacional de Población (CONAPO), Proyecciones de la Población de México y de las Entidades Federativas 2016-2050.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

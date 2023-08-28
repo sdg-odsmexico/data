@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible
+SDG_TARGET: >-
+  Meta 17.n2 Creación y fortalecimiento de capacidades eficaces y específicas para la implementación de la Agenda 2030
+SDG_INDICATOR: >-
+  17.n2.1 Porcentaje de indicadores globales y regionales para los que se encuentra información pública en la plataforma de indicadores
+SDG_SERIES_DESCR: >-
+  Se calcula como la suma de los indicadores globales y regionales publicados en la plataforma, dividida entre la suma del total de indicadores de los marcos Global y Regional aplicables a México.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Porcentaje de indicadores únicos, globales y regionales, para los que se encuentra información publicada en el Sistema de Información de los Objetivos de Desarrollo Sostenible, respecto al total de indicadores únicos aplicables a México.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Sistema de Información de los Objetivos de Desarrollo Sostenible (SIODS) de México. <a target="_blank" class="liga3" href="https://agenda2030.mx/Num./home">https://agenda2030.mx/Num./home</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Diciembre de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Marco Global de indicadores ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/">https://unstats.un.org/sdgs/</a>Marco Regional de indicadores ODS, disponible en: <a target="_blank" class="liga3" href="https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html">https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html</a><br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Comunicación, Servicio Público de Información y Relaciones Institucionales (DGCSPIRI).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El cálculo de los indicadores únicos publicados, tanto del marco global como del marco regional, es clave para evaluar el monitoreo de la Agenda 2030 a nivel nacional. Asimismo, su información resulta fundamental para el diagnóstico, seguimiento y fortalecimiento de las políticas públicas que atienden las temáticas asociadas con cada uno de los indicadores.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Los indicadores aplicables a México fueron ratificados por el Comité Técnico Especializados de los Objetivos de Desarrollo Sostenible en la Primera Sesión Ordinaria del 2022, el 10 de agosto del 2022.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/17n.2.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '17.n2.1 Porcentaje de indicadores globales y regionales para los que se encuentra información pública en la plataforma de indicadores'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '17.n2.1 Porcentaje de indicadores globales y regionales para los que se encuentra información pública en la plataforma de indicadores'
+indicator_number:
+  '17.n2.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Sistema de Información de los Objetivos de Desarrollo Sostenible (SIODS) de México. <a target="_blank" class="liga3" href="https//agenda2030.mx/Num./home">https//agenda2030.mx/Num./home</a>
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

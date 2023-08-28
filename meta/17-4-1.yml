@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible
+SDG_TARGET: >-
+  Meta 17.4 Ayudar a los países en desarrollo a lograr la sostenibilidad de la deuda a largo plazo con políticas coordinadas orientadas a fomentar la financiación, el alivio y la reestructuración de la deuda, según proceda, y hacer frente a la deuda externa de los países pobres muy endeudados a fin de reducir el endeudamiento excesivo
+SDG_INDICATOR: >-
+  17.4.1 Servicio de la deuda como proporción de las exportaciones de bienes y servicios
+SDG_SERIES_DESCR: >-
+  Numerador: Para un año determinado se realiza la suma del costo financiero de la deuda pública externa y el monto de amortizaciones realizadas en el año de deuda pública externa. La deuda pública externa incluye al Gobierno Federal, las empresas productivas del Estado y la Banca de Desarrollo.<br>Denominador:  La suma de las exportaciones de bienes y servicios realizadas en un año.<br>El resultado total se multiplica por 100.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Juan Andrade Goytortú<br>Director de Política de Deuda Pública<br>Av. Insurgentes sur 1971,<br>Colonia Guadalupe Inn, C.P. 01020,<br>Álvaro Obregón, Álvaro Obregón,<br>Ciudad de México<br>(55) 3688 1215<br>juan_andrade@hacienda.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el porcentaje que representan los pagos por servicio de la deuda (capital e intereses) respecto al total de las exportaciones de bienes y servicios. Los servicios de la deuda que se describen en este indicador se refieren, únicamente, a la deuda pública y a la deuda con garantía pública.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Hacienda y Crédito Público (SHCP): <br><a target="_blank" class="liga3" href="http://finanzaspublicas.hacienda.gob.mx/es/Finanzas_Publicas/Informes_al_Congreso_de_la_UnionEstadísticas oportunas de finanzas públicas">Informes Trimestrales sobre la situación económica, las finanzas y la deuda pública.</a><br><a target="_blank" class="liga3" href="http://finanzaspublicas.hacienda.gob.mx/es/Finanzas_Publicas/Estadisticas_Oportunas_de_Finanzas_Publicas">Estadísticas oportunas de finanzas públicas</a>(Consultado el 5 de septiembre de 2016).<br>Banco de México:<br><a target="_blank" class="liga3" href="http://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=1&accion=consultarDirectorioCuadros">Balanza de Pagos</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Mayo de 2022
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Naciones Unidas, Comisión de las Comunidades Europeas, Fondo Monetario Internacional, Organización de Cooperación y Desarrollo Económicos y Banco Mundial (1994). Sistema de Cuentas Nacionales 1993 (SCN 1993), Serie F, No. 2, Rev. 4. Número de venta S.94.XVII.4. Disponible en: <a target="_blank" class="liga3" href="http://unstats.un.org/unsd/sna1993">http://unstats.un.org/unsd/sna1993</a> (Consultado el 5 de octubre de 2016).<br>
+COMPILING_ORG: >-
+  Secretaría de Hacienda y Crédito Público (SHCP). Unidad de Crédito Público<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Permite medir la carga que representa para una economía el servicio de su deuda y por lo tanto su sostenibilidad. Un valor alto para esta métrica puede indicar que un país tiene una limitada capacidad para generar las divisas que requiere para cumplir con los pagos relacionados al capital e intereses de su deuda pública.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Los datos sobre exportación de bienes y servicios se toman de la página de internet del Banco de México en la sección de estadísticas <a target="_blank" class="liga3" href="http://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=1&accion=consultarDirectorioCuadros">Balanza de Pagos</a><br><br>Con base en la nueva presentación MBP6 con datos a partir de 2006.<br><br>Los datos de servicio de la deuda externa del sector público se encuentran en los informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública. Dentro de la deuda externa no se incluyen los valores gubernamentales emitidos en el mercado local en manos de no residentes.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/17.4.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '17.4.1 Servicio de la deuda como proporción de las exportaciones de bienes y servicios'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '17.4.1 Servicio de la deuda como proporción de las exportaciones de bienes y servicios'
+indicator_number:
+  '17.4.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Hacienda y Crédito Público (SHCP).Estadísticas oportunas de finanzas públicas.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

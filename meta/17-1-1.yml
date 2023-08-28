@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible
+SDG_TARGET: >-
+  Meta 17.1 Fortalecer la movilización de recursos internos, incluso mediante la prestación de apoyo internacional a los países en desarrollo, con el fin de mejorar la capacidad nacional para recaudar ingresos fiscales y de otra índole
+SDG_INDICATOR: >-
+  17.1.1 Total de los ingresos del gobierno como proporción del PIB, desglosado por fuente
+SDG_SERIES_DESCR: >-
+  Se divide el Total de Ingresos del Sector Público anual entre el Producto Interno Bruto anual, los Ingresos Petroleros anuales entre el Producto Interno Bruto anual, los Ingresos No Petroleros anuales entre el Producto Interno Bruto anual y los Ingresos Tributarios No Petroleros anuales entre el Producto Interno Bruto anual.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Valentín Maya Martínez<br>Dirección General de Política de Ingresos Tributarios de la Subsecretaría de Ingresos<br>Palacio Nacional, Edificio 4, piso 4.<br>(55)  3688 7704<br>valentin_maya@hacienda.gob.mx<br><br>Carlos A. Argüello Gómez<br>Director de Área de la Unidad de Política de Ingresos Tributarios<br>Palacio Nacional, Edificio 4, piso 3.<br>(55) 3688 5940<br>carlos_arguello@hacienda.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Tentativamente se refiere al porcentaje que los ingresos presupuestarios representan respecto al Producto Interno Bruto (PIB), desglosados por las fuentes. Es decir, al porcentaje que representa el total de <i>"... las contribuciones y accesorios que, de acuerdo con lo estipulado en el Código Fiscal de la Federación, están obligados a pagar las personas físicas y morales para sufragar los gastos públicos en forma de: impuestos, aportaciones de seguridad social, contribución de mejoras y derechos; a los productos provenientes de las contraprestaciones por los servicios que proporciona el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento y enajenación de bienes del dominio privado; y a los aprovechamientos derivados de funciones de derecho público distintos de los conceptos anteriores y de los ingresos por financiamiento. Además, se incluyen los ingresos que obtienen los organismos descentralizados y las empresas de participación estatal, distintos de contribuciones a la seguridad social y financiamiento."</i> Todo ello respecto al total de bienes y servicios finales producidos en el país, durante el periodo de referencia y desglosados por las fuentes, bajo mejor opinión y criterio, según el Artículo 1° de la Ley de Ingresos de la Federación (LIF), en tributarios y no tributarios y/o en petroleros y no petroleros.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Hacienda y Crédito Público (SHCP). <a target="_blank" class="liga3" href="http://finanzaspublicas.hacienda.gob.mx/es/Finanzas_Publicas/Estadisticas_Oportunas_de_Finanzas_Publicas">Estadísticas oportunas de finanzas públicas</a>(Consultado el 5 de septiembre de 2016).<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Mayo de 2022
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Sin referencia<br>
+COMPILING_ORG: >-
+  Secretaría de Hacienda y Crédito Público (SHCP).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Calcular el porcentaje de ingresos que recibe el Gobierno Federal como proporción de los bienes y servicios finales que se producen a nivel nacional para conocer la capacidad del gobierno para obtener ingresos por impuestos, así como ingresos petroleros y no petroleros.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/17.1.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '17.1.1 Total de los ingresos del gobierno como proporción del PIB, desglosado por fuente'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '17.1.1 Total de los ingresos del gobierno como proporción del PIB, desglosado por fuente'
+indicator_number:
+  '17.1.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Hacienda y Crédito Público (SHCP).Estadísticas oportunas de finanzas públicas.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''
