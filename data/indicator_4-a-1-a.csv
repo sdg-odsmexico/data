@@ -1,0 +1,529 @@
+﻿Year,Entidad federativa,"Educación Básica","Educación Media",GeoCode,Value
+2021/2022,"Estados Unidos Mexicanos","Total",,00,91.02238009618621
+2020/2021,"Estados Unidos Mexicanos","Total",,00,89.5771113247283
+2019/2020,"Estados Unidos Mexicanos","Total",,00,85.94539939332661
+2018/2019,"Estados Unidos Mexicanos","Total",,00,86.66935336142153
+2021/2022,"Aguascalientes","Total",,01,99.36014625228519
+2020/2021,"Aguascalientes","Total",,01,99.0783410138249
+2019/2020,"Aguascalientes","Total",,01,94.8837209302326
+2018/2019,"Aguascalientes","Total",,01,94.22718808193669
+2021/2022,"Baja California","Total",,02,97.72329246935199
+2020/2021,"Baja California","Total",,02,98.5983355234341
+2019/2020,"Baja California","Total",,02,98.0777632153779
+2018/2019,"Baja California","Total",,02,97.7222952255804
+2021/2022,"Baja California Sur","Total",,03,88.94080996884733
+2020/2021,"Baja California Sur","Total",,03,91.53605015673978
+2019/2020,"Baja California Sur","Total",,03,89.5734597156398
+2018/2019,"Baja California Sur","Total",,03,89.03020667726553
+2021/2022,"Campeche","Total",,04,89.71377459749553
+2020/2021,"Campeche","Total",,04,90.86799276672693
+2019/2020,"Campeche","Total",,04,85.7918552036199
+2018/2019,"Campeche","Total",,04,85.36585365853662
+2021/2022,"Coahuila de Zaragoza","Total",,05,94.39290036304963
+2020/2021,"Coahuila de Zaragoza","Total",,05,96.72727272727273
+2019/2020,"Coahuila de Zaragoza","Total",,05,96.35479951397332
+2018/2019,"Coahuila de Zaragoza","Total",,05,96.26471782379211
+2021/2022,"Colima","Total",,06,98.32317073170726
+2020/2021,"Colima","Total",,06,98.4756097560976
+2019/2020,"Colima","Total",,06,94.23368740515933
+2018/2019,"Colima","Total",,06,94.4024205748865
+2021/2022,"Chiapas","Total",,07,90.75934473708027
+2020/2021,"Chiapas","Total",,07,91.15540044085228
+2019/2020,"Chiapas","Total",,07,73.22409373855729
+2018/2019,"Chiapas","Total",,07,73.1607375675172
+2021/2022,"Chihuahua","Total",,08,84.2898704046548
+2020/2021,"Chihuahua","Total",,08,91.78157749586323
+2019/2020,"Chihuahua","Total",,08,87.0533260032985
+2018/2019,"Chihuahua","Total",,08,82.6086956521739
+2021/2022,"Ciudad de México","Total",,09,99.62599345488549
+2020/2021,"Ciudad de México","Total",,09,99.81494332639369
+2019/2020,"Ciudad de México","Total",,09,99.72527472527469
+2018/2019,"Ciudad de México","Total",,09,99.61407491486949
+2021/2022,"Durango","Total",,10,72.67258665138931
+2020/2021,"Durango","Total",,10,78.2279218886622
+2019/2020,"Durango","Total",,10,72.0943613348677
+2018/2019,"Durango","Total",,10,72.355838887279
+2021/2022,"Guanajuato","Total",,11,96.49094696362756
+2020/2021,"Guanajuato","Total",,11,97.459398617141
+2019/2020,"Guanajuato","Total",,11,92.29662777688988
+2018/2019,"Guanajuato","Total",,11,91.83477425552353
+2021/2022,"Guerrero","Total",,12,93.77437977843663
+2020/2021,"Guerrero","Total",,12,94.99060738885412
+2019/2020,"Guerrero","Total",,12,85.65824572414883
+2018/2019,"Guerrero","Total",,12,85.1332177203216
+2021/2022,"Hidalgo","Total",,13,94.35818937240317
+2020/2021,"Hidalgo","Total",,13,95.273851590106
+2019/2020,"Hidalgo","Total",,13,86.07847483928182
+2018/2019,"Hidalgo","Total",,13,85.78691423519011
+2021/2022,"Jalisco","Total",,14,94.52723535457352
+2020/2021,"Jalisco","Total",,14,94.72538727435673
+2019/2020,"Jalisco","Total",,14,89.82725527831091
+2018/2019,"Jalisco","Total",,14,89.65958535961097
+2021/2022,"México","Total",,15,95.0156819530389
+2020/2021,"México","Total",,15,97.15402259791011
+2019/2020,"México","Total",,15,95.20728696688523
+2018/2019,"México","Total",,15,94.56020495303163
+2021/2022,"Michoacán de Ocampo","Total",,16,87.08070894975829
+2020/2021,"Michoacán de Ocampo","Total",,16,87.01544739143107
+2019/2020,"Michoacán de Ocampo","Total",,16,87.06510755016599
+2018/2019,"Michoacán de Ocampo","Total",,16,64.5797598627787
+2021/2022,"Morelos","Total",,17,97.96610169491531
+2020/2021,"Morelos","Total",,17,97.17354437535329
+2019/2020,"Morelos","Total",,17,97.25336322869958
+2018/2019,"Morelos","Total",,17,96.21254946297337
+2021/2022,"Nayarit","Total",,18,85.45653362493167
+2020/2021,"Nayarit","Total",,18,86.56061437191441
+2019/2020,"Nayarit","Total",,18,80.72423398328691
+2018/2019,"Nayarit","Total",,18,79.9445983379501
+2021/2022,"Nuevo León","Total",,19,88.28184835333157
+2020/2021,"Nuevo León","Total",,19,2.51346499102334
+2019/2020,"Nuevo León","Total",,19,93.39815762538382
+2018/2019,"Nuevo León","Total",,19,93.49279835390954
+2021/2022,"Oaxaca","Total",,20,60.565457897971676
+2020/2021,"Oaxaca","Total",,20,55.10129362948499
+2019/2020,"Oaxaca","Total",,20,43.75762009266031
+2018/2019,"Oaxaca","Total",,20,82.3742309084329
+2021/2022,"Puebla","Total",,21,93.67159971811137
+2020/2021,"Puebla","Total",,21,94.59650112866822
+2019/2020,"Puebla","Total",,21,89.44980147475893
+2018/2019,"Puebla","Total",,21,89.4833948339483
+2021/2022,"Querétaro","Total",,22,94.131455399061
+2020/2021,"Querétaro","Total",,22,95.26768642447422
+2019/2020,"Querétaro","Total",,22,84.6340281143965
+2018/2019,"Querétaro","Total",,22,81.5623483745754
+2021/2022,"Quintana Roo","Total",,23,87.6251788268956
+2020/2021,"Quintana Roo","Total",,23,94.2773294203962
+2019/2020,"Quintana Roo","Total",,23,92.1225382932166
+2018/2019,"Quintana Roo","Total",,23,89.97071742313322
+2021/2022,"San Luis Potosí","Total",,24,93.18040917544953
+2020/2021,"San Luis Potosí","Total",,24,93.14499376817614
+2019/2020,"San Luis Potosí","Total",,24,84.1723637870313
+2018/2019,"San Luis Potosí","Total",,24,83.2443531827515
+2021/2022,"Sinaloa","Total",,25,92.98096050014213
+2020/2021,"Sinaloa","Total",,25,94.95702005730662
+2019/2020,"Sinaloa","Total",,25,85.72237960339938
+2018/2019,"Sinaloa","Total",,25,84.95877168040941
+2021/2022,"Sonora","Total",,26,94.51892744479503
+2020/2021,"Sonora","Total",,26,97.32914375490967
+2019/2020,"Sonora","Total",,26,95.74717128365202
+2018/2019,"Sonora","Total",,26,95.20440251572333
+2021/2022,"Tabasco","Total",,27,95.00172354360559
+2020/2021,"Tabasco","Total",,27,96.65747760165398
+2019/2020,"Tabasco","Total",,27,89.88569449255282
+2018/2019,"Tabasco","Total",,27,89.57395219951512
+2021/2022,"Tamaulipas","Total",,28,97.32994278448817
+2020/2021,"Tamaulipas","Total",,28,97.9611341191462
+2019/2020,"Tamaulipas","Total",,28,94.91850431447753
+2018/2019,"Tamaulipas","Total",,28,94.38451776649752
+2021/2022,"Tlaxcala","Total",,29,96.4406779661017
+2020/2021,"Tlaxcala","Total",,29,96.66095890410959
+2019/2020,"Tlaxcala","Total",,29,91.3793103448276
+2018/2019,"Tlaxcala","Total",,29,91.6379310344828
+2021/2022,"Veracruz de Ignacio de la Llave","Total",,30,95.67714396585181
+2020/2021,"Veracruz de Ignacio de la Llave","Total",,30,97.40824086288511
+2019/2020,"Veracruz de Ignacio de la Llave","Total",,30,90.56968385251596
+2018/2019,"Veracruz de Ignacio de la Llave","Total",,30,90.1812572310066
+2021/2022,"Yucatán","Total",,31,92.0596727622714
+2020/2021,"Yucatán","Total",,31,97.89936492427938
+2019/2020,"Yucatán","Total",,31,90.26763990267638
+2018/2019,"Yucatán","Total",,31,90.9046214355949
+2021/2022,"Zacatecas","Total",,32,96.41528576259722
+2020/2021,"Zacatecas","Total",,32,97.16790289952799
+2019/2020,"Zacatecas","Total",,32,90.0778868946834
+2018/2019,"Zacatecas","Total",,32,89.84873949579831
+2021/2022,"Estados Unidos Mexicanos","Primaria",,00,90.9227479004747
+2020/2021,"Estados Unidos Mexicanos","Primaria",,00,89.42413191360409
+2019/2020,"Estados Unidos Mexicanos","Primaria",,00,85.81145833333333
+2018/2019,"Estados Unidos Mexicanos","Primaria",,00,86.3586438429975
+2021/2022,"Aguascalientes","Primaria",,01,99.16317991631801
+2020/2021,"Aguascalientes","Primaria",,01,99.01823281907429
+2019/2020,"Aguascalientes","Primaria",,01,94.35028248587567
+2018/2019,"Aguascalientes","Primaria",,01,94.19263456090651
+2021/2022,"Baja California","Primaria",,02,97.83013019218853
+2020/2021,"Baja California","Primaria",,02,98.63945578231287
+2019/2020,"Baja California","Primaria",,02,98.2716049382716
+2018/2019,"Baja California","Primaria",,02,97.52933909820878
+2021/2022,"Baja California Sur","Primaria",,03,86.6071428571429
+2020/2021,"Baja California Sur","Primaria",,03,89.41441441441437
+2019/2020,"Baja California Sur","Primaria",,03,86.59090909090908
+2018/2019,"Baja California Sur","Primaria",,03,86.0411899313501
+2021/2022,"Campeche","Primaria",,04,89.7368421052632
+2020/2021,"Campeche","Primaria",,04,92.6958831341301
+2019/2020,"Campeche","Primaria",,04,89.50863213811417
+2018/2019,"Campeche","Primaria",,04,88.65435356200531
+2021/2022,"Coahuila de Zaragoza","Primaria",,05,93.27868852459021
+2020/2021,"Coahuila de Zaragoza","Primaria",,05,96.61016949152538
+2019/2020,"Coahuila de Zaragoza","Primaria",,05,96.38554216867468
+2018/2019,"Coahuila de Zaragoza","Primaria",,05,96.32876712328768
+2021/2022,"Colima","Primaria",,06,97.90794979079503
+2020/2021,"Colima","Primaria",,06,98.1210855949896
+2019/2020,"Colima","Primaria",,06,94.32773109243702
+2018/2019,"Colima","Primaria",,06,94.39834024896271
+2021/2022,"Chiapas","Primaria",,07,90.09148152548413
+2020/2021,"Chiapas","Primaria",,07,90.62199807877043
+2019/2020,"Chiapas","Primaria",,07,72.37265895264228
+2018/2019,"Chiapas","Primaria",,07,71.43198661247911
+2021/2022,"Chihuahua","Primaria",,08,85.9796067006555
+2020/2021,"Chihuahua","Primaria",,08,91.85435435435441
+2019/2020,"Chihuahua","Primaria",,08,87.67684288905437
+2018/2019,"Chihuahua","Primaria",,08,82.3464912280702
+2021/2022,"Ciudad de México","Primaria",,09,99.59582350959917
+2020/2021,"Ciudad de México","Primaria",,09,99.83344437041971
+2019/2020,"Ciudad de México","Primaria",,09,99.7695093842608
+2018/2019,"Ciudad de México","Primaria",,09,99.60809928151541
+2021/2022,"Durango","Primaria",,10,70.1288244766506
+2020/2021,"Durango","Primaria",,10,75.7427757427757
+2019/2020,"Durango","Primaria",,10,69.31089743589743
+2018/2019,"Durango","Primaria",,10,69.01125401929258
+2021/2022,"Guanajuato","Primaria",,11,96.47758462946018
+2020/2021,"Guanajuato","Primaria",,11,97.43001376778336
+2019/2020,"Guanajuato","Primaria",,11,92.0584208124144
+2018/2019,"Guanajuato","Primaria",,11,91.7198905109489
+2021/2022,"Guerrero","Primaria",,12,93.83854283786823
+2020/2021,"Guerrero","Primaria",,12,95.07422402159243
+2019/2020,"Guerrero","Primaria",,12,87.94773597657128
+2018/2019,"Guerrero","Primaria",,12,86.69662921348308
+2021/2022,"Hidalgo","Primaria",,13,94.86537257357553
+2020/2021,"Hidalgo","Primaria",,13,95.22162841873617
+2019/2020,"Hidalgo","Primaria",,13,85.86272040302268
+2018/2019,"Hidalgo","Primaria",,13,85.36585365853662
+2021/2022,"Jalisco","Primaria",,14,94.54125177809391
+2020/2021,"Jalisco","Primaria",,14,94.93536391004069
+2019/2020,"Jalisco","Primaria",,14,91.54158573194421
+2018/2019,"Jalisco","Primaria",,14,91.23085050184888
+2021/2022,"México","Primaria",,15,94.8685218279295
+2020/2021,"México","Primaria",,15,96.91011235955058
+2019/2020,"México","Primaria",,15,94.99553172475423
+2018/2019,"México","Primaria",,15,94.54382826475852
+2021/2022,"Michoacán de Ocampo","Primaria",,16,89.1735041024615
+2020/2021,"Michoacán de Ocampo","Primaria",,16,88.70225954809037
+2019/2020,"Michoacán de Ocampo","Primaria",,16,88.99663566198298
+2018/2019,"Michoacán de Ocampo","Primaria",,16,67.605360264129
+2021/2022,"Morelos","Primaria",,17,98.11165845648603
+2020/2021,"Morelos","Primaria",,17,97.05882352941178
+2019/2020,"Morelos","Primaria",,17,97.08265802269037
+2018/2019,"Morelos","Primaria",,17,95.85702680747362
+2021/2022,"Nayarit","Primaria",,18,82.6843413421707
+2020/2021,"Nayarit","Primaria",,18,84.123025768911
+2019/2020,"Nayarit","Primaria",,18,78.52916314454777
+2018/2019,"Nayarit","Primaria",,18,77.36006683375102
+2021/2022,"Nuevo León","Primaria",,19,88.4530791788856
+2020/2021,"Nuevo León","Primaria",,19,1.9816513761467898
+2019/2020,"Nuevo León","Primaria",,19,94.49507838133428
+2018/2019,"Nuevo León","Primaria",,19,94.39592430858808
+2021/2022,"Oaxaca","Primaria",,20,58.60498998360948
+2020/2021,"Oaxaca","Primaria",,20,53.20108205590622
+2019/2020,"Oaxaca","Primaria",,20,41.40540540540541
+2018/2019,"Oaxaca","Primaria",,20,82.8465215082315
+2021/2022,"Puebla","Primaria",,21,93.73379429559198
+2020/2021,"Puebla","Primaria",,21,94.5689655172414
+2019/2020,"Puebla","Primaria",,21,89.01596892533453
+2018/2019,"Puebla","Primaria",,21,89.01075268817202
+2021/2022,"Querétaro","Primaria",,22,94.3762120232709
+2020/2021,"Querétaro","Primaria",,22,95.1570680628272
+2019/2020,"Querétaro","Primaria",,22,83.3223467369809
+2018/2019,"Querétaro","Primaria",,22,79.0513833992095
+2021/2022,"Quintana Roo","Primaria",,23,88.4615384615385
+2020/2021,"Quintana Roo","Primaria",,23,95.17396184062848
+2019/2020,"Quintana Roo","Primaria",,23,94.67258601553833
+2018/2019,"Quintana Roo","Primaria",,23,92.5192519251925
+2021/2022,"San Luis Potosí","Primaria",,24,92.46901811248811
+2020/2021,"San Luis Potosí","Primaria",,24,92.07511139401647
+2019/2020,"San Luis Potosí","Primaria",,24,81.80661577608137
+2018/2019,"San Luis Potosí","Primaria",,24,80.57214712354609
+2021/2022,"Sinaloa","Primaria",,25,93.27999999999999
+2020/2021,"Sinaloa","Primaria",,25,95.40507859733977
+2019/2020,"Sinaloa","Primaria",,25,85.80542264752788
+2018/2019,"Sinaloa","Primaria",,25,84.58482320222491
+2021/2022,"Sonora","Primaria",,26,94.50364554122272
+2020/2021,"Sonora","Primaria",,26,97.71968854282542
+2019/2020,"Sonora","Primaria",,26,96.0859977949283
+2018/2019,"Sonora","Primaria",,26,95.36679536679542
+2021/2022,"Tabasco","Primaria",,27,95.39126260201627
+2020/2021,"Tabasco","Primaria",,27,96.7927237912877
+2019/2020,"Tabasco","Primaria",,27,89.42583732057417
+2018/2019,"Tabasco","Primaria",,27,89.43360304616847
+2021/2022,"Tamaulipas","Primaria",,28,97.36394557823131
+2020/2021,"Tamaulipas","Primaria",,28,97.9193205944798
+2019/2020,"Tamaulipas","Primaria",,28,93.86973180076627
+2018/2019,"Tamaulipas","Primaria",,28,93.22960470984023
+2021/2022,"Tlaxcala","Primaria",,29,96.56925031766197
+2020/2021,"Tlaxcala","Primaria",,29,96.79487179487181
+2019/2020,"Tlaxcala","Primaria",,29,91.38817480719787
+2018/2019,"Tlaxcala","Primaria",,29,91.56010230179028
+2021/2022,"Veracruz de Ignacio de la Llave","Primaria",,30,95.51679863043007
+2020/2021,"Veracruz de Ignacio de la Llave","Primaria",,30,97.3492945703292
+2019/2020,"Veracruz de Ignacio de la Llave","Primaria",,30,90.64893617021282
+2018/2019,"Veracruz de Ignacio de la Llave","Primaria",,30,89.93557925863341
+2021/2022,"Yucatán","Primaria",,31,93.6962750716332
+2020/2021,"Yucatán","Primaria",,31,97.76978417266193
+2019/2020,"Yucatán","Primaria",,31,91.5948275862069
+2018/2019,"Yucatán","Primaria",,31,91.98555956678703
+2021/2022,"Zacatecas","Primaria",,32,95.7269700332963
+2020/2021,"Zacatecas","Primaria",,32,96.77956690727368
+2019/2020,"Zacatecas","Primaria",,32,88.11383928571429
+2018/2019,"Zacatecas","Primaria",,32,87.54820936639119
+2021/2022,"Estados Unidos Mexicanos","Secundaria",,00,91.25552327710373
+2020/2021,"Estados Unidos Mexicanos","Secundaria",,00,89.93789738281832
+2019/2020,"Estados Unidos Mexicanos","Secundaria",,00,86.2630304826837
+2018/2019,"Estados Unidos Mexicanos","Secundaria",,00,87.41962118747968
+2021/2022,"Aguascalientes","Secundaria",,01,99.73474801061009
+2020/2021,"Aguascalientes","Secundaria",,01,99.19354838709681
+2019/2020,"Aguascalientes","Secundaria",,01,95.91280653950952
+2018/2019,"Aguascalientes","Secundaria",,01,94.29347826086958
+2021/2022,"Baja California","Secundaria",,02,97.46646795827117
+2020/2021,"Baja California","Secundaria",,02,98.4984984984985
+2019/2020,"Baja California","Secundaria",,02,97.60837070254112
+2018/2019,"Baja California","Secundaria",,02,98.19277108433742
+2021/2022,"Baja California Sur","Secundaria",,03,94.32989690721652
+2020/2021,"Baja California Sur","Secundaria",,03,96.39175257731956
+2019/2020,"Baja California Sur","Secundaria",,03,96.37305699481868
+2018/2019,"Baja California Sur","Secundaria",,03,95.83333333333327
+2021/2022,"Campeche","Secundaria",,04,89.66480446927373
+2020/2021,"Campeche","Secundaria",,04,86.9688385269122
+2019/2020,"Campeche","Secundaria",,04,77.8409090909091
+2018/2019,"Campeche","Secundaria",,04,78.2234957020057
+2021/2022,"Coahuila de Zaragoza","Secundaria",,05,97.53466872110941
+2020/2021,"Coahuila de Zaragoza","Secundaria",,05,97.05882352941178
+2019/2020,"Coahuila de Zaragoza","Secundaria",,05,96.2674961119751
+2018/2019,"Coahuila de Zaragoza","Secundaria",,05,96.08150470219441
+2021/2022,"Colima","Secundaria",,06,99.43820224719099
+2020/2021,"Colima","Secundaria",,06,99.43502824858759
+2019/2020,"Colima","Secundaria",,06,93.98907103825142
+2018/2019,"Colima","Secundaria",,06,94.41340782122899
+2021/2022,"Chiapas","Secundaria",,07,92.89513677811553
+2020/2021,"Chiapas","Secundaria",,07,92.890625
+2019/2020,"Chiapas","Secundaria",,07,76.0330578512397
+2018/2019,"Chiapas","Secundaria",,07,79.2580101180438
+2021/2022,"Chihuahua","Secundaria",,08,79.80676328502423
+2020/2021,"Chihuahua","Secundaria",,08,91.58004158004157
+2019/2020,"Chihuahua","Secundaria",,08,85.2941176470588
+2018/2019,"Chihuahua","Secundaria",,08,83.35056876938987
+2021/2022,"Ciudad de México","Secundaria",,09,99.69442322383499
+2020/2021,"Ciudad de México","Secundaria",,09,99.77289931869798
+2019/2020,"Ciudad de México","Secundaria",,09,99.6243425995492
+2018/2019,"Ciudad de México","Secundaria",,09,99.6276991809382
+2021/2022,"Durango","Secundaria",,10,78.94736842105257
+2020/2021,"Durango","Secundaria",,10,84.4969199178645
+2019/2020,"Durango","Secundaria",,10,79.1836734693878
+2018/2019,"Durango","Secundaria",,10,80.99688473520249
+2021/2022,"Guanajuato","Secundaria",,11,96.52220438737292
+2020/2021,"Guanajuato","Secundaria",,11,97.52821063944118
+2019/2020,"Guanajuato","Secundaria",,11,92.85333333333327
+2018/2019,"Guanajuato","Secundaria",,11,92.10526315789473
+2021/2022,"Guerrero","Secundaria",,12,93.62895005096837
+2020/2021,"Guerrero","Secundaria",,12,94.79917610710612
+2019/2020,"Guerrero","Secundaria",,12,80.4033092037229
+2018/2019,"Guerrero","Secundaria",,12,81.45800316957208
+2021/2022,"Hidalgo","Secundaria",,13,93.18346627991302
+2020/2021,"Hidalgo","Secundaria",,13,95.39717891610987
+2019/2020,"Hidalgo","Secundaria",,13,86.59176029962553
+2018/2019,"Hidalgo","Secundaria",,13,86.80241327300153
+2021/2022,"Jalisco","Secundaria",,14,94.49074074074068
+2020/2021,"Jalisco","Secundaria",,14,94.17744916820699
+2019/2020,"Jalisco","Secundaria",,14,85.3159851301115
+2018/2019,"Jalisco","Secundaria",,14,85.480093676815
+2021/2022,"México","Secundaria",,15,95.30658591975778
+2020/2021,"México","Secundaria",,15,97.63899466869763
+2019/2020,"México","Secundaria",,15,95.63106796116497
+2018/2019,"México","Secundaria",,15,94.59320288362507
+2021/2022,"Michoacán de Ocampo","Secundaria",,16,81.36612021857921
+2020/2021,"Michoacán de Ocampo","Secundaria",,16,82.48253627082207
+2019/2020,"Michoacán de Ocampo","Secundaria",,16,81.85699039487733
+2018/2019,"Michoacán de Ocampo","Secundaria",,16,56.1451001624256
+2021/2022,"Morelos","Secundaria",,17,97.64492753623192
+2020/2021,"Morelos","Secundaria",,17,97.43119266055052
+2019/2020,"Morelos","Secundaria",,17,97.63636363636358
+2018/2019,"Morelos","Secundaria",,17,97.02602230483268
+2021/2022,"Nayarit","Secundaria",,18,90.83601286173628
+2020/2021,"Nayarit","Secundaria",,18,91.2903225806452
+2019/2020,"Nayarit","Secundaria",,18,84.96732026143789
+2018/2019,"Nayarit","Secundaria",,18,85.0328947368421
+2021/2022,"Nuevo León","Secundaria",,19,87.88898233809917
+2020/2021,"Nuevo León","Secundaria",,19,3.747870528109031
+2019/2020,"Nuevo León","Secundaria",,19,90.8154506437768
+2018/2019,"Nuevo León","Secundaria",,19,91.31578947368418
+2021/2022,"Oaxaca","Secundaria",,20,64.63691376701969
+2020/2021,"Oaxaca","Secundaria",,20,59.0788976972442
+2019/2020,"Oaxaca","Secundaria",,20,48.680241327300216
+2018/2019,"Oaxaca","Secundaria",,20,81.3636363636364
+2021/2022,"Puebla","Secundaria",,21,93.55492501013379
+2020/2021,"Puebla","Secundaria",,21,94.64869281045752
+2019/2020,"Puebla","Secundaria",,21,90.28122415219192
+2018/2019,"Puebla","Secundaria",,21,90.40066777963268
+2021/2022,"Querétaro","Secundaria",,22,93.48198970840483
+2020/2021,"Querétaro","Secundaria",,22,95.5673758865248
+2019/2020,"Querétaro","Secundaria",,22,88.2783882783883
+2018/2019,"Querétaro","Secundaria",,22,88.5819521178637
+2021/2022,"Quintana Roo","Secundaria",,23,86.06557377049178
+2020/2021,"Quintana Roo","Secundaria",,23,92.5847457627119
+2019/2020,"Quintana Roo","Secundaria",,23,87.23404255319153
+2018/2019,"Quintana Roo","Secundaria",,23,84.90153172866522
+2021/2022,"San Luis Potosí","Secundaria",,24,94.5035460992908
+2020/2021,"San Luis Potosí","Secundaria",,24,95.1555023923445
+2019/2020,"San Luis Potosí","Secundaria",,24,88.59180035650617
+2018/2019,"San Luis Potosí","Secundaria",,24,88.2770870337478
+2021/2022,"Sinaloa","Secundaria",,25,92.2473012757605
+2020/2021,"Sinaloa","Secundaria",,25,93.85530227948463
+2019/2020,"Sinaloa","Secundaria",,25,85.51859099804308
+2018/2019,"Sinaloa","Secundaria",,25,85.90000000000002
+2021/2022,"Sonora","Secundaria",,26,94.55511288180607
+2020/2021,"Sonora","Secundaria",,26,96.39037433155083
+2019/2020,"Sonora","Secundaria",,26,94.9265687583445
+2018/2019,"Sonora","Secundaria",,26,94.80164158686732
+2021/2022,"Tabasco","Secundaria",,27,94.0097799511002
+2020/2021,"Tabasco","Secundaria",,27,96.30996309963099
+2019/2020,"Tabasco","Secundaria",,27,91.0915934755332
+2018/2019,"Tabasco","Secundaria",,27,89.9491094147583
+2021/2022,"Tamaulipas","Secundaria",,28,97.22921914357677
+2020/2021,"Tamaulipas","Secundaria",,28,98.08673469387752
+2019/2020,"Tamaulipas","Secundaria",,28,98.0769230769231
+2018/2019,"Tamaulipas","Secundaria",,28,97.9328165374677
+2021/2022,"Tlaxcala","Secundaria",,29,96.18320610687017
+2020/2021,"Tlaxcala","Secundaria",,29,96.39175257731956
+2019/2020,"Tlaxcala","Secundaria",,29,91.36125654450258
+2018/2019,"Tlaxcala","Secundaria",,29,91.79894179894178
+2021/2022,"Veracruz de Ignacio de la Llave","Secundaria",,30,96.10059338796273
+2020/2021,"Veracruz de Ignacio de la Llave","Secundaria",,30,97.56442934013033
+2019/2020,"Veracruz de Ignacio de la Llave","Secundaria",,30,90.3590613514278
+2018/2019,"Veracruz de Ignacio de la Llave","Secundaria",,30,90.84668192219677
+2021/2022,"Yucatán","Secundaria",,31,88.7096774193548
+2020/2021,"Yucatán","Secundaria",,31,98.17351598173519
+2019/2020,"Yucatán","Secundaria",,31,87.48114630467573
+2018/2019,"Yucatán","Secundaria",,31,88.59784283513098
+2021/2022,"Zacatecas","Secundaria",,32,97.48917748917751
+2020/2021,"Zacatecas","Secundaria",,32,97.76824034334757
+2019/2020,"Zacatecas","Secundaria",,32,93.10938845822572
+2018/2019,"Zacatecas","Secundaria",,32,93.44827586206901
+2021/2022,"Estados Unidos Mexicanos",,"Media superior",00,86.3257684573398
+2020/2021,"Estados Unidos Mexicanos",,"Media superior",00,86.20541469703478
+2019/2020,"Estados Unidos Mexicanos",,"Media superior",00,86.56340571102767
+2018/2019,"Estados Unidos Mexicanos",,"Media superior",00,85.08805330794857
+2021/2022,"Aguascalientes",,"Media superior",01,83.10810810810811
+2020/2021,"Aguascalientes",,"Media superior",01,81.3725490196078
+2019/2020,"Aguascalientes",,"Media superior",01,91.4191419141914
+2018/2019,"Aguascalientes",,"Media superior",01,92.15686274509797
+2021/2022,"Baja California",,"Media superior",02,79.13669064748203
+2020/2021,"Baja California",,"Media superior",02,77.5700934579439
+2019/2020,"Baja California",,"Media superior",02,96.26168224299069
+2018/2019,"Baja California",,"Media superior",02,96.50349650349652
+2021/2022,"Baja California Sur",,"Media superior",03,91.71974522292992
+2020/2021,"Baja California Sur",,"Media superior",03,92.4050632911392
+2019/2020,"Baja California Sur",,"Media superior",03,85.89743589743587
+2018/2019,"Baja California Sur",,"Media superior",03,85.16129032258058
+2021/2022,"Campeche",,"Media superior",04,89.40397350993383
+2020/2021,"Campeche",,"Media superior",04,90.54054054054048
+2019/2020,"Campeche",,"Media superior",04,91.89189189189189
+2018/2019,"Campeche",,"Media superior",04,91.66666666666673
+2021/2022,"Coahuila de Zaragoza",,"Media superior",05,86.19676945668137
+2020/2021,"Coahuila de Zaragoza",,"Media superior",05,84.4729344729345
+2019/2020,"Coahuila de Zaragoza",,"Media superior",05,94.33427762039658
+2018/2019,"Coahuila de Zaragoza",,"Media superior",05,93.935119887165
+2021/2022,"Colima",,"Media superior",06,85.48387096774192
+2020/2021,"Colima",,"Media superior",06,85.86956521739127
+2019/2020,"Colima",,"Media superior",06,94.21052631578952
+2018/2019,"Colima",,"Media superior",06,94.81865284974089
+2021/2022,"Chiapas",,"Media superior",07,93.33333333333327
+2020/2021,"Chiapas",,"Media superior",07,93.6311787072243
+2019/2020,"Chiapas",,"Media superior",07,75.58685446009392
+2018/2019,"Chiapas",,"Media superior",07,73.659454374412
+2021/2022,"Chihuahua",,"Media superior",08,84.4771241830065
+2020/2021,"Chihuahua",,"Media superior",08,84.59016393442622
+2019/2020,"Chihuahua",,"Media superior",08,86.60130718954248
+2018/2019,"Chihuahua",,"Media superior",08,86.0353130016051
+2021/2022,"Ciudad de México",,"Media superior",09,79.5121951219512
+2020/2021,"Ciudad de México",,"Media superior",09,80.07054673721339
+2019/2020,"Ciudad de México",,"Media superior",09,98.11320754716982
+2018/2019,"Ciudad de México",,"Media superior",09,98.30769230769232
+2021/2022,"Durango",,"Media superior",10,93.42857142857139
+2020/2021,"Durango",,"Media superior",10,93.46590909090908
+2019/2020,"Durango",,"Media superior",10,74.64788732394369
+2018/2019,"Durango",,"Media superior",10,73.6543909348442
+2021/2022,"Guanajuato",,"Media superior",11,91.46537842190017
+2020/2021,"Guanajuato",,"Media superior",11,89.96047430830042
+2019/2020,"Guanajuato",,"Media superior",11,88.92405063291137
+2018/2019,"Guanajuato",,"Media superior",11,87.98418972332023
+2021/2022,"Guerrero",,"Media superior",12,86.13744075829383
+2020/2021,"Guerrero",,"Media superior",12,87.38095238095237
+2019/2020,"Guerrero",,"Media superior",12,79.5209580838323
+2018/2019,"Guerrero",,"Media superior",12,80.07202881152463
+2021/2022,"Hidalgo",,"Media superior",13,90.036231884058
+2020/2021,"Hidalgo",,"Media superior",13,90.39855072463773
+2019/2020,"Hidalgo",,"Media superior",13,93.50180505415163
+2018/2019,"Hidalgo",,"Media superior",13,93.33333333333327
+2021/2022,"Jalisco",,"Media superior",14,67.3362445414847
+2020/2021,"Jalisco",,"Media superior",14,66.2348877374784
+2019/2020,"Jalisco",,"Media superior",14,94.99151103565357
+2018/2019,"Jalisco",,"Media superior",14,72.7735368956743
+2021/2022,"México",,"Media superior",15,81.55555555555563
+2020/2021,"México",,"Media superior",15,81.23063302346169
+2019/2020,"México",,"Media superior",15,84.0848806366048
+2018/2019,"México",,"Media superior",15,83.81891528462572
+2021/2022,"Michoacán de Ocampo",,"Media superior",16,83.37628865979379
+2020/2021,"Michoacán de Ocampo",,"Media superior",16,84.3828715365239
+2019/2020,"Michoacán de Ocampo",,"Media superior",16,83.83311603650591
+2018/2019,"Michoacán de Ocampo",,"Media superior",16,82.40620957309179
+2021/2022,"Morelos",,"Media superior",17,90.96385542168672
+2020/2021,"Morelos",,"Media superior",17,89.31750741839757
+2019/2020,"Morelos",,"Media superior",17,93.37175792507198
+2018/2019,"Morelos",,"Media superior",17,93.07479224376728
+2021/2022,"Nayarit",,"Media superior",18,90.06410256410257
+2020/2021,"Nayarit",,"Media superior",18,90.85173501577289
+2019/2020,"Nayarit",,"Media superior",18,69.3251533742331
+2018/2019,"Nayarit",,"Media superior",18,69.44444444444437
+2021/2022,"Nuevo León",,"Media superior",19,73.4024179620035
+2020/2021,"Nuevo León",,"Media superior",19,72.52931323283079
+2019/2020,"Nuevo León",,"Media superior",19,93.36650082918739
+2018/2019,"Nuevo León",,"Media superior",19,93.39774557165858
+2021/2022,"Oaxaca",,"Media superior",20,94.52054794520548
+2020/2021,"Oaxaca",,"Media superior",20,94.50686641697878
+2019/2020,"Oaxaca",,"Media superior",20,92.21105527638193
+2018/2019,"Oaxaca",,"Media superior",20,91.92938209331648
+2021/2022,"Puebla",,"Media superior",21,90.76923076923079
+2020/2021,"Puebla",,"Media superior",21,91.29955947136561
+2019/2020,"Puebla",,"Media superior",21,88.03932277444021
+2018/2019,"Puebla",,"Media superior",21,87.6237623762376
+2021/2022,"Querétaro",,"Media superior",22,83.7060702875399
+2020/2021,"Querétaro",,"Media superior",22,83.7662337662338
+2019/2020,"Querétaro",,"Media superior",22,96.64429530201343
+2018/2019,"Querétaro",,"Media superior",22,96.58703071672352
+2021/2022,"Quintana Roo",,"Media superior",23,85.0174216027875
+2020/2021,"Quintana Roo",,"Media superior",23,86.73835125448029
+2019/2020,"Quintana Roo",,"Media superior",23,93.72822299651573
+2018/2019,"Quintana Roo",,"Media superior",23,93.47826086956523
+2021/2022,"San Luis Potosí",,"Media superior",24,93.29388560157788
+2020/2021,"San Luis Potosí",,"Media superior",24,92.47524752475253
+2019/2020,"San Luis Potosí",,"Media superior",24,69.8224852071006
+2018/2019,"San Luis Potosí",,"Media superior",24,69.74459724950881
+2021/2022,"Sinaloa",,"Media superior",25,77.79751332149202
+2020/2021,"Sinaloa",,"Media superior",25,76.64884135472371
+2019/2020,"Sinaloa",,"Media superior",25,91.21863799283149
+2018/2019,"Sinaloa",,"Media superior",25,90.76376554174068
+2021/2022,"Sonora",,"Media superior",26,79.7368421052632
+2020/2021,"Sonora",,"Media superior",26,79.8913043478261
+2019/2020,"Sonora",,"Media superior",26,90.13333333333328
+2018/2019,"Sonora",,"Media superior",26,92.032967032967
+2021/2022,"Tabasco",,"Media superior",27,86.72086720867212
+2020/2021,"Tabasco",,"Media superior",27,85.71428571428571
+2019/2020,"Tabasco",,"Media superior",27,87.19346049046318
+2018/2019,"Tabasco",,"Media superior",27,86.41304347826092
+2021/2022,"Tamaulipas",,"Media superior",28,82.57425742574262
+2020/2021,"Tamaulipas",,"Media superior",28,82.3762376237624
+2019/2020,"Tamaulipas",,"Media superior",28,95.8677685950413
+2018/2019,"Tamaulipas",,"Media superior",28,95.78059071729962
+2021/2022,"Tlaxcala",,"Media superior",29,84.87804878048783
+2020/2021,"Tlaxcala",,"Media superior",29,85.2216748768473
+2019/2020,"Tlaxcala",,"Media superior",29,96.58536585365847
+2018/2019,"Tlaxcala",,"Media superior",29,96.1538461538462
+2021/2022,"Veracruz de Ignacio de la Llave",,"Media superior",30,94.8717948717949
+2020/2021,"Veracruz de Ignacio de la Llave",,"Media superior",30,95.66395663956638
+2019/2020,"Veracruz de Ignacio de la Llave",,"Media superior",30,77.3513513513514
+2018/2019,"Veracruz de Ignacio de la Llave",,"Media superior",30,77.4617067833698
+2021/2022,"Yucatán",,"Media superior",31,93.81898454746141
+2020/2021,"Yucatán",,"Media superior",31,93.58407079646022
+2019/2020,"Yucatán",,"Media superior",31,71.36563876651982
+2018/2019,"Yucatán",,"Media superior",31,71.52317880794702
+2021/2022,"Zacatecas",,"Media superior",32,96.01328903654483
+2020/2021,"Zacatecas",,"Media superior",32,96.3696369636964
+2019/2020,"Zacatecas",,"Media superior",32,89
+2018/2019,"Zacatecas",,"Media superior",32,91.21621621621622

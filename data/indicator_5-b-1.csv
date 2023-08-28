@@ -1,0 +1,657 @@
+﻿Year,Entidad federativa,Municipio,"Usuarios",GeoCode,Value
+2018,"Estados Unidos Mexicanos",,"Hombres",00,48.46383
+2017,"Estados Unidos Mexicanos",,"Hombres",00,49.05698
+2016,"Estados Unidos Mexicanos",,"Hombres",00,48.37059
+2015 P/,"Estados Unidos Mexicanos",,"Hombres",00,49.1227
+2018,"Estados Unidos Mexicanos",,"Mujeres",00,51.53616999999999
+2017,"Estados Unidos Mexicanos",,"Mujeres",00,50.94302
+2016,"Estados Unidos Mexicanos",,"Mujeres",00,51.62940999999999
+2015 P/,"Estados Unidos Mexicanos",,"Mujeres",00,50.8773
+2018,"Aguascalientes",,"Hombres",01,49.78338
+2017,"Aguascalientes",,"Hombres",01,47.81425
+2016,"Aguascalientes",,"Hombres",01,47.67098
+2015 P/,"Aguascalientes",,"Hombres",01,48.4403
+2018,"Aguascalientes",,"Mujeres",01,50.21662
+2017,"Aguascalientes",,"Mujeres",01,52.18575
+2016,"Aguascalientes",,"Mujeres",01,52.32902
+2015 P/,"Aguascalientes",,"Mujeres",01,51.5597
+2018,"Aguascalientes","Aguascalientes","Hombres",010010001,49.07451
+2017,"Aguascalientes","Aguascalientes","Hombres",010010001,47.07389
+2016,"Aguascalientes","Aguascalientes","Hombres",010010001,46.43073
+2015 P/,"Aguascalientes","Aguascalientes","Hombres",010010001,49.6203
+2018,"Aguascalientes","Aguascalientes","Mujeres",010010001,50.92549
+2017,"Aguascalientes","Aguascalientes","Mujeres",010010001,52.92611000000001
+2016,"Aguascalientes","Aguascalientes","Mujeres",010010001,53.56927
+2015 P/,"Aguascalientes","Aguascalientes","Mujeres",010010001,50.3797
+2018,"Baja California",,"Hombres",02,50.45492
+2017,"Baja California",,"Hombres",02,50.3066
+2016,"Baja California",,"Hombres",02,49.21802
+2015 P/,"Baja California",,"Hombres",02,48.675
+2018,"Baja California",,"Mujeres",02,49.54508
+2017,"Baja California",,"Mujeres",02,49.6934
+2016,"Baja California",,"Mujeres",02,50.78198
+2015 P/,"Baja California",,"Mujeres",02,51.325
+2018,"Baja California","Ensenada","Hombres",020010001,49.88125
+2017,"Baja California","Ensenada","Hombres",020010001,47.46439
+2016,"Baja California","Ensenada","Hombres",020010001,47.46759
+2015 P/,"Baja California","Ensenada","Hombres",020010001,
+2018,"Baja California","Ensenada","Mujeres",020010001,50.11875
+2017,"Baja California","Ensenada","Mujeres",020010001,52.53561
+2016,"Baja California","Ensenada","Mujeres",020010001,52.532410000000006
+2015 P/,"Baja California","Ensenada","Mujeres",020010001,
+2018,"Baja California","Mexicali","Hombres",020020001,47.44117
+2017,"Baja California","Mexicali","Hombres",020020001,49.43496
+2016,"Baja California","Mexicali","Hombres",020020001,46.95908
+2015 P/,"Baja California","Mexicali","Hombres",020020001,
+2018,"Baja California","Mexicali","Mujeres",020020001,52.55883
+2017,"Baja California","Mexicali","Mujeres",020020001,50.56504
+2016,"Baja California","Mexicali","Mujeres",020020001,53.04092000000001
+2015 P/,"Baja California","Mexicali","Mujeres",020020001,
+2018,"Baja California","Tijuana","Hombres",020040001,51.78941999999999
+2017,"Baja California","Tijuana","Hombres",020040001,51.12558
+2016,"Baja California","Tijuana","Hombres",020040001,52.78622
+2015 P/,"Baja California","Tijuana","Hombres",020040001,46.1492
+2018,"Baja California","Tijuana","Mujeres",020040001,48.21058
+2017,"Baja California","Tijuana","Mujeres",020040001,48.87442
+2016,"Baja California","Tijuana","Mujeres",020040001,47.21378
+2015 P/,"Baja California","Tijuana","Mujeres",020040001,53.85080000000001
+2018,"Baja California Sur",,"Hombres",03,50.85971
+2017,"Baja California Sur",,"Hombres",03,51.875890000000005
+2016,"Baja California Sur",,"Hombres",03,49.28803
+2015 P/,"Baja California Sur",,"Hombres",03,48.2099
+2018,"Baja California Sur",,"Mujeres",03,49.14029
+2017,"Baja California Sur",,"Mujeres",03,48.12411
+2016,"Baja California Sur",,"Mujeres",03,50.71197
+2015 P/,"Baja California Sur",,"Mujeres",03,51.79010000000001
+2018,"Baja California Sur","La Paz","Hombres",030030001,50.22574
+2017,"Baja California Sur","La Paz","Hombres",030030001,49.08152
+2016,"Baja California Sur","La Paz","Hombres",030030001,48.67768
+2015 P/,"Baja California Sur","La Paz","Hombres",030030001,48.7241
+2018,"Baja California Sur","La Paz","Mujeres",030030001,49.77426
+2017,"Baja California Sur","La Paz","Mujeres",030030001,50.91848
+2016,"Baja California Sur","La Paz","Mujeres",030030001,51.322320000000005
+2015 P/,"Baja California Sur","La Paz","Mujeres",030030001,51.2759
+2018,"Campeche",,"Hombres",04,49.40592
+2017,"Campeche",,"Hombres",04,49.07354
+2016,"Campeche",,"Hombres",04,47.93478
+2015 P/,"Campeche",,"Hombres",04,46.7155
+2018,"Campeche",,"Mujeres",04,50.59408
+2017,"Campeche",,"Mujeres",04,50.92646
+2016,"Campeche",,"Mujeres",04,52.06522
+2015 P/,"Campeche",,"Mujeres",04,53.2845
+2018,"Campeche","Campeche","Hombres",040020001,44.97837
+2017,"Campeche","Campeche","Hombres",040020001,47.68898
+2016,"Campeche","Campeche","Hombres",040020001,44.76936
+2015 P/,"Campeche","Campeche","Hombres",040020001,45.0915
+2018,"Campeche","Campeche","Mujeres",040020001,55.02163
+2017,"Campeche","Campeche","Mujeres",040020001,52.31102
+2016,"Campeche","Campeche","Mujeres",040020001,55.23064000000001
+2015 P/,"Campeche","Campeche","Mujeres",040020001,54.90849999999999
+2018,"Coahuila de Zaragoza",,"Hombres",05,46.01666
+2017,"Coahuila de Zaragoza",,"Hombres",05,48.67817
+2016,"Coahuila de Zaragoza",,"Hombres",05,48.86064
+2015 P/,"Coahuila de Zaragoza",,"Hombres",05,48.7897
+2018,"Coahuila de Zaragoza",,"Mujeres",05,53.98334
+2017,"Coahuila de Zaragoza",,"Mujeres",05,51.32183
+2016,"Coahuila de Zaragoza",,"Mujeres",05,51.13936
+2015 P/,"Coahuila de Zaragoza",,"Mujeres",05,51.2103
+2018,"Coahuila de Zaragoza","Saltillo","Hombres",050300001,46.38073
+2017,"Coahuila de Zaragoza","Saltillo","Hombres",050300001,49.82989
+2016,"Coahuila de Zaragoza","Saltillo","Hombres",050300001,48.98118
+2015 P/,"Coahuila de Zaragoza","Saltillo","Hombres",050300001,47.9509
+2018,"Coahuila de Zaragoza","Saltillo","Mujeres",050300001,53.61927000000001
+2017,"Coahuila de Zaragoza","Saltillo","Mujeres",050300001,50.17011
+2016,"Coahuila de Zaragoza","Saltillo","Mujeres",050300001,51.01882
+2015 P/,"Coahuila de Zaragoza","Saltillo","Mujeres",050300001,52.049099999999996
+2018,"Coahuila de Zaragoza","Torreón","Hombres",050350001,46.87877
+2017,"Coahuila de Zaragoza","Torreón","Hombres",050350001,48.38933
+2016,"Coahuila de Zaragoza","Torreón","Hombres",050350001,47.82743
+2015 P/,"Coahuila de Zaragoza","Torreón","Hombres",050350001,
+2018,"Coahuila de Zaragoza","Torreón","Mujeres",050350001,53.12122999999999
+2017,"Coahuila de Zaragoza","Torreón","Mujeres",050350001,51.610670000000006
+2016,"Coahuila de Zaragoza","Torreón","Mujeres",050350001,52.17256999999999
+2015 P/,"Coahuila de Zaragoza","Torreón","Mujeres",050350001,
+2018,"Colima",,"Hombres",06,46.54021
+2017,"Colima",,"Hombres",06,49.90678
+2016,"Colima",,"Hombres",06,47.18152
+2015 P/,"Colima",,"Hombres",06,49.0096
+2018,"Colima",,"Mujeres",06,53.45979
+2017,"Colima",,"Mujeres",06,50.09322
+2016,"Colima",,"Mujeres",06,52.81848
+2015 P/,"Colima",,"Mujeres",06,50.9904
+2018,"Colima","Colima","Hombres",060020001,47.61364
+2017,"Colima","Colima","Hombres",060020001,48.55232
+2016,"Colima","Colima","Hombres",060020001,46.50439
+2015 P/,"Colima","Colima","Hombres",060020001,48.4411
+2018,"Colima","Colima","Mujeres",060020001,52.38636
+2017,"Colima","Colima","Mujeres",060020001,51.447680000000005
+2016,"Colima","Colima","Mujeres",060020001,53.49561
+2015 P/,"Colima","Colima","Mujeres",060020001,51.55890000000001
+2018,"Chiapas",,"Hombres",07,51.46223
+2017,"Chiapas",,"Hombres",07,50.65884
+2016,"Chiapas",,"Hombres",07,51.15981
+2015 P/,"Chiapas",,"Hombres",07,49.7801
+2018,"Chiapas",,"Mujeres",07,48.53777
+2017,"Chiapas",,"Mujeres",07,49.34116
+2016,"Chiapas",,"Mujeres",07,48.84019
+2015 P/,"Chiapas",,"Mujeres",07,50.2199
+2018,"Chiapas","Tapachula","Hombres",070890001,48.21975
+2017,"Chiapas","Tapachula","Hombres",070890001,46.84985
+2016,"Chiapas","Tapachula","Hombres",070890001,48.60072
+2015 P/,"Chiapas","Tapachula","Hombres",070890001,
+2018,"Chiapas","Tapachula","Mujeres",070890001,51.78025
+2017,"Chiapas","Tapachula","Mujeres",070890001,53.15015
+2016,"Chiapas","Tapachula","Mujeres",070890001,51.39928
+2015 P/,"Chiapas","Tapachula","Mujeres",070890001,
+2018,"Chiapas","Tuxtla Gutiérrez","Hombres",071010001,48.15114
+2017,"Chiapas","Tuxtla Gutiérrez","Hombres",071010001,47.229
+2016,"Chiapas","Tuxtla Gutiérrez","Hombres",071010001,45.84028
+2015 P/,"Chiapas","Tuxtla Gutiérrez","Hombres",071010001,47.1184
+2018,"Chiapas","Tuxtla Gutiérrez","Mujeres",071010001,51.84886
+2017,"Chiapas","Tuxtla Gutiérrez","Mujeres",071010001,52.771
+2016,"Chiapas","Tuxtla Gutiérrez","Mujeres",071010001,54.15972000000001
+2015 P/,"Chiapas","Tuxtla Gutiérrez","Mujeres",071010001,52.881600000000006
+2018,"Chihuahua",,"Hombres",08,48.56084
+2017,"Chihuahua",,"Hombres",08,49.14004
+2016,"Chihuahua",,"Hombres",08,50.42728
+2015 P/,"Chihuahua",,"Hombres",08,51.9317
+2018,"Chihuahua",,"Mujeres",08,51.43916
+2017,"Chihuahua",,"Mujeres",08,50.85996
+2016,"Chihuahua",,"Mujeres",08,49.57272
+2015 P/,"Chihuahua",,"Mujeres",08,48.0683
+2018,"Chihuahua","Chihuahua","Hombres",080190001,47.78183
+2017,"Chihuahua","Chihuahua","Hombres",080190001,50.04659
+2016,"Chihuahua","Chihuahua","Hombres",080190001,47.73931
+2015 P/,"Chihuahua","Chihuahua","Hombres",080190001,49.2591
+2018,"Chihuahua","Chihuahua","Mujeres",080190001,52.21817
+2017,"Chihuahua","Chihuahua","Mujeres",080190001,49.95341
+2016,"Chihuahua","Chihuahua","Mujeres",080190001,52.26069
+2015 P/,"Chihuahua","Chihuahua","Mujeres",080190001,50.7409
+2018,"Chihuahua","Juárez","Hombres",080370001,49.29558
+2017,"Chihuahua","Juárez","Hombres",080370001,49.41788
+2016,"Chihuahua","Juárez","Hombres",080370001,53.28367000000001
+2015 P/,"Chihuahua","Juárez","Hombres",080370001,
+2018,"Chihuahua","Juárez","Mujeres",080370001,50.70442
+2017,"Chihuahua","Juárez","Mujeres",080370001,50.58212
+2016,"Chihuahua","Juárez","Mujeres",080370001,46.71633
+2015 P/,"Chihuahua","Juárez","Mujeres",080370001,
+2018,"Ciudad de México",,"Hombres",09,48.85006
+2017,"Ciudad de México",,"Hombres",09,48.2616
+2016,"Ciudad de México",,"Hombres",09,47.43351
+2015 P/,"Ciudad de México",,"Hombres",09,49.9326
+2018,"Ciudad de México",,"Mujeres",09,51.14994
+2017,"Ciudad de México",,"Mujeres",09,51.7384
+2016,"Ciudad de México",,"Mujeres",09,52.56649
+2015 P/,"Ciudad de México",,"Mujeres",09,50.0674
+2018,"Ciudad de México","Zona Metropolitana del Valle de México","Hombres",090019013,48.5563
+2017,"Ciudad de México","Zona Metropolitana del Valle de México","Hombres",090019013,48.48192
+2016,"Ciudad de México","Zona Metropolitana del Valle de México","Hombres",090019013,46.43895
+2015 P/,"Ciudad de México","Zona Metropolitana del Valle de México","Hombres",090019013,49.5211
+2018,"Ciudad de México","Zona Metropolitana del Valle de México","Mujeres",090019013,51.4437
+2017,"Ciudad de México","Zona Metropolitana del Valle de México","Mujeres",090019013,51.51808
+2016,"Ciudad de México","Zona Metropolitana del Valle de México","Mujeres",090019013,53.56105
+2015 P/,"Ciudad de México","Zona Metropolitana del Valle de México","Mujeres",090019013,50.4789
+2018,"Durango",,"Hombres",10,47.79718
+2017,"Durango",,"Hombres",10,48.77884
+2016,"Durango",,"Hombres",10,47.43498
+2015 P/,"Durango",,"Hombres",10,47.182
+2018,"Durango",,"Mujeres",10,52.202819999999996
+2017,"Durango",,"Mujeres",10,51.22116
+2016,"Durango",,"Mujeres",10,52.56501999999999
+2015 P/,"Durango",,"Mujeres",10,52.818
+2018,"Durango","Durango","Hombres",100050001,46.74507
+2017,"Durango","Durango","Hombres",100050001,46.6725
+2016,"Durango","Durango","Hombres",100050001,47.41243
+2015 P/,"Durango","Durango","Hombres",100050001,43.0516
+2018,"Durango","Durango","Mujeres",100050001,53.25493
+2017,"Durango","Durango","Mujeres",100050001,53.3275
+2016,"Durango","Durango","Mujeres",100050001,52.58757000000001
+2015 P/,"Durango","Durango","Mujeres",100050001,56.94840000000001
+2018,"Guanajuato",,"Hombres",11,48.05492
+2017,"Guanajuato",,"Hombres",11,48.85127
+2016,"Guanajuato",,"Hombres",11,46.82397
+2015 P/,"Guanajuato",,"Hombres",11,49.5397
+2018,"Guanajuato",,"Mujeres",11,51.94508
+2017,"Guanajuato",,"Mujeres",11,51.14873
+2016,"Guanajuato",,"Mujeres",11,53.17602999999999
+2015 P/,"Guanajuato",,"Mujeres",11,50.4603
+2018,"Guanajuato","Celaya","Hombres",110070001,48.89328
+2017,"Guanajuato","Celaya","Hombres",110070001,49.4079
+2016,"Guanajuato","Celaya","Hombres",110070001,45.36093
+2015 P/,"Guanajuato","Celaya","Hombres",110070001,
+2018,"Guanajuato","Celaya","Mujeres",110070001,51.10672
+2017,"Guanajuato","Celaya","Mujeres",110070001,50.5921
+2016,"Guanajuato","Celaya","Mujeres",110070001,54.63906999999999
+2015 P/,"Guanajuato","Celaya","Mujeres",110070001,
+2018,"Guanajuato","Irapuato","Hombres",110170001,44.39394
+2017,"Guanajuato","Irapuato","Hombres",110170001,49.45364
+2016,"Guanajuato","Irapuato","Hombres",110170001,46.49611
+2015 P/,"Guanajuato","Irapuato","Hombres",110170001,
+2018,"Guanajuato","Irapuato","Mujeres",110170001,55.60606
+2017,"Guanajuato","Irapuato","Mujeres",110170001,50.54636
+2016,"Guanajuato","Irapuato","Mujeres",110170001,53.50389
+2015 P/,"Guanajuato","Irapuato","Mujeres",110170001,
+2018,"Guanajuato","León","Hombres",110200001,46.38928
+2017,"Guanajuato","León","Hombres",110200001,48.26128
+2016,"Guanajuato","León","Hombres",110200001,47.66274
+2015 P/,"Guanajuato","León","Hombres",110200001,49.8318
+2018,"Guanajuato","León","Mujeres",110200001,53.61072
+2017,"Guanajuato","León","Mujeres",110200001,51.73872
+2016,"Guanajuato","León","Mujeres",110200001,52.33726
+2015 P/,"Guanajuato","León","Mujeres",110200001,50.1682
+2018,"Guerrero",,"Hombres",12,46.60555
+2017,"Guerrero",,"Hombres",12,48.81707
+2016,"Guerrero",,"Hombres",12,47.69343
+2015 P/,"Guerrero",,"Hombres",12,50.4167
+2018,"Guerrero",,"Mujeres",12,53.39444999999999
+2017,"Guerrero",,"Mujeres",12,51.18293
+2016,"Guerrero",,"Mujeres",12,52.30657
+2015 P/,"Guerrero",,"Mujeres",12,49.5833
+2018,"Guerrero","Acapulco","Hombres",120010001,45.97698
+2017,"Guerrero","Acapulco","Hombres",120010001,48.96514
+2016,"Guerrero","Acapulco","Hombres",120010001,47.36949
+2015 P/,"Guerrero","Acapulco","Hombres",120010001,46.4286
+2018,"Guerrero","Acapulco","Mujeres",120010001,54.023019999999995
+2017,"Guerrero","Acapulco","Mujeres",120010001,51.03486
+2016,"Guerrero","Acapulco","Mujeres",120010001,52.63051
+2015 P/,"Guerrero","Acapulco","Mujeres",120010001,53.5714
+2018,"Guerrero","Chilpancingo de los Bravo","Hombres",120290001,47.54826
+2017,"Guerrero","Chilpancingo de los Bravo","Hombres",120290001,47.28171
+2016,"Guerrero","Chilpancingo de los Bravo","Hombres",120290001,44.24525
+2015 P/,"Guerrero","Chilpancingo de los Bravo","Hombres",120290001,
+2018,"Guerrero","Chilpancingo de los Bravo","Mujeres",120290001,52.451739999999994
+2017,"Guerrero","Chilpancingo de los Bravo","Mujeres",120290001,52.71829
+2016,"Guerrero","Chilpancingo de los Bravo","Mujeres",120290001,55.75475
+2015 P/,"Guerrero","Chilpancingo de los Bravo","Mujeres",120290001,
+2018,"Hidalgo",,"Hombres",13,46.54291
+2017,"Hidalgo",,"Hombres",13,48.95114
+2016,"Hidalgo",,"Hombres",13,47.04128
+2015 P/,"Hidalgo",,"Hombres",13,49.3906
+2018,"Hidalgo",,"Mujeres",13,53.45709000000001
+2017,"Hidalgo",,"Mujeres",13,51.04886
+2016,"Hidalgo",,"Mujeres",13,52.95871999999999
+2015 P/,"Hidalgo",,"Mujeres",13,50.6094
+2018,"Hidalgo","Pachuca","Hombres",130480001,44.56056
+2017,"Hidalgo","Pachuca","Hombres",130480001,47.51344
+2016,"Hidalgo","Pachuca","Hombres",130480001,43.94992
+2015 P/,"Hidalgo","Pachuca","Hombres",130480001,46.4017
+2018,"Hidalgo","Pachuca","Mujeres",130480001,55.439440000000005
+2017,"Hidalgo","Pachuca","Mujeres",130480001,52.48656
+2016,"Hidalgo","Pachuca","Mujeres",130480001,56.05008
+2015 P/,"Hidalgo","Pachuca","Mujeres",130480001,53.59830000000001
+2018,"Jalisco",,"Hombres",14,48.41036
+2017,"Jalisco",,"Hombres",14,50.24787
+2016,"Jalisco",,"Hombres",14,48.79375
+2015 P/,"Jalisco",,"Hombres",14,48.4184
+2018,"Jalisco",,"Mujeres",14,51.58964000000001
+2017,"Jalisco",,"Mujeres",14,49.75213
+2016,"Jalisco",,"Mujeres",14,51.20625
+2015 P/,"Jalisco",,"Mujeres",14,51.5816
+2018,"Jalisco","Guadalajara","Hombres",140390001,49.28376
+2017,"Jalisco","Guadalajara","Hombres",140390001,49.29702
+2016,"Jalisco","Guadalajara","Hombres",140390001,48.22979
+2015 P/,"Jalisco","Guadalajara","Hombres",140390001,49.3501
+2018,"Jalisco","Guadalajara","Mujeres",140390001,50.71624
+2017,"Jalisco","Guadalajara","Mujeres",140390001,50.70298
+2016,"Jalisco","Guadalajara","Mujeres",140390001,51.77021
+2015 P/,"Jalisco","Guadalajara","Mujeres",140390001,50.6499
+2018,"México",,"Hombres",15,48.34298
+2017,"México",,"Hombres",15,49.05739
+2016,"México",,"Hombres",15,46.85203
+2015 P/,"México",,"Hombres",15,49.8183
+2018,"México",,"Mujeres",15,51.65702
+2017,"México",,"Mujeres",15,50.94261
+2016,"México",,"Mujeres",15,53.14797
+2015 P/,"México",,"Mujeres",15,50.1817
+2018,"México","Toluca","Hombres",151060001,47.37127
+2017,"México","Toluca","Hombres",151060001,49.20706
+2016,"México","Toluca","Hombres",151060001,50.2017
+2015 P/,"México","Toluca","Hombres",151060001,49.0866
+2018,"México","Toluca","Mujeres",151060001,52.62873
+2017,"México","Toluca","Mujeres",151060001,50.79294
+2016,"México","Toluca","Mujeres",151060001,49.7983
+2015 P/,"México","Toluca","Mujeres",151060001,50.9134
+2018,"Michoacán de Ocampo",,"Hombres",16,48.37558
+2017,"Michoacán de Ocampo",,"Hombres",16,49.52146
+2016,"Michoacán de Ocampo",,"Hombres",16,46.87903
+2015 P/,"Michoacán de Ocampo",,"Hombres",16,46.8819
+2018,"Michoacán de Ocampo",,"Mujeres",16,51.62442
+2017,"Michoacán de Ocampo",,"Mujeres",16,50.47854
+2016,"Michoacán de Ocampo",,"Mujeres",16,53.12097
+2015 P/,"Michoacán de Ocampo",,"Mujeres",16,53.118100000000005
+2018,"Michoacán de Ocampo","Morelia","Hombres",160530001,46.71863
+2017,"Michoacán de Ocampo","Morelia","Hombres",160530001,47.59832
+2016,"Michoacán de Ocampo","Morelia","Hombres",160530001,48.32066
+2015 P/,"Michoacán de Ocampo","Morelia","Hombres",160530001,49.9892
+2018,"Michoacán de Ocampo","Morelia","Mujeres",160530001,53.28137
+2017,"Michoacán de Ocampo","Morelia","Mujeres",160530001,52.40168
+2016,"Michoacán de Ocampo","Morelia","Mujeres",160530001,51.67934
+2015 P/,"Michoacán de Ocampo","Morelia","Mujeres",160530001,50.0108
+2018,"Michoacán de Ocampo","Uruapan","Hombres",161020001,47.67518
+2017,"Michoacán de Ocampo","Uruapan","Hombres",161020001,47.89439
+2016,"Michoacán de Ocampo","Uruapan","Hombres",161020001,48.48076
+2015 P/,"Michoacán de Ocampo","Uruapan","Hombres",161020001,
+2018,"Michoacán de Ocampo","Uruapan","Mujeres",161020001,52.32482
+2017,"Michoacán de Ocampo","Uruapan","Mujeres",161020001,52.10561
+2016,"Michoacán de Ocampo","Uruapan","Mujeres",161020001,51.51924
+2015 P/,"Michoacán de Ocampo","Uruapan","Mujeres",161020001,
+2018,"Morelos",,"Hombres",17,47.4774
+2017,"Morelos",,"Hombres",17,48.9982
+2016,"Morelos",,"Hombres",17,46.52547
+2015 P/,"Morelos",,"Hombres",17,49.3709
+2018,"Morelos",,"Mujeres",17,52.5226
+2017,"Morelos",,"Mujeres",17,51.0018
+2016,"Morelos",,"Mujeres",17,53.47453
+2015 P/,"Morelos",,"Mujeres",17,50.6291
+2018,"Morelos","Cuernavaca","Hombres",170070001,47.55737
+2017,"Morelos","Cuernavaca","Hombres",170070001,47.50243
+2016,"Morelos","Cuernavaca","Hombres",170070001,44.7846
+2015 P/,"Morelos","Cuernavaca","Hombres",170070001,50.2168
+2018,"Morelos","Cuernavaca","Mujeres",170070001,52.442629999999994
+2017,"Morelos","Cuernavaca","Mujeres",170070001,52.49757000000001
+2016,"Morelos","Cuernavaca","Mujeres",170070001,55.2154
+2015 P/,"Morelos","Cuernavaca","Mujeres",170070001,49.7832
+2018,"Nayarit",,"Hombres",18,46.80625
+2017,"Nayarit",,"Hombres",18,49.03651
+2016,"Nayarit",,"Hombres",18,45.99452
+2015 P/,"Nayarit",,"Hombres",18,48.33
+2018,"Nayarit",,"Mujeres",18,53.19375
+2017,"Nayarit",,"Mujeres",18,50.96349
+2016,"Nayarit",,"Mujeres",18,54.00548
+2015 P/,"Nayarit",,"Mujeres",18,51.67
+2018,"Nayarit","Tepic","Hombres",180170001,47.42489
+2017,"Nayarit","Tepic","Hombres",180170001,46.61859
+2016,"Nayarit","Tepic","Hombres",180170001,47.08777
+2015 P/,"Nayarit","Tepic","Hombres",180170001,47.4878
+2018,"Nayarit","Tepic","Mujeres",180170001,52.57511000000001
+2017,"Nayarit","Tepic","Mujeres",180170001,53.38141
+2016,"Nayarit","Tepic","Mujeres",180170001,52.91223
+2015 P/,"Nayarit","Tepic","Mujeres",180170001,52.51219999999999
+2018,"Nuevo León",,"Hombres",19,49.26895
+2017,"Nuevo León",,"Hombres",19,49.55884
+2016,"Nuevo León",,"Hombres",19,50.93763
+2015 P/,"Nuevo León",,"Hombres",19,51.1605
+2018,"Nuevo León",,"Mujeres",19,50.73105
+2017,"Nuevo León",,"Mujeres",19,50.44116
+2016,"Nuevo León",,"Mujeres",19,49.06237
+2015 P/,"Nuevo León",,"Mujeres",19,48.8395
+2018,"Nuevo León","Monterrey","Hombres",190390001,49.1386
+2017,"Nuevo León","Monterrey","Hombres",190390001,49.58248
+2016,"Nuevo León","Monterrey","Hombres",190390001,50.88356
+2015 P/,"Nuevo León","Monterrey","Hombres",190390001,50.3015
+2018,"Nuevo León","Monterrey","Mujeres",190390001,50.8614
+2017,"Nuevo León","Monterrey","Mujeres",190390001,50.41752
+2016,"Nuevo León","Monterrey","Mujeres",190390001,49.11644
+2015 P/,"Nuevo León","Monterrey","Mujeres",190390001,49.6985
+2018,"Oaxaca",,"Hombres",20,49.10126
+2017,"Oaxaca",,"Hombres",20,49.45201
+2016,"Oaxaca",,"Hombres",20,49.57604
+2015 P/,"Oaxaca",,"Hombres",20,49.6981
+2018,"Oaxaca",,"Mujeres",20,50.89874
+2017,"Oaxaca",,"Mujeres",20,50.54799
+2016,"Oaxaca",,"Mujeres",20,50.42396
+2015 P/,"Oaxaca",,"Mujeres",20,50.3019
+2018,"Oaxaca","Oaxaca","Hombres",200670001,49.36791
+2017,"Oaxaca","Oaxaca","Hombres",200670001,47.60992
+2016,"Oaxaca","Oaxaca","Hombres",200670001,47.60567
+2015 P/,"Oaxaca","Oaxaca","Hombres",200670001,47.7342
+2018,"Oaxaca","Oaxaca","Mujeres",200670001,50.63209
+2017,"Oaxaca","Oaxaca","Mujeres",200670001,52.39008
+2016,"Oaxaca","Oaxaca","Mujeres",200670001,52.39432999999999
+2015 P/,"Oaxaca","Oaxaca","Mujeres",200670001,52.2658
+2018,"Puebla",,"Hombres",21,47.60294
+2017,"Puebla",,"Hombres",21,47.16503
+2016,"Puebla",,"Hombres",21,48.94453
+2015 P/,"Puebla",,"Hombres",21,48.7301
+2018,"Puebla",,"Mujeres",21,52.397059999999996
+2017,"Puebla",,"Mujeres",21,52.83497
+2016,"Puebla",,"Mujeres",21,51.05547
+2015 P/,"Puebla",,"Mujeres",21,51.26989999999999
+2018,"Puebla","Puebla","Hombres",211140001,45.65761
+2017,"Puebla","Puebla","Hombres",211140001,47.38107
+2016,"Puebla","Puebla","Hombres",211140001,46.86519
+2015 P/,"Puebla","Puebla","Hombres",211140001,49.1247
+2018,"Puebla","Puebla","Mujeres",211140001,54.34239
+2017,"Puebla","Puebla","Mujeres",211140001,52.61893
+2016,"Puebla","Puebla","Mujeres",211140001,53.13481
+2015 P/,"Puebla","Puebla","Mujeres",211140001,50.8753
+2018,"Puebla","Tehuacán","Hombres",211560001,44.63997
+2017,"Puebla","Tehuacán","Hombres",211560001,47.94949
+2016,"Puebla","Tehuacán","Hombres",211560001,51.10519
+2015 P/,"Puebla","Tehuacán","Hombres",211560001,
+2018,"Puebla","Tehuacán","Mujeres",211560001,55.36003000000001
+2017,"Puebla","Tehuacán","Mujeres",211560001,52.05051000000001
+2016,"Puebla","Tehuacán","Mujeres",211560001,48.89481
+2015 P/,"Puebla","Tehuacán","Mujeres",211560001,
+2018,"Querétaro",,"Hombres",22,47.06042
+2017,"Querétaro",,"Hombres",22,49.7981
+2016,"Querétaro",,"Hombres",22,47.0753
+2015 P/,"Querétaro",,"Hombres",22,48.6116
+2018,"Querétaro",,"Mujeres",22,52.93958
+2017,"Querétaro",,"Mujeres",22,50.2019
+2016,"Querétaro",,"Mujeres",22,52.92470000000001
+2015 P/,"Querétaro",,"Mujeres",22,51.388400000000004
+2018,"Querétaro","Querétaro","Hombres",220140001,45.41744
+2017,"Querétaro","Querétaro","Hombres",220140001,50.13736
+2016,"Querétaro","Querétaro","Hombres",220140001,46.47559
+2015 P/,"Querétaro","Querétaro","Hombres",220140001,45.5134
+2018,"Querétaro","Querétaro","Mujeres",220140001,54.58256
+2017,"Querétaro","Querétaro","Mujeres",220140001,49.86264
+2016,"Querétaro","Querétaro","Mujeres",220140001,53.52441
+2015 P/,"Querétaro","Querétaro","Mujeres",220140001,54.486599999999996
+2018,"Quintana Roo",,"Hombres",23,50.62543
+2017,"Quintana Roo",,"Hombres",23,51.10169
+2016,"Quintana Roo",,"Hombres",23,51.93247
+2015 P/,"Quintana Roo",,"Hombres",23,51.251099999999994
+2018,"Quintana Roo",,"Mujeres",23,49.37457
+2017,"Quintana Roo",,"Mujeres",23,48.89831
+2016,"Quintana Roo",,"Mujeres",23,48.06753
+2015 P/,"Quintana Roo",,"Mujeres",23,48.7489
+2018,"Quintana Roo","Cancún","Hombres",230050001,50.49298
+2017,"Quintana Roo","Cancún","Hombres",230050001,49.61097
+2016,"Quintana Roo","Cancún","Hombres",230050001,51.81852
+2015 P/,"Quintana Roo","Cancún","Hombres",230050001,51.8556
+2018,"Quintana Roo","Cancún","Mujeres",230050001,49.50702
+2017,"Quintana Roo","Cancún","Mujeres",230050001,50.38903
+2016,"Quintana Roo","Cancún","Mujeres",230050001,48.18148
+2015 P/,"Quintana Roo","Cancún","Mujeres",230050001,48.1444
+2018,"San Luis Potosí",,"Hombres",24,47.45277
+2017,"San Luis Potosí",,"Hombres",24,47.34549
+2016,"San Luis Potosí",,"Hombres",24,45.99639
+2015 P/,"San Luis Potosí",,"Hombres",24,47.0701
+2018,"San Luis Potosí",,"Mujeres",24,52.54723
+2017,"San Luis Potosí",,"Mujeres",24,52.65451
+2016,"San Luis Potosí",,"Mujeres",24,54.00361
+2015 P/,"San Luis Potosí",,"Mujeres",24,52.929899999999996
+2018,"San Luis Potosí","San Luis Potosí","Hombres",240280001,46.97189
+2017,"San Luis Potosí","San Luis Potosí","Hombres",240280001,49.09394
+2016,"San Luis Potosí","San Luis Potosí","Hombres",240280001,45.70313
+2015 P/,"San Luis Potosí","San Luis Potosí","Hombres",240280001,48.3189
+2018,"San Luis Potosí","San Luis Potosí","Mujeres",240280001,53.02810999999999
+2017,"San Luis Potosí","San Luis Potosí","Mujeres",240280001,50.90606
+2016,"San Luis Potosí","San Luis Potosí","Mujeres",240280001,54.29687
+2015 P/,"San Luis Potosí","San Luis Potosí","Mujeres",240280001,51.6811
+2018,"Sinaloa",,"Hombres",25,46.34178
+2017,"Sinaloa",,"Hombres",25,47.66103
+2016,"Sinaloa",,"Hombres",25,49.38559
+2015 P/,"Sinaloa",,"Hombres",25,49.2344
+2018,"Sinaloa",,"Mujeres",25,53.65822000000001
+2017,"Sinaloa",,"Mujeres",25,52.33897
+2016,"Sinaloa",,"Mujeres",25,50.61441
+2015 P/,"Sinaloa",,"Mujeres",25,50.7656
+2018,"Sinaloa","Culiacán","Hombres",250060001,46.21973
+2017,"Sinaloa","Culiacán","Hombres",250060001,47.56523
+2016,"Sinaloa","Culiacán","Hombres",250060001,47.07721
+2015 P/,"Sinaloa","Culiacán","Hombres",250060001,46.0534
+2018,"Sinaloa","Culiacán","Mujeres",250060001,53.780269999999994
+2017,"Sinaloa","Culiacán","Mujeres",250060001,52.43477
+2016,"Sinaloa","Culiacán","Mujeres",250060001,52.92279
+2015 P/,"Sinaloa","Culiacán","Mujeres",250060001,53.946600000000004
+2018,"Sinaloa","Mazatlán","Hombres",250120001,43.85103
+2017,"Sinaloa","Mazatlán","Hombres",250120001,46.57079
+2016,"Sinaloa","Mazatlán","Hombres",250120001,45.46097
+2015 P/,"Sinaloa","Mazatlán","Hombres",250120001,
+2018,"Sinaloa","Mazatlán","Mujeres",250120001,56.14897
+2017,"Sinaloa","Mazatlán","Mujeres",250120001,53.42921
+2016,"Sinaloa","Mazatlán","Mujeres",250120001,54.539030000000004
+2015 P/,"Sinaloa","Mazatlán","Mujeres",250120001,
+2018,"Sonora",,"Hombres",26,48.92956
+2017,"Sonora",,"Hombres",26,49.31439
+2016,"Sonora",,"Hombres",26,47.87917
+2015 P/,"Sonora",,"Hombres",26,49.2721
+2018,"Sonora",,"Mujeres",26,51.07044
+2017,"Sonora",,"Mujeres",26,50.68561
+2016,"Sonora",,"Mujeres",26,52.12083
+2015 P/,"Sonora",,"Mujeres",26,50.7279
+2018,"Sonora","Ciudad Obregón","Hombres",260180001,46.81307
+2017,"Sonora","Ciudad Obregón","Hombres",260180001,47.35102
+2016,"Sonora","Ciudad Obregón","Hombres",260180001,48.14759
+2015 P/,"Sonora","Ciudad Obregón","Hombres",260180001,
+2018,"Sonora","Ciudad Obregón","Mujeres",260180001,53.18693
+2017,"Sonora","Ciudad Obregón","Mujeres",260180001,52.64898000000001
+2016,"Sonora","Ciudad Obregón","Mujeres",260180001,51.85241
+2015 P/,"Sonora","Ciudad Obregón","Mujeres",260180001,
+2018,"Sonora","Hermosillo","Hombres",260300001,48.39545
+2017,"Sonora","Hermosillo","Hombres",260300001,48.52157
+2016,"Sonora","Hermosillo","Hombres",260300001,48.56541
+2015 P/,"Sonora","Hermosillo","Hombres",260300001,49.7505
+2018,"Sonora","Hermosillo","Mujeres",260300001,51.60455
+2017,"Sonora","Hermosillo","Mujeres",260300001,51.47843
+2016,"Sonora","Hermosillo","Mujeres",260300001,51.43459
+2015 P/,"Sonora","Hermosillo","Mujeres",260300001,50.2495
+2018,"Tabasco",,"Hombres",27,48.16827
+2017,"Tabasco",,"Hombres",27,48.85966
+2016,"Tabasco",,"Hombres",27,50.05729
+2015 P/,"Tabasco",,"Hombres",27,47.4912
+2018,"Tabasco",,"Mujeres",27,51.83173000000001
+2017,"Tabasco",,"Mujeres",27,51.14034
+2016,"Tabasco",,"Mujeres",27,49.94271
+2015 P/,"Tabasco",,"Mujeres",27,52.508799999999994
+2018,"Tabasco","Villahermosa","Hombres",270040001,48.13589
+2017,"Tabasco","Villahermosa","Hombres",270040001,46.95356
+2016,"Tabasco","Villahermosa","Hombres",270040001,46.7739
+2015 P/,"Tabasco","Villahermosa","Hombres",270040001,49.2911
+2018,"Tabasco","Villahermosa","Mujeres",270040001,51.86411
+2017,"Tabasco","Villahermosa","Mujeres",270040001,53.04644
+2016,"Tabasco","Villahermosa","Mujeres",270040001,53.226099999999995
+2015 P/,"Tabasco","Villahermosa","Mujeres",270040001,50.7089
+2018,"Tamaulipas",,"Hombres",28,48.73379
+2017,"Tamaulipas",,"Hombres",28,48.09572
+2016,"Tamaulipas",,"Hombres",28,47.12272
+2015 P/,"Tamaulipas",,"Hombres",28,47.6951
+2018,"Tamaulipas",,"Mujeres",28,51.26621
+2017,"Tamaulipas",,"Mujeres",28,51.90427999999999
+2016,"Tamaulipas",,"Mujeres",28,52.87728
+2015 P/,"Tamaulipas",,"Mujeres",28,52.304899999999996
+2018,"Tamaulipas","Heroica Matamoros","Hombres",280220001,49.80211
+2017,"Tamaulipas","Heroica Matamoros","Hombres",280220001,47.70147
+2016,"Tamaulipas","Heroica Matamoros","Hombres",280220001,47.57705
+2015 P/,"Tamaulipas","Heroica Matamoros","Hombres",280220001,
+2018,"Tamaulipas","Heroica Matamoros","Mujeres",280220001,50.19789
+2017,"Tamaulipas","Heroica Matamoros","Mujeres",280220001,52.29853000000001
+2016,"Tamaulipas","Heroica Matamoros","Mujeres",280220001,52.42295
+2015 P/,"Tamaulipas","Heroica Matamoros","Mujeres",280220001,
+2018,"Tamaulipas","Nuevo Laredo","Hombres",280270001,49.45166
+2017,"Tamaulipas","Nuevo Laredo","Hombres",280270001,48.51958
+2016,"Tamaulipas","Nuevo Laredo","Hombres",280270001,47.55209
+2015 P/,"Tamaulipas","Nuevo Laredo","Hombres",280270001,
+2018,"Tamaulipas","Nuevo Laredo","Mujeres",280270001,50.54834
+2017,"Tamaulipas","Nuevo Laredo","Mujeres",280270001,51.48042
+2016,"Tamaulipas","Nuevo Laredo","Mujeres",280270001,52.44791
+2015 P/,"Tamaulipas","Nuevo Laredo","Mujeres",280270001,
+2018,"Tamaulipas","Reynosa","Hombres",280320001,49.42586
+2017,"Tamaulipas","Reynosa","Hombres",280320001,47.03276
+2016,"Tamaulipas","Reynosa","Hombres",280320001,50.19408
+2015 P/,"Tamaulipas","Reynosa","Hombres",280320001,
+2018,"Tamaulipas","Reynosa","Mujeres",280320001,50.57414
+2017,"Tamaulipas","Reynosa","Mujeres",280320001,52.96723999999999
+2016,"Tamaulipas","Reynosa","Mujeres",280320001,49.80592
+2015 P/,"Tamaulipas","Reynosa","Mujeres",280320001,
+2018,"Tamaulipas","Tampico","Hombres",280380001,46.15929
+2017,"Tamaulipas","Tampico","Hombres",280380001,47.53515
+2016,"Tamaulipas","Tampico","Hombres",280380001,44.94158
+2015 P/,"Tamaulipas","Tampico","Hombres",280380001,44.9076
+2018,"Tamaulipas","Tampico","Mujeres",280380001,53.84071
+2017,"Tamaulipas","Tampico","Mujeres",280380001,52.46485
+2016,"Tamaulipas","Tampico","Mujeres",280380001,55.05842
+2015 P/,"Tamaulipas","Tampico","Mujeres",280380001,55.0924
+2018,"Tlaxcala",,"Hombres",29,49.2982
+2017,"Tlaxcala",,"Hombres",29,49.39383
+2016,"Tlaxcala",,"Hombres",29,46.94508
+2015 P/,"Tlaxcala",,"Hombres",29,48.7677
+2018,"Tlaxcala",,"Mujeres",29,50.7018
+2017,"Tlaxcala",,"Mujeres",29,50.60617
+2016,"Tlaxcala",,"Mujeres",29,53.05492
+2015 P/,"Tlaxcala",,"Mujeres",29,51.232299999999995
+2018,"Tlaxcala","Tlaxcala","Hombres",290330001,48.96776
+2017,"Tlaxcala","Tlaxcala","Hombres",290330001,48.93859
+2016,"Tlaxcala","Tlaxcala","Hombres",290330001,47.55803
+2015 P/,"Tlaxcala","Tlaxcala","Hombres",290330001,51.228899999999996
+2018,"Tlaxcala","Tlaxcala","Mujeres",290330001,51.03224
+2017,"Tlaxcala","Tlaxcala","Mujeres",290330001,51.06141
+2016,"Tlaxcala","Tlaxcala","Mujeres",290330001,52.44196999999999
+2015 P/,"Tlaxcala","Tlaxcala","Mujeres",290330001,48.7711
+2018,"Veracruz de Ignacio de la Llave",,"Hombres",30,47.85339
+2017,"Veracruz de Ignacio de la Llave",,"Hombres",30,48.12863
+2016,"Veracruz de Ignacio de la Llave",,"Hombres",30,51.16907
+2015 P/,"Veracruz de Ignacio de la Llave",,"Hombres",30,46.9168
+2018,"Veracruz de Ignacio de la Llave",,"Mujeres",30,52.146609999999995
+2017,"Veracruz de Ignacio de la Llave",,"Mujeres",30,51.87137
+2016,"Veracruz de Ignacio de la Llave",,"Mujeres",30,48.83093
+2015 P/,"Veracruz de Ignacio de la Llave",,"Mujeres",30,53.0832
+2018,"Veracruz de Ignacio de la Llave","Coatzacoalcos","Hombres",300390001,46.93391
+2017,"Veracruz de Ignacio de la Llave","Coatzacoalcos","Hombres",300390001,47.36411
+2016,"Veracruz de Ignacio de la Llave","Coatzacoalcos","Hombres",300390001,49.5835
+2015 P/,"Veracruz de Ignacio de la Llave","Coatzacoalcos","Hombres",300390001,
+2018,"Veracruz de Ignacio de la Llave","Coatzacoalcos","Mujeres",300390001,53.06609000000001
+2017,"Veracruz de Ignacio de la Llave","Coatzacoalcos","Mujeres",300390001,52.63589
+2016,"Veracruz de Ignacio de la Llave","Coatzacoalcos","Mujeres",300390001,50.4165
+2015 P/,"Veracruz de Ignacio de la Llave","Coatzacoalcos","Mujeres",300390001,
+2018,"Veracruz de Ignacio de la Llave","Xalapa-Enríquez","Hombres",300870001,47.1225
+2017,"Veracruz de Ignacio de la Llave","Xalapa-Enríquez","Hombres",300870001,46.08875
+2016,"Veracruz de Ignacio de la Llave","Xalapa-Enríquez","Hombres",300870001,47.96085
+2015 P/,"Veracruz de Ignacio de la Llave","Xalapa-Enríquez","Hombres",300870001,
+2018,"Veracruz de Ignacio de la Llave","Xalapa-Enríquez","Mujeres",300870001,52.8775
+2017,"Veracruz de Ignacio de la Llave","Xalapa-Enríquez","Mujeres",300870001,53.91125000000001
+2016,"Veracruz de Ignacio de la Llave","Xalapa-Enríquez","Mujeres",300870001,52.03914999999999
+2015 P/,"Veracruz de Ignacio de la Llave","Xalapa-Enríquez","Mujeres",300870001,
+2018,"Veracruz de Ignacio de la Llave","Veracruz","Hombres",301930001,46.09171
+2017,"Veracruz de Ignacio de la Llave","Veracruz","Hombres",301930001,46.58975
+2016,"Veracruz de Ignacio de la Llave","Veracruz","Hombres",301930001,47.53634
+2015 P/,"Veracruz de Ignacio de la Llave","Veracruz","Hombres",301930001,48.4861
+2018,"Veracruz de Ignacio de la Llave","Veracruz","Mujeres",301930001,53.90829
+2017,"Veracruz de Ignacio de la Llave","Veracruz","Mujeres",301930001,53.41025
+2016,"Veracruz de Ignacio de la Llave","Veracruz","Mujeres",301930001,52.46365999999999
+2015 P/,"Veracruz de Ignacio de la Llave","Veracruz","Mujeres",301930001,51.5139
+2018,"Yucatán",,"Hombres",31,51.32885
+2017,"Yucatán",,"Hombres",31,50.53378
+2016,"Yucatán",,"Hombres",31,49.48044
+2015 P/,"Yucatán",,"Hombres",31,49.4926
+2018,"Yucatán",,"Mujeres",31,48.67115
+2017,"Yucatán",,"Mujeres",31,49.46622
+2016,"Yucatán",,"Mujeres",31,50.51956
+2015 P/,"Yucatán",,"Mujeres",31,50.5074
+2018,"Yucatán","Mérida","Hombres",310500001,49.491
+2017,"Yucatán","Mérida","Hombres",310500001,49.21211
+2016,"Yucatán","Mérida","Hombres",310500001,48.0058
+2015 P/,"Yucatán","Mérida","Hombres",310500001,47.7936
+2018,"Yucatán","Mérida","Mujeres",310500001,50.509
+2017,"Yucatán","Mérida","Mujeres",310500001,50.78789
+2016,"Yucatán","Mérida","Mujeres",310500001,51.9942
+2015 P/,"Yucatán","Mérida","Mujeres",310500001,52.20640000000001
+2018,"Zacatecas",,"Hombres",32,49.79539
+2017,"Zacatecas",,"Hombres",32,50.72079
+2016,"Zacatecas",,"Hombres",32,47.08679
+2015 P/,"Zacatecas",,"Hombres",32,50.8245
+2018,"Zacatecas",,"Mujeres",32,50.20461
+2017,"Zacatecas",,"Mujeres",32,49.27921
+2016,"Zacatecas",,"Mujeres",32,52.91321000000001
+2015 P/,"Zacatecas",,"Mujeres",32,49.1755
+2018,"Zacatecas","Zacatecas","Hombres",320560001,47.89259
+2017,"Zacatecas","Zacatecas","Hombres",320560001,47.01085
+2016,"Zacatecas","Zacatecas","Hombres",320560001,45.75418
+2015 P/,"Zacatecas","Zacatecas","Hombres",320560001,47.5767
+2018,"Zacatecas","Zacatecas","Mujeres",320560001,52.10741
+2017,"Zacatecas","Zacatecas","Mujeres",320560001,52.98915000000001
+2016,"Zacatecas","Zacatecas","Mujeres",320560001,54.24582
+2015 P/,"Zacatecas","Zacatecas","Mujeres",320560001,52.4233
