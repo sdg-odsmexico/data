@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible
+SDG_TARGET: >-
+  Meta 2.2. De aquí a 2030, poner fin a todas las formas de malnutrición, incluso logrando, a más tardar en 2025, las metas convenidas internacionalmente sobre el retraso del crecimiento y la emaciación de los niños menores de 5 años, y abordar las necesidades de nutrición de las adolescentes, las mujeres embarazadas y lactantes y las personas de edad
+SDG_INDICATOR: >-
+  2.2.2(2) Prevalencia de sobrepeso u obesidad (peso para la estatura, desviación típica >+2 de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años
+SDG_SERIES_DESCR: >-
+  Este porcentaje se calcula dividiendo el número de niños y niñas menores de 5 años con sobrepeso u obesidad (peso para la estatura >+2 desviación estándar de la mediana del Patrón de Crecimiento Infantil de la Organización Mundial de la Salud (OMS)) entre el total de niños y niñas menores de 5 años, multiplicado por 100. 
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Lucia Cuevas Nasu<br>Dirección de Encuestas Nacionales de Salud<br>Avenida Universidad 655, Colonia Santa María Ahuacatitlán, C.P. 62100, Cuernavaca, Morelos<br>(777) 3 29 30 00 Ext.7225<br>lcuevas@insp.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Prevalencia de sobrepeso más obesidad (peso para la estatura >+2 desviación estándar de la mediana del Patrón de Crecimiento Infantil de la Organización Mundial de la Salud (OMS)) entre los niños menores de 5 años.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Salud Pública (INSP). Encuesta Nacional de Salud y Nutrición (ENSANUT). Disponible en: <a target="_blank" class="liga3" href="https://ensanut.insp.mx/">https://ensanut.insp.mx/</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Salud Pública (INSP).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El crecimiento infantil es un área de resultados aceptada internacionalmente que refleja el estado nutricional del niño. El sobrepeso infantil se refiere a un niño que pesa demasiado para su estatura. Esta forma de malnutrición es el resultado de gastar muy pocas calorías para la cantidad de alimentos consumidos y aumenta el riesgo de padecer enfermedades no transmisibles más adelante en la vida. El sobrepeso infantil es uno de los indicadores objetivo de nutrición de la Asamblea Mundial de la Salud.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El tamaño de la muestra levantado en 2018 (32,000 viviendas para el componente de nutrición) permite contar con información nacional, y desagregada por entidad federativa y tamaño de localidad. Para los otros años, solo es posible contar con la información nacional y por tamaño de localidad.<br>Para la estimación de los indicadores se utiliza la metodología estandarizada sobre Patrones de Crecimiento Infantil de la Organización Mundial de la Salud (OMS). Los índices antropométricos fueron transformados a puntajes Z usando la norma de referencia de la OMS de 2006. Véase: <a target="_blank" class="liga3" href="https://www.who.int/tools/child-growth-standards/software">https://www.who.int/tools/child-growth-standards/software</a><br>El Grupo de Trabajo Conjunto de Estimaciones de Malnutrición Infantil (JME, por sus siglas en inglés) de UNICEF, la OMS y el Banco Mundial, en su función de custodio conjunto, realiza estimaciones propias del indicador basado en un modelo estadístico que homogeniza los datos de los países, a fin de brindar información comparable de manera anual del indicador. Por lo anterior, pudieran existir diferencias entre las cifras nacionales y las calculadas por el JME. Véase: <a target="_blank" class="liga3" href="https://data.unicef.org/resources/data-collection-analysis-reporting-on-anthropometric-indicators-in-children-under-5/">https://data.unicef.org/resources/data-collection-analysis-reporting-on-anthropometric-indicators-in-children-under-5/</a><br>La información referente a sobrepeso y obesidad en menores es calculada en los reportes de la ENSANUT con base en el Índice de Masa Corporal, por lo que las estimaciones pueden diferir respecto de las del indicador 2.2.2 (2)
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/2.2.2(2)_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '2.2.2(2) Prevalencia de sobrepeso u obesidad (peso para la estatura, desviación típica >+2 de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '2.2.2(2) Prevalencia de sobrepeso u obesidad (peso para la estatura, desviación típica >+2 de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años'
+indicator_number:
+  '2.2.2(2)'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Instituto Nacional de Salud Pública (INSP). Encuesta Nacional de Salud y Nutrición (ENSANUT). Disponible en <a target="_blank" class="liga3" href="https//ensanut.insp.mx/">https//ensanut.insp.mx/</a>
+source_periodicity_1:
+  Sexenal-anual
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

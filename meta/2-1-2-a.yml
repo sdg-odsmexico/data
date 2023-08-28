@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible
+SDG_TARGET: >-
+  Meta 2.1 De aquí a 2030, poner fin al hambre y asegurar el acceso de todas las personas, en particular los pobres y las personas en situaciones de vulnerabilidad, incluidos los niños menores de 1 año, a una alimentación sana, nutritiva y suficiente durante todo el año
+SDG_INDICATOR: >-
+  2.1.2.a Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico
+SDG_SERIES_DESCR: >-
+  Se determina a partir de una distinción entre los hogares con población menor de dieciocho años y los hogares sin población menor de dieciocho años. Para el total de hogares donde no habitan menores de dieciocho años de edad se identifican aquellos en los que algún adulto, por falta de dinero o recursos, al menos: no tuvo una alimentación variada; dejó de desayunar, comer o cenar; comió menos de lo que debería comer; se quedaron sin comida; sintió hambre, pero no comió; o hizo sólo una comida o dejó de comer durante todo el día. En el caso del total de hogares donde habitan menores de dieciocho años de edad se identifican aquellos en los que por falta de dinero o recursos, tanto las personas mayores como las menores de dieciocho años: tuvieron una alimentación variada; comieron menos de lo necesario; se les disminuyeron las cantidades servidas en la comida; sintieron hambre, pero no comieron; o hicieron una comida o dejaron de comer durante todo el día.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Alida Marcela Gutiérrez Landeros<br>Coordinadora General de Análisis de la Pobreza<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70075<br>amgutierrez@coneval.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  La inseguridad alimentaria moderada o severa son los grados de inseguridad alimentaria que reflejan la existencia de limitaciones en la cantidad de alimentos en el hogar y experiencias de hambre en la alimentación de los integrantes de los hogares. La clasificación de la situación de seguridad o inseguridad alimentaria se hace con base en la Escala Mexicana de Seguridad Alimentaria (EMSA).
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Módulo de Condiciones Socioeconómicas de la Encuesta Nacional de Ingresos y Gastos de los Hogares (MCS-ENIGH) 2008-2014. <a target="_blank" class="liga3" href="https://www.inegi.org.mx/programas/mcs/2008/">https://www.inegi.org.mx/programas/mcs/2008/</a>y Modelo Estadístico para la Continuidad (MEC) del MCS-ENIGH 2016 y 2018. <a target="_blank" class="liga3" href="https://www.inegi.org.mx/investigacion/eash/2018/">https://www.inegi.org.mx/investigacion/eash/2018/</a><br>Para las estimaciones municipales: MCS-ENIGH 2010, muestra del Censo de Población y Vivienda 2010, Modelo estadístico para la continuidad del MCS-ENIGH 2015 y Encuesta Intercensal 2015.<br>Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/Informes/Coordinacion/Publicaciones%20oficiales/MEDICION_MULTIDIMENSIONAL_SEGUNDA_EDICION.pdf"> Metodología para la medición multidimensional de la pobreza en México.</a> Fecha de consulta: 05 de agosto de 2019.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Segundo semestre de 2021
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Para mayor detalle consultar:Metodología para la medición multidimensional de la pobreza en México. <a target="_blank" class="liga3" href="https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf">https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf</a>Datos de CONEVAL sobre acceso a la alimentación. <a target="_blank" class="liga3" href="https://www.coneval.org.mx/Medicion/Paginas/PobrezaInicio.aspx">https://www.coneval.org.mx/Medicion/Paginas/PobrezaInicio.aspx</a><br>
+COMPILING_ORG: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Este indicador está ligado a la Meta 2.1 sobre asegurar el acceso a todas las personas a una alimentación sana, nutritiva y suficiente durante todo el año. Permite dar seguimiento a las personas que han visto reducida la cantidad de alimentos y han experimentado episodios de hambre en su hogar. El indicador ha sido utilizado para evaluar el impacto de algunos programas de ayuda alimentaria que forman parte de la Cruzada Nacional Contra el Hambre.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  A fin de contar con una medida que refleje con la mayor precisión posible la existencia de limitaciones significativas en el ejercicio del derecho a la alimentación, se considera en situación de carencia por acceso a la alimentación a los hogares que presenten un grado de inseguridad alimentaria moderada o severa.<br><br>Las escalas de seguridad alimentaria evalúan aspectos como la preocupación por la falta de alimentos, los cambios en la calidad y cantidad de estos, e incluso las experiencias de hambre. Para el caso latinoamericano, un grupo de especialistas en nutrición ha venido desarrollando una adaptación de esta escala, la cual ha sido validada para el caso mexicano después de una serie de estudios y levantamientos de información en el país.<br><br>La población reportada en las estimaciones municipales tiene un propósito exclusivamente estadístico: está calibrada para que, en las estimaciones de pobreza, la suma de la población municipal sea igual a la población de cada entidad federativa reportada con base en la información del MCS-ENIGH 2010 o del MEC 2015 del MCS-ENIGH.<br>La referencia metodológica del indicador de carencia por acceso a la alimentación mostrado corresponde a la segunda edición de la <i>Metodología para la medición multidimensional de la pobreza en México</i>.<br><br><sup>*/</sup> La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Entidad federativa y municipio o demarcación territorial.
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/2.1.2.a_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>1. La población presentada tiene un propósito exclusivamente estadístico está calibrada para que, en las estimaciones de pobreza, la suma de la población municipal sea igual a la población de cada entidad federativa reportada con base en la información del MCS-ENIGH 2010 o del MEC 2015 publicados. Por lo anterior, estas cifras de población podrían diferir de las reportadas por el INEGI y el CONAPO a nivel municipal.<br>2. El municipio de Bacalar (23010) en Quintana Roo fue creado en 2011 (anteriormente era parte del municipio de Othón P. Blanco (23004)), por lo que no se cuenta con información para 2010.<br>3. En 2015 para los municipios  de Buenaventura (08010), Carichí (08012), Santa Isabel (08024), Temósachic (08063), Urique (08065) en Chihuahua; San Nicolás de los Ranchos (21138) en Puebla; Matías Romero Avendaño (20057), Santa María Chimalapa (20407), San Francisco Chindúa (20140), Santa María Petapa (20427) en Oaxaca y Gral. Plutarco Elías Calles (26070) en Sonora no se puede generar estimaciones de los indicadores debido a que no se dispone de la información como lo especifica el INEGI en la<a target="_blank" class="liga3" href=" http//internet.contenidos.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/promo/eic_2015_presentacion.pdf"> Encuesta Intercensal 2015</a>.<br>4. Las estimaciones municipales de los indicadores de pobreza han sido ajustadas a la información reportada a nivel estatal en el MCS-ENIGH 2010 (cifras 2010) o en el MEC 2015 del MCS-ENIGH (cifras 2015).
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '2.1.2.a Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '2.1.2.a Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico'
+indicator_number:
+  '2.1.2.a'
+national_geographical_coverage:
+  Entidad federativa y municipio o demarcación territorial.
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Estimaciones del CONEVAL con base en información del INEGI. Para nacional y entidad federativa MCS-ENIGH 2008 - 2014 y el MEC del MCS-ENIGH 2016 y 2018. Para municipios MCS-ENIGH 2010, la muestra del Censo de Población y Vivienda 2010, el Modelo estadístico 2015 (MEC 2015) para la continuidad del MCS-ENIGH y la Encuesta Intercensal 2015.
+source_periodicity_1:
+  Entidad federativa Bienal. Municipio o demarcación territorial Quinquenal
+source_geographical_coverage_1:
+  Entidad federativa y municipio o demarcación territorial.
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''
