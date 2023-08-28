@@ -1,0 +1,4 @@
+Value,Disaggregation combinations using this value,Number of indicators
+Entre 256 Kbps y menor a 2 Mbps,1,1
+Igual o mayor a 2 Mbps y menor a 10 Mbps,1,1
+Igual o superior a 10 Mbps,1,1

@@ -10,7 +10,7 @@ Acanceh,6,6
 Acapetahua,6,6
 Acaponeta,6,6
 Acapulco de Juárez,6,6
-Acapulco,15,4
+Acapulco,16,5
 Acateno,6,6
 Acatepec,6,6
 Acatic,6,6
@@ -35,7 +35,7 @@ Agua Blanca de Iturbide,6,6
 Agua Dulce,6,6
 Agua Prieta,6,6
 Agualeguas,6,6
-Aguascalientes,21,10
+Aguascalientes,22,11
 Aguililla,6,6
 Ahome,6,6
 Ahuacatlán,12,6
@@ -241,17 +241,17 @@ Camargo,12,6
 Camarón de Tejeda,6,6
 Camerino Z. Mendoza,6,6
 Camocuautla,6,6
-Campeche,21,10
+Campeche,22,11
 Cananea,6,6
 Canatlán,6,6
-Cancún,15,4
+Cancún,16,5
 Candela,6,6
 Candelaria Loxicha,6,6
 Candelaria,6,6
 Canelas,6,6
 Cansahcab,6,6
 Cantamayec,6,6
-Capitán Luis Ángel Vidal,6,6
+Capitán Luis Ángel Vidal,7,7
 Capulhuac,6,6
 Capulálpam de Méndez,6,6
 Carbó,6,6
@@ -275,7 +275,7 @@ Cañada Morelos,6,6
 Cañadas de Obregón,6,6
 Cañitas de Felipe Pescador,6,6
 Cedral,6,6
-Celaya,21,10
+Celaya,22,11
 Celestún,6,6
 Cenotillo,6,6
 Centla,6,6
@@ -332,7 +332,7 @@ Chietla,6,6
 Chigmecatitlán,6,6
 Chignahuapan,6,6
 Chignautla,6,6
-Chihuahua,21,10
+Chihuahua,22,11
 Chikindzonot,6,6
 Chila de la Sal,6,6
 Chila,6,6
@@ -340,7 +340,7 @@ Chilapa de Álvarez,6,6
 Chilchota,6,6
 Chilchotla,6,6
 Chilcuautla,6,6
-Chilpancingo de los Bravo,21,10
+Chilpancingo de los Bravo,22,11
 Chilón,6,6
 Chimalhuacán,6,6
 Chimaltitán,6,6
@@ -364,12 +364,12 @@ Chínipas,6,6
 Cihuatlán,6,6
 Cintalapa,6,6
 Citlaltépetl,6,6
-Ciudad del Carmen,13,3
+Ciudad del Carmen,14,4
 Ciudad del Maíz,6,6
 Ciudad Fernández,6,6
 Ciudad Ixtepec,6,6
 Ciudad Madero,6,6
-Ciudad Obregón,15,4
+Ciudad Obregón,16,5
 Ciudad Valles,6,6
 Ciénega de Flores,6,6
 Ciénega de Zimatlán,6,6
@@ -383,9 +383,9 @@ Coapilla,6,6
 Coatecas Altas,6,6
 Coatepec Harinas,6,6
 Coatepec,12,6
-Coatetelco,6,6
+Coatetelco,7,7
 Coatlán del Río,6,6
-Coatzacoalcos,21,10
+Coatzacoalcos,22,11
 Coatzingo,6,6
 Coatzintla,6,6
 Cochoapa el Grande,6,6
@@ -397,7 +397,7 @@ Cohetzala,6,6
 Cohuecan,6,6
 Coicoyán de las Flores,6,6
 Cojumatlán de Régules,6,6
-Colima,21,10
+Colima,22,11
 Colipa,6,6
 Colotlán,6,6
 Colón,6,6
@@ -470,7 +470,7 @@ Cuaxomulco,6,6
 Cuayuca de Andrade,6,6
 Cucurpe,6,6
 Cuencamé,6,6
-Cuernavaca,21,10
+Cuernavaca,22,11
 Cuerámaro,6,6
 Cuetzala del Progreso,6,6
 Cuetzalan del Progreso,6,6
@@ -478,7 +478,7 @@ Cuichapa,6,6
 Cuilápam de Guerrero,6,6
 Cuitláhuac,6,6
 Cuitzeo,6,6
-Culiacán,21,10
+Culiacán,22,11
 Cumpas,6,6
 Cuncunul,6,6
 Cunduacán,6,6
@@ -502,12 +502,12 @@ Dolores Hidalgo Cuna de la Independencia Nacional,6,6
 Domingo Arenas,6,6
 Donato Guerra,6,6
 Dr. Belisario Domínguez,6,6
-Durango,21,10
+Durango,22,11
 Dzemul,6,6
 Dzidzantún,6,6
 Dzilam de Bravo,6,6
 Dzilam González,6,6
-Dzitbalché,6,6
+Dzitbalché,7,7
 Dzitás,6,6
 Dzoncauich,6,6
 Dzán,6,6
@@ -532,7 +532,7 @@ El Mante,6,6
 El Marqués,6,6
 El Naranjo,6,6
 El Oro,12,6
-El Parral,6,6
+El Parral,7,7
 El Plateado de Joaquín Amaro,6,6
 El Porvenir,6,6
 El Salto,6,6
@@ -541,10 +541,10 @@ El Tule,6,6
 Elota,6,6
 Eloxochitlán de Flores Magón,6,6
 Eloxochitlán,12,6
-Emiliano Zapata,36,6
+Emiliano Zapata,37,7
 Empalme,6,6
 Encarnación de Díaz,6,6
-Ensenada,21,10
+Ensenada,22,11
 Epatlán,6,6
 Epazoyucan,6,6
 Epitacio Huerta,6,6
@@ -597,7 +597,7 @@ Gran Morelos,6,6
 Granados,6,6
 Guachinango,6,6
 Guachochi,6,6
-Guadalajara,21,10
+Guadalajara,22,11
 Guadalcázar,6,6
 Guadalupe de Ramírez,6,6
 Guadalupe Etla,6,6
@@ -621,12 +621,12 @@ Güémez,6,6
 Halachó,6,6
 Hecelchakán,6,6
 Hermenegildo Galeana,6,6
-Hermosillo,21,10
+Hermosillo,22,11
 Heroica Ciudad de Ejutla de Crespo,6,6
 Heroica Ciudad de Huajuapan de León,6,6
 Heroica Ciudad de Juchitán de Zaragoza,6,6
 Heroica Ciudad de Tlaxiaco,6,6
-Heroica Matamoros,15,4
+Heroica Matamoros,16,5
 "Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca",6,6
 Hidalgo del Parral,6,6
 Hidalgo,30,6
@@ -635,7 +635,7 @@ Higueras,6,6
 Hocabá,6,6
 Hoctún,6,6
 Homún,6,6
-Honduras de la Sierra,6,6
+Honduras de la Sierra,7,7
 Honey,6,6
 Hopelchén,6,6
 Hostotipaquillo,6,6
@@ -672,7 +672,7 @@ Huejutla de Reyes,6,6
 Huejúcar,6,6
 Huetamo,6,6
 Hueyapan de Ocampo,6,6
-Hueyapan,12,6
+Hueyapan,13,7
 Hueyotlipan,6,6
 Hueypoxtla,6,6
 Hueytamalco,6,6
@@ -703,7 +703,7 @@ Iliatenco,6,6
 Imuris,6,6
 Indaparapeo,6,6
 Indé,6,6
-Irapuato,21,10
+Irapuato,22,11
 Irimbo,6,6
 Isidro Fabela,6,6
 Isla Mujeres,6,6
@@ -806,7 +806,7 @@ Juchitán,6,6
 Julimes,6,6
 Jungapeo,6,6
 Juárez Hidalgo,6,6
-Juárez,45,10
+Juárez,46,11
 Jáltipan,6,6
 Kanasín,6,6
 Kantunil,6,6
@@ -829,7 +829,7 @@ La Magdalena Tlaltelulco,6,6
 La Magdalena Tlatlauquitepec,6,6
 La Manzanilla de la Paz,6,6
 La Misión,6,6
-La Paz,27,10
+La Paz,28,11
 La Pe,6,6
 La Perla,6,6
 La Piedad,6,6
@@ -855,7 +855,7 @@ Leonardo Bravo,6,6
 Lerdo de Tejada,6,6
 Lerdo,6,6
 Lerma,6,6
-León,21,10
+León,22,11
 Libres,6,6
 Linares,6,6
 Llera,6,6
@@ -923,7 +923,7 @@ Mazapiltepec de Juárez,6,6
 Mazatecochco de José María Morelos,6,6
 Mazatepec,6,6
 Mazatlán Villa de Flores,6,6
-Mazatlán,21,10
+Mazatlán,22,11
 Mazatán,12,6
 Mecatlán,6,6
 Mecayapan,6,6
@@ -935,11 +935,11 @@ Metapa,6,6
 Metepec,12,6
 Metlatónoc,6,6
 Metztitlán,6,6
-Mexicali,21,10
+Mexicali,22,11
 Mexicaltzingo,6,6
 Mexquitic de Carmona,6,6
 Mexticacán,6,6
-Mezcalapa,6,6
+Mezcalapa,7,7
 Mezquital del Oro,6,6
 Mezquital,6,6
 Mezquitic,6,6
@@ -978,8 +978,8 @@ Monjas,6,6
 Monte Escobedo,6,6
 Montecristo de Guerrero,6,6
 Montemorelos,6,6
-Monterrey,21,10
-Morelia,21,10
+Monterrey,22,11
+Morelia,22,11
 Morelos,30,6
 Moris,6,6
 Moroleón,6,6
@@ -993,7 +993,7 @@ Muñoz de Domingo Arenas,6,6
 Mártir de Cuilapan,6,6
 Mártires de Tacubaya,6,6
 Méndez,6,6
-Mérida,21,10
+Mérida,22,11
 Múgica,6,6
 Múzquiz,6,6
 Nacajuca,6,6
@@ -1037,7 +1037,7 @@ Nopalucan,6,6
 Noria de Ángeles,6,6
 Nuevo Casas Grandes,6,6
 Nuevo Ideal,6,6
-Nuevo Laredo,21,10
+Nuevo Laredo,22,11
 Nuevo Morelos,6,6
 Nuevo Parangaricutiro,6,6
 Nuevo Urecho,6,6
@@ -1045,7 +1045,7 @@ Nuevo Zoquiápam,6,6
 Numarán,6,6
 Nácori Chico,6,6
 Oaxaca de Juárez,6,6
-Oaxaca,15,4
+Oaxaca,16,5
 Ocampo,36,6
 Ocosingo,6,6
 Ocotepec,12,6
@@ -1086,7 +1086,7 @@ Ozuluama de Mascareñas,6,6
 Ozumba,6,6
 Pabellón de Arteaga,6,6
 Pachuca de Soto,6,6
-Pachuca,15,4
+Pachuca,16,5
 Pacula,6,6
 Padilla,6,6
 Pahuatlán,6,6
@@ -1144,7 +1144,7 @@ Poza Rica de Hidalgo,6,6
 Praxedis G. Guerrero,6,6
 Progreso de Obregón,6,6
 Progreso,12,6
-Puebla,21,10
+Puebla,22,11
 Pueblo Nuevo Solistahuacán,6,6
 Pueblo Nuevo,12,6
 Pueblo Viejo,6,6
@@ -1165,7 +1165,7 @@ Pénjamo,6,6
 Quecholac,6,6
 Quechultenango,6,6
 Queréndaro,6,6
-Querétaro,21,10
+Querétaro,22,11
 Quimixtlán,6,6
 Quintana Roo,6,6
 Quiriego,6,6
@@ -1180,8 +1180,8 @@ Rayón,24,6
 Reforma de Pineda,6,6
 Reforma,6,6
 Reyes Etla,6,6
-Reynosa,21,10
-Rincón Chamula San Pedro,6,6
+Reynosa,22,11
+Rincón Chamula San Pedro,7,7
 Rincón de Romos,6,6
 Rioverde,6,6
 Riva Palacio,6,6
@@ -1209,7 +1209,7 @@ Salina Cruz,6,6
 Salinas Victoria,6,6
 Salinas,6,6
 Saltabarranca,6,6
-Saltillo,21,10
+Saltillo,22,11
 Salto de Agua,6,6
 Salvador Alvarado,6,6
 Salvador Escalante,6,6
@@ -1441,7 +1441,7 @@ San Luis Acatlán,6,6
 San Luis Amatlán,6,6
 San Luis de la Paz,6,6
 San Luis del Cordero,6,6
-San Luis Potosí,21,10
+San Luis Potosí,22,11
 San Luis Río Colorado,6,6
 San Marcial Ozolotepec,6,6
 San Marcos Arteaga,6,6
@@ -1574,7 +1574,7 @@ San Pedro Yeloixtlahuaca,6,6
 San Pedro Yucunama,6,6
 San Pedro Yólox,6,6
 San Pedro,6,6
-San Quintín,6,6
+San Quintín,7,7
 San Rafael,6,6
 San Raymundo Jalpan,6,6
 San Salvador el Seco,6,6
@@ -1819,7 +1819,7 @@ Saucillo,6,6
 Sayula de Alemán,6,6
 Sayula,6,6
 Senguio,6,6
-Seybaplaya,6,6
+Seybaplaya,7,7
 Seyé,6,6
 Sierra Mojada,6,6
 Silacayoápam,6,6
@@ -1877,7 +1877,7 @@ Tamiahua,6,6
 Tampacán,6,6
 Tampamolón Corona,6,6
 Tampico Alto,6,6
-Tampico,21,10
+Tampico,22,11
 Tamuín,6,6
 Tancanhuitz,6,6
 Tancoco,6,6
@@ -1891,7 +1891,7 @@ Tanlajás,6,6
 Tanquián de Escobedo,6,6
 Tantima,6,6
 Tantoyuca,6,6
-Tapachula,21,10
+Tapachula,22,11
 Tapalapa,6,6
 Tapalpa,6,6
 Tapilula,6,6
@@ -1921,7 +1921,7 @@ Tecozautla,6,6
 Tecpatán,6,6
 Tecuala,6,6
 Tecámac,6,6
-Tehuacán,21,10
+Tehuacán,22,11
 Tehuipango,6,6
 Tehuitzingo,6,6
 Tejupilco,6,6
@@ -2000,7 +2000,7 @@ Tepeyahualco de Cuauhtémoc,6,6
 Tepeyahualco,6,6
 Tepeyanco,6,6
 Tepezalá,6,6
-Tepic,21,10
+Tepic,22,11
 Tepotzotlán,6,6
 Tepoztlán,6,6
 Tequila,12,6
@@ -2036,7 +2036,7 @@ Ticul,6,6
 Tierra Blanca,12,6
 Tierra Nueva,6,6
 Tihuatlán,6,6
-Tijuana,21,10
+Tijuana,22,11
 Tila,6,6
 Tilapa,6,6
 Timilpan,6,6
@@ -2097,7 +2097,7 @@ Tlaquilpa,6,6
 Tlaquiltenango,6,6
 Tlatlauquitepec,6,6
 Tlatlaya,6,6
-Tlaxcala,21,10
+Tlaxcala,22,11
 Tlaxco,12,6
 Tlaxcoapan,6,6
 Tlayacapan,6,6
@@ -2110,7 +2110,7 @@ Tochtepec,6,6
 Tocumbo,6,6
 Tolcayuca,6,6
 Tolimán,12,6
-Toluca,21,10
+Toluca,22,11
 Tomatlán,12,6
 Tonalá,12,6
 Tonanitla,6,6
@@ -2119,7 +2119,7 @@ Tonaya,6,6
 Tonayán,6,6
 Tonila,6,6
 Topia,6,6
-Torreón,21,10
+Torreón,22,11
 Totatiche,6,6
 Totolac,6,6
 Totolapa,6,6
@@ -2150,7 +2150,7 @@ Tuxcueca,6,6
 Tuxpan,24,6
 Tuxtilla,6,6
 Tuxtla Chico,6,6
-Tuxtla Gutiérrez,21,10
+Tuxtla Gutiérrez,22,11
 Tuzamapan de Galeana,6,6
 Tuzantla,6,6
 Tuzantán,6,6
@@ -2173,7 +2173,7 @@ Uriangato,6,6
 Urique,6,6
 Ursulo Galván,6,6
 Uruachi,6,6
-Uruapan,21,10
+Uruapan,22,11
 Uxpanapa,6,6
 Valerio Trujano,6,6
 Valladolid,6,6
@@ -2190,7 +2190,7 @@ Vanegas,6,6
 Vega de Alatorre,6,6
 Venado,6,6
 Venustiano Carranza,24,6
-Veracruz,21,10
+Veracruz,22,11
 Vetagrande,6,6
 Vicente Guerrero,12,6
 Victoria,12,6
@@ -2230,12 +2230,12 @@ Villa Unión,6,6
 Villa Victoria,6,6
 Villaflores,6,6
 Villagrán,12,6
-Villahermosa,15,4
+Villahermosa,16,5
 Villaldama,6,6
 Villamar,6,6
 Villanueva,6,6
 Vista Hermosa,6,6
-Xalapa-Enríquez,15,4
+Xalapa-Enríquez,16,5
 Xalapa,6,6
 Xalatlaco,6,6
 Xalisco,6,6
@@ -2263,7 +2263,7 @@ Xochitepec,6,6
 Xochitlán de Vicente Suárez,6,6
 Xochitlán Todos Santos,6,6
 Xonacatlán,6,6
-Xoxocotla,12,6
+Xoxocotla,13,7
 Yahualica de González Gallo,6,6
 Yahualica,6,6
 Yajalón,6,6
@@ -2286,7 +2286,7 @@ Yécora,6,6
 Zacapala,6,6
 Zacapoaxtla,6,6
 Zacapu,6,6
-Zacatecas,21,10
+Zacatecas,22,11
 Zacatelco,6,6
 Zacatepec,6,6
 Zacatlán,6,6
@@ -2326,7 +2326,7 @@ Ziracuaretiro,6,6
 Zirándaro,6,6
 Zitlala,6,6
 Zitácuaro,6,6
-Zona Metropolitana del Valle de México,15,4
+Zona Metropolitana del Valle de México,16,5
 Zongolica,6,6
 Zongozotla,6,6
 Zontecomatlán de López y Fuentes,6,6

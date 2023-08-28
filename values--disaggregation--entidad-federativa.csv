@@ -1,34 +1,40 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Aguascalientes,526,83
-Baja California Sur,490,83
-Baja California,542,83
-Campeche,551,83
-Chiapas,1227,83
-Chihuahua,885,83
-Ciudad de México,556,83
-Coahuila de Zaragoza,711,83
-Colima,520,83
-Durango,694,83
-Estados Unidos Mexicanos,437,83
-Guanajuato,782,83
-Guerrero,969,83
-Hidalgo,964,83
-Jalisco,1210,83
-Michoacán de Ocampo,1161,83
-Morelos,676,83
-México,1210,83
-Nayarit,580,83
-Nuevo León,766,83
-Oaxaca,3880,83
-Puebla,1785,83
-Querétaro,568,83
-Quintana Roo,526,83
-San Luis Potosí,808,83
-Sinaloa,591,83
-Sonora,915,83
-Tabasco,562,83
-Tamaulipas,787,83
-Tlaxcala,820,83
-Veracruz de Ignacio de la Llave,1778,83
-Yucatán,1096,83
-Zacatecas,808,83
+Aguascalientes,659,108
+Baja California Sur,623,108
+Baja California,677,108
+Campeche,685,108
+Chiapas,1361,108
+Chihuahua,1019,108
+Ciudad de México,689,108
+Coahuila de Zaragoza,845,108
+Colima,653,108
+Durango,827,108
+Estados Unidos Mexicanos,524,106
+Estatal,21,1
+Federal,21,1
+Guanajuato,917,108
+Guerrero,1103,108
+Hidalgo,1097,108
+Jalisco,1343,108
+Michoacán de Ocampo,1295,108
+Morelos,809,108
+México,1343,108
+Nayarit,713,108
+Nuevo León,899,108
+Oaxaca,4013,108
+Poder judicial de la federación,21,1
+Poder judicial estatal,21,1
+Puebla,1919,108
+Querétaro,701,108
+Quintana Roo,659,108
+San Luis Potosí,920,107
+San Luís Potosí,21,1
+San Quintín,12,1
+Sinaloa,725,108
+Sonora,1049,108
+Tabasco,695,108
+Tamaulipas,923,108
+Tlaxcala,953,108
+Veracruz de Ignacio de la Llave,1913,108
+Yucatán,1229,108
+Zacatecas,941,108
