@@ -1,2 +1,14 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,Ámbito,1
+#1-1-1-a,Entidad federativa,1
+#1-2-1(1),"Sexo, Grupo de edad",2
+#1-2-1(2),Población debajo de umbral de pobreza,1
+#1-2-1-a,"Entidad federativa, Municipio",2
+#1-2-2(1),"Sexo, Grupo de edad",2
+#1-2-2(2),"Sexo, Grupo de edad",2
+#1-2-2-a,"Entidad federativa, Municipio",2
+#1-4-2,"Entidad federativa, Población nacional, Población urbana, Población rural",4
+#1-n1-1,Población en pobreza_nacional,1
+#1-n2-2,Entidad federativa,1
+#1-n3-1-a,Entidad federativa,1
+#1-n3-3,Entidad federativa,1
