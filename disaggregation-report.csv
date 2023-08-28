@@ -3,15 +3,23 @@ Brecha en el tiempo y por grupos de edad,1,6
 Cobertura geografica,5,3
 Condición de residencia y país de nacimiento,1,6
 Condición de violencia,1,3
+Deciles,1,11
 Densidad del personal sanitario,1,5
 Desarrollo adecuado_Niños_Niñas,1,5
+Discriminación por edad,1,3
+Discriminación por estatus socioeconómico,1,3
+Discriminación por lugar de residencia,1,3
+Discriminación por otros motivos*,1,3
+Discriminación por religión,1,3
+Discriminación por sexo,1,3
+Discriminación total,1,3
 Edad brecha,1,4
 Edades (18 a 70 años),1,4
 Edades de 15 a 24 años,1,3
 Edades IMSS,1,5
 Educación Básica,8,3
 Educación Media,8,1
-Entidad federativa,69,33
+Entidad federativa,83,33
 Escolaridad y sin escolaridad,1,6
 Estimación,1,3
 Grupo de edad,10,28
@@ -20,6 +28,7 @@ Grupos de interés,1,3
 "Grupos quinquenales de edad (0 a 85 y más, NA)",1,20
 Habilidades para uso de PC,1,8
 Hablantes de lengua indígena,1,3
+hablantes_lengua indígena,1,3
 Intoxicaciones_grupo de edad,1,20
 Jóvenes de 15 a 19 años,1,7
 "Jóvenes de 15 a 24 años que no estudian, no tienen empleo ni reciben capacitación",1,5
@@ -29,8 +38,9 @@ Jóvenes de 20 a 24 años,1,7
 Lugar de la(s) agresión(es),1,8
 Mujeres casadas o unidas,1,2
 Mujeres_trabajo doméstico,1,7
-Municipio,7,2339
+Municipio,10,2339
 Nivel de escolaridad,1,5
+Personas debajo del 50% de mediana de ingresos,1,11
 Población con acceso al agua entubada y al saneamiento,1,6
 Población con sobrepeso y obesidad,1,5
 Población debajo de umbral de pobreza,1,9
@@ -44,12 +54,14 @@ Quintiles de Ingreso,1,6
 Regiones,1,9
 Residencia habitual fuera de México o no especificada,2,4
 Sexo (t-h-m-na),4,4
-Sexo,26,3
+Sexo,32,3
+Tam_loc,1,2
 Tasa de mortalidad-enfermedad no transmisible,1,5
 Tipo de localidad,1,3
 Tipo de ocupación,1,12
 Tipo de violencia,2,6
 Trabajo doméstico_entidad federativa,1,2
+Traslado al trabajo_grupos de edad,1,6
 Usuarios,2,2
 Violencia en mujeres por edad,1,5
 Violencia sexual  y Lugar de la(s) agresión(es),1,11

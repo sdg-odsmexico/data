@@ -12,6 +12,23 @@ Indicator,Disaggregations,Number of disaggregations
 #1-n2-2,Entidad federativa,1
 #1-n3-1-a,Entidad federativa,1
 #1-n3-3,Entidad federativa,1
+#10-2-1,Personas debajo del 50% de mediana de ingresos,1
+#10-2-1a,Entidad federativa,1
+#10-3-1,"Discriminación total, Discriminación por sexo, Discriminación por edad, Discriminación por religión, Discriminación por estatus socioeconómico, Discriminación por lugar de residencia, Discriminación por otros motivos*",7
+#10-4-r-1a,Entidad federativa,1
+#10-4-r-1b,Entidad federativa,1
+#10-n1-1,"Entidad federativa, Deciles",2
+#10-n2-1,Entidad federativa,1
+#11-1-1,"Entidad federativa, Municipio",2
+#11-2-1,"Sexo, Entidad federativa",2
+#11-2-r-1a,"Sexo, Entidad federativa",2
+#11-2-r-1b,hablantes_lengua indígena,1
+#11-2-r-1c,"Sexo, Tam_loc",2
+#11-2-r-1d,"Sexo, Traslado al trabajo_grupos de edad",2
+#11-3-1,Entidad federativa,1
+#11-7-1,Entidad federativa,1
+#11-n1-1,"Entidad federativa, Municipio",2
+#11-n2-1,Entidad federativa,1
 #2-1-2,"Sexo, Grupo de edad",2
 #2-1-2-a,"Entidad federativa, Municipio",2
 #2-2-1,"Entidad federativa, Cobertura geografica",2
@@ -105,3 +122,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-n3-1b,Edades (18 a 70 años),1
 #8-n3-1c,Escolaridad y sin escolaridad,1
 #8-n3-1d,Regiones,1
+#9-1-1,"Entidad federativa, Municipio",2
+#9-2-2,Sexo,1
+#9-2-2(2),Sexo,1
+#9-n3-1,Entidad federativa,1
