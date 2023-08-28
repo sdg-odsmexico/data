@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 1. Poner fin a la pobreza en todas sus formas y en todo el mundo
+SDG_TARGET: >-
+  Meta 1.n3 Construcción de un sistema de protección social con un enfoque de derechos
+SDG_INDICATOR: >-
+  1.n3.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de dividir a la población sin acceso a la seguridad social en un determinado año, entre la población de referencia total del mismo periodo, multiplicado por 100.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Alida Marcela Gutiérrez Landeros<br>Coordinadora General de Análisis de la Pobreza<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70075<br>amgutierrez@coneval.org.mx<br><br>David Antonio Rojas Rosey<br>Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70100<br>drojas@coneval.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es posible identificar el porcentaje de población con carencia por acceso a la seguridad social de acuerdo con los siguientes criterios:  a) En cuanto a la población económicamente activa, asalariada, se considera que no tiene carencia en esta dimensión si disfruta, por parte de su trabajo, de las prestaciones establecidas en el artículo 2° de la LSS (o sus equivalentes en las legislaciones aplicables al apartado B del Artículo 123 constitucional)                                                                                                                  b) Dado el carácter voluntario de la inscripción al sistema por parte de ciertas categorías ocupacionales, en el caso de la población trabajadora no asalariada o independiente se considera que tiene acceso a la seguridad social cuando dispone de servicios médicos como prestación laboral o por contratación voluntaria al régimen obligatorio del IMSS y, además, cuenta con SAR o Afore. c) Para la población en general, se considera que tiene acceso cuando goce de alguna jubilación o pensión, o sea familiar de una persona dentro o fuera del hogar con acceso a la seguridad social. d) En el caso de la población en edad de jubilación (sesenta y cinco años o más), se considera que tiene acceso a la seguridad social si es beneficiario de algún programa social de pensiones para adultos mayores. La población que no cumpla con alguno de los criterios mencionados, se considera en situación de carencia por acceso a la seguridad social.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social. (CONEVAL) Estimaciones con base en Censo de Población y Vivienda; Conteo de Población y Vivienda. Módulo de Condiciones Socioeconómicas; Encuesta Nacional de Ingresos y Gastos de los Hogares.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Segundo semestre de 2021
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Metodología para la medición multidimensional de la pobreza en México.Consejo Nacional de Evaluación de la Política de Desarrollo Social. <a target="_blank" class="liga3" href="https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Metodologia_Multidimensional_web.pdf">https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Metodologia_Multidimensional_web.pdf</a><br>
+COMPILING_ORG: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). Dirección General Adjunta de Análisis de la Pobreza<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Este indicador contribuye para el diseño de políticas públicas en materia de combate a la pobreza, mejoramiento del ingreso de las familias, la reducción de las carencias sociales relacionadas con el rezago educativo, acceso a los servicios de salud, acceso a la seguridad social, calidad y espacios de la vivienda, acceso a los servicios básicos en la vivienda y acceso a la alimentación.<br/> <br>Asimismo, para tener un seguimiento del acceso de la población a los servicios de salud, a la seguridad social, a la alimentación, la calidad y espacios de la vivienda, el acceso a los servicios básicos en la vivienda y el rezago educativo, el cambio en los niveles de ingreso de los hogares y el grado de cohesión social.<br/><br>Este indicador favorece la evaluación de la política de desarrollo social.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Para la medición a nivel nacional y por entidad federativa se considera el Módulo de Condiciones Socioeconómicas y la Encuesta Nacional de Ingreso y Gasto de los Hogares (ENIGH), en tanto que para la medición a nivel municipio se considera la muestra del Censo de Población y Vivienda, así como la Encuesta Intercensal.<br/>  <br>En este sentido, la dimensión de acceso a los servicios básicos en la vivienda considera carentes a las personas que utilizan leña o carbón como combustible para cocinar y su vivienda no cuenta con una chimenea. La información necesaria para medir esta variable no se incorporó en la encuesta de 2008. Por tal motivo, el CONEVAL realizó una estimación que contempla el indicador de chimenea para cocinar en la vivienda y permite dar continuidad histórica a la serie nacional y estatal 2008-2016.<br/>  <br>Para mayor detalle consultar la nota metodológica: <a href=http://www.coneval.org.mx/Medicion/Documents/Pobreza_2008-2016/Nota_tecnica_pobreza_2008.pdf>http://www.coneval.org.mx/Medicion/Documents/Pobreza_2008-2016/Nota_tecnica_pobreza_2008.pdf</a><br/>  <br>Por otro lado, el país no dispone de una fuente de datos única que contenga la información que permita calcular directamente los siete indicadores considerados en la pobreza multidimensional a escala municipal. Por ello, con la finalidad de generar la información que se requiere para la medición municipal, el CONEVAL, después de llevar a cabo un proceso de investigación, recurrió a herramientas estadísticas conocidas como técnicas de estimación en áreas pequeñas. La metodología utilizada para realizar dicha medición puede consultarse en:  <a href=http://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/Metodologia_municipal_2015.pdf>http://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/Metodologia_municipal_2015.pdf</a><br><br>Este es un indicador que pertenece al Catálogo Nacional de Indicadores.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/1n.3.3_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '1.n3.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '1.n3.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social'
+indicator_number:
+  '1.n3.3'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  CONEVAL. Estimaciones con base en el Módulo de Condiciones Socioeconómicas y el Modelo Estadístico para la Continuidad de la Encuesta Nacional de Ingresos y Gastos de los Hogares.
+source_periodicity_1:
+  Bienal
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

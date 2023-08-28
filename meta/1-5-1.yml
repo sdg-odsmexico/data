@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 1. Poner fin a la pobreza en todas sus formas y en todo el mundo
+SDG_TARGET: >-
+  Meta 1.5 De aquí a 2030, fomentar la resiliencia de los pobres y las personas que se encuentran en situaciones de vulnerabilidad y reducir su exposición y vulnerabilidad a los fenómenos extremos relacionados con el clima y otras perturbaciones y desastres económicos, sociales y ambientales
+SDG_INDICATOR: >-
+  1.5.1 Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes
+SDG_SERIES_DESCR: >-
+  Este indicador se calcula a partir del total de personas fallecidas, desaparecidas y afectados a causa de ocurrencia de desastres, entre la población total del país por 100 000 habitantes.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Enrique Guevara Ortiz<br>Director General del CENAPRED<br>Delfín Madrigal 665, colonia Pedregal de Santo Domingo, Ciudad de México<br>(55) 5511036000, ext. 72010<br>eguevara@cenapred.unam.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  El indicador mide el número de personas que sufren un efecto negativo a causa de la ocurrencia de un desastre, por cada 100 000 habitantes, para poder dimensionar su impacto en la población nacional. Los desastres tienen un efecto negativo sobre las condiciones de vida de la población, el desempeño económico de los países o regiones en que ocurren, además de que perjudican el acervo y los servicios ambientales.
+UNIT_MEASURE: >-
+  Tasa por cada 100 mil habitantes.
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  A partir del 1 de agosto de 2019, Secretaría de Seguridad y Protección Ciudadana (SSPS). Centro Nacional de Prevención de Desastres (CENAPRED).<br>Consejo Nacional de Población (CONAPO), Secretaría General, Dirección General de Estudios Sociodemográficos y Prospectiva.<br>Instituto Nacional de Estadística y Geografía (INEGI). Evaluación del impacto socioeconómico de los principales desastres naturales ocurridos en la República Mexicana.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  1 de agosto de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Comisión Económica para América Latina y el Caribe (CEPAL), <a target="_blank" class="liga3" href="http://www.cepal.org/es/publicaciones/2781-manual-la-evaluacion-impacto-socioeconomico-ambiental-desastres">Manual para la evaluación del impacto socioeconómico y ambiental de los desastres, 2003.</a><br>
+COMPILING_ORG: >-
+  Centro Nacional de Prevención de Desastres (CENAPRED).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  La reducción del impacto directo e indirecto de los desastres, es un elemento que permite abonar a los esfuerzos globales relativos al desarrollo sostenible, mientras que en países con impactos recurrentes con poca preparación, se ha documentado retrasos en el desarrollo económico y social, aquellas naciones que mediante la correcta gestión de sus riesgos han consolidado sus esfuerzos preventivos mismos que se ven reflejados en la reducción del costo de los desastres, lo que permite que estos recursos se asignen a otros procesos de desarrollo.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Los datos de personas muertas por la ocurrencia de desastres y de personas afectadas por la ocurrencia de desastres incluyen dentro de los fenómenos antrópicos (químicos, socioorganizativos y sanitarios) y dentro de los fenómenos de origen natural (geológicos e hidrometeorológicos).<br><br>No se cuenta con la información sobre personas desaparecidas, ya que dentro de las principales fuentes de información del CENAPRED (CENACOM, Secretaría de Salud) no se dispone de dicha información.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/1.5.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Tasa por cada 100 mil habitantes.
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '1.5.1 Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '1.5.1 Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes'
+indicator_number:
+  '1.5.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

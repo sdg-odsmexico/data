@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 1. Poner fin a la pobreza en todas sus formas y en todo el mundo
+SDG_TARGET: >-
+  Meta 1.1 De aquí a 2030, erradicar para todas las personas y en todo el mundo la pobreza extrema (actualmente se considera que sufren pobreza extrema las personas que viven con menos de 1,25 dólares de los Estados Unidos al día)
+SDG_INDICATOR: >-
+  1.1.1.a Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), por desglose geográfico
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de dividir el número de personas con ingreso per cápita inferior a 1.90 dólares diarios a precios de 2011, entre la población de referencia total, multiplicado por 100.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Alida Marcela Gutiérrez Landeros<br>Coordinadora General de Análisis de la Pobreza<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70075<br>amgutierrez@coneval.org.mx<br><br>David Antonio Rojas Rosey<br>Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70100<br>drojas@coneval.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el porcentaje de la población de cada una de las entidades federativas que en el año del cálculo vive con menos del equivalente a 1.90 dólares diarios a precios de 2011, según la paridad del poder adquisitivo.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos en los Hogares (ENIGH) 2016, 2018 y 2020; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Septiembre, 2023*/
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Banco Mundial (BM) <a target="_blank" class="liga3" href="http://www.bancomundial.org/">http://www.bancomundial.org</a><br>
+COMPILING_ORG: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Este indicador busca medir la pobreza con los estándares de los países pobres, por ello generalmente se asocia a la población que vive en pobreza extrema. El indicador está directamente ligado al Objetivo 1 de poner fin a la pobreza en todas sus formas y en todo el mundo y, de la misma forma, está ligado a la Meta 1.1 de erradicar para todas las personas y en todo el mundo la pobreza extrema. Además, el indicador permite dar seguimiento a la evolución de la pobreza a través del tiempo y realizar comparaciones internacionales de los niveles de pobreza en los países.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  1. Cálculo del ingreso Corriente Total Per cápita.- En primer lugar, se utiliza el Ingreso Corriente Total Percápita (ICTPC) de la medición multidimencional de la pobreza reportada por CONEVAL (para mayor información sobre su composición consultar <a href=”http://www.coneval.org.mx”> http://www.coneval.org.mx </a>). En segundo lugar, se deflacta el ingreso con el Índice Nacional de Precios al Consumidor (INPC, base 2Q de diciembre de 2018=100) al mes de julio de cada año en que INEGI capta la información de ingresos y gastos de los hogares.<br><br>2. Construcción de la línea de referencia.- La línea de la pobreza de $1.90 dólares se construye a partir del tipo de cambio de Paridad de Poder Adquisitivo (PPA) de 2011 publicado por el Banco Mundial (7.673013 pesos por cada dólar americano a precios internacionales). El resultado se lleva a precios de agosto de cada año de medición, utilizando el INPC publicado por el INEGI. Finalmente, se multiplica por 30 para obtener la línea de referencia mensual.<br><br>3. Cálculo del número de personas con ingresos por debajo de la línea. Se compara el ICTPC mensual con la línea de referencia, identificando y contabilizando el número de personas cuyo ingreso es menor a la línea. Se crea el factor de expansión de personas multiplicando el tamaño del hogar por el factor de expansión y se usa para calcular el porcentaje total de personas con ingresos por debajo de la línea de referencia.<br><br>4. Se utilizan las bases de datos que publicó el INEGI con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.<br><br>5. El total de población presentada en estas estimaciones, es para fines de la medición de pobreza, por lo que puede diferir con las cifras de población total reportadas por el INEGI o CONAPO.<br><br>*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/1.1.1.a_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>- Se utilizan los factores de expansión construidos a partir de la actualización en las estimaciones de población que genera el Marco de Muestreo de Viviendas INEGI.<br><br>- El CONEVAL establece que una estimación cuenta con precisión cuando el valor del Coeficiente de Variación (CV) es menor o igual a 15%, con precisión aceptable si el CV es mayor que 15% y menor o igual que 25%  y sin precisión cuando el CV es mayor que 25% cuando la información proviene de encuestas de hogares con diseño muestral probabilístico.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  '' 
+embedded_feature_html:
+  <iframe width="1110" height="700" title="Ejemplo" src="https://www.inegi.org.mx/temas/estructura/#informacion_general" frameborder="0" allowFullScreen="true" scrolling="yes"></iframe>
+embedded_feature_tab_title:
+  Título de pestaña
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '1.1.1.a Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), por desglose geográfico'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '1.1.1.a Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), por desglose geográfico'
+indicator_number:
+  '1.1.1.a'
+national_geographical_coverage:
+  Entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Estimaciones del CONEVAL con base en la ENIGH 2016, 2018 y 2020.Dirección Ejecutiva de Medición de Pobreza y Seguimiento de Indicadores (DEMPSI), Coordinación General de Análisis de la Pobreza (CGAP), Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).
+source_periodicity_1:
+  Bienal
+source_geographical_coverage_1:
+  Entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

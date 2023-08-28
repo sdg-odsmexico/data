@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 1. Poner fin a la pobreza en todas sus formas y en todo el mundo
+SDG_TARGET: >-
+  Meta 1.n3 Construcción de un sistema de protección social con un enfoque de derechos
+SDG_INDICATOR: >-
+  1.n3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de identificar la población de 65 años o más que recibe una jubilación o pensión igual o mayor al valor promedio de la línea de pobreza por ingresos, dividir dicho número de personas entre la población de referencia total y multiplicar el cociente por 100
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Alida Marcela Gutiérrez Landeros<br>Coordinadora General de Análisis de la Pobreza<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70075<br>amgutierrez@coneval.org.mx<br><br>Héctor Figueroa Palafox<br>Director Ejecutivo de Lineamientos de Medición de Pobreza y de Desarrollo Social<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70135<br>hfigueroa@coneval.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Porcentaje de población de 65 años o más que percibe un ingreso mensual por jubilación o pensión, ya sea contributiva o no contributiva, igual o mayor al valor promedio de la línea de pobreza por ingresos (calculado como el promedio simple de las líneas de pobreza por ingresos en el ámbito rural y urbano); respecto al total de la población de 65 años o más que recibe jubilación o pensión.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI):<br>-Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2016, 2018 y 2020; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Segundo semestre de 2023 */
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
+COMPILING_ORG: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El CONEVAL ha manifestado que ante situaciones de crisis el impacto es mayor en población vulnerable, de ahí la importancia de la “construcción de un sistema de protección social que proteja el ejercicio de los derechos sociales y que posibilite la resiliencia frente a diversas amenazas”. La construcción de un sistema de protección social universal incrementaría la resiliencia de las personas en condiciones de vulnerabilidad, y de toda la población, a los fenómenos extremos relacionados con el clima y otros desastres económicos, sociales y ambientales.<br> <br>Actualmente no se cuenta con un sistema de protección social universal, por lo que el indicador se considera como proxy, enfocado en la medición específica para los adultos mayores. En México, el sistema de pensiones está constituido por dos sistemas, uno de seguridad social contributiva y el otro por un conjunto de programas sociales no contributivos, los cuales se combinan ampliando así la protección de la población. El indicador establece que la pensión que reciban esté por encima del valor promedio de la línea de pobreza por ingresos, con lo cual mide un elemento adicional en el bienestar de este grupo de edad, más allá de la recepción de un ingreso.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  1. El indicador es un indicador proxy, el objetivo de la medición es el resultado de un sistema de protección social con un enfoque de derechos. Por el momento solo se cuenta con el indicador que nos da un acercamiento a la seguridad social para un grupo específico de la población, es importante mencionar que un sistema de protección social va mucho más allá de la seguridad social y que debe plantearse de forma universal.<br><br>Las jubilaciones o pensiones por vejez del esquema contributivo son aquellas otorgadas  principalmente a través del IMSS, ISSSTE, y los esquemas especiales de Pemex, Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y regímenes estatales; estas pensiones están ligadas a una relación laboral y, dependiendo de su tipo, son financiadas con contribuciones tripartitas (trabajador o trabajadora, empleador o empleadora y Estado), sólo por el Estado (en su carácter de empleador) o bien por el trabajador (esquema de cuentas individuales). Por su parte, las pensiones por vejez no contributivas no están ligadas al trabajo, son financiadas en su totalidad con gasto público y otorgadas como un programa social, ya sea federal o estatal.<br><br>La línea de pobreza por ingresos constituye la cantidad mínima de recursos monetarios requeridos para satisfacer las necesidades básicas de las personas y es equivalente a la suma de los costos de la canasta alimentaria y no alimentaria.<br><br>2. El CONEVAL adoptó como indicador de precisión estadística al coeficiente de variación (CV), mismo que, por definición, para su estimación tradicional requiere de la varianza del estimador y la media estimada de la variable de análisis. Para el caso de pobreza por grupos poblacionales, con el propósito de conocer la precisión estadística de las cifras que se presentan, se estimó el Error Cuadrático Medio (ECM), como mejor aproximación de la varianza del estimador. Al obtener el ECM, así como la varianza en los indicadores, es posible contar con el CV como una medida de precisión en las estimaciones, de la siguiente forma:<br><br>• La estimación es precisa si CV=15%, por lo que, la estimación puede ser considerada sin restricciones.<br>• La estimación es aceptable cuando 15%<CV=25%, por lo que, la estimación debe ser utilizada con precaución.<br>• La estimación no es precisa si 25%<CV, por lo que, se recomienda omitir su publicación y uso.<br><br><br>*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/1n.3.1.a_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>El CONEVAL establece que una estimación cuenta con precisión cuando el valor del Coeficiente de Variación (CV) es menor o igual a 15%, con precisión aceptable si el CV es mayor que 15% y menor o igual que 25% y sin precisión cuando el CV es mayor que 25% cuando la información proviene de encuestas de hogares con diseño muestral probabilístico.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '1.n3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '1.n3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico'
+indicator_number:
+  '1.n3.1.a'
+national_geographical_coverage:
+  Entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Para datos estatales • Estimaciones del CONEVAL con base en la ENIGH 2016, 2018 y 2020.Dirección Ejecutiva de Lineamientos de Medición de Pobreza y de Desarrollo Social (DELMPDS) y Coordinación General de Análisis de la Pobreza (CGAP), Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).
+source_periodicity_1:
+  Bienal
+source_geographical_coverage_1:
+  Entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''
