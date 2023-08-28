@@ -12,8 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Jóvenes de 15 a 24 que no estudian ni trabajan",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jóvenes de 15 a 24 que nacieron en México",
+                "Jóvenes de 15 a 24 que nacieron en otro país",
+                "Jóvenes de 15 a 24 con cambio de residencia 1 año (interna y externa)",
+                "Jóvenes de 15 a 19 que nacieron en México",
+                "Jóvenes de 15 a 19 que nacieron en otro país",
+                "Jóvenes de 15 a 19 con cambio de residencia 1 año (interna y externa)",
+                "Jóvenes de 20 a 24 que nacieron en México",
+                "Jóvenes de 20 a 24 que nacieron en otro país",
+                "Jóvenes de 20 a 24 con cambio de residencia 1 año (interna y externa)",
+                ""
+              ]
+            },
+            "title": "Jóvenes de 15 a 24 que no estudian ni trabajan"
           },
           {
             "name": "Value",

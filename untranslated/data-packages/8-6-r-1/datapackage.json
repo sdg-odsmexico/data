@@ -12,7 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Jóvenes de 15 a 24 años que no estudian, no tienen empleo ni reciben capacitación",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "De 15 años y más",
+                "De 15 a 19 años",
+                "De 20 a 24 años",
+                "Urbano",
+                "Rural",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

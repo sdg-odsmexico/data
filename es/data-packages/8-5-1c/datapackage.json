@@ -12,8 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Tipo de ocupación",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Directores y gerentes",
+                "Profesionales científicos e intelectuales",
+                "Técnicos y profesionales de nivel medio",
+                "Personal de apoyo administrativo",
+                "Trabajadores de los servicios y vendedores de comercios y mercados",
+                "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",
+                "Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",
+                "Operadores de instalaciones y máquinas y ensambladores",
+                "Ocupaciones elementales",
+                "Ocupaciones militares",
+                "No especificado",
+                ""
+              ]
+            },
+            "title": "Tipo de ocupación"
           },
           {
             "name": "Value",

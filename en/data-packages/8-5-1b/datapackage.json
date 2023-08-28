@@ -12,8 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Grupos de edad_ocupados",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "De 15 a 24 años",
+                "De 25 a 44 años",
+                "De 45 a 64 años",
+                "De 65 años y más",
+                "No especificado",
+                ""
+              ]
+            },
+            "title": "Grupos de edad_ocupados"
           },
           {
             "name": "Value",

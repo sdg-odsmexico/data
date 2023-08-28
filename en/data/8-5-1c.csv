@@ -1,1 +1,217 @@
-Year,Value
+Year,Sexo,Tipo de ocupación,Value
+2021,Total,Total,39.93
+2020,Total,Total,37.52
+2019,Total,Total,34.69
+2018,Total,Total,33.0
+2017,Total,Total,31.37
+2016,Total,Total,30.036622882978303
+2021,Total,Directores y gerentes,92.48
+2020,Total,Directores y gerentes,88.21
+2019,Total,Directores y gerentes,78.37
+2018,Total,Directores y gerentes,77.34
+2017,Total,Directores y gerentes,75.49
+2016,Total,Directores y gerentes,75.298280148485
+2021,Total,Profesionales científicos e intelectuales,85.98
+2020,Total,Profesionales científicos e intelectuales,81.67
+2019,Total,Profesionales científicos e intelectuales,76.39
+2018,Total,Profesionales científicos e intelectuales,73.94
+2017,Total,Profesionales científicos e intelectuales,72.16
+2016,Total,Profesionales científicos e intelectuales,70.4207690008008
+2021,Total,Técnicos y profesionales de nivel medio,53.93
+2020,Total,Técnicos y profesionales de nivel medio,50.91
+2019,Total,Técnicos y profesionales de nivel medio,47.02
+2018,Total,Técnicos y profesionales de nivel medio,45.26
+2017,Total,Técnicos y profesionales de nivel medio,42.56
+2016,Total,Técnicos y profesionales de nivel medio,41.3509310298837
+2021,Total,Personal de apoyo administrativo,43.69
+2020,Total,Personal de apoyo administrativo,41.26
+2019,Total,Personal de apoyo administrativo,38.67
+2018,Total,Personal de apoyo administrativo,36.75
+2017,Total,Personal de apoyo administrativo,35.43
+2016,Total,Personal de apoyo administrativo,33.5745283062425
+2021,Total,Trabajadores de los servicios y vendedores de comercios y mercados,32.62
+2020,Total,Trabajadores de los servicios y vendedores de comercios y mercados,30.77
+2019,Total,Trabajadores de los servicios y vendedores de comercios y mercados,28.86
+2018,Total,Trabajadores de los servicios y vendedores de comercios y mercados,27.49
+2017,Total,Trabajadores de los servicios y vendedores de comercios y mercados,25.94
+2016,Total,Trabajadores de los servicios y vendedores de comercios y mercados,24.8320627406125
+2021,Total,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",26.01
+2020,Total,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",25.93
+2019,Total,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",22.350000000000005
+2018,Total,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",20.93
+2017,Total,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",20.3
+2016,Total,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",18.2741430217311
+2021,Total,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",39.25
+2020,Total,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",36.69
+2019,Total,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",34.29
+2018,Total,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",32.41
+2017,Total,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",30.53
+2016,Total,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",28.9376248428299
+2021,Total,Operadores de instalaciones y máquinas y ensambladores,36.39
+2020,Total,Operadores de instalaciones y máquinas y ensambladores,34.04
+2019,Total,Operadores de instalaciones y máquinas y ensambladores,32.79
+2018,Total,Operadores de instalaciones y máquinas y ensambladores,30.5
+2017,Total,Operadores de instalaciones y máquinas y ensambladores,28.74
+2016,Total,Operadores de instalaciones y máquinas y ensambladores,27.3639864745229
+2021,Total,Ocupaciones elementales,29.19
+2020,Total,Ocupaciones elementales,27.73
+2019,Total,Ocupaciones elementales,26.23
+2018,Total,Ocupaciones elementales,24.59
+2017,Total,Ocupaciones elementales,23.350000000000005
+2016,Total,Ocupaciones elementales,22.1750001867356
+2021,Total,Ocupaciones militares,43.6
+2020,Total,Ocupaciones militares,36.53
+2019,Total,Ocupaciones militares,36.74
+2018,Total,Ocupaciones militares,33.27
+2017,Total,Ocupaciones militares,33.11
+2016,Total,Ocupaciones militares,31.0895093058425
+2021,Total,No especificado,54.88
+2020,Total,No especificado,60.09
+2019,Total,No especificado,46.84
+2018,Total,No especificado,34.93
+2017,Total,No especificado,65.55
+2016,Total,No especificado,61.7376488881713
+2021,Hombres,Total,40.6
+2020,Hombres,Total,38.03
+2019,Hombres,Total,35.39
+2018,Hombres,Total,33.57
+2017,Hombres,Total,31.83
+2016,Hombres,Total,30.5911783013447
+2021,Hombres,Directores y gerentes,97.42
+2020,Hombres,Directores y gerentes,88.06
+2019,Hombres,Directores y gerentes,82.7
+2018,Hombres,Directores y gerentes,80.01
+2017,Hombres,Directores y gerentes,77.75
+2016,Hombres,Directores y gerentes,79.0856786313344
+2021,Hombres,Profesionales científicos e intelectuales,92.09
+2020,Hombres,Profesionales científicos e intelectuales,88.2
+2019,Hombres,Profesionales científicos e intelectuales,81.14
+2018,Hombres,Profesionales científicos e intelectuales,78.17
+2017,Hombres,Profesionales científicos e intelectuales,75.73
+2016,Hombres,Profesionales científicos e intelectuales,74.5131932563084
+2021,Hombres,Técnicos y profesionales de nivel medio,53.79
+2020,Hombres,Técnicos y profesionales de nivel medio,50.84
+2019,Hombres,Técnicos y profesionales de nivel medio,46.76
+2018,Hombres,Técnicos y profesionales de nivel medio,45.0
+2017,Hombres,Técnicos y profesionales de nivel medio,41.94
+2016,Hombres,Técnicos y profesionales de nivel medio,40.9432081179703
+2021,Hombres,Personal de apoyo administrativo,44.69
+2020,Hombres,Personal de apoyo administrativo,41.67
+2019,Hombres,Personal de apoyo administrativo,39.66
+2018,Hombres,Personal de apoyo administrativo,37.55
+2017,Hombres,Personal de apoyo administrativo,36.03
+2016,Hombres,Personal de apoyo administrativo,33.809966091803
+2021,Hombres,Trabajadores de los servicios y vendedores de comercios y mercados,35.64
+2020,Hombres,Trabajadores de los servicios y vendedores de comercios y mercados,33.49
+2019,Hombres,Trabajadores de los servicios y vendedores de comercios y mercados,31.320000000000004
+2018,Hombres,Trabajadores de los servicios y vendedores de comercios y mercados,30.100000000000005
+2017,Hombres,Trabajadores de los servicios y vendedores de comercios y mercados,28.21
+2016,Hombres,Trabajadores de los servicios y vendedores de comercios y mercados,27.1060460826976
+2021,Hombres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",25.86
+2020,Hombres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",26.06
+2019,Hombres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",22.34
+2018,Hombres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",20.79
+2017,Hombres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",20.25
+2016,Hombres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",18.2377529347722
+2021,Hombres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",41.82
+2020,Hombres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",39.31
+2019,Hombres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",36.67
+2018,Hombres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",34.56
+2017,Hombres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",32.6
+2016,Hombres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",31.0373926025574
+2021,Hombres,Operadores de instalaciones y máquinas y ensambladores,37.29
+2020,Hombres,Operadores de instalaciones y máquinas y ensambladores,34.72
+2019,Hombres,Operadores de instalaciones y máquinas y ensambladores,33.57
+2018,Hombres,Operadores de instalaciones y máquinas y ensambladores,31.25
+2017,Hombres,Operadores de instalaciones y máquinas y ensambladores,29.53
+2016,Hombres,Operadores de instalaciones y máquinas y ensambladores,28.155099504675
+2021,Hombres,Ocupaciones elementales,28.91
+2020,Hombres,Ocupaciones elementales,27.399999999999995
+2019,Hombres,Ocupaciones elementales,25.97
+2018,Hombres,Ocupaciones elementales,24.34
+2017,Hombres,Ocupaciones elementales,23.06
+2016,Hombres,Ocupaciones elementales,22.158311584083595
+2021,Hombres,Ocupaciones militares,43.4
+2020,Hombres,Ocupaciones militares,36.38
+2019,Hombres,Ocupaciones militares,36.66
+2018,Hombres,Ocupaciones militares,33.26
+2017,Hombres,Ocupaciones militares,33.15
+2016,Hombres,Ocupaciones militares,31.0675433420914
+2021,Hombres,No especificado,54.46
+2020,Hombres,No especificado,67.59
+2019,Hombres,No especificado,49.04999999999999
+2018,Hombres,No especificado,36.39
+2017,Hombres,No especificado,69.53
+2016,Hombres,No especificado,67.3926459813792
+2021,Mujeres,Total,38.67
+2020,Mujeres,Total,36.56
+2019,Mujeres,Total,33.36
+2018,Mujeres,Total,31.87
+2017,Mujeres,Total,30.45
+2016,Mujeres,Total,28.9230523972501
+2021,Mujeres,Directores y gerentes,84.05
+2020,Mujeres,Directores y gerentes,88.46
+2019,Mujeres,Directores y gerentes,70.35
+2018,Mujeres,Directores y gerentes,72.03
+2017,Mujeres,Directores y gerentes,71.36
+2016,Mujeres,Directores y gerentes,67.9603340616237
+2021,Mujeres,Profesionales científicos e intelectuales,80.04
+2020,Mujeres,Profesionales científicos e intelectuales,75.3
+2019,Mujeres,Profesionales científicos e intelectuales,71.38
+2018,Mujeres,Profesionales científicos e intelectuales,69.57
+2017,Mujeres,Profesionales científicos e intelectuales,68.18
+2016,Mujeres,Profesionales científicos e intelectuales,66.0741359730093
+2021,Mujeres,Técnicos y profesionales de nivel medio,54.29
+2020,Mujeres,Técnicos y profesionales de nivel medio,51.14000000000001
+2019,Mujeres,Técnicos y profesionales de nivel medio,47.830000000000005
+2018,Mujeres,Técnicos y profesionales de nivel medio,46.07
+2017,Mujeres,Técnicos y profesionales de nivel medio,44.53
+2016,Mujeres,Técnicos y profesionales de nivel medio,42.6135930950364
+2021,Mujeres,Personal de apoyo administrativo,42.95000000000001
+2020,Mujeres,Personal de apoyo administrativo,40.97
+2019,Mujeres,Personal de apoyo administrativo,37.95
+2018,Mujeres,Personal de apoyo administrativo,36.17
+2017,Mujeres,Personal de apoyo administrativo,34.97
+2016,Mujeres,Personal de apoyo administrativo,33.392822895138
+2021,Mujeres,Trabajadores de los servicios y vendedores de comercios y mercados,29.63
+2020,Mujeres,Trabajadores de los servicios y vendedores de comercios y mercados,28.01
+2019,Mujeres,Trabajadores de los servicios y vendedores de comercios y mercados,26.33
+2018,Mujeres,Trabajadores de los servicios y vendedores de comercios y mercados,24.77
+2017,Mujeres,Trabajadores de los servicios y vendedores de comercios y mercados,23.5
+2016,Mujeres,Trabajadores de los servicios y vendedores de comercios y mercados,22.36257615549509
+2021,Mujeres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",27.34
+2020,Mujeres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",24.67
+2019,Mujeres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",22.540000000000003
+2018,Mujeres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",22.28
+2017,Mujeres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",20.9
+2016,Mujeres,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",18.6828813945175
+2021,Mujeres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",28.37
+2020,Mujeres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",26.290000000000003
+2019,Mujeres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",24.56
+2018,Mujeres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",23.52
+2017,Mujeres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",21.69
+2016,Mujeres,"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",20.207865188828
+2021,Mujeres,Operadores de instalaciones y máquinas y ensambladores,32.94
+2020,Mujeres,Operadores de instalaciones y máquinas y ensambladores,31.2
+2019,Mujeres,Operadores de instalaciones y máquinas y ensambladores,29.51
+2018,Mujeres,Operadores de instalaciones y máquinas y ensambladores,27.27
+2017,Mujeres,Operadores de instalaciones y máquinas y ensambladores,25.36
+2016,Mujeres,Operadores de instalaciones y máquinas y ensambladores,23.805188627895102
+2021,Mujeres,Ocupaciones elementales,29.75
+2020,Mujeres,Ocupaciones elementales,28.399999999999995
+2019,Mujeres,Ocupaciones elementales,26.72
+2018,Mujeres,Ocupaciones elementales,25.070000000000004
+2017,Mujeres,Ocupaciones elementales,23.93
+2016,Mujeres,Ocupaciones elementales,22.2079147632068
+2021,Mujeres,Ocupaciones militares,46.0
+2020,Mujeres,Ocupaciones militares,41.15
+2019,Mujeres,Ocupaciones militares,38.24
+2018,Mujeres,Ocupaciones militares,33.76
+2017,Mujeres,Ocupaciones militares,30.600000000000005
+2016,Mujeres,Ocupaciones militares,34.1330914690891
+2021,Mujeres,No especificado,55.82
+2020,Mujeres,No especificado,34.77
+2019,Mujeres,No especificado,39.66
+2018,Mujeres,No especificado,28.08
+2017,Mujeres,No especificado,52.21
+2016,Mujeres,No especificado,44.4451775368514

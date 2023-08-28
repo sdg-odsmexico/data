@@ -1,1 +1,28 @@
-Year,Value
+Year,Regiones,Value
+2021,Total,67.78282819
+2018,Total,68.32160488
+2015,Total,68.38713423
+2021,Localidad de 15 000 y más habitantes,74.16060526
+2018,Localidad de 15 000 y más habitantes,74.35235209
+2015,Localidad de 15 000 y más habitantes,75.165984
+2021,Localidad de menos de 15 000 habitantes,56.05084122
+2018,Localidad de menos de 15 000 habitantes,57.07345221
+2015,Localidad de menos de 15 000 habitantes,55.86408037
+2021,"Región Noroeste (Baja California, Baja California Sur, Chihuahua, Durango, Sinaloa, Sonora)",75.68366815
+2018,"Región Noroeste (Baja California, Baja California Sur, Chihuahua, Durango, Sinaloa, Sonora)",82.28673687
+2015,"Región Noroeste (Baja California, Baja California Sur, Chihuahua, Durango, Sinaloa, Sonora)",
+2021,"Región Noreste (Coahuila, Nuevo León, San Luis Potosí, Tamaulipas)",77.01485043
+2018,"Región Noreste (Coahuila, Nuevo León, San Luis Potosí, Tamaulipas)",75.41184346
+2015,"Región Noreste (Coahuila, Nuevo León, San Luis Potosí, Tamaulipas)",
+2021,"Región Occidente y Bajío (Aguascalientes, Guanajuato, Jalisco, Michoacán, Nayarit, Querétaro, Zacatecas, Colima)",69.30868418
+2018,"Región Occidente y Bajío (Aguascalientes, Guanajuato, Jalisco, Michoacán, Nayarit, Querétaro, Zacatecas, Colima)",66.57517491
+2015,"Región Occidente y Bajío (Aguascalientes, Guanajuato, Jalisco, Michoacán, Nayarit, Querétaro, Zacatecas, Colima)",
+2021,Región Ciudad de México (Ciudad de México),74.24597541
+2018,Región Ciudad de México (Ciudad de México),72.12865695
+2015,Región Ciudad de México (Ciudad de México),
+2021,"Región Centro Sur y Oriente (Estado de México, Hidalgo, Morelos, Puebla, Tlaxcala, Veracruz)",62.02795932
+2018,"Región Centro Sur y Oriente (Estado de México, Hidalgo, Morelos, Puebla, Tlaxcala, Veracruz)",60.3293212
+2015,"Región Centro Sur y Oriente (Estado de México, Hidalgo, Morelos, Puebla, Tlaxcala, Veracruz)",
+2021,"Región Sur (Campeche, Chiapas, Guerrero, Quintana Roo, Tabasco, Yucatán, Oaxaca)",60.14500109
+2018,"Región Sur (Campeche, Chiapas, Guerrero, Quintana Roo, Tabasco, Yucatán, Oaxaca)",67.62465076
+2015,"Región Sur (Campeche, Chiapas, Guerrero, Quintana Roo, Tabasco, Yucatán, Oaxaca)",

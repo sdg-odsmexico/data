@@ -12,8 +12,84 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Edades IMSS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Menos de 31 años",
+                "Entre 31 y 50 años",
+                "Entre 51 y 70 años",
+                "Más de 70 años",
+                ""
+              ]
+            },
+            "title": "Edades IMSS"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

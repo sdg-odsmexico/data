@@ -12,8 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Regiones",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Localidad de 15 000 y más habitantes",
+                "Localidad de menos de 15 000 habitantes",
+                "Región Noroeste (Baja California, Baja California Sur, Chihuahua, Durango, Sinaloa, Sonora)",
+                "Región Noreste (Coahuila, Nuevo León, San Luis Potosí, Tamaulipas)",
+                "Región Occidente y Bajío (Aguascalientes, Guanajuato, Jalisco, Michoacán, Nayarit, Querétaro, Zacatecas, Colima)",
+                "Región Ciudad de México (Ciudad de México)",
+                "Región Centro Sur y Oriente (Estado de México, Hidalgo, Morelos, Puebla, Tlaxcala, Veracruz)",
+                "Región Sur (Campeche, Chiapas, Guerrero, Quintana Roo, Tabasco, Yucatán, Oaxaca)",
+                ""
+              ]
+            },
+            "title": "Regiones"
           },
           {
             "name": "Value",

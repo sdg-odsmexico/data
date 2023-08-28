@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Edades (18 a 70 años)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "18 a 29 años",
+                "30 a 49 años",
+                "50 a 70 años",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,82 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "De 5 a 14 años",
+                "De 15 a 17 años",
+                ""
+              ]
+            },
+            "title": "Grupo de edad"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

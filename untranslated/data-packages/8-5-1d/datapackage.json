@@ -12,7 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Condición de residencia y país de nacimiento",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Cambió de residencia 1 año",
+                "No cambió de residencia 1 año",
+                "No especificado",
+                "Nacimiento México",
+                "Nacimiento en otro país",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

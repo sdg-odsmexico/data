@@ -1,1 +1,19 @@
-Year,Value
+Year,Escolaridad y sin escolaridad,Value
+2021,Total,67.78282819
+2018,Total,68.32160488
+2015,Total,68.38713423
+2021,Sin escolaridad,36.09025494
+2018,Sin escolaridad,50.25074772
+2015,Sin escolaridad,49.31525630000001
+2021,Primaria,49.53053294
+2018,Primaria,52.975125420000005
+2015,Primaria,51.16069256
+2021,Secundaria,62.6474034
+2018,Secundaria,67.22324035
+2015,Secundaria,66.05752375
+2021,Media superior,70.72837211
+2018,Media superior,68.34497447
+2015,Media superior,73.69002467
+2021,Superior,88.06746227000001
+2018,Superior,84.66061757
+2015,Superior,88.67763347
