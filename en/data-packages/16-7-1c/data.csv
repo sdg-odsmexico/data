@@ -1,1 +1,1429 @@
-Year,Value
+Year,Entidad federativa,Sexo,Grupos de edad en plazas del Poder judicial,GeoCode,Value
+2020,Poder judicial de la federación,Total,Total,8101000,1.0
+2019,Poder judicial de la federación,Total,Total,8101000,1.0
+2020,Poder judicial de la federación,Total,De 18 a 24 años,8101000,0.0
+2019,Poder judicial de la federación,Total,De 18 a 24 años,8101000,0.0
+2020,Poder judicial de la federación,Total,De 25 a 34 años,8101000,0.018999915618872
+2019,Poder judicial de la federación,Total,De 25 a 34 años,8101000,0.010866099806527
+2020,Poder judicial de la federación,Total,De 35 a 44 años,8101000,1.0545940744976898
+2019,Poder judicial de la federación,Total,De 35 a 44 años,8101000,1.14283079520367
+2020,Poder judicial de la federación,Total,De 45 a 54 años,8101000,2.10635273936531
+2019,Poder judicial de la federación,Total,De 45 a 54 años,8101000,2.02502616446928
+2020,Poder judicial de la federación,Total,De 55 a 59 años,8101000,2.4763792785862795
+2019,Poder judicial de la federación,Total,De 55 a 59 años,8101000,2.60811450217104
+2020,Poder judicial de la federación,Total,De 60 años y más,8101000,2.085185447914
+2019,Poder judicial de la federación,Total,De 60 años y más,8101000,2.06397568599788
+2020,Poder judicial de la federación,Hombres,Total,8101000,1.60061417156461
+2019,Poder judicial de la federación,Hombres,Total,8101000,1.61855976952395
+2020,Poder judicial de la federación,Hombres,De 18 a 24 años,8101000,0.0
+2019,Poder judicial de la federación,Hombres,De 18 a 24 años,8101000,0.0
+2020,Poder judicial de la federación,Hombres,De 25 a 34 años,8101000,0.017173834675204
+2019,Poder judicial de la federación,Hombres,De 25 a 34 años,8101000,0.003411197763084
+2020,Poder judicial de la federación,Hombres,De 35 a 44 años,8101000,1.0314490603932602
+2019,Poder judicial de la federación,Hombres,De 35 a 44 años,8101000,1.1449061303190098
+2020,Poder judicial de la federación,Hombres,De 45 a 54 años,8101000,2.1699869560515306
+2019,Poder judicial de la federación,Hombres,De 45 a 54 años,8101000,2.1030135863816
+2020,Poder judicial de la federación,Hombres,De 55 a 59 años,8101000,2.58872545500107
+2019,Poder judicial de la federación,Hombres,De 55 a 59 años,8101000,2.61570675848883
+2020,Poder judicial de la federación,Hombres,De 60 años y más,8101000,2.1697674641725
+2019,Poder judicial de la federación,Hombres,De 60 años y más,8101000,2.1494821106049105
+2020,Poder judicial de la federación,Mujeres,Total,8101000,0.4373733755813641
+2019,Poder judicial de la federación,Mujeres,Total,8101000,0.4209107810963819
+2020,Poder judicial de la federación,Mujeres,De 18 a 24 años,8101000,0.0
+2019,Poder judicial de la federación,Mujeres,De 18 a 24 años,8101000,0.0
+2020,Poder judicial de la federación,Mujeres,De 25 a 34 años,8101000,0.024514879800126
+2019,Poder judicial de la federación,Mujeres,De 25 a 34 años,8101000,0.038114808259987
+2020,Poder judicial de la federación,Mujeres,De 35 a 44 años,8101000,1.19575937604965
+2019,Poder judicial de la federación,Mujeres,De 35 a 44 años,8101000,1.2139816585781
+2020,Poder judicial de la federación,Mujeres,De 45 a 54 años,8101000,1.99159476624928
+2019,Poder judicial de la federación,Mujeres,De 45 a 54 años,8101000,1.83606221168138
+2020,Poder judicial de la federación,Mujeres,De 55 a 59 años,8101000,2.20835993124418
+2019,Poder judicial de la federación,Mujeres,De 55 a 59 años,8101000,2.6906224223503505
+2020,Poder judicial de la federación,Mujeres,De 60 años y más,8101000,1.9694143279028895
+2019,Poder judicial de la federación,Mujeres,De 60 años y más,8101000,1.93471167268421
+2020,Poder judicial estatal,Total,Total,8102000,1.0
+2019,Poder judicial estatal,Total,Total,8102000,1.0
+2020,Poder judicial estatal,Total,De 18 a 24 años,8102000,0.021680007413349
+2019,Poder judicial estatal,Total,De 18 a 24 años,8102000,0.025660332538777
+2020,Poder judicial estatal,Total,De 25 a 34 años,8102000,0.532661477126613
+2019,Poder judicial estatal,Total,De 25 a 34 años,8102000,0.5475745221264771
+2020,Poder judicial estatal,Total,De 35 a 44 años,8102000,1.56667486854176
+2019,Poder judicial estatal,Total,De 35 a 44 años,8102000,1.5872813282883895
+2020,Poder judicial estatal,Total,De 45 a 54 años,8102000,1.99548362159573
+2019,Poder judicial estatal,Total,De 45 a 54 años,8102000,1.9706003364284004
+2020,Poder judicial estatal,Total,De 55 a 59 años,8102000,1.35199887524146
+2019,Poder judicial estatal,Total,De 55 a 59 años,8102000,1.31677464676705
+2020,Poder judicial estatal,Total,De 60 años y más,8102000,0.7659195340335139
+2019,Poder judicial estatal,Total,De 60 años y más,8102000,0.781161460579153
+2020,Poder judicial estatal,Hombres,Total,8102000,0.870548045587025
+2019,Poder judicial estatal,Hombres,Total,8102000,0.8874304851350898
+2020,Poder judicial estatal,Hombres,De 18 a 24 años,8102000,0.014323671694749
+2019,Poder judicial estatal,Hombres,De 18 a 24 años,8102000,0.020132482551285
+2020,Poder judicial estatal,Hombres,De 25 a 34 años,8102000,0.500199132951129
+2019,Poder judicial estatal,Hombres,De 25 a 34 años,8102000,0.5075961566491519
+2020,Poder judicial estatal,Hombres,De 35 a 44 años,8102000,1.48397710039196
+2019,Poder judicial estatal,Hombres,De 35 a 44 años,8102000,1.5089183302699
+2020,Poder judicial estatal,Hombres,De 45 a 54 años,8102000,1.93308302485048
+2019,Poder judicial estatal,Hombres,De 45 a 54 años,8102000,1.9014397930807
+2020,Poder judicial estatal,Hombres,De 55 a 59 años,8102000,1.6335845753674003
+2019,Poder judicial estatal,Hombres,De 55 a 59 años,8102000,1.60885931558065
+2020,Poder judicial estatal,Hombres,De 60 años y más,8102000,1.09880523460298
+2019,Poder judicial estatal,Hombres,De 60 años y más,8102000,1.12924489965394
+2020,Poder judicial estatal,Mujeres,Total,8102000,1.12126439831754
+2019,Poder judicial estatal,Mujeres,Total,8102000,1.10538640831047
+2020,Poder judicial estatal,Mujeres,De 18 a 24 años,8102000,0.027707990538233
+2019,Poder judicial estatal,Mujeres,De 18 a 24 años,8102000,0.0303967483601619
+2020,Poder judicial estatal,Mujeres,De 25 a 34 años,8102000,0.559599591063459
+2019,Poder judicial estatal,Mujeres,De 25 a 34 años,8102000,0.580466177450787
+2020,Poder judicial estatal,Mujeres,De 35 a 44 años,8102000,1.6157083958245102
+2019,Poder judicial estatal,Mujeres,De 35 a 44 años,8102000,1.6357160516675004
+2020,Poder judicial estatal,Mujeres,De 45 a 54 años,8102000,2.03164330495802
+2019,Poder judicial estatal,Mujeres,De 45 a 54 años,8102000,2.01540204587995
+2020,Poder judicial estatal,Mujeres,De 55 a 59 años,8102000,1.14912490179986
+2019,Poder judicial estatal,Mujeres,De 55 a 59 años,8102000,1.10010056451284
+2020,Poder judicial estatal,Mujeres,De 60 años y más,8102000,0.53314803495427
+2019,Poder judicial estatal,Mujeres,De 60 años y más,8102000,0.530160487086749
+2020,Aguascalientes,Total,Total,8103001,1.0
+2019,Aguascalientes,Total,Total,8103001,1.0
+2020,Aguascalientes,Total,De 18 a 24 años,8103001,0.0
+2019,Aguascalientes,Total,De 18 a 24 años,8103001,0.0286603711940859
+2020,Aguascalientes,Total,De 25 a 34 años,8103001,0.9980801096371368
+2019,Aguascalientes,Total,De 25 a 34 años,8103001,0.9237191772259008
+2020,Aguascalientes,Total,De 35 a 44 años,8103001,1.64533061048718
+2019,Aguascalientes,Total,De 35 a 44 años,8103001,1.7421080954990098
+2020,Aguascalientes,Total,De 45 a 54 años,8103001,1.8217509691641904
+2019,Aguascalientes,Total,De 45 a 54 años,8103001,1.81923256333099
+2020,Aguascalientes,Total,De 55 a 59 años,8103001,0.8028999039902589
+2019,Aguascalientes,Total,De 55 a 59 años,8103001,0.8986194946352468
+2020,Aguascalientes,Total,De 60 años y más,8103001,0.369896641959359
+2019,Aguascalientes,Total,De 60 años y más,8103001,0.252009425140685
+2020,Aguascalientes,Hombres,Total,8103001,0.616520869389315
+2019,Aguascalientes,Hombres,Total,8103001,0.613230955227256
+2020,Aguascalientes,Hombres,De 18 a 24 años,8103001,0.0
+2019,Aguascalientes,Hombres,De 18 a 24 años,8103001,0.0917368450752149
+2020,Aguascalientes,Hombres,De 25 a 34 años,8103001,0.8797034107760748
+2019,Aguascalientes,Hombres,De 25 a 34 años,8103001,0.7348732869491881
+2020,Aguascalientes,Hombres,De 35 a 44 años,8103001,0.876394224739803
+2019,Aguascalientes,Hombres,De 35 a 44 años,8103001,0.875616317955754
+2020,Aguascalientes,Hombres,De 45 a 54 años,8103001,2.50476121539674
+2019,Aguascalientes,Hombres,De 45 a 54 años,8103001,2.6289896786534297
+2020,Aguascalientes,Hombres,De 55 a 59 años,8103001,1.53722035069534
+2019,Aguascalientes,Hombres,De 55 a 59 años,8103001,1.86119868426674
+2020,Aguascalientes,Hombres,De 60 años y más,8103001,0.8440545198777107
+2019,Aguascalientes,Hombres,De 60 años y más,8103001,0.649206015714288
+2020,Aguascalientes,Mujeres,Total,8103001,1.3634633615317902
+2019,Aguascalientes,Mujeres,Total,8103001,1.3662144111577503
+2020,Aguascalientes,Mujeres,De 18 a 24 años,8103001,0.0
+2019,Aguascalientes,Mujeres,De 18 a 24 años,8103001,0.0
+2020,Aguascalientes,Mujeres,De 25 a 34 años,8103001,1.06879730461738
+2019,Aguascalientes,Mujeres,De 25 a 34 años,8103001,1.02230034027939
+2020,Aguascalientes,Mujeres,De 35 a 44 años,8103001,1.93273353218216
+2019,Aguascalientes,Mujeres,De 35 a 44 años,8103001,2.06041854649296
+2020,Aguascalientes,Mujeres,De 45 a 54 años,8103001,1.51476225300277
+2019,Aguascalientes,Mujeres,De 45 a 54 años,8103001,1.4651253702767897
+2020,Aguascalientes,Mujeres,De 55 a 59 años,8103001,0.4944229940276181
+2019,Aguascalientes,Mujeres,De 55 a 59 años,8103001,0.498669180917702
+2020,Aguascalientes,Mujeres,De 60 años y más,8103001,0.171883058545974
+2019,Aguascalientes,Mujeres,De 60 años y más,8103001,0.087796603701584
+2020,Baja California,Total,Total,8103002,1.0
+2019,Baja California,Total,Total,8103002,1.0
+2020,Baja California,Total,De 18 a 24 años,8103002,0.0
+2019,Baja California,Total,De 18 a 24 años,8103002,0.0
+2020,Baja California,Total,De 25 a 34 años,8103002,0.131170362483043
+2019,Baja California,Total,De 25 a 34 años,8103002,0.1612404684561199
+2020,Baja California,Total,De 35 a 44 años,8103002,0.8839422902967992
+2019,Baja California,Total,De 35 a 44 años,8103002,1.10893398714995
+2020,Baja California,Total,De 45 a 54 años,8103002,2.3440057968923607
+2019,Baja California,Total,De 45 a 54 años,8103002,2.36867678455226
+2020,Baja California,Total,De 55 a 59 años,8103002,3.2508951598304203
+2019,Baja California,Total,De 55 a 59 años,8103002,2.81484978351897
+2020,Baja California,Total,De 60 años y más,8103002,1.33706607150613
+2019,Baja California,Total,De 60 años y más,8103002,1.09557487854736
+2020,Baja California,Hombres,Total,8103002,0.6823727064173671
+2019,Baja California,Hombres,Total,8103002,0.684024935799703
+2020,Baja California,Hombres,De 18 a 24 años,8103002,0.0
+2019,Baja California,Hombres,De 18 a 24 años,8103002,0.0
+2020,Baja California,Hombres,De 25 a 34 años,8103002,0.158320732047477
+2019,Baja California,Hombres,De 25 a 34 años,8103002,0.155781441596756
+2020,Baja California,Hombres,De 35 a 44 años,8103002,0.5436046886276938
+2019,Baja California,Hombres,De 35 a 44 años,8103002,0.60758105305471
+2020,Baja California,Hombres,De 45 a 54 años,8103002,2.44580769579428
+2019,Baja California,Hombres,De 45 a 54 años,8103002,2.58620644067392
+2020,Baja California,Hombres,De 55 a 59 años,8103002,2.9782658079342896
+2019,Baja California,Hombres,De 55 a 59 años,8103002,2.74539618306871
+2020,Baja California,Hombres,De 60 años y más,8103002,2.1311342780382
+2019,Baja California,Hombres,De 60 años y más,8103002,1.9903930900758
+2020,Baja California,Mujeres,Total,8103002,1.31687554816849
+2019,Baja California,Mujeres,Total,8103002,1.31520978645365
+2020,Baja California,Mujeres,De 18 a 24 años,8103002,0.0
+2019,Baja California,Mujeres,De 18 a 24 años,8103002,0.0
+2020,Baja California,Mujeres,De 25 a 34 años,8103002,0.117596201670255
+2019,Baja California,Mujeres,De 25 a 34 años,8103002,0.164909757366548
+2020,Baja California,Mujeres,De 35 a 44 años,8103002,1.0464424336102205
+2019,Baja California,Mujeres,De 35 a 44 años,8103002,1.35110709228371
+2020,Baja California,Mujeres,De 45 a 54 años,8103002,2.29046261518635
+2019,Baja California,Mujeres,De 45 a 54 años,8103002,2.2588096350414406
+2020,Baja California,Mujeres,De 55 a 59 años,8103002,3.3935857723309004
+2019,Baja California,Mujeres,De 55 a 59 años,8103002,2.8515839284863
+2020,Baja California,Mujeres,De 60 años y más,8103002,0.9333035900916798
+2019,Baja California,Mujeres,De 60 años y más,8103002,0.647522699992383
+2020,Baja California Sur,Total,Total,8103003,1.0
+2019,Baja California Sur,Total,Total,8103003,1.0
+2020,Baja California Sur,Total,De 18 a 24 años,8103003,0.0
+2019,Baja California Sur,Total,De 18 a 24 años,8103003,0.0
+2020,Baja California Sur,Total,De 25 a 34 años,8103003,0.4518831103613369
+2019,Baja California Sur,Total,De 25 a 34 años,8103003,0.605515623473187
+2020,Baja California Sur,Total,De 35 a 44 años,8103003,1.81823339809667
+2019,Baja California Sur,Total,De 35 a 44 años,8103003,1.9564747606600703
+2020,Baja California Sur,Total,De 45 a 54 años,8103003,1.92567587768292
+2019,Baja California Sur,Total,De 45 a 54 años,8103003,1.7010468342194796
+2020,Baja California Sur,Total,De 55 a 59 años,8103003,0.9399782634537333
+2019,Baja California Sur,Total,De 55 a 59 años,8103003,0.8162964549101599
+2020,Baja California Sur,Total,De 60 años y más,8103003,0.750496695501583
+2019,Baja California Sur,Total,De 60 años y más,8103003,0.523728600274073
+2020,Baja California Sur,Hombres,Total,8103003,0.8188569197115702
+2019,Baja California Sur,Hombres,Total,8103003,0.8599530657671429
+2020,Baja California Sur,Hombres,De 18 a 24 años,8103003,0.0
+2019,Baja California Sur,Hombres,De 18 a 24 años,8103003,0.0
+2020,Baja California Sur,Hombres,De 25 a 34 años,8103003,0.44362470267396
+2019,Baja California Sur,Hombres,De 25 a 34 años,8103003,0.6176664421990169
+2020,Baja California Sur,Hombres,De 35 a 44 años,8103003,2.04362296561044
+2019,Baja California Sur,Hombres,De 35 a 44 años,8103003,2.06700008681335
+2020,Baja California Sur,Hombres,De 45 a 54 años,8103003,1.9024259892893496
+2019,Baja California Sur,Hombres,De 45 a 54 años,8103003,1.6915613844798505
+2020,Baja California Sur,Hombres,De 55 a 59 años,8103003,0.687606232056249
+2019,Baja California Sur,Hombres,De 55 a 59 años,8103003,0.71022558212875
+2020,Baja California Sur,Hombres,De 60 años y más,8103003,0.510028610374631
+2019,Baja California Sur,Hombres,De 60 años y más,8103003,0.354140458422175
+2020,Baja California Sur,Mujeres,Total,8103003,1.19051525115033
+2019,Baja California Sur,Mujeres,Total,8103003,1.1472723671558198
+2020,Baja California Sur,Mujeres,De 18 a 24 años,8103003,0.0
+2019,Baja California Sur,Mujeres,De 18 a 24 años,8103003,0.0
+2020,Baja California Sur,Mujeres,De 25 a 34 años,8103003,0.46143594750514
+2019,Baja California Sur,Mujeres,De 25 a 34 años,8103003,0.5986989863793591
+2020,Baja California Sur,Mujeres,De 35 a 44 años,8103003,1.6540288753278105
+2019,Baja California Sur,Mujeres,De 35 a 44 años,8103003,1.86719865525108
+2020,Baja California Sur,Mujeres,De 45 a 54 años,8103003,1.9361738373989603
+2019,Baja California Sur,Mujeres,De 45 a 54 años,8103003,1.70480401238172
+2020,Baja California Sur,Mujeres,De 55 a 59 años,8103003,1.1072184567353105
+2019,Baja California Sur,Mujeres,De 55 a 59 años,8103003,0.8915218480339241
+2020,Baja California Sur,Mujeres,De 60 años y más,8103003,0.899117778520315
+2019,Baja California Sur,Mujeres,De 60 años y más,8103003,0.641046845233414
+2020,Campeche,Total,Total,8103004,1.0
+2019,Campeche,Total,Total,8103004,1.0
+2020,Campeche,Total,De 18 a 24 años,8103004,0.033860011861392
+2019,Campeche,Total,De 18 a 24 años,8103004,0.042057924972899
+2020,Campeche,Total,De 25 a 34 años,8103004,0.6650506559471508
+2019,Campeche,Total,De 25 a 34 años,8103004,0.359861082075243
+2020,Campeche,Total,De 35 a 44 años,8103004,1.56539512070733
+2019,Campeche,Total,De 35 a 44 años,8103004,1.5648491474318005
+2020,Campeche,Total,De 45 a 54 años,8103004,1.7478057903879098
+2019,Campeche,Total,De 45 a 54 años,8103004,2.06646244201866
+2020,Campeche,Total,De 55 a 59 años,8103004,1.40009847947157
+2019,Campeche,Total,De 55 a 59 años,8103004,1.35961553354616
+2020,Campeche,Total,De 60 años y más,8103004,0.9129352132739827
+2019,Campeche,Total,De 60 años y más,8103004,1.2674324095875
+2020,Campeche,Hombres,Total,8103004,0.7246682906693229
+2019,Campeche,Hombres,Total,8103004,0.796395636873391
+2020,Campeche,Hombres,De 18 a 24 años,8103004,0.0
+2019,Campeche,Hombres,De 18 a 24 años,8103004,0.0
+2020,Campeche,Hombres,De 25 a 34 años,8103004,0.627405930401626
+2019,Campeche,Hombres,De 25 a 34 años,8103004,0.304487014918883
+2020,Campeche,Hombres,De 35 a 44 años,8103004,1.1210781980585998
+2019,Campeche,Hombres,De 35 a 44 años,8103004,1.10436713866691
+2020,Campeche,Hombres,De 45 a 54 años,8103004,1.4027934546049303
+2019,Campeche,Hombres,De 45 a 54 años,8103004,1.7481248776798102
+2020,Campeche,Hombres,De 55 a 59 años,8103004,2.3415492145359305
+2019,Campeche,Hombres,De 55 a 59 años,8103004,2.24351603794077
+2020,Campeche,Hombres,De 60 años y más,8103004,2.15138907160204
+2019,Campeche,Hombres,De 60 años y más,8103004,2.63552800948109
+2020,Campeche,Mujeres,Total,8103004,1.26491218235938
+2019,Campeche,Mujeres,Total,8103004,1.19582087334405
+2020,Campeche,Mujeres,De 18 a 24 años,8103004,0.053618753046946
+2019,Campeche,Mujeres,De 18 a 24 años,8103004,0.070447413938253
+2020,Campeche,Mujeres,De 25 a 34 años,8103004,0.6896431369937359
+2019,Campeche,Mujeres,De 25 a 34 años,8103004,0.3970112447629659
+2020,Campeche,Mujeres,De 35 a 44 años,8103004,1.79083250611714
+2019,Campeche,Mujeres,De 35 a 44 años,8103004,1.84067533150173
+2020,Campeche,Mujeres,De 45 a 54 años,8103004,1.93420355779174
+2019,Campeche,Mujeres,De 45 a 54 años,8103004,2.26796741309008
+2020,Campeche,Mujeres,De 55 a 59 años,8103004,0.8870963246037988
+2019,Campeche,Mujeres,De 55 a 59 años,8103004,0.8016268021754558
+2020,Campeche,Mujeres,De 60 años y más,8103004,0.248330575816362
+2019,Campeche,Mujeres,De 60 años y más,8103004,0.410076250955444
+2020,Coahuila de Zaragoza,Total,Total,8103005,1.0
+2019,Coahuila de Zaragoza,Total,Total,8103005,1.0
+2020,Coahuila de Zaragoza,Total,De 18 a 24 años,8103005,0.0181299602542349
+2019,Coahuila de Zaragoza,Total,De 18 a 24 años,8103005,0.0
+2020,Coahuila de Zaragoza,Total,De 25 a 34 años,8103005,0.649952976595514
+2019,Coahuila de Zaragoza,Total,De 25 a 34 años,8103005,0.6350471813902921
+2020,Coahuila de Zaragoza,Total,De 35 a 44 años,8103005,1.1427812439216003
+2019,Coahuila de Zaragoza,Total,De 35 a 44 años,8103005,1.1161002634885495
+2020,Coahuila de Zaragoza,Total,De 45 a 54 años,8103005,2.43110377244436
+2019,Coahuila de Zaragoza,Total,De 45 a 54 años,8103005,2.51625072441296
+2020,Coahuila de Zaragoza,Total,De 55 a 59 años,8103005,0.935725917917355
+2019,Coahuila de Zaragoza,Total,De 55 a 59 años,8103005,0.806965673562849
+2020,Coahuila de Zaragoza,Total,De 60 años y más,8103005,0.798232633450331
+2019,Coahuila de Zaragoza,Total,De 60 años y más,8103005,0.8866796580585861
+2020,Coahuila de Zaragoza,Hombres,Total,8103005,1.00629645726479
+2019,Coahuila de Zaragoza,Hombres,Total,8103005,1.05398857724109
+2020,Coahuila de Zaragoza,Hombres,De 18 a 24 años,8103005,0.0351512643216709
+2019,Coahuila de Zaragoza,Hombres,De 18 a 24 años,8103005,0.0
+2020,Coahuila de Zaragoza,Hombres,De 25 a 34 años,8103005,0.678472450622908
+2019,Coahuila de Zaragoza,Hombres,De 25 a 34 años,8103005,0.518824938458207
+2020,Coahuila de Zaragoza,Hombres,De 35 a 44 años,8103005,0.891908795101443
+2019,Coahuila de Zaragoza,Hombres,De 35 a 44 años,8103005,1.15822078948553
+2020,Coahuila de Zaragoza,Hombres,De 45 a 54 años,8103005,2.47017313421204
+2019,Coahuila de Zaragoza,Hombres,De 45 a 54 años,8103005,2.5415316571853306
+2020,Coahuila de Zaragoza,Hombres,De 55 a 59 años,8103005,1.52356725212082
+2019,Coahuila de Zaragoza,Hombres,De 55 a 59 años,8103005,1.0131204086323
+2020,Coahuila de Zaragoza,Hombres,De 60 años y más,8103005,0.854619771286438
+2019,Coahuila de Zaragoza,Hombres,De 60 años y más,8103005,1.03148175187198
+2020,Coahuila de Zaragoza,Mujeres,Total,8103005,0.993823322198608
+2019,Coahuila de Zaragoza,Mujeres,Total,8103005,0.947048120611718
+2020,Coahuila de Zaragoza,Mujeres,De 18 a 24 años,8103005,0.0
+2019,Coahuila de Zaragoza,Mujeres,De 18 a 24 años,8103005,0.0
+2020,Coahuila de Zaragoza,Mujeres,De 25 a 34 años,8103005,0.620145984032335
+2019,Coahuila de Zaragoza,Mujeres,De 25 a 34 años,8103005,0.765548822646438
+2020,Coahuila de Zaragoza,Mujeres,De 35 a 44 años,8103005,1.3815430304675298
+2019,Coahuila de Zaragoza,Mujeres,De 35 a 44 años,8103005,1.07516185212555
+2020,Coahuila de Zaragoza,Mujeres,De 45 a 54 años,8103005,2.39438307702018
+2019,Coahuila de Zaragoza,Mujeres,De 45 a 54 años,8103005,2.4941799603724
+2020,Coahuila de Zaragoza,Mujeres,De 55 a 59 años,8103005,0.367976458150695
+2019,Coahuila de Zaragoza,Mujeres,De 55 a 59 años,8103005,0.588515279506459
+2020,Coahuila de Zaragoza,Mujeres,De 60 años y más,8103005,0.745209875017185
+2019,Coahuila de Zaragoza,Mujeres,De 60 años y más,8103005,0.7382327536789821
+2020,Colima,Total,Total,8103006,1.0
+2019,Colima,Total,Total,8103006,1.0
+2020,Colima,Total,De 18 a 24 años,8103006,0.0
+2019,Colima,Total,De 18 a 24 años,8103006,0.041865381278447
+2020,Colima,Total,De 25 a 34 años,8103006,0.786582928479183
+2019,Colima,Total,De 25 a 34 años,8103006,0.8419854967037421
+2020,Colima,Total,De 35 a 44 años,8103006,1.54759312026232
+2019,Colima,Total,De 35 a 44 años,8103006,1.4643947239000903
+2020,Colima,Total,De 45 a 54 años,8103006,1.8332759095920603
+2019,Colima,Total,De 45 a 54 años,8103006,1.83558519643566
+2020,Colima,Total,De 55 a 59 años,8103006,0.8421216610233258
+2019,Colima,Total,De 55 a 59 años,8103006,0.674076379079144
+2020,Colima,Total,De 60 años y más,8103006,0.8072596169017638
+2019,Colima,Total,De 60 años y más,8103006,0.917486173956762
+2020,Colima,Hombres,Total,8103006,0.9479013237732632
+2019,Colima,Hombres,Total,8103006,0.969674995520027
+2020,Colima,Hombres,De 18 a 24 años,8103006,0.0
+2019,Colima,Hombres,De 18 a 24 años,8103006,0.0
+2020,Colima,Hombres,De 25 a 34 años,8103006,0.485859065166736
+2019,Colima,Hombres,De 25 a 34 años,8103006,0.624311695249388
+2020,Colima,Hombres,De 35 a 44 años,8103006,1.1804339675695898
+2019,Colima,Hombres,De 35 a 44 años,8103006,1.06759141515065
+2020,Colima,Hombres,De 45 a 54 años,8103006,2.14004973151777
+2019,Colima,Hombres,De 45 a 54 años,8103006,2.22063778390561
+2020,Colima,Hombres,De 55 a 59 años,8103006,1.56031741443108
+2019,Colima,Hombres,De 55 a 59 años,8103006,1.18554150896271
+2020,Colima,Hombres,De 60 años y más,8103006,1.40921908044176
+2019,Colima,Hombres,De 60 años y más,8103006,1.4654765218974597
+2020,Colima,Mujeres,Total,8103006,1.0505215391565
+2019,Colima,Mujeres,Total,8103006,1.0293508637885702
+2020,Colima,Mujeres,De 18 a 24 años,8103006,0.0
+2019,Colima,Mujeres,De 18 a 24 años,8103006,0.0822044672409639
+2020,Colima,Mujeres,De 25 a 34 años,8103006,1.05682009649996
+2019,Colima,Mujeres,De 25 a 34 años,8103006,1.04484808147724
+2020,Colima,Mujeres,De 35 a 44 años,8103006,1.85603222345347
+2019,Colima,Mujeres,De 35 a 44 años,8103006,1.81220134228188
+2020,Colima,Mujeres,De 45 a 54 años,8103006,1.56890664261323
+2019,Colima,Mujeres,De 45 a 54 años,8103006,1.4900997748443798
+2020,Colima,Mujeres,De 55 a 59 años,8103006,0.2236827601410929
+2019,Colima,Mujeres,De 55 a 59 años,8103006,0.213434067497581
+2020,Colima,Mujeres,De 60 años y más,8103006,0.297533081631905
+2019,Colima,Mujeres,De 60 años y más,8103006,0.432039860220422
+2020,Chiapas,Total,Total,8103007,1.0
+2019,Chiapas,Total,Total,8103007,1.0
+2020,Chiapas,Total,De 18 a 24 años,8103007,0.0106883664009729
+2019,Chiapas,Total,De 18 a 24 años,8103007,0.179031594788072
+2020,Chiapas,Total,De 25 a 34 años,8103007,0.237994565423316
+2019,Chiapas,Total,De 25 a 34 años,8103007,0.575905315609258
+2020,Chiapas,Total,De 35 a 44 años,8103007,1.89005561970486
+2019,Chiapas,Total,De 35 a 44 años,8103007,1.70513601686163
+2020,Chiapas,Total,De 45 a 54 años,8103007,2.39097528949155
+2019,Chiapas,Total,De 45 a 54 años,8103007,1.94936591827408
+2020,Chiapas,Total,De 55 a 59 años,8103007,1.12753699293628
+2019,Chiapas,Total,De 55 a 59 años,8103007,1.1241585537900198
+2020,Chiapas,Total,De 60 años y más,8103007,0.9751148015388168
+2019,Chiapas,Total,De 60 años y más,8103007,0.834077605411304
+2020,Chiapas,Hombres,Total,8103007,1.00306243785008
+2019,Chiapas,Hombres,Total,8103007,1.1027826514748098
+2020,Chiapas,Hombres,De 18 a 24 años,8103007,0.0
+2019,Chiapas,Hombres,De 18 a 24 años,8103007,0.142497700830063
+2020,Chiapas,Hombres,De 25 a 34 años,8103007,0.299783543944672
+2019,Chiapas,Hombres,De 25 a 34 años,8103007,0.4976159783297489
+2020,Chiapas,Hombres,De 35 a 44 años,8103007,1.48451127511695
+2019,Chiapas,Hombres,De 35 a 44 años,8103007,1.5214189111134802
+2020,Chiapas,Hombres,De 45 a 54 años,8103007,2.4162673315075094
+2019,Chiapas,Hombres,De 45 a 54 años,8103007,2.11232343098878
+2020,Chiapas,Hombres,De 55 a 59 años,8103007,1.7127475860768198
+2019,Chiapas,Hombres,De 55 a 59 años,8103007,1.4245127719918
+2020,Chiapas,Hombres,De 60 años y más,8103007,1.47683660049681
+2019,Chiapas,Hombres,De 60 años y más,8103007,1.22921822735878
+2020,Chiapas,Mujeres,Total,8103007,0.997182515214749
+2019,Chiapas,Mujeres,Total,8103007,0.9053702430370584
+2020,Chiapas,Mujeres,De 18 a 24 años,8103007,0.0212577448463769
+2019,Chiapas,Mujeres,De 18 a 24 años,8103007,0.221472978657544
+2020,Chiapas,Mujeres,De 25 a 34 años,8103007,0.180496219252265
+2019,Chiapas,Mujeres,De 25 a 34 años,8103007,0.663673773281137
+2020,Chiapas,Mujeres,De 35 a 44 años,8103007,2.24103920476881
+2019,Chiapas,Mujeres,De 35 a 44 años,8103007,1.90933180128965
+2020,Chiapas,Mujeres,De 45 a 54 años,8103007,2.36832670800498
+2019,Chiapas,Mujeres,De 45 a 54 años,8103007,1.7733572786597802
+2020,Chiapas,Mujeres,De 55 a 59 años,8103007,0.581304947464337
+2019,Chiapas,Mujeres,De 55 a 59 años,8103007,0.7805851301905581
+2020,Chiapas,Mujeres,De 60 años y más,8103007,0.499708420208134
+2019,Chiapas,Mujeres,De 60 años y más,8103007,0.375515799581684
+2020,Chihuahua,Total,Total,8103008,1.0
+2019,Chihuahua,Total,Total,8103008,1.0
+2020,Chihuahua,Total,De 18 a 24 años,8103008,0.0063120448211149
+2019,Chihuahua,Total,De 18 a 24 años,8103008,0.0
+2020,Chihuahua,Total,De 25 a 34 años,8103008,0.591411693723134
+2019,Chihuahua,Total,De 25 a 34 años,8103008,0.545799946303946
+2020,Chihuahua,Total,De 35 a 44 años,8103008,1.55156613213245
+2019,Chihuahua,Total,De 35 a 44 años,8103008,1.5721047506727095
+2020,Chihuahua,Total,De 45 a 54 años,8103008,1.92088802810067
+2019,Chihuahua,Total,De 45 a 54 años,8103008,1.92280089573874
+2020,Chihuahua,Total,De 55 a 59 años,8103008,1.32050900909888
+2019,Chihuahua,Total,De 55 a 59 años,8103008,1.3667206391633
+2020,Chihuahua,Total,De 60 años y más,8103008,0.8074648144584489
+2019,Chihuahua,Total,De 60 años y más,8103008,0.8685312523325319
+2020,Chihuahua,Hombres,Total,8103008,0.8946966638160231
+2019,Chihuahua,Hombres,Total,8103008,0.901931712448916
+2020,Chihuahua,Hombres,De 18 a 24 años,8103008,0.0
+2019,Chihuahua,Hombres,De 18 a 24 años,8103008,0.0
+2020,Chihuahua,Hombres,De 25 a 34 años,8103008,0.6319658528434892
+2019,Chihuahua,Hombres,De 25 a 34 años,8103008,0.5659162005960611
+2020,Chihuahua,Hombres,De 35 a 44 años,8103008,1.4468674715772405
+2019,Chihuahua,Hombres,De 35 a 44 años,8103008,1.51473781061349
+2020,Chihuahua,Hombres,De 45 a 54 años,8103008,1.93686933090942
+2019,Chihuahua,Hombres,De 45 a 54 años,8103008,1.9445986714679004
+2020,Chihuahua,Hombres,De 55 a 59 años,8103008,1.34766143194887
+2019,Chihuahua,Hombres,De 55 a 59 años,8103008,1.33837630767204
+2020,Chihuahua,Hombres,De 60 años y más,8103008,0.995229247553256
+2019,Chihuahua,Hombres,De 60 años y más,8103008,1.03388672258146
+2020,Chihuahua,Mujeres,Total,8103008,1.10237370435111
+2019,Chihuahua,Mujeres,Total,8103008,1.0953302366543
+2020,Chihuahua,Mujeres,De 18 a 24 años,8103008,0.011650982777235
+2019,Chihuahua,Mujeres,De 18 a 24 años,8103008,0.0
+2020,Chihuahua,Mujeres,De 25 a 34 años,8103008,0.56023272493196
+2019,Chihuahua,Mujeres,De 25 a 34 años,8103008,0.530641808215663
+2020,Chihuahua,Mujeres,De 35 a 44 años,8103008,1.62527880511488
+2019,Chihuahua,Mujeres,De 35 a 44 años,8103008,1.6106982729292698
+2020,Chihuahua,Mujeres,De 45 a 54 años,8103008,1.9045632098162
+2019,Chihuahua,Mujeres,De 45 a 54 años,8103008,1.90274098737817
+2020,Chihuahua,Mujeres,De 55 a 59 años,8103008,1.29660450213047
+2019,Chihuahua,Mujeres,De 55 a 59 años,8103008,1.3862478344848002
+2020,Chihuahua,Mujeres,De 60 años y más,8103008,0.66339618298076
+2019,Chihuahua,Mujeres,De 60 años y más,8103008,0.7393283544115751
+2020,Ciudad de México,Total,Total,8103009,1.0
+2019,Ciudad de México,Total,Total,8103009,1.0
+2020,Ciudad de México,Total,De 18 a 24 años,8103009,0.0
+2019,Ciudad de México,Total,De 18 a 24 años,8103009,0.0
+2020,Ciudad de México,Total,De 25 a 34 años,8103009,0.384171917655113
+2019,Ciudad de México,Total,De 25 a 34 años,8103009,0.3233886808402
+2020,Ciudad de México,Total,De 35 a 44 años,8103009,1.36098124257288
+2019,Ciudad de México,Total,De 35 a 44 años,8103009,1.32502262863579
+2020,Ciudad de México,Total,De 45 a 54 años,8103009,1.8734309370513
+2019,Ciudad de México,Total,De 45 a 54 años,8103009,1.88408731333648
+2020,Ciudad de México,Total,De 55 a 59 años,8103009,1.18299552331137
+2019,Ciudad de México,Total,De 55 a 59 años,8103009,1.3585441414240902
+2020,Ciudad de México,Total,De 60 años y más,8103009,1.2119498063704002
+2019,Ciudad de México,Total,De 60 años y más,8103009,1.29888939232955
+2020,Ciudad de México,Hombres,Total,8103009,0.982424134476716
+2019,Ciudad de México,Hombres,Total,8103009,0.9918086093705798
+2020,Ciudad de México,Hombres,De 18 a 24 años,8103009,0.0
+2019,Ciudad de México,Hombres,De 18 a 24 años,8103009,0.0
+2020,Ciudad de México,Hombres,De 25 a 34 años,8103009,0.3060206966071579
+2019,Ciudad de México,Hombres,De 25 a 34 años,8103009,0.2711440375981469
+2020,Ciudad de México,Hombres,De 35 a 44 años,8103009,1.30687136213679
+2019,Ciudad de México,Hombres,De 35 a 44 años,8103009,1.27131351266842
+2020,Ciudad de México,Hombres,De 45 a 54 años,8103009,1.77414348280482
+2019,Ciudad de México,Hombres,De 45 a 54 años,8103009,1.8059944081972097
+2020,Ciudad de México,Hombres,De 55 a 59 años,8103009,1.4330482967246103
+2019,Ciudad de México,Hombres,De 55 a 59 años,8103009,1.5551875654255305
+2020,Ciudad de México,Hombres,De 60 años y más,8103009,1.6449844122271498
+2019,Ciudad de México,Hombres,De 60 años y más,8103009,1.70657435580701
+2020,Ciudad de México,Mujeres,Total,8103009,1.01589527571034
+2019,Ciudad de México,Mujeres,Total,8103009,1.00740371231433
+2020,Ciudad de México,Mujeres,De 18 a 24 años,8103009,0.0
+2019,Ciudad de México,Mujeres,De 18 a 24 años,8103009,0.0
+2020,Ciudad de México,Mujeres,De 25 a 34 años,8103009,0.459537471850485
+2019,Ciudad de México,Mujeres,De 25 a 34 años,8103009,0.374155513496059
+2020,Ciudad de México,Mujeres,De 35 a 44 años,8103009,1.4061709463449097
+2019,Ciudad de México,Mujeres,De 35 a 44 años,8103009,1.37080069980127
+2020,Ciudad de México,Mujeres,De 45 a 54 años,8103009,1.95369716664586
+2019,Ciudad de México,Mujeres,De 45 a 54 años,8103009,1.94923731335956
+2020,Ciudad de México,Mujeres,De 55 a 59 años,8103009,0.9771915085993887
+2019,Ciudad de México,Mujeres,De 55 a 59 años,8103009,1.19395985137838
+2020,Ciudad de México,Mujeres,De 60 años y más,8103009,0.8740092226322159
+2019,Ciudad de México,Mujeres,De 60 años y más,8103009,0.9762062555921048
+2020,Durango,Total,Total,8103010,1.0
+2019,Durango,Total,Total,8103010,1.0
+2020,Durango,Total,De 18 a 24 años,8103010,0.01971603368511
+2019,Durango,Total,De 18 a 24 años,8103010,0.0
+2020,Durango,Total,De 25 a 34 años,8103010,0.32186167403659
+2019,Durango,Total,De 25 a 34 años,8103010,0.315794931690621
+2020,Durango,Total,De 35 a 44 años,8103010,1.57770918906005
+2019,Durango,Total,De 35 a 44 años,8103010,1.56243458935856
+2020,Durango,Total,De 45 a 54 años,8103010,1.97548813022325
+2019,Durango,Total,De 45 a 54 años,8103010,2.00142853028791
+2020,Durango,Total,De 55 a 59 años,8103010,1.77163194609216
+2019,Durango,Total,De 55 a 59 años,8103010,1.85113264700988
+2020,Durango,Total,De 60 años y más,8103010,1.17768785354042
+2019,Durango,Total,De 60 años y más,8103010,1.20558512189028
+2020,Durango,Hombres,Total,8103010,0.8983706240037781
+2019,Durango,Hombres,Total,8103010,0.8863542346975952
+2020,Durango,Hombres,De 18 a 24 años,8103010,0.0
+2019,Durango,Hombres,De 18 a 24 años,8103010,0.0
+2020,Durango,Hombres,De 25 a 34 años,8103010,0.206241827816393
+2019,Durango,Hombres,De 25 a 34 años,8103010,0.216004560787467
+2020,Durango,Hombres,De 35 a 44 años,8103010,1.5369798901607703
+2019,Durango,Hombres,De 35 a 44 años,8103010,1.6006154784016098
+2020,Durango,Hombres,De 45 a 54 años,8103010,2.1806848679913204
+2019,Durango,Hombres,De 45 a 54 años,8103010,1.9134719023376896
+2020,Durango,Hombres,De 55 a 59 años,8103010,1.7970720257675403
+2019,Durango,Hombres,De 55 a 59 años,8103010,2.03807306761106
+2020,Durango,Hombres,De 60 años y más,8103010,1.38181608599176
+2019,Durango,Hombres,De 60 años y más,8103010,1.5704528119800298
+2020,Durango,Mujeres,Total,8103010,1.09688995923977
+2019,Durango,Mujeres,Total,8103010,1.10831804095338
+2020,Durango,Mujeres,De 18 a 24 años,8103010,0.036372481040166
+2019,Durango,Mujeres,De 18 a 24 años,8103010,0.0
+2020,Durango,Mujeres,De 25 a 34 años,8103010,0.4161314236133689
+2019,Durango,Mujeres,De 25 a 34 años,8103010,0.3948220343765119
+2020,Durango,Mujeres,De 35 a 44 años,8103010,1.60149895288904
+2019,Durango,Mujeres,De 35 a 44 años,8103010,1.5274719392798202
+2020,Durango,Mujeres,De 45 a 54 años,8103010,1.81491157938266
+2019,Durango,Mujeres,De 45 a 54 años,8103010,2.06302042132171
+2020,Durango,Mujeres,De 55 a 59 años,8103010,1.74747941694511
+2019,Durango,Mujeres,De 55 a 59 años,8103010,1.7074797366575802
+2020,Durango,Mujeres,De 60 años y más,8103010,1.02126022438558
+2019,Durango,Mujeres,De 60 años y más,8103010,0.935629009650177
+2020,Guanajuato,Total,Total,8103011,1.0
+2019,Guanajuato,Total,Total,8103011,1.0
+2020,Guanajuato,Total,De 18 a 24 años,8103011,0.0
+2019,Guanajuato,Total,De 18 a 24 años,8103011,0.0
+2020,Guanajuato,Total,De 25 a 34 años,8103011,0.563926347665037
+2019,Guanajuato,Total,De 25 a 34 años,8103011,0.52567053738333
+2020,Guanajuato,Total,De 35 a 44 años,8103011,1.66586345653753
+2019,Guanajuato,Total,De 35 a 44 años,8103011,1.6287575706449398
+2020,Guanajuato,Total,De 45 a 54 años,8103011,2.4374298527612903
+2019,Guanajuato,Total,De 45 a 54 años,8103011,2.38802265881935
+2020,Guanajuato,Total,De 55 a 59 años,8103011,1.02984130625483
+2019,Guanajuato,Total,De 55 a 59 años,8103011,1.13192960637414
+2020,Guanajuato,Total,De 60 años y más,8103011,0.162334922668317
+2019,Guanajuato,Total,De 60 años y más,8103011,0.4088908958382981
+2020,Guanajuato,Hombres,Total,8103011,0.8059540409563449
+2019,Guanajuato,Hombres,Total,8103011,0.8375592049726459
+2020,Guanajuato,Hombres,De 18 a 24 años,8103011,0.0
+2019,Guanajuato,Hombres,De 18 a 24 años,8103011,0.0
+2020,Guanajuato,Hombres,De 25 a 34 años,8103011,0.455156977011227
+2019,Guanajuato,Hombres,De 25 a 34 años,8103011,0.4403059249256699
+2020,Guanajuato,Hombres,De 35 a 44 años,8103011,1.6504224335844797
+2019,Guanajuato,Hombres,De 35 a 44 años,8103011,1.66674182251035
+2020,Guanajuato,Hombres,De 45 a 54 años,8103011,2.5233748653090404
+2019,Guanajuato,Hombres,De 45 a 54 años,8103011,2.29567221872743
+2020,Guanajuato,Hombres,De 55 a 59 años,8103011,1.5691181164617602
+2019,Guanajuato,Hombres,De 55 a 59 años,8103011,1.6492868390789002
+2020,Guanajuato,Hombres,De 60 años y más,8103011,0.157760756934781
+2019,Guanajuato,Hombres,De 60 años y más,8103011,0.565280073346912
+2020,Guanajuato,Mujeres,Total,8103011,1.17850527365177
+2019,Guanajuato,Mujeres,Total,8103011,1.1493505795606398
+2020,Guanajuato,Mujeres,De 18 a 24 años,8103011,0.0
+2019,Guanajuato,Mujeres,De 18 a 24 años,8103011,0.0
+2020,Guanajuato,Mujeres,De 25 a 34 años,8103011,0.637307749130609
+2019,Guanajuato,Mujeres,De 25 a 34 años,8103011,0.586213827377348
+2020,Guanajuato,Mujeres,De 35 a 44 años,8103011,1.6631922819007097
+2019,Guanajuato,Mujeres,De 35 a 44 años,8103011,1.5943329970696998
+2020,Guanajuato,Mujeres,De 45 a 54 años,8103011,2.3714280247307005
+2019,Guanajuato,Mujeres,De 45 a 54 años,8103011,2.43713409741793
+2020,Guanajuato,Mujeres,De 55 a 59 años,8103011,0.6987227866255281
+2019,Guanajuato,Mujeres,De 55 a 59 años,8103011,0.793734873487349
+2020,Guanajuato,Mujeres,De 60 años y más,8103011,0.163621090545307
+2019,Guanajuato,Mujeres,De 60 años y más,8103011,0.306927003676657
+2020,Guerrero,Total,Total,8103012,1.0
+2019,Guerrero,Total,Total,8103012,1.0
+2020,Guerrero,Total,De 18 a 24 años,8103012,0.0
+2019,Guerrero,Total,De 18 a 24 años,8103012,0.009359448492574
+2020,Guerrero,Total,De 25 a 34 años,8103012,0.1639109077219449
+2019,Guerrero,Total,De 25 a 34 años,8103012,0.346677699248346
+2020,Guerrero,Total,De 35 a 44 años,8103012,1.24408171809564
+2019,Guerrero,Total,De 35 a 44 años,8103012,1.62832432417831
+2020,Guerrero,Total,De 45 a 54 años,8103012,2.5303742974723806
+2019,Guerrero,Total,De 45 a 54 años,8103012,2.3840897131280303
+2020,Guerrero,Total,De 55 a 59 años,8103012,2.60444110527715
+2019,Guerrero,Total,De 55 a 59 años,8103012,1.80731253713166
+2020,Guerrero,Total,De 60 años y más,8103012,1.05339865310962
+2019,Guerrero,Total,De 60 años y más,8103012,0.6566886315774499
+2020,Guerrero,Hombres,Total,8103012,1.00219496775762
+2019,Guerrero,Hombres,Total,8103012,1.00090969300434
+2020,Guerrero,Hombres,De 18 a 24 años,8103012,0.0
+2019,Guerrero,Hombres,De 18 a 24 años,8103012,0.018887655006983
+2020,Guerrero,Hombres,De 25 a 34 años,8103012,0.12983295004353
+2019,Guerrero,Hombres,De 25 a 34 años,8103012,0.3538060626246989
+2020,Guerrero,Hombres,De 35 a 44 años,8103012,1.06098961947722
+2019,Guerrero,Hombres,De 35 a 44 años,8103012,1.34656133634372
+2020,Guerrero,Hombres,De 45 a 54 años,8103012,2.39922788559212
+2019,Guerrero,Hombres,De 45 a 54 años,8103012,2.29215717189865
+2020,Guerrero,Hombres,De 55 a 59 años,8103012,3.1053585984967
+2019,Guerrero,Hombres,De 55 a 59 años,8103012,2.6447332112589303
+2020,Guerrero,Hombres,De 60 años y más,8103012,1.55891860866255
+2019,Guerrero,Hombres,De 60 años y más,8103012,0.9387645005712388
+2020,Guerrero,Mujeres,Total,8103012,0.9980278126141332
+2019,Guerrero,Mujeres,Total,8103012,0.999182688950165
+2020,Guerrero,Mujeres,De 18 a 24 años,8103012,0.0
+2019,Guerrero,Mujeres,De 18 a 24 años,8103012,0.0
+2020,Guerrero,Mujeres,De 25 a 34 años,8103012,0.195476156969965
+2019,Guerrero,Mujeres,De 25 a 34 años,8103012,0.3401169290190649
+2020,Guerrero,Mujeres,De 35 a 44 años,8103012,1.39998512192225
+2019,Guerrero,Mujeres,De 35 a 44 años,8103012,1.86740144108246
+2020,Guerrero,Mujeres,De 45 a 54 años,8103012,2.64353140142974
+2019,Guerrero,Mujeres,De 45 a 54 años,8103012,2.46356721799369
+2020,Guerrero,Mujeres,De 55 a 59 años,8103012,2.16755693156397
+2019,Guerrero,Mujeres,De 55 a 59 años,8103012,1.07531382310866
+2020,Guerrero,Mujeres,De 60 años y más,8103012,0.6122622641561141
+2019,Guerrero,Mujeres,De 60 años y más,8103012,0.410196243423861
+2020,Hidalgo,Total,Total,8103013,1.0
+2019,Hidalgo,Total,Total,8103013,1.0
+2020,Hidalgo,Total,De 18 a 24 años,8103013,0.035642313086909
+2019,Hidalgo,Total,De 18 a 24 años,8103013,0.018332887891222
+2020,Hidalgo,Total,De 25 a 34 años,8103013,0.933393838430482
+2019,Hidalgo,Total,De 25 a 34 años,8103013,1.00896574324646
+2020,Hidalgo,Total,De 35 a 44 años,8103013,1.54156501188117
+2019,Hidalgo,Total,De 35 a 44 años,8103013,1.54947836402115
+2020,Hidalgo,Total,De 45 a 54 años,8103013,1.2869253550673605
+2019,Hidalgo,Total,De 45 a 54 años,8103013,1.34605803699142
+2020,Hidalgo,Total,De 55 a 59 años,8103013,1.5451559644256998
+2019,Hidalgo,Total,De 55 a 59 años,8103013,1.5315655798336698
+2020,Hidalgo,Total,De 60 años y más,8103013,0.8937034254749471
+2019,Hidalgo,Total,De 60 años y más,8103013,0.6667424767741561
+2020,Hidalgo,Hombres,Total,8103013,0.763411219991405
+2019,Hidalgo,Hombres,Total,8103013,0.787811780202591
+2020,Hidalgo,Hombres,De 18 a 24 años,8103013,0.046615843116095
+2019,Hidalgo,Hombres,De 18 a 24 años,8103013,0.0
+2020,Hidalgo,Hombres,De 25 a 34 años,8103013,0.779329193233509
+2019,Hidalgo,Hombres,De 25 a 34 años,8103013,0.973442941370525
+2020,Hidalgo,Hombres,De 35 a 44 años,8103013,1.4383501023809
+2019,Hidalgo,Hombres,De 35 a 44 años,8103013,1.49009716004211
+2020,Hidalgo,Hombres,De 45 a 54 años,8103013,1.07820258517461
+2019,Hidalgo,Hombres,De 45 a 54 años,8103013,0.9852682751186732
+2020,Hidalgo,Hombres,De 55 a 59 años,8103013,1.90571011152722
+2019,Hidalgo,Hombres,De 55 a 59 años,8103013,2.32778045036086
+2020,Hidalgo,Hombres,De 60 años y más,8103013,1.66581140084627
+2019,Hidalgo,Hombres,De 60 años y más,8103013,1.1167961858466
+2020,Hidalgo,Mujeres,Total,8103013,1.21185832282728
+2019,Hidalgo,Mujeres,Total,8103013,1.18984432385505
+2020,Hidalgo,Mujeres,De 18 a 24 años,8103013,0.0294570245484699
+2019,Hidalgo,Mujeres,De 18 a 24 años,8103013,0.0308169808007849
+2020,Hidalgo,Mujeres,De 25 a 34 años,8103013,1.02542224161094
+2019,Hidalgo,Mujeres,De 25 a 34 años,8103013,1.03212995145375
+2020,Hidalgo,Mujeres,De 35 a 44 años,8103013,1.5761181122788095
+2019,Hidalgo,Mujeres,De 35 a 44 años,8103013,1.5644153977684998
+2020,Hidalgo,Mujeres,De 45 a 54 años,8103013,1.3911892753789297
+2019,Hidalgo,Mujeres,De 45 a 54 años,8103013,1.54599944578559
+2020,Hidalgo,Mujeres,De 55 a 59 años,8103013,1.34073983102482
+2019,Hidalgo,Mujeres,De 55 a 59 años,8103013,1.06210296463013
+2020,Hidalgo,Mujeres,De 60 años y más,8103013,0.462513354467939
+2019,Hidalgo,Mujeres,De 60 años y más,8103013,0.402109130956199
+2020,Jalisco,Total,Total,8103014,1.0
+2019,Jalisco,Total,Total,8103014,1.0
+2020,Jalisco,Total,De 18 a 24 años,8103014,0.006414764669031
+2019,Jalisco,Total,De 18 a 24 años,8103014,0.033485365783751
+2020,Jalisco,Total,De 25 a 34 años,8103014,0.9237344364517
+2019,Jalisco,Total,De 25 a 34 años,8103014,0.8145380648947602
+2020,Jalisco,Total,De 35 a 44 años,8103014,1.76370235231707
+2019,Jalisco,Total,De 35 a 44 años,8103014,1.86722957856873
+2020,Jalisco,Total,De 45 a 54 años,8103014,1.44410804484221
+2019,Jalisco,Total,De 45 a 54 años,8103014,1.44619188170528
+2020,Jalisco,Total,De 55 a 59 años,8103014,0.929160218539487
+2019,Jalisco,Total,De 55 a 59 años,8103014,0.998273107683479
+2020,Jalisco,Total,De 60 años y más,8103014,0.7409249448643391
+2019,Jalisco,Total,De 60 años y más,8103014,0.7265425304020738
+2020,Jalisco,Hombres,Total,8103014,1.0757994395582795
+2019,Jalisco,Hombres,Total,8103014,1.06493809422912
+2020,Jalisco,Hombres,De 18 a 24 años,8103014,0.01173698293835
+2019,Jalisco,Hombres,De 18 a 24 años,8103014,0.024741273521993
+2020,Jalisco,Hombres,De 25 a 34 años,8103014,0.600585258645931
+2019,Jalisco,Hombres,De 25 a 34 años,8103014,0.5671069249644899
+2020,Jalisco,Hombres,De 35 a 44 años,8103014,1.91470224582964
+2019,Jalisco,Hombres,De 35 a 44 años,8103014,1.89452088626406
+2020,Jalisco,Hombres,De 45 a 54 años,8103014,1.55492523646612
+2019,Jalisco,Hombres,De 45 a 54 años,8103014,1.57446441868768
+2020,Jalisco,Hombres,De 55 a 59 años,8103014,1.25697243624034
+2019,Jalisco,Hombres,De 55 a 59 años,8103014,1.40288943691097
+2020,Jalisco,Hombres,De 60 años y más,8103014,0.9646325043687348
+2019,Jalisco,Hombres,De 60 años y más,8103014,0.9785491243132752
+2020,Jalisco,Mujeres,Total,8103014,0.9274653768601692
+2019,Jalisco,Mujeres,Total,8103014,0.937901836821867
+2020,Jalisco,Mujeres,De 18 a 24 años,8103014,0.0
+2019,Jalisco,Mujeres,De 18 a 24 años,8103014,0.0435711339360749
+2020,Jalisco,Mujeres,De 25 a 34 años,8103014,1.29666795684153
+2019,Jalisco,Mujeres,De 25 a 34 años,8103014,1.09259156617251
+2020,Jalisco,Mujeres,De 35 a 44 años,8103014,1.6072418091504
+2019,Jalisco,Mujeres,De 35 a 44 años,8103014,1.843314179084
+2020,Jalisco,Mujeres,De 45 a 54 años,8103014,1.32812206970308
+2019,Jalisco,Mujeres,De 45 a 54 años,8103014,1.3131317506052798
+2020,Jalisco,Mujeres,De 55 a 59 años,8103014,0.587934939704238
+2019,Jalisco,Mujeres,De 55 a 59 años,8103014,0.585313527846794
+2020,Jalisco,Mujeres,De 60 años y más,8103014,0.521098023588714
+2019,Jalisco,Mujeres,De 60 años y más,8103014,0.4824623223384141
+2020,México,Total,Total,8103015,1.0
+2019,México,Total,Total,8103015,1.0
+2020,México,Total,De 18 a 24 años,8103015,0.004906964287417
+2019,México,Total,De 18 a 24 años,8103015,0.0
+2020,México,Total,De 25 a 34 años,8103015,0.3613671400619199
+2019,México,Total,De 25 a 34 años,8103015,0.248645158778866
+2020,México,Total,De 35 a 44 años,8103015,1.58359276572739
+2019,México,Total,De 35 a 44 años,8103015,1.53430631624488
+2020,México,Total,De 45 a 54 años,8103015,2.24237421832779
+2019,México,Total,De 45 a 54 años,8103015,2.27352543405548
+2020,México,Total,De 55 a 59 años,8103015,1.63360960630798
+2019,México,Total,De 55 a 59 años,8103015,1.9802289178546304
+2020,México,Total,De 60 años y más,8103015,0.380016247381933
+2019,México,Total,De 60 años y más,8103015,0.5075316315359429
+2020,México,Hombres,Total,8103015,0.9227849749031908
+2019,México,Hombres,Total,8103015,1.0017245566148498
+2020,México,Hombres,De 18 a 24 años,8103015,0.010541027297586
+2019,México,Hombres,De 18 a 24 años,8103015,0.0
+2020,México,Hombres,De 25 a 34 años,8103015,0.280648079556291
+2019,México,Hombres,De 25 a 34 años,8103015,0.168641502469177
+2020,México,Hombres,De 35 a 44 años,8103015,1.3788368685563397
+2019,México,Hombres,De 35 a 44 años,8103015,1.33195484765843
+2020,México,Hombres,De 45 a 54 años,8103015,2.36383237009503
+2019,México,Hombres,De 45 a 54 años,8103015,2.34383146330678
+2020,México,Hombres,De 55 a 59 años,8103015,2.08356222219315
+2019,México,Hombres,De 55 a 59 años,8103015,2.47919965667687
+2020,México,Hombres,De 60 años y más,8103015,0.64483874163217
+2019,México,Hombres,De 60 años y más,8103015,0.851523914842759
+2020,México,Mujeres,Total,8103015,1.07186471919762
+2019,México,Mujeres,Total,8103015,0.9983964821088122
+2020,México,Mujeres,De 18 a 24 años,8103015,0.0
+2019,México,Mujeres,De 18 a 24 años,8103015,0.0
+2020,México,Mujeres,De 25 a 34 años,8103015,0.4298323428634151
+2019,México,Mujeres,De 25 a 34 años,8103015,0.325945142140964
+2020,México,Mujeres,De 35 a 44 años,8103015,1.73318277783817
+2019,México,Mujeres,De 35 a 44 años,8103015,1.71269830300989
+2020,México,Mujeres,De 45 a 54 años,8103015,2.14308571343377
+2019,México,Mujeres,De 45 a 54 años,8103015,2.2100496587733898
+2020,México,Mujeres,De 55 a 59 años,8103015,1.27953699832229
+2019,México,Mujeres,De 55 a 59 años,8103015,1.5256290797968597
+2020,México,Mujeres,De 60 años y más,8103015,0.177823332429764
+2019,México,Mujeres,De 60 años y más,8103015,0.203461190438311
+2020,Michoacán de Ocampo,Total,Total,8103016,1.0
+2019,Michoacán de Ocampo,Total,Total,8103016,1.0
+2020,Michoacán de Ocampo,Total,De 18 a 24 años,8103016,0.0
+2019,Michoacán de Ocampo,Total,De 18 a 24 años,8103016,0.0
+2020,Michoacán de Ocampo,Total,De 25 a 34 años,8103016,0.277762379246475
+2019,Michoacán de Ocampo,Total,De 25 a 34 años,8103016,0.34748903419042
+2020,Michoacán de Ocampo,Total,De 35 a 44 años,8103016,2.06382115252695
+2019,Michoacán de Ocampo,Total,De 35 a 44 años,8103016,2.22253900710868
+2020,Michoacán de Ocampo,Total,De 45 a 54 años,8103016,2.41389020974427
+2019,Michoacán de Ocampo,Total,De 45 a 54 años,8103016,2.16636040701001
+2020,Michoacán de Ocampo,Total,De 55 a 59 años,8103016,0.9024324099589232
+2019,Michoacán de Ocampo,Total,De 55 a 59 años,8103016,0.91602463201775
+2020,Michoacán de Ocampo,Total,De 60 años y más,8103016,0.265802128241226
+2019,Michoacán de Ocampo,Total,De 60 años y más,8103016,0.212261188956706
+2020,Michoacán de Ocampo,Hombres,Total,8103016,0.936825041847342
+2019,Michoacán de Ocampo,Hombres,Total,8103016,0.93477166725697
+2020,Michoacán de Ocampo,Hombres,De 18 a 24 años,8103016,0.0
+2019,Michoacán de Ocampo,Hombres,De 18 a 24 años,8103016,0.0
+2020,Michoacán de Ocampo,Hombres,De 25 a 34 años,8103016,0.390624158824854
+2019,Michoacán de Ocampo,Hombres,De 25 a 34 años,8103016,0.4346817224259399
+2020,Michoacán de Ocampo,Hombres,De 35 a 44 años,8103016,2.1831515390383305
+2019,Michoacán de Ocampo,Hombres,De 35 a 44 años,8103016,2.36091625916368
+2020,Michoacán de Ocampo,Hombres,De 45 a 54 años,8103016,2.1778584185054
+2019,Michoacán de Ocampo,Hombres,De 45 a 54 años,8103016,1.9032950646042095
+2020,Michoacán de Ocampo,Hombres,De 55 a 59 años,8103016,0.892303050479133
+2019,Michoacán de Ocampo,Hombres,De 55 a 59 años,8103016,0.906803606510782
+2020,Michoacán de Ocampo,Hombres,De 60 años y más,8103016,0.302678465013593
+2019,Michoacán de Ocampo,Hombres,De 60 años y más,8103016,0.3112935492850819
+2020,Michoacán de Ocampo,Mujeres,Total,8103016,1.05772179915885
+2019,Michoacán de Ocampo,Mujeres,Total,8103016,1.05957850157402
+2020,Michoacán de Ocampo,Mujeres,De 18 a 24 años,8103016,0.0
+2019,Michoacán de Ocampo,Mujeres,De 18 a 24 años,8103016,0.0
+2020,Michoacán de Ocampo,Mujeres,De 25 a 34 años,8103016,0.184710619382886
+2019,Michoacán de Ocampo,Mujeres,De 25 a 34 años,8103016,0.276275126732368
+2020,Michoacán de Ocampo,Mujeres,De 35 a 44 años,8103016,1.9665697962592
+2019,Michoacán de Ocampo,Mujeres,De 35 a 44 años,8103016,2.11045719075946
+2020,Michoacán de Ocampo,Mujeres,De 45 a 54 años,8103016,2.59603974140257
+2019,Michoacán de Ocampo,Mujeres,De 45 a 54 años,8103016,2.37015070221999
+2020,Michoacán de Ocampo,Mujeres,De 55 a 59 años,8103016,0.909067677826939
+2019,Michoacán de Ocampo,Mujeres,De 55 a 59 años,8103016,0.921982172895378
+2020,Michoacán de Ocampo,Mujeres,De 60 años y más,8103016,0.236489272416122
+2019,Michoacán de Ocampo,Mujeres,De 60 años y más,8103016,0.134719008768323
+2020,Morelos,Total,Total,8103017,1.0
+2019,Morelos,Total,Total,8103017,1.0
+2020,Morelos,Total,De 18 a 24 años,8103017,0.0
+2019,Morelos,Total,De 18 a 24 años,8103017,0.0
+2020,Morelos,Total,De 25 a 34 años,8103017,0.4335653009215679
+2019,Morelos,Total,De 25 a 34 años,8103017,0.4718522506642079
+2020,Morelos,Total,De 35 a 44 años,8103017,2.05556723710583
+2019,Morelos,Total,De 35 a 44 años,8103017,1.95719677198796
+2020,Morelos,Total,De 45 a 54 años,8103017,2.04404587532826
+2019,Morelos,Total,De 45 a 54 años,8103017,2.20570889580419
+2020,Morelos,Total,De 55 a 59 años,8103017,0.8514179382592271
+2019,Morelos,Total,De 55 a 59 años,8103017,0.8800950908727448
+2020,Morelos,Total,De 60 años y más,8103017,0.381474886249338
+2019,Morelos,Total,De 60 años y más,8103017,0.217982305877302
+2020,Morelos,Hombres,Total,8103017,0.677869240802043
+2019,Morelos,Hombres,Total,8103017,0.668147061993035
+2020,Morelos,Hombres,De 18 a 24 años,8103017,0.0
+2019,Morelos,Hombres,De 18 a 24 años,8103017,0.0
+2020,Morelos,Hombres,De 25 a 34 años,8103017,0.53606451629248
+2019,Morelos,Hombres,De 25 a 34 años,8103017,0.6841063008834591
+2020,Morelos,Hombres,De 35 a 44 años,8103017,2.0594100077653503
+2019,Morelos,Hombres,De 35 a 44 años,8103017,1.9426420607907704
+2020,Morelos,Hombres,De 45 a 54 años,8103017,1.9561114370678805
+2019,Morelos,Hombres,De 45 a 54 años,8103017,1.82314698934131
+2020,Morelos,Hombres,De 55 a 59 años,8103017,0.6691327827807989
+2019,Morelos,Hombres,De 55 a 59 años,8103017,1.06802618861403
+2020,Morelos,Hombres,De 60 años y más,8103017,0.606328288817724
+2019,Morelos,Hombres,De 60 años y más,8103017,0.4393988529882559
+2020,Morelos,Mujeres,Total,8103017,1.29476506117597
+2019,Morelos,Mujeres,Total,8103017,1.30323261295968
+2020,Morelos,Mujeres,De 18 a 24 años,8103017,0.0
+2019,Morelos,Mujeres,De 18 a 24 años,8103017,0.0
+2020,Morelos,Mujeres,De 25 a 34 años,8103017,0.3872103698165459
+2019,Morelos,Mujeres,De 25 a 34 años,8103017,0.372906908686636
+2020,Morelos,Mujeres,De 35 a 44 años,8103017,2.02419112108406
+2019,Morelos,Mujeres,De 35 a 44 años,8103017,1.9334384448536104
+2020,Morelos,Mujeres,De 45 a 54 años,8103017,2.06094782667539
+2019,Morelos,Mujeres,De 45 a 54 años,8103017,2.35599241637996
+2020,Morelos,Mujeres,De 55 a 59 años,8103017,0.92926808685064
+2019,Morelos,Mujeres,De 55 a 59 años,8103017,0.7885359784336768
+2020,Morelos,Mujeres,De 60 años y más,8103017,0.27487534907495
+2019,Morelos,Mujeres,De 60 años y más,8103017,0.117033733086521
+2020,Nayarit,Total,Total,8103018,1.0
+2019,Nayarit,Total,Total,8103018,1.0
+2020,Nayarit,Total,De 18 a 24 años,8103018,0.022324936831243
+2019,Nayarit,Total,De 18 a 24 años,8103018,0.022966146157754
+2020,Nayarit,Total,De 25 a 34 años,8103018,0.6827543071767429
+2019,Nayarit,Total,De 25 a 34 años,8103018,0.571884999593677
+2020,Nayarit,Total,De 35 a 44 años,8103018,1.5112504515167602
+2019,Nayarit,Total,De 35 a 44 años,8103018,1.49180624112247
+2020,Nayarit,Total,De 45 a 54 años,8103018,2.10326350590659
+2019,Nayarit,Total,De 45 a 54 años,8103018,2.356896759804929
+2020,Nayarit,Total,De 55 a 59 años,8103018,1.09248150865573
+2019,Nayarit,Total,De 55 a 59 años,8103018,1.1527938521589098
+2020,Nayarit,Total,De 60 años y más,8103018,0.55831987264099
+2019,Nayarit,Total,De 60 años y más,8103018,0.424292966320806
+2020,Nayarit,Hombres,Total,8103018,0.876088102919481
+2019,Nayarit,Hombres,Total,8103018,0.8884907331135088
+2020,Nayarit,Hombres,De 18 a 24 años,8103018,0.049755648232634
+2019,Nayarit,Hombres,De 18 a 24 años,8103018,0.0504876755404319
+2020,Nayarit,Hombres,De 25 a 34 años,8103018,0.6766171064718731
+2019,Nayarit,Hombres,De 25 a 34 años,8103018,0.542041935132367
+2020,Nayarit,Hombres,De 35 a 44 años,8103018,1.6891898590685095
+2019,Nayarit,Hombres,De 35 a 44 años,8103018,1.7876068944045298
+2020,Nayarit,Hombres,De 45 a 54 años,8103018,2.10058338833532
+2019,Nayarit,Hombres,De 45 a 54 años,8103018,2.16886165144467
+2020,Nayarit,Hombres,De 55 a 59 años,8103018,0.7032305701806029
+2019,Nayarit,Hombres,De 55 a 59 años,8103018,0.730026031033264
+2020,Nayarit,Hombres,De 60 años y más,8103018,0.556245818996263
+2019,Nayarit,Hombres,De 60 años y más,8103018,0.582689437192467
+2020,Nayarit,Mujeres,Total,8103018,1.12228334559388
+2019,Nayarit,Mujeres,Total,8103018,1.1099156232461205
+2020,Nayarit,Mujeres,De 18 a 24 años,8103018,0.0
+2019,Nayarit,Mujeres,De 18 a 24 años,8103018,0.0
+2020,Nayarit,Mujeres,De 25 a 34 años,8103018,0.6903732931233381
+2019,Nayarit,Mujeres,De 25 a 34 años,8103018,0.597833389635665
+2020,Nayarit,Mujeres,De 35 a 44 años,8103018,1.37277627145248
+2019,Nayarit,Mujeres,De 35 a 44 años,8103018,1.2629795738406402
+2020,Nayarit,Mujeres,De 45 a 54 años,8103018,2.09740390347345
+2019,Nayarit,Mujeres,De 45 a 54 años,8103018,2.49447449158485
+2020,Nayarit,Mujeres,De 55 a 59 años,8103018,1.3854933685542898
+2019,Nayarit,Mujeres,De 55 a 59 años,8103018,1.48156091347383
+2020,Nayarit,Mujeres,De 60 años y más,8103018,0.5585147418565731
+2019,Nayarit,Mujeres,De 60 años y más,8103018,0.300844240364452
+2020,Nuevo León,Total,Total,8103019,1.0
+2019,Nuevo León,Total,Total,8103019,1.0
+2020,Nuevo León,Total,De 18 a 24 años,8103019,0.021080154316999
+2019,Nuevo León,Total,De 18 a 24 años,8103019,0.031198925837412
+2020,Nuevo León,Total,De 25 a 34 años,8103019,0.4541093093095379
+2019,Nuevo León,Total,De 25 a 34 años,8103019,0.537073749999212
+2020,Nuevo León,Total,De 35 a 44 años,8103019,1.8888310426415305
+2019,Nuevo León,Total,De 35 a 44 años,8103019,2.08717198882908
+2020,Nuevo León,Total,De 45 a 54 años,8103019,1.8344277180013004
+2019,Nuevo León,Total,De 45 a 54 años,8103019,1.5103930400380905
+2020,Nuevo León,Total,De 55 a 59 años,8103019,0.832137667253294
+2019,Nuevo León,Total,De 55 a 59 años,8103019,0.9276144739860592
+2020,Nuevo León,Total,De 60 años y más,8103019,0.818623582816171
+2019,Nuevo León,Total,De 60 años y más,8103019,0.7080022104375752
+2020,Nuevo León,Hombres,Total,8103019,0.825040981120389
+2019,Nuevo León,Hombres,Total,8103019,0.8060408345930251
+2020,Nuevo León,Hombres,De 18 a 24 años,8103019,0.0
+2019,Nuevo León,Hombres,De 18 a 24 años,8103019,0.025077453429484
+2020,Nuevo León,Hombres,De 25 a 34 años,8103019,0.545785947899189
+2019,Nuevo León,Hombres,De 25 a 34 años,8103019,0.632795453864917
+2020,Nuevo León,Hombres,De 35 a 44 años,8103019,1.95815000501549
+2019,Nuevo León,Hombres,De 35 a 44 años,8103019,2.19245603974036
+2020,Nuevo León,Hombres,De 45 a 54 años,8103019,1.6592835398989003
+2019,Nuevo León,Hombres,De 45 a 54 años,8103019,1.25882747923823
+2020,Nuevo León,Hombres,De 55 a 59 años,8103019,1.06881999750135
+2019,Nuevo León,Hombres,De 55 a 59 años,8103019,1.2502482446090502
+2020,Nuevo León,Hombres,De 60 años y más,8103019,0.75418463797189
+2019,Nuevo León,Hombres,De 60 años y más,8103019,0.595028290717965
+2020,Nuevo León,Mujeres,Total,8103019,1.17469901328099
+2019,Nuevo León,Mujeres,Total,8103019,1.19362385905393
+2020,Nuevo León,Mujeres,De 18 a 24 años,8103019,0.036914387083932
+2019,Nuevo León,Mujeres,De 18 a 24 años,8103019,0.0358908498976829
+2020,Nuevo León,Mujeres,De 25 a 34 años,8103019,0.389991746194796
+2019,Nuevo León,Mujeres,De 25 a 34 años,8103019,0.473644712129159
+2020,Nuevo León,Mujeres,De 35 a 44 años,8103019,1.83427553930226
+2019,Nuevo León,Mujeres,De 35 a 44 años,8103019,2.0087645028625505
+2020,Nuevo León,Mujeres,De 45 a 54 años,8103019,1.9455035169485304
+2019,Nuevo León,Mujeres,De 45 a 54 años,8103019,1.6688492184620698
+2020,Nuevo León,Mujeres,De 55 a 59 años,8103019,0.668225349747666
+2019,Nuevo León,Mujeres,De 55 a 59 años,8103019,0.713326905000323
+2020,Nuevo León,Mujeres,De 60 años y más,8103019,0.8502213541726211
+2019,Nuevo León,Mujeres,De 60 años y más,8103019,0.7688987544599569
+2020,Oaxaca,Total,Total,8103020,1.0
+2019,Oaxaca,Total,Total,8103020,1.0
+2020,Oaxaca,Total,De 18 a 24 años,8103020,0.0
+2019,Oaxaca,Total,De 18 a 24 años,8103020,0.0
+2020,Oaxaca,Total,De 25 a 34 años,8103020,0.6702624941228821
+2019,Oaxaca,Total,De 25 a 34 años,8103020,0.7892922554664181
+2020,Oaxaca,Total,De 35 a 44 años,8103020,2.10728644463634
+2019,Oaxaca,Total,De 35 a 44 años,8103020,1.9669246873018695
+2020,Oaxaca,Total,De 45 a 54 años,8103020,1.5201587904706402
+2019,Oaxaca,Total,De 45 a 54 años,8103020,1.55168509578306
+2020,Oaxaca,Total,De 55 a 59 años,8103020,1.0064704821764
+2019,Oaxaca,Total,De 55 a 59 años,8103020,0.8548986748208149
+2020,Oaxaca,Total,De 60 años y más,8103020,0.63223192878747
+2019,Oaxaca,Total,De 60 años y más,8103020,0.688692403746046
+2020,Oaxaca,Hombres,Total,8103020,0.9684591282638
+2019,Oaxaca,Hombres,Total,8103020,0.9958472501308658
+2020,Oaxaca,Hombres,De 18 a 24 años,8103020,0.0
+2019,Oaxaca,Hombres,De 18 a 24 años,8103020,0.0
+2020,Oaxaca,Hombres,De 25 a 34 años,8103020,0.6672649986907999
+2019,Oaxaca,Hombres,De 25 a 34 años,8103020,0.7892301620896391
+2020,Oaxaca,Hombres,De 35 a 44 años,8103020,2.11322857296104
+2019,Oaxaca,Hombres,De 35 a 44 años,8103020,1.96987029920923
+2020,Oaxaca,Hombres,De 45 a 54 años,8103020,1.32161303083603
+2019,Oaxaca,Hombres,De 45 a 54 años,8103020,1.36795977410816
+2020,Oaxaca,Hombres,De 55 a 59 años,8103020,1.0469284444178102
+2019,Oaxaca,Hombres,De 55 a 59 años,8103020,0.925208970984085
+2020,Oaxaca,Hombres,De 60 años y más,8103020,1.0905194391029305
+2019,Oaxaca,Hombres,De 60 años y más,8103020,1.09504481481213
+2020,Oaxaca,Mujeres,Total,8103020,1.02782273794504
+2019,Oaxaca,Mujeres,Total,8103020,1.003662171288
+2020,Oaxaca,Mujeres,De 18 a 24 años,8103020,0.0
+2019,Oaxaca,Mujeres,De 18 a 24 años,8103020,0.0
+2020,Oaxaca,Mujeres,De 25 a 34 años,8103020,0.6732117572335429
+2019,Oaxaca,Mujeres,De 25 a 34 años,8103020,0.789393781473883
+2020,Oaxaca,Mujeres,De 35 a 44 años,8103020,2.09908111096041
+2019,Oaxaca,Mujeres,De 35 a 44 años,8103020,1.96406073832226
+2020,Oaxaca,Mujeres,De 45 a 54 años,8103020,1.6781873160456695
+2019,Oaxaca,Mujeres,De 45 a 54 años,8103020,1.7077579241174097
+2020,Oaxaca,Mujeres,De 55 a 59 años,8103020,0.9729810975439888
+2019,Oaxaca,Mujeres,De 55 a 59 años,8103020,0.7944659101953631
+2020,Oaxaca,Mujeres,De 60 años y más,8103020,0.265277286901627
+2019,Oaxaca,Mujeres,De 60 años y más,8103020,0.346107678849332
+2020,Puebla,Total,Total,8103021,1.0
+2019,Puebla,Total,Total,8103021,1.0
+2020,Puebla,Total,De 18 a 24 años,8103021,0.023142538941566
+2019,Puebla,Total,De 18 a 24 años,8103021,0.020540106125659
+2020,Puebla,Total,De 25 a 34 años,8103021,0.5783062911531321
+2019,Puebla,Total,De 25 a 34 años,8103021,0.7463617842158669
+2020,Puebla,Total,De 35 a 44 años,8103021,1.2382413854931
+2019,Puebla,Total,De 35 a 44 años,8103021,1.28216039334303
+2020,Puebla,Total,De 45 a 54 años,8103021,1.99515298283758
+2019,Puebla,Total,De 45 a 54 años,8103021,1.8939382450541
+2020,Puebla,Total,De 55 a 59 años,8103021,2.0823440714497896
+2019,Puebla,Total,De 55 a 59 años,8103021,1.76790555901145
+2020,Puebla,Total,De 60 años y más,8103021,1.11934623493781
+2019,Puebla,Total,De 60 años y más,8103021,1.03059285907982
+2020,Puebla,Hombres,Total,8103021,0.943705938608404
+2019,Puebla,Hombres,Total,8103021,0.955748999425505
+2020,Puebla,Hombres,De 18 a 24 años,8103021,0.0
+2019,Puebla,Hombres,De 18 a 24 años,8103021,0.0
+2020,Puebla,Hombres,De 25 a 34 años,8103021,0.573848282337904
+2019,Puebla,Hombres,De 25 a 34 años,8103021,0.6872606933599849
+2020,Puebla,Hombres,De 35 a 44 años,8103021,1.27247982948933
+2019,Puebla,Hombres,De 35 a 44 años,8103021,1.33667396547172
+2020,Puebla,Hombres,De 45 a 54 años,8103021,1.84900150581076
+2019,Puebla,Hombres,De 45 a 54 años,8103021,1.7896504151853203
+2020,Puebla,Hombres,De 55 a 59 años,8103021,2.00286915549956
+2019,Puebla,Hombres,De 55 a 59 años,8103021,1.7971568567610805
+2020,Puebla,Hombres,De 60 años y más,8103021,1.6558537375280404
+2019,Puebla,Hombres,De 60 años y más,8103021,1.5040655686905402
+2020,Puebla,Mujeres,Total,8103021,1.0503873410086
+2019,Puebla,Mujeres,Total,8103021,1.03956268254223
+2020,Puebla,Mujeres,De 18 a 24 años,8103021,0.044136057179243
+2019,Puebla,Mujeres,De 18 a 24 años,8103021,0.039557611851187
+2020,Puebla,Mujeres,De 25 a 34 años,8103021,0.5833779815375671
+2019,Puebla,Mujeres,De 25 a 34 años,8103021,0.7979778463842971
+2020,Puebla,Mujeres,De 35 a 44 años,8103021,1.20858693873234
+2019,Puebla,Mujeres,De 35 a 44 años,8103021,1.23708449010321
+2020,Puebla,Mujeres,De 45 a 54 años,8103021,2.10150548875195
+2019,Puebla,Mujeres,De 45 a 54 años,8103021,1.97231098709309
+2020,Puebla,Mujeres,De 55 a 59 años,8103021,2.13774492515087
+2019,Puebla,Mujeres,De 55 a 59 años,8103021,1.7417374331144997
+2020,Puebla,Mujeres,De 60 años y más,8103021,0.7158920603674541
+2019,Puebla,Mujeres,De 60 años y más,8103021,0.666463717832506
+2020,Querétaro,Total,Total,8103022,1.0
+2019,Querétaro,Total,Total,8103022,1.0
+2020,Querétaro,Total,De 18 a 24 años,8103022,0.0
+2019,Querétaro,Total,De 18 a 24 años,8103022,0.032342322113862
+2020,Querétaro,Total,De 25 a 34 años,8103022,0.5704780158502399
+2019,Querétaro,Total,De 25 a 34 años,8103022,0.686148348522237
+2020,Querétaro,Total,De 35 a 44 años,8103022,1.95967040371474
+2019,Querétaro,Total,De 35 a 44 años,8103022,1.8713190027147
+2020,Querétaro,Total,De 45 a 54 años,8103022,2.28986020439752
+2019,Querétaro,Total,De 45 a 54 años,8103022,2.2012097507088906
+2020,Querétaro,Total,De 55 a 59 años,8103022,0.29391035994097
+2019,Querétaro,Total,De 55 a 59 años,8103022,0.3483839158172209
+2020,Querétaro,Total,De 60 años y más,8103022,0.136130420993714
+2019,Querétaro,Total,De 60 años y más,8103022,0.105106771588459
+2020,Querétaro,Hombres,Total,8103022,0.640569454748788
+2019,Querétaro,Hombres,Total,8103022,0.65395706155802
+2020,Querétaro,Hombres,De 18 a 24 años,8103022,0.0
+2019,Querétaro,Hombres,De 18 a 24 años,8103022,0.0485572861705729
+2020,Querétaro,Hombres,De 25 a 34 años,8103022,0.8224011304263599
+2019,Querétaro,Hombres,De 25 a 34 años,8103022,0.8056565413368749
+2020,Querétaro,Hombres,De 35 a 44 años,8103022,1.3929872244492305
+2019,Querétaro,Hombres,De 35 a 44 años,8103022,1.3648658542565
+2020,Querétaro,Hombres,De 45 a 54 años,8103022,2.46823385308174
+2019,Querétaro,Hombres,De 45 a 54 años,8103022,2.55424879551107
+2020,Querétaro,Hombres,De 55 a 59 años,8103022,0.483261482996313
+2019,Querétaro,Hombres,De 55 a 59 años,8103022,0.480181321635984
+2020,Querétaro,Hombres,De 60 años y más,8103022,0.4530312053966209
+2019,Querétaro,Hombres,De 60 años y más,8103022,0.342114178394576
+2020,Querétaro,Mujeres,Total,8103022,1.33985916605026
+2019,Querétaro,Mujeres,Total,8103022,1.3267658694102098
+2020,Querétaro,Mujeres,De 18 a 24 años,8103022,0.0
+2019,Querétaro,Mujeres,De 18 a 24 años,8103022,0.024836670408544
+2020,Querétaro,Mujeres,De 25 a 34 años,8103022,0.45789478274726
+2019,Querétaro,Mujeres,De 25 a 34 años,8103022,0.634358304478301
+2020,Querétaro,Mujeres,De 35 a 44 años,8103022,2.17408298246468
+2019,Querétaro,Mujeres,De 35 a 44 años,8103022,2.06810162425273
+2020,Querétaro,Mujeres,De 45 a 54 años,8103022,2.18772621493614
+2019,Querétaro,Mujeres,De 45 a 54 años,8103022,2.02279137010525
+2020,Querétaro,Mujeres,De 55 a 59 años,8103022,0.208801658476961
+2019,Querétaro,Mujeres,De 55 a 59 años,8103022,0.286061079629462
+2020,Querétaro,Mujeres,De 60 años y más,8103022,0.0
+2019,Querétaro,Mujeres,De 60 años y más,8103022,0.0
+2020,Quintana Roo,Total,Total,8103023,1.0
+2019,Quintana Roo,Total,Total,8103023,1.0
+2020,Quintana Roo,Total,De 18 a 24 años,8103023,0.052882976512736
+2019,Quintana Roo,Total,De 18 a 24 años,8103023,0.127819413721023
+2020,Quintana Roo,Total,De 25 a 34 años,8103023,1.01582303701349
+2019,Quintana Roo,Total,De 25 a 34 años,8103023,1.19898291121275
+2020,Quintana Roo,Total,De 35 a 44 años,8103023,1.5508158764630997
+2019,Quintana Roo,Total,De 35 a 44 años,8103023,1.4092373173713997
+2020,Quintana Roo,Total,De 45 a 54 años,8103023,1.52411552967631
+2019,Quintana Roo,Total,De 45 a 54 años,8103023,1.4644764663328202
+2020,Quintana Roo,Total,De 55 a 59 años,8103023,1.28845522501989
+2019,Quintana Roo,Total,De 55 a 59 años,8103023,0.7947171798125299
+2020,Quintana Roo,Total,De 60 años y más,8103023,0.297344998924343
+2019,Quintana Roo,Total,De 60 años y más,8103023,0.3947399598044559
+2020,Quintana Roo,Hombres,Total,8103023,0.7665363077513712
+2019,Quintana Roo,Hombres,Total,8103023,0.724690159384913
+2020,Quintana Roo,Hombres,De 18 a 24 años,8103023,0.033579963862917
+2019,Quintana Roo,Hombres,De 18 a 24 años,8103023,0.028654844467484
+2020,Quintana Roo,Hombres,De 25 a 34 años,8103023,0.90397539360646
+2019,Quintana Roo,Hombres,De 25 a 34 años,8103023,1.08393304103281
+2020,Quintana Roo,Hombres,De 35 a 44 años,8103023,1.58449404293191
+2019,Quintana Roo,Hombres,De 35 a 44 años,8103023,1.55397781791141
+2020,Quintana Roo,Hombres,De 45 a 54 años,8103023,1.40296507265535
+2019,Quintana Roo,Hombres,De 45 a 54 años,8103023,1.33108132948714
+2020,Quintana Roo,Hombres,De 55 a 59 años,8103023,1.9156155976647296
+2019,Quintana Roo,Hombres,De 55 a 59 años,8103023,1.20153124633938
+2020,Quintana Roo,Hombres,De 60 años y más,8103023,0.523426919417604
+2019,Quintana Roo,Hombres,De 60 años y más,8103023,0.706299530641539
+2020,Quintana Roo,Mujeres,Total,8103023,1.23726555821806
+2019,Quintana Roo,Mujeres,Total,8103023,1.27959808598762
+2020,Quintana Roo,Mujeres,De 18 a 24 años,8103023,0.065908222390131
+2019,Quintana Roo,Mujeres,De 18 a 24 años,8103023,0.187996916976594
+2020,Quintana Roo,Mujeres,De 25 a 34 años,8103023,1.09316559628674
+2019,Quintana Roo,Mujeres,De 25 a 34 años,8103023,1.27168411560869
+2020,Quintana Roo,Mujeres,De 35 a 44 años,8103023,1.52091360294465
+2019,Quintana Roo,Mujeres,De 35 a 44 años,8103023,1.3187466050902297
+2020,Quintana Roo,Mujeres,De 45 a 54 años,8103023,1.5947749831224898
+2019,Quintana Roo,Mujeres,De 45 a 54 años,8103023,1.53789752439001
+2020,Quintana Roo,Mujeres,De 55 a 59 años,8103023,0.897548125012088
+2019,Quintana Roo,Mujeres,De 55 a 59 años,8103023,0.562170718237445
+2020,Quintana Roo,Mujeres,De 60 años y más,8103023,0.158335509225784
+2019,Quintana Roo,Mujeres,De 60 años y más,8103023,0.218501675658759
+2020,San Luís Potosí,Total,Total,8103024,1.0
+2019,San Luís Potosí,Total,Total,8103024,1.0
+2020,San Luís Potosí,Total,De 18 a 24 años,8103024,0.0
+2019,San Luís Potosí,Total,De 18 a 24 años,8103024,0.0
+2020,San Luís Potosí,Total,De 25 a 34 años,8103024,0.293551809132448
+2019,San Luís Potosí,Total,De 25 a 34 años,8103024,0.258201711490118
+2020,San Luís Potosí,Total,De 35 a 44 años,8103024,1.03617692040285
+2019,San Luís Potosí,Total,De 35 a 44 años,8103024,1.17315309082945
+2020,San Luís Potosí,Total,De 45 a 54 años,8103024,2.7971285244157604
+2019,San Luís Potosí,Total,De 45 a 54 años,8103024,2.65691149591456
+2020,San Luís Potosí,Total,De 55 a 59 años,8103024,1.57048668768729
+2019,San Luís Potosí,Total,De 55 a 59 años,8103024,1.4045263415082103
+2020,San Luís Potosí,Total,De 60 años y más,8103024,1.02128409675037
+2019,San Luís Potosí,Total,De 60 años y más,8103024,1.22174883357341
+2020,San Luís Potosí,Hombres,Total,8103024,0.990868950051442
+2019,San Luís Potosí,Hombres,Total,8103024,0.9709158738433468
+2020,San Luís Potosí,Hombres,De 18 a 24 años,8103024,0.0
+2019,San Luís Potosí,Hombres,De 18 a 24 años,8103024,0.0
+2020,San Luís Potosí,Hombres,De 25 a 34 años,8103024,0.25648800621232
+2019,San Luís Potosí,Hombres,De 25 a 34 años,8103024,0.297979919543059
+2020,San Luís Potosí,Hombres,De 35 a 44 años,8103024,0.9489039609121932
+2019,San Luís Potosí,Hombres,De 35 a 44 años,8103024,1.0047627158785
+2020,San Luís Potosí,Hombres,De 45 a 54 años,8103024,2.84400012459746
+2019,San Luís Potosí,Hombres,De 45 a 54 años,8103024,2.6265568143452
+2020,San Luís Potosí,Hombres,De 55 a 59 años,8103024,1.9995039306605304
+2019,San Luís Potosí,Hombres,De 55 a 59 años,8103024,1.8745822753884904
+2020,San Luís Potosí,Hombres,De 60 años y más,8103024,1.08617766776647
+2019,San Luís Potosí,Hombres,De 60 años y más,8103024,1.3528005201044595
+2020,San Luís Potosí,Mujeres,Total,8103024,1.00845275569723
+2019,San Luís Potosí,Mujeres,Total,8103024,1.02691643737515
+2020,San Luís Potosí,Mujeres,De 18 a 24 años,8103024,0.0
+2019,San Luís Potosí,Mujeres,De 18 a 24 años,8103024,0.0
+2020,San Luís Potosí,Mujeres,De 25 a 34 años,8103024,0.328435999096693
+2019,San Luís Potosí,Mujeres,De 25 a 34 años,8103024,0.222696438411041
+2020,San Luís Potosí,Mujeres,De 35 a 44 años,8103024,1.1098508892863703
+2019,San Luís Potosí,Mujeres,De 35 a 44 años,8103024,1.30874722514112
+2020,San Luís Potosí,Mujeres,De 45 a 54 años,8103024,2.7552240173187394
+2019,San Luís Potosí,Mujeres,De 45 a 54 años,8103024,2.6803420216381
+2020,San Luís Potosí,Mujeres,De 55 a 59 años,8103024,1.1879022655227998
+2019,San Luís Potosí,Mujeres,De 55 a 59 años,8103024,0.99920115921722
+2020,San Luís Potosí,Mujeres,De 60 años y más,8103024,0.963507571035702
+2019,San Luís Potosí,Mujeres,De 60 años y más,8103024,1.10878998323534
+2020,Sinaloa,Total,Total,8103025,1.0
+2019,Sinaloa,Total,Total,8103025,1.0
+2020,Sinaloa,Total,De 18 a 24 años,8103025,0.0
+2019,Sinaloa,Total,De 18 a 24 años,8103025,0.0
+2020,Sinaloa,Total,De 25 a 34 años,8103025,0.345669606531687
+2019,Sinaloa,Total,De 25 a 34 años,8103025,0.3676253618960899
+2020,Sinaloa,Total,De 35 a 44 años,8103025,1.2148974522724798
+2019,Sinaloa,Total,De 35 a 44 años,8103025,1.1936672725819
+2020,Sinaloa,Total,De 45 a 54 años,8103025,1.82578108561427
+2019,Sinaloa,Total,De 45 a 54 años,8103025,1.86244339951814
+2020,Sinaloa,Total,De 55 a 59 años,8103025,2.6415467584872
+2019,Sinaloa,Total,De 55 a 59 años,8103025,2.76084431493247
+2020,Sinaloa,Total,De 60 años y más,8103025,1.2649527758243997
+2019,Sinaloa,Total,De 60 años y más,8103025,1.1644896378350005
+2020,Sinaloa,Hombres,Total,8103025,0.950603764722396
+2019,Sinaloa,Hombres,Total,8103025,0.987331142941926
+2020,Sinaloa,Hombres,De 18 a 24 años,8103025,0.0
+2019,Sinaloa,Hombres,De 18 a 24 años,8103025,0.0
+2020,Sinaloa,Hombres,De 25 a 34 años,8103025,0.225657717160568
+2019,Sinaloa,Hombres,De 25 a 34 años,8103025,0.20244618315804
+2020,Sinaloa,Hombres,De 35 a 44 años,8103025,0.8944114827072769
+2019,Sinaloa,Hombres,De 35 a 44 años,8103025,0.800730344580357
+2020,Sinaloa,Hombres,De 45 a 54 años,8103025,1.61472663298939
+2019,Sinaloa,Hombres,De 45 a 54 años,8103025,1.7631434338694398
+2020,Sinaloa,Hombres,De 55 a 59 años,8103025,3.5764202877699
+2019,Sinaloa,Hombres,De 55 a 59 años,8103025,3.9896072918727006
+2020,Sinaloa,Hombres,De 60 años y más,8103025,2.02078700850041
+2019,Sinaloa,Hombres,De 60 años y más,8103025,1.7917047879483898
+2020,Sinaloa,Mujeres,Total,8103025,1.0480198526697
+2019,Sinaloa,Mujeres,Total,8103025,1.01230566739316
+2020,Sinaloa,Mujeres,De 18 a 24 años,8103025,0.0
+2019,Sinaloa,Mujeres,De 18 a 24 años,8103025,0.0
+2020,Sinaloa,Mujeres,De 25 a 34 años,8103025,0.456781010231929
+2019,Sinaloa,Mujeres,De 25 a 34 años,8103025,0.529928368167991
+2020,Sinaloa,Mujeres,De 35 a 44 años,8103025,1.4821190535864397
+2019,Sinaloa,Mujeres,De 35 a 44 años,8103025,1.54842304846467
+2020,Sinaloa,Mujeres,De 45 a 54 años,8103025,2.00557609011825
+2019,Sinaloa,Mujeres,De 45 a 54 años,8103025,1.95426631331354
+2020,Sinaloa,Mujeres,De 55 a 59 años,8103025,1.8446521223145296
+2019,Sinaloa,Mujeres,De 55 a 59 años,8103025,1.63973412892239
+2020,Sinaloa,Mujeres,De 60 años y más,8103025,0.639329025159978
+2019,Sinaloa,Mujeres,De 60 años y más,8103025,0.60743826679818
+2020,Sonora,Total,Total,8103026,1.0
+2019,Sonora,Total,Total,8103026,1.0
+2020,Sonora,Total,De 18 a 24 años,8103026,0.061286121543786
+2019,Sonora,Total,De 18 a 24 años,8103026,0.0
+2020,Sonora,Total,De 25 a 34 años,8103026,0.938837190694044
+2019,Sonora,Total,De 25 a 34 años,8103026,0.843866466337186
+2020,Sonora,Total,De 35 a 44 años,8103026,1.85686763704806
+2019,Sonora,Total,De 35 a 44 años,8103026,1.7771021324537002
+2020,Sonora,Total,De 45 a 54 años,8103026,1.6206492238669603
+2019,Sonora,Total,De 45 a 54 años,8103026,1.83581706654901
+2020,Sonora,Total,De 55 a 59 años,8103026,0.691634389871834
+2019,Sonora,Total,De 55 a 59 años,8103026,0.7165157847304922
+2020,Sonora,Total,De 60 años y más,8103026,0.235729917835316
+2019,Sonora,Total,De 60 años y más,8103026,0.3390521454441929
+2020,Sonora,Hombres,Total,8103026,0.8309511812125427
+2019,Sonora,Hombres,Total,8103026,0.8658563849993729
+2020,Sonora,Hombres,De 18 a 24 años,8103026,0.041589995723498
+2019,Sonora,Hombres,De 18 a 24 años,8103026,0.0
+2020,Sonora,Hombres,De 25 a 34 años,8103026,1.00192228172286
+2019,Sonora,Hombres,De 25 a 34 años,8103026,0.956658803242868
+2020,Sonora,Hombres,De 35 a 44 años,8103026,1.94648920878258
+2019,Sonora,Hombres,De 35 a 44 años,8103026,1.83395706024988
+2020,Sonora,Hombres,De 45 a 54 años,8103026,1.27991690424464
+2019,Sonora,Hombres,De 45 a 54 años,8103026,1.47786707250311
+2020,Sonora,Hombres,De 55 a 59 años,8103026,0.9299114193167932
+2019,Sonora,Hombres,De 55 a 59 años,8103026,0.9365896848840424
+2020,Sonora,Hombres,De 60 años y más,8103026,0.404014873694407
+2019,Sonora,Hombres,De 60 años y más,8103026,0.469168472038565
+2020,Sonora,Mujeres,Total,8103026,1.16613115678079
+2019,Sonora,Mujeres,Total,8103026,1.13179908482139
+2020,Sonora,Mujeres,De 18 a 24 años,8103026,0.076094596342854
+2019,Sonora,Mujeres,De 18 a 24 años,8103026,0.0
+2020,Sonora,Mujeres,De 25 a 34 años,8103026,0.896666687120928
+2019,Sonora,Mujeres,De 25 a 34 años,8103026,0.7593318480690561
+2020,Sonora,Mujeres,De 35 a 44 años,8103026,1.78906749073744
+2019,Sonora,Mujeres,De 35 a 44 años,8103026,1.7302616783098403
+2020,Sonora,Mujeres,De 45 a 54 años,8103026,1.8561394247126697
+2019,Sonora,Mujeres,De 45 a 54 años,8103026,2.10317036692839
+2020,Sonora,Mujeres,De 55 a 59 años,8103026,0.526075128635628
+2019,Sonora,Mujeres,De 55 a 59 años,8103026,0.552633303977287
+2020,Sonora,Mujeres,De 60 años y más,8103026,0.122126414239323
+2019,Sonora,Mujeres,De 60 años y más,8103026,0.244070197657318
+2020,Tabasco,Total,Total,8103027,1.0
+2019,Tabasco,Total,Total,8103027,1.0
+2020,Tabasco,Total,De 18 a 24 años,8103027,0.2121960709688599
+2019,Tabasco,Total,De 18 a 24 años,8103027,0.094416726180229
+2020,Tabasco,Total,De 25 a 34 años,8103027,0.6951491727330221
+2019,Tabasco,Total,De 25 a 34 años,8103027,0.614331436772105
+2020,Tabasco,Total,De 35 a 44 años,8103027,1.4079812972683698
+2019,Tabasco,Total,De 35 a 44 años,8103027,1.57310757430716
+2020,Tabasco,Total,De 45 a 54 años,8103027,1.9442456434408495
+2019,Tabasco,Total,De 45 a 54 años,8103027,2.06361908317905
+2020,Tabasco,Total,De 55 a 59 años,8103027,1.2291428430949602
+2019,Tabasco,Total,De 55 a 59 años,8103027,1.11691836503398
+2020,Tabasco,Total,De 60 años y más,8103027,0.501800553755578
+2019,Tabasco,Total,De 60 años y más,8103027,0.47049444365131
+2020,Tabasco,Hombres,Total,8103027,0.504056712733001
+2019,Tabasco,Hombres,Total,8103027,0.5578368040830589
+2020,Tabasco,Hombres,De 18 a 24 años,8103027,0.21569565598501
+2019,Tabasco,Hombres,De 18 a 24 años,8103027,0.119179946570531
+2020,Tabasco,Hombres,De 25 a 34 años,8103027,0.9029244685325482
+2019,Tabasco,Hombres,De 25 a 34 años,8103027,0.712450056323481
+2020,Tabasco,Hombres,De 35 a 44 años,8103027,1.4522905942863
+2019,Tabasco,Hombres,De 35 a 44 años,8103027,1.7518767567326703
+2020,Tabasco,Hombres,De 45 a 54 años,8103027,1.85134124252143
+2019,Tabasco,Hombres,De 45 a 54 años,8103027,1.91956946152107
+2020,Tabasco,Hombres,De 55 a 59 años,8103027,0.669977198331202
+2019,Tabasco,Hombres,De 55 a 59 años,8103027,0.514783801594702
+2020,Tabasco,Hombres,De 60 años y más,8103027,0.5144769334252689
+2019,Tabasco,Hombres,De 60 años y más,8103027,0.567290584549427
+2020,Tabasco,Mujeres,Total,8103027,1.46687586333167
+2019,Tabasco,Mujeres,Total,8103027,1.41640808559967
+2020,Tabasco,Mujeres,De 18 a 24 años,8103027,0.215727914710117
+2019,Tabasco,Mujeres,De 18 a 24 años,8103027,0.0864784424002139
+2020,Tabasco,Mujeres,De 25 a 34 años,8103027,0.631056503026319
+2019,Tabasco,Mujeres,De 25 a 34 años,8103027,0.579759086577917
+2020,Tabasco,Mujeres,De 35 a 44 años,8103027,1.3634434480474698
+2019,Tabasco,Mujeres,De 35 a 44 años,8103027,1.47901430514751
+2020,Tabasco,Mujeres,De 45 a 54 años,8103027,1.9623861950554693
+2019,Tabasco,Mujeres,De 45 a 54 años,8103027,2.11224897566748
+2020,Tabasco,Mujeres,De 55 a 59 años,8103027,1.42614571565859
+2019,Tabasco,Mujeres,De 55 a 59 años,8103027,1.35826440205388
+2020,Tabasco,Mujeres,De 60 años y más,8103027,0.4969852767545201
+2019,Tabasco,Mujeres,De 60 años y más,8103027,0.4342086343158281
+2020,Tamaulipas,Total,Total,8103028,1.0
+2019,Tamaulipas,Total,Total,8103028,1.0
+2020,Tamaulipas,Total,De 18 a 24 años,8103028,0.0
+2019,Tamaulipas,Total,De 18 a 24 años,8103028,0.0
+2020,Tamaulipas,Total,De 25 a 34 años,8103028,0.6317687069948991
+2019,Tamaulipas,Total,De 25 a 34 años,8103028,0.687623970880975
+2020,Tamaulipas,Total,De 35 a 44 años,8103028,1.15046404084844
+2019,Tamaulipas,Total,De 35 a 44 años,8103028,1.18916610202205
+2020,Tamaulipas,Total,De 45 a 54 años,8103028,2.20287081339713
+2019,Tamaulipas,Total,De 45 a 54 años,8103028,2.1629921002092902
+2020,Tamaulipas,Total,De 55 a 59 años,8103028,1.4560238869926398
+2019,Tamaulipas,Total,De 55 a 59 años,8103028,1.27291172726326
+2020,Tamaulipas,Total,De 60 años y más,8103028,0.7520593657386881
+2019,Tamaulipas,Total,De 60 años y más,8103028,0.773960572222232
+2020,Tamaulipas,Hombres,Total,8103028,0.9490781516185828
+2019,Tamaulipas,Hombres,Total,8103028,0.954598242159052
+2020,Tamaulipas,Hombres,De 18 a 24 años,8103028,0.0
+2019,Tamaulipas,Hombres,De 18 a 24 años,8103028,0.0
+2020,Tamaulipas,Hombres,De 25 a 34 años,8103028,0.650536285670923
+2019,Tamaulipas,Hombres,De 25 a 34 años,8103028,0.646062007359547
+2020,Tamaulipas,Hombres,De 35 a 44 años,8103028,0.8831854649673712
+2019,Tamaulipas,Hombres,De 35 a 44 años,8103028,0.952980896610658
+2020,Tamaulipas,Hombres,De 45 a 54 años,8103028,2.19168666209928
+2019,Tamaulipas,Hombres,De 45 a 54 años,8103028,2.23291699285001
+2020,Tamaulipas,Hombres,De 55 a 59 años,8103028,1.87785943372618
+2019,Tamaulipas,Hombres,De 55 a 59 años,8103028,1.66259008285215
+2020,Tamaulipas,Hombres,De 60 años y más,8103028,1.07505866753268
+2019,Tamaulipas,Hombres,De 60 años y más,8103028,1.06247396238187
+2020,Tamaulipas,Mujeres,Total,8103028,1.04917874049335
+2019,Tamaulipas,Mujeres,Total,8103028,1.0438363823540102
+2020,Tamaulipas,Mujeres,De 18 a 24 años,8103028,0.0
+2019,Tamaulipas,Mujeres,De 18 a 24 años,8103028,0.0
+2020,Tamaulipas,Mujeres,De 25 a 34 años,8103028,0.615929011533209
+2019,Tamaulipas,Mujeres,De 25 a 34 años,8103028,0.726611302627969
+2020,Tamaulipas,Mujeres,De 35 a 44 años,8103028,1.3707712446287503
+2019,Tamaulipas,Mujeres,De 35 a 44 años,8103028,1.38565917487829
+2020,Tamaulipas,Mujeres,De 45 a 54 años,8103028,2.2097277847498
+2019,Tamaulipas,Mujeres,De 45 a 54 años,8103028,2.10067444888937
+2020,Tamaulipas,Mujeres,De 55 a 59 años,8103028,1.09407023249895
+2019,Tamaulipas,Mujeres,De 55 a 59 años,8103028,0.9347607840945538
+2020,Tamaulipas,Mujeres,De 60 años y más,8103028,0.486549965538767
+2019,Tamaulipas,Mujeres,De 60 años y más,8103028,0.534322738645582
+2020,Tlaxcala,Total,Total,8103029,1.0
+2019,Tlaxcala,Total,Total,8103029,1.0
+2020,Tlaxcala,Total,De 18 a 24 años,8103029,0.0
+2019,Tlaxcala,Total,De 18 a 24 años,8103029,0.0
+2020,Tlaxcala,Total,De 25 a 34 años,8103029,0.138984945612368
+2019,Tlaxcala,Total,De 25 a 34 años,8103029,0.1181550782507369
+2020,Tlaxcala,Total,De 35 a 44 años,8103029,2.1036046322118405
+2019,Tlaxcala,Total,De 35 a 44 años,8103029,1.77906152313096
+2020,Tlaxcala,Total,De 45 a 54 años,8103029,1.86535941298186
+2019,Tlaxcala,Total,De 45 a 54 años,8103029,2.09307000218384
+2020,Tlaxcala,Total,De 55 a 59 años,8103029,1.4648597416222802
+2019,Tlaxcala,Total,De 55 a 59 años,8103029,1.9291736988222603
+2020,Tlaxcala,Total,De 60 años y más,8103029,0.9399431067639048
+2019,Tlaxcala,Total,De 60 años y más,8103029,1.03504554339988
+2020,Tlaxcala,Hombres,Total,8103029,0.7858696781231921
+2019,Tlaxcala,Hombres,Total,8103029,0.776492341937943
+2020,Tlaxcala,Hombres,De 18 a 24 años,8103029,0.0
+2019,Tlaxcala,Hombres,De 18 a 24 años,8103029,0.0
+2020,Tlaxcala,Hombres,De 25 a 34 años,8103029,0.2168421896099799
+2019,Tlaxcala,Hombres,De 25 a 34 años,8103029,0.156204795858095
+2020,Tlaxcala,Hombres,De 35 a 44 años,8103029,2.30853132743928
+2019,Tlaxcala,Hombres,De 35 a 44 años,8103029,1.69654198621358
+2020,Tlaxcala,Hombres,De 45 a 54 años,8103029,1.11113245974715
+2019,Tlaxcala,Hombres,De 45 a 54 años,8103029,1.44613671278087
+2020,Tlaxcala,Hombres,De 55 a 59 años,8103029,2.5497911207003594
+2019,Tlaxcala,Hombres,De 55 a 59 años,8103029,3.724441144461891
+2020,Tlaxcala,Hombres,De 60 años y más,8103029,1.17806115425114
+2019,Tlaxcala,Hombres,De 60 años y más,8103029,1.31127798467148
+2020,Tlaxcala,Mujeres,Total,8103029,1.19632197543113
+2019,Tlaxcala,Mujeres,Total,8103029,1.20471946967404
+2020,Tlaxcala,Mujeres,De 18 a 24 años,8103029,0.0
+2019,Tlaxcala,Mujeres,De 18 a 24 años,8103029,0.0
+2020,Tlaxcala,Mujeres,De 25 a 34 años,8103029,0.0910041559841979
+2019,Tlaxcala,Mujeres,De 25 a 34 años,8103029,0.095604397344868
+2020,Tlaxcala,Mujeres,De 35 a 44 años,8103029,1.9645681438679097
+2019,Tlaxcala,Mujeres,De 35 a 44 años,8103029,1.80211958254419
+2020,Tlaxcala,Mujeres,De 45 a 54 años,8103029,2.27832236342965
+2019,Tlaxcala,Mujeres,De 45 a 54 años,8103029,2.44011476864811
+2020,Tlaxcala,Mujeres,De 55 a 59 años,8103029,0.8250426449929761
+2019,Tlaxcala,Mujeres,De 55 a 59 años,8103029,0.89011878317146
+2020,Tlaxcala,Mujeres,De 60 años y más,8103029,0.7961167470562779
+2019,Tlaxcala,Mujeres,De 60 años y más,8103029,0.8715199533582859
+2020,Veracruz de Ignacio de la Llave,Total,Total,8103030,1.0
+2019,Veracruz de Ignacio de la Llave,Total,Total,8103030,1.0
+2020,Veracruz de Ignacio de la Llave,Total,De 18 a 24 años,8103030,0.007201950673038
+2019,Veracruz de Ignacio de la Llave,Total,De 18 a 24 años,8103030,0.021325160108272
+2020,Veracruz de Ignacio de la Llave,Total,De 25 a 34 años,8103030,0.5342940900512368
+2019,Veracruz de Ignacio de la Llave,Total,De 25 a 34 años,8103030,0.640936809555241
+2020,Veracruz de Ignacio de la Llave,Total,De 35 a 44 años,8103030,1.3806966152364502
+2019,Veracruz de Ignacio de la Llave,Total,De 35 a 44 años,8103030,1.3927582992881502
+2020,Veracruz de Ignacio de la Llave,Total,De 45 a 54 años,8103030,1.6534595363006
+2019,Veracruz de Ignacio de la Llave,Total,De 45 a 54 años,8103030,1.57696480317434
+2020,Veracruz de Ignacio de la Llave,Total,De 55 a 59 años,8103030,1.92625106403109
+2019,Veracruz de Ignacio de la Llave,Total,De 55 a 59 años,8103030,1.71541449522293
+2020,Veracruz de Ignacio de la Llave,Total,De 60 años y más,8103030,1.1627347698190198
+2019,Veracruz de Ignacio de la Llave,Total,De 60 años y más,8103030,1.19437077513318
+2020,Veracruz de Ignacio de la Llave,Hombres,Total,8103030,0.935965970498058
+2019,Veracruz de Ignacio de la Llave,Hombres,Total,8103030,0.9277151222090848
+2020,Veracruz de Ignacio de la Llave,Hombres,De 18 a 24 años,8103030,0.0152460230141
+2019,Veracruz de Ignacio de la Llave,Hombres,De 18 a 24 años,8103030,0.030396679940334
+2020,Veracruz de Ignacio de la Llave,Hombres,De 25 a 34 años,8103030,0.5862820201565829
+2019,Veracruz de Ignacio de la Llave,Hombres,De 25 a 34 años,8103030,0.65299847330636
+2020,Veracruz de Ignacio de la Llave,Hombres,De 35 a 44 años,8103030,1.32150133656054
+2019,Veracruz de Ignacio de la Llave,Hombres,De 35 a 44 años,8103030,1.2318671503367098
+2020,Veracruz de Ignacio de la Llave,Hombres,De 45 a 54 años,8103030,1.36293340654527
+2019,Veracruz de Ignacio de la Llave,Hombres,De 45 a 54 años,8103030,1.35982234409874
+2020,Veracruz de Ignacio de la Llave,Hombres,De 55 a 59 años,8103030,2.2082271914182496
+2019,Veracruz de Ignacio de la Llave,Hombres,De 55 a 59 años,8103030,1.9041399293132997
+2020,Veracruz de Ignacio de la Llave,Hombres,De 60 años y más,8103030,1.57503697620496
+2019,Veracruz de Ignacio de la Llave,Hombres,De 60 años y más,8103030,1.80748281551954
+2020,Veracruz de Ignacio de la Llave,Mujeres,Total,8103030,1.0583609155785003
+2019,Veracruz de Ignacio de la Llave,Mujeres,Total,8103030,1.06586664215449
+2020,Veracruz de Ignacio de la Llave,Mujeres,De 18 a 24 años,8103030,0.0
+2019,Veracruz de Ignacio de la Llave,Mujeres,De 18 a 24 años,8103030,0.0134498781302599
+2020,Veracruz de Ignacio de la Llave,Mujeres,De 25 a 34 años,8103030,0.491882532180654
+2019,Veracruz de Ignacio de la Llave,Mujeres,De 25 a 34 años,8103030,0.63236749866621
+2020,Veracruz de Ignacio de la Llave,Mujeres,De 35 a 44 años,8103030,1.4201491758840503
+2019,Veracruz de Ignacio de la Llave,Mujeres,De 35 a 44 años,8103030,1.50569013597838
+2020,Veracruz de Ignacio de la Llave,Mujeres,De 45 a 54 años,8103030,1.87237971467367
+2019,Veracruz de Ignacio de la Llave,Mujeres,De 45 a 54 años,8103030,1.7384823177807598
+2020,Veracruz de Ignacio de la Llave,Mujeres,De 55 a 59 años,8103030,1.7022248953371102
+2019,Veracruz de Ignacio de la Llave,Mujeres,De 55 a 59 años,8103030,1.56671467820126
+2020,Veracruz de Ignacio de la Llave,Mujeres,De 60 años y más,8103030,0.840373416060216
+2019,Veracruz de Ignacio de la Llave,Mujeres,De 60 años y más,8103030,0.7219598980013772
+2020,Yucatán,Total,Total,8103031,1.0
+2019,Yucatán,Total,Total,8103031,1.0
+2020,Yucatán,Total,De 18 a 24 años,8103031,0.0
+2019,Yucatán,Total,De 18 a 24 años,8103031,0.0
+2020,Yucatán,Total,De 25 a 34 años,8103031,0.266478488314003
+2019,Yucatán,Total,De 25 a 34 años,8103031,0.220364024746206
+2020,Yucatán,Total,De 35 a 44 años,8103031,1.52380100819377
+2019,Yucatán,Total,De 35 a 44 años,8103031,1.6431914815634596
+2020,Yucatán,Total,De 45 a 54 años,8103031,2.66997446606188
+2019,Yucatán,Total,De 45 a 54 años,8103031,2.7484680279908
+2020,Yucatán,Total,De 55 a 59 años,8103031,1.21071087347654
+2019,Yucatán,Total,De 55 a 59 años,8103031,0.888387061375168
+2020,Yucatán,Total,De 60 años y más,8103031,0.5358984043665239
+2019,Yucatán,Total,De 60 años y más,8103031,0.5446610452298178
+2020,Yucatán,Hombres,Total,8103031,0.609642909494073
+2019,Yucatán,Hombres,Total,8103031,0.615044044330913
+2020,Yucatán,Hombres,De 18 a 24 años,8103031,0.0
+2019,Yucatán,Hombres,De 18 a 24 años,8103031,0.0
+2020,Yucatán,Hombres,De 25 a 34 años,8103031,0.29064352347758
+2019,Yucatán,Hombres,De 25 a 34 años,8103031,0.190985306000936
+2020,Yucatán,Hombres,De 35 a 44 años,8103031,1.5107010386217
+2019,Yucatán,Hombres,De 35 a 44 años,8103031,1.6759125109128097
+2020,Yucatán,Hombres,De 45 a 54 años,8103031,2.810018244315469
+2019,Yucatán,Hombres,De 45 a 54 años,8103031,2.86915838664493
+2020,Yucatán,Hombres,De 55 a 59 años,8103031,1.3279338955460498
+2019,Yucatán,Hombres,De 55 a 59 años,8103031,0.947351904982912
+2020,Yucatán,Hombres,De 60 años y más,8103031,0.372737585042577
+2019,Yucatán,Hombres,De 60 años y más,8103031,0.499438350641587
+2020,Yucatán,Mujeres,Total,8103031,1.3735457762526198
+2019,Yucatán,Mujeres,Total,8103031,1.3683713445563703
+2020,Yucatán,Mujeres,De 18 a 24 años,8103031,0.0
+2019,Yucatán,Mujeres,De 18 a 24 años,8103031,0.0
+2020,Yucatán,Mujeres,De 25 a 34 años,8103031,0.259355491163498
+2019,Yucatán,Mujeres,De 25 a 34 años,8103031,0.2363205688437679
+2020,Yucatán,Mujeres,De 35 a 44 años,8103031,1.516079501559
+2019,Yucatán,Mujeres,De 35 a 44 años,8103031,1.61390684883599
+2020,Yucatán,Mujeres,De 45 a 54 años,8103031,2.58080912456821
+2019,Yucatán,Mujeres,De 45 a 54 años,8103031,2.66769442353079
+2020,Yucatán,Mujeres,De 55 a 59 años,8103031,1.14658066679446
+2019,Yucatán,Mujeres,De 55 a 59 años,8103031,0.8525671516565881
+2020,Yucatán,Mujeres,De 60 años y más,8103031,0.5907721531333071
+2019,Yucatán,Mujeres,De 60 años y más,8103031,0.553700356957015
+2020,Zacatecas,Total,Total,8103032,1.0
+2019,Zacatecas,Total,Total,8103032,1.0
+2020,Zacatecas,Total,De 18 a 24 años,8103032,0.0
+2019,Zacatecas,Total,De 18 a 24 años,8103032,0.0
+2020,Zacatecas,Total,De 25 a 34 años,8103032,0.533139026038323
+2019,Zacatecas,Total,De 25 a 34 años,8103032,0.6077871164333929
+2020,Zacatecas,Total,De 35 a 44 años,8103032,1.90475817986769
+2019,Zacatecas,Total,De 35 a 44 años,8103032,1.9784732072440705
+2020,Zacatecas,Total,De 45 a 54 años,8103032,2.0370120476035294
+2019,Zacatecas,Total,De 45 a 54 años,8103032,1.9064442705981797
+2020,Zacatecas,Total,De 55 a 59 años,8103032,0.9682281576618588
+2019,Zacatecas,Total,De 55 a 59 años,8103032,0.800993321181065
+2020,Zacatecas,Total,De 60 años y más,8103032,0.43548310387657
+2019,Zacatecas,Total,De 60 años y más,8103032,0.460044301999252
+2020,Zacatecas,Hombres,Total,8103032,0.7903377301481049
+2019,Zacatecas,Hombres,Total,8103032,0.778324193356775
+2020,Zacatecas,Hombres,De 18 a 24 años,8103032,0.0
+2019,Zacatecas,Hombres,De 18 a 24 años,8103032,0.0
+2020,Zacatecas,Hombres,De 25 a 34 años,8103032,0.5975254651015
+2019,Zacatecas,Hombres,De 25 a 34 años,8103032,0.5870780028706591
+2020,Zacatecas,Hombres,De 35 a 44 años,8103032,1.87009675753851
+2019,Zacatecas,Hombres,De 35 a 44 años,8103032,2.05200064740051
+2020,Zacatecas,Hombres,De 45 a 54 años,8103032,1.9228306072336097
+2019,Zacatecas,Hombres,De 45 a 54 años,8103032,1.85350867581419
+2020,Zacatecas,Hombres,De 55 a 59 años,8103032,1.0721859152593398
+2019,Zacatecas,Hombres,De 55 a 59 años,8103032,0.569620452214509
+2020,Zacatecas,Hombres,De 60 años y más,8103032,0.619958291200066
+2019,Zacatecas,Hombres,De 60 años y más,8103032,0.7582102464992639
+2020,Zacatecas,Mujeres,Total,8103032,1.1962811003636202
+2019,Zacatecas,Mujeres,Total,8103032,1.20758094565391
+2020,Zacatecas,Mujeres,De 18 a 24 años,8103032,0.0
+2019,Zacatecas,Mujeres,De 18 a 24 años,8103032,0.0
+2020,Zacatecas,Mujeres,De 25 a 34 años,8103032,0.494215910643211
+2019,Zacatecas,Mujeres,De 25 a 34 años,8103032,0.6217241350573649
+2020,Zacatecas,Mujeres,De 35 a 44 años,8103032,1.90684402655809
+2019,Zacatecas,Mujeres,De 35 a 44 años,8103032,1.9169948967988304
+2020,Zacatecas,Mujeres,De 45 a 54 años,8103032,2.09842015751181
+2019,Zacatecas,Mujeres,De 45 a 54 años,8103032,1.9321739206983604
+2020,Zacatecas,Mujeres,De 55 a 59 años,8103032,0.903017364974359
+2019,Zacatecas,Mujeres,De 55 a 59 años,8103032,0.9386473555460888
+2020,Zacatecas,Mujeres,De 60 años y más,8103032,0.322221750021503
+2019,Zacatecas,Mujeres,De 60 años y más,8103032,0.2816310699800861

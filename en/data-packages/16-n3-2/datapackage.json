@@ -12,8 +12,111 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Áreas metropolitanas autorrepresentadas",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Área Metropolitana Aguascalientes",
+                "Área Metropolitana Tijuana",
+                "Área Metropolitana La Paz",
+                "Área Metropolitana Campeche",
+                "Área Metropolitana Saltillo",
+                "Área Metropolitana Colima",
+                "Área Metropolitana Tuxtla Gutiérrez",
+                "Área Metropolitana Chihuahua",
+                "Área Metropolitana Ciudad de México",
+                "Área Metropolitana Durango",
+                "Área Metropolitana León",
+                "Área Metropolitana Acapulco",
+                "Área Metropolitana Pachuca",
+                "Área Metropolitana Guadalajara",
+                "Área Metropolitana Toluca",
+                "Área Metropolitana Morelia",
+                "Área Metropolitana Cuernavaca",
+                "Área Metropolitana Tepic",
+                "Área Metropolitana Monterrey",
+                "Área Metropolitana Oaxaca",
+                "Área Metropolitana Puebla",
+                "Área Metropolitana Querétaro",
+                "Área Metropolitana Cancún",
+                "Área Metropolitana San Luis Potosí",
+                "Área Metropolitana Culiacán",
+                "Área Metropolitana Hermosillo",
+                "Área Metropolitana Villahermosa",
+                "Área Metropolitana Tampico",
+                "Área Metropolitana Tlaxcala",
+                "Área Metropolitana Veracruz",
+                "Área Metropolitana Mérida",
+                "Área Metropolitana Zacatecas",
+                ""
+              ]
+            },
+            "title": "Áreas metropolitanas autorrepresentadas"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

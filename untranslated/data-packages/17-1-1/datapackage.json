@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Ingresos con respecto al PIB",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Totales",
+                "Petroleros",
+                "No petroleros",
+                "Tributarios no petroleros",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

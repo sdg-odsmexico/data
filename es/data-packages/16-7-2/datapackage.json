@@ -12,8 +12,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Grupos de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "De 15 a 24 años",
+                "De 25 a 34 años",
+                "De 35 a 44 años",
+                "De 45 a 54 años",
+                "De 55 a 64 años",
+                "De 65 años y más",
+                ""
+              ]
+            },
+            "title": "Grupos de edad"
           },
           {
             "name": "Value",

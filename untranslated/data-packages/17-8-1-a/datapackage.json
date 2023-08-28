@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Uso de internet",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Dentro del hogar",
+                "Fuera del hogar",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Hijos sobrevivientes menores de 5",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Menos de 1 año",
+                "1 año",
+                "2 años",
+                "3 años",
+                "4 años",
+                ""
+              ]
+            },
+            "title": "Hijos sobrevivientes menores de 5"
           },
           {
             "name": "Value",

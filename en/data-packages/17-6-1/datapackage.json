@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Suscripciones de banda ancha fija",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Entre 256 Kbps y menor a 2 Mbps",
+                "Igual o mayor a 2 Mbps y menor a 10 Mbps",
+                "Igual o superior a 10 Mbps",
+                ""
+              ]
+            },
+            "title": "Suscripciones de banda ancha fija"
           },
           {
             "name": "Value",

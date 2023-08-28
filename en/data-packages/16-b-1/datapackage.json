@@ -12,8 +12,99 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Discriminación total",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Discriminación total"
+          },
+          {
+            "name": "Discriminación por sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Discriminación por sexo"
+          },
+          {
+            "name": "Discriminación por edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Discriminación por edad"
+          },
+          {
+            "name": "Discriminación por religión",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Discriminación por religión"
+          },
+          {
+            "name": "Discriminación por estatus socioeconómico",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Discriminación por estatus socioeconómico"
+          },
+          {
+            "name": "Discriminación por lugar de residencia",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Discriminación por lugar de residencia"
+          },
+          {
+            "name": "Discriminación por otros motivos*",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Discriminación por otros motivos*"
           },
           {
             "name": "Value",
