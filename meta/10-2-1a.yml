@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 10. Reducir la desigualdad en los países y entre ellos
+SDG_TARGET: >-
+  Meta 10.2. De aquí a 2030, potenciar y promover la inclusión social, económica y política de todas las personas, independientemente de su edad, sexo, discapacidad, raza, etnia, origen, religión o situación económica u otra condición
+SDG_INDICATOR: >-
+  10.2.1a Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad, por desglose geográfico
+SDG_SERIES_DESCR: >-
+  Este indicador se calcula estimando la proporción (en porcentaje) de la población que reporta menos del 50% de la mediana de la distribución del ingreso corriente total per cápita. La mediana resulta de la misma distribución del indicador, por lo tanto, el  umbral del 50% de la mediana variará en el tiempo. El ingreso corriente total per cápita se estima utilizando el ingreso corriente total de los hogares divididos por el tamaño escalado del hogar, considerando economías de escala.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Alida Marcela Gutiérrez Landeros<br>Coordinadora General de Análisis de la Pobreza<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70075<br>amgutierrez@coneval.org.mx<br><br>David Antonio Rojas Rosey<br>Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70100<br>drojas@coneval.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el porcentaje de la población de referencia que vive con un ingreso inferior al 50% de la mediana del ingreso corriente total per cápita.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos en los Hogares (ENIGH) 2016, 2018 y 2020; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Segundo semestre 2023 */
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
+COMPILING_ORG: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Este indicador está ligado a la Meta 10.2 la cual plantea que de aquí a 2030, potenciar y promover la inclusión social, económica y política de todas las personas, independientemente de su edad, sexo, discapacidad, raza, etnia, origen, religión o situación económica u otra condición. Permite dar seguimiento a la evolución de la población que tiene un ingreso inferior al nivel de vida medio, aproximándose a una medida de exclusión social.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  1. Este indicador refiere al porcentaje de la población que vive con menos del 50% de la mediana del nivel de ingreso (es decir, su ingreso está por debajo del 50% de la mediana de la distribución del ingreso). Este indicador permite aproximar el nivel y las tendencias de la inclusión social, pobreza relativa y desigualdad. El uso de la mediana permite identificar una distribución asimétrica del ingreso, debido a que esta se puede considerar que es una medida más adecuada para conocer la desigualdad de ingresos <br>2. Se considera el indicador de ingreso que se utiliza en la medición multidimensional de la pobreza. El ingreso corriente total per cápita considera los ingresos corrientes monetarios y no monetarios de los integrantes de un hogar. Al sumar todos los ingresos de todos miembros del hogar y dividirlos entre el tamaño de este, es ajustado por adulto equivalente y economías de escala, se obtiene el ingreso corriente total per cápita ajustado.<br><br>3. Se utilizan las bases de datos que publicó el INEGI con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020<br><br>4. El total de población presentada en estas estimaciones, es para fines de la medición de pobreza, por lo que puede diferir con las cifras de población total reportadas por el INEGI o CONAPO.<br><br>*/ La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/10.2.1a_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Se utilizan los factores de expansión que fueron construidos a partir de la actualización en las estimaciones de población con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '10.2.1a Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad, por desglose geográfico'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '10.2.1a Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad, por desglose geográfico'
+indicator_number:
+  '10.2.1a'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Estimaciones del CONEVAL con base en la ENIGH 2016, 2018 y 2020.Dirección Ejecutiva de Medición de Pobreza y Seguimiento de Indicadores (DEMPSI), Coordinación General de Análisis de la Pobreza (CGAP), Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).
+source_periodicity_1:
+  Bienal
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

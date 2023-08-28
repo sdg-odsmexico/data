@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 11. Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles
+SDG_TARGET: >-
+  Meta 11.7. De aquí a 2030, proporcionar acceso universal a zonas verdes y espacios públicos seguros, inclusivos y accesibles, en particular para las mujeres y los niños, las personas de edad y las personas con discapacidad
+SDG_INDICATOR: >-
+  11.7.1. Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos
+SDG_SERIES_DESCR: >-
+  Es la proporción de la superficie de manzanas que contiene por lo menos un espacio abierto (Plazas, parques, espacios deportivos y zonas arqueologicas) para uso público de todos en relación a la superficie amanzanada total.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Diana Quiroz Benítez<br>Directora de Cooperación Internacional<br>Nuevo León No. 210 Colonia Hipódromo Condesa, Del. Cuauhtémoc 06100 Ciudad de México<br>55 6820 9700, ext. 51702<br>diana.quiroz@sedatu.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Proporción de la superficie urbana destinada a espacios abiertos para uso público de todos.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Elaboración propia con base en Polígonos de manzana y los Servicios e información complementaria de Tipo puntual del Censo de Población y Vivienda 2020.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  2026
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
+COMPILING_ORG: >-
+  Secretaría de Desarrollo Agrario, Territorial y Urbano, Unidad de Planeación y Desarrollo Institucional.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El indicador permite evaluar los espacios abiertos disponibles para cada ciudad. Aumentar los espacios abiertos en las ciudades permitirá tener un mayor disfrute de la ciudad y ejercer su derecho a la ciudad.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Es importante señalar que la información sobre los Servicios e información complementaria no muestran el universo completo de espacios abiertos, por lo que el calculo tiene un margen de error que no es posible medir.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/11.7.1._es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '11.7.1. Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '11.7.1. Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos'
+indicator_number:
+  '11.7.1.'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Desarrollo Agrario, Territorial y Urbano, Unidad de Planeación y Desarrollo Institucional.
+source_periodicity_1:
+  Quinquenal
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

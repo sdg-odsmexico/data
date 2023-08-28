@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 10. Reducir la desigualdad en los países y entre ellos
+SDG_TARGET: >-
+  Meta 10.n3 Eliminar la negación de derechos por motivos de orientación sexual
+SDG_INDICATOR: >-
+  10.n3.1 Porcentaje de la población de 18 años y más, bisexual, gay o lesbiana u otra orientación  que declaró la negación de sus derechos en los últimos cinco años
+SDG_SERIES_DESCR: >-
+  El porcentaje se calculó tomando la población de 18 años y más, bisexual, gay o lesbiana u otra orientación que declaró la negación de sus derechos en los últimos cinco años entre la población de 18 años y más bisexual, gay o lesbiana u otra orientación.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el porcentaje de la población que se identificó como bisexual, gay o lesbiana y con otra identificación u orientación sexual  y a la que se le negó alguno de sus derechos en los últimos 5 años con respecto al total de la población bisexual, gay o lesbiana u otra orientación.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Encuesta Nacional sobre Discriminación (ENADIS) del Instituto Nacional de Estadística y Geografía (INEGI).<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI) <a target="_blank" class="liga3" href=" https://inegi.org.mx/default.html"> https://inegi.org.mx/default.html</a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  La Constitución Política establece que todas las personas gozarán de los derechos humanos reconocidos en la Constitución y en los tratados internacionales. La Ley Federal para Prevenir y Eliminar la Discriminación busca prevenir y eliminar todas las formas de discriminación que se ejerzan contra cualquier persona. Además, establece que la discriminación es " toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades,  cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo"<br><br>La ENADIS, integra información sobre diferentes tipos de discriminación. A pesar de que existe normativa para proteger los derechos de las personas y contra la discriminación, en los resultados de la ENADIS se observan grandes diferencias en el acceso a los derechos. <br><br>En este sentido, se platea el indicador, el cual da cuenta de la discriminación en el acceso a los derechos según orientación sexual, esto para cerrar brechas y no dejar a nadie atrás.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Fuente: INEGI. <br>1. Los porcentajes se calcularon respecto al total de la población según su orientación sexual. <br>2. Esta negación se refiere a la declaración de al menos uno de los derechos captados, los cuales son: la atención médica o medicamentos, la atención o servicios en alguna oficina de gobierno, la entrada o permanencia en algún negocio, centro comercial o banco, recibir apoyos de programas sociales, obtener algún crédito de vivienda, préstamo o tarjeta, y la oportunidad de obtener un empleo.<br><br>No se cuenta con una serie histórica del indicador, pero se propone la meta con base en el análisis de tendencias de otros indicadores disponibles.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/10n.3.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>1.- Los porcentajes se calcularon respecto al total de la población según su orientación sexual. <br><br>2.- Esta negación se refiere a la declaración de al menos uno de los derechos captados, los cuales son la atención médica o medicamentos, la atención o servicios en alguna oficina de gobierno, la entrada o permanencia en algún negocio, centro comercial o banco, recibir apoyos de programas sociales, obtener algún crédito de vivienda, préstamo o tarjeta, acceso a la educación y la oportunidad de obtener un empleo.<br><br>El porcentaje para la población heterosexual que le negaron al menos un derecho es del 29.2%.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '10.n3.1 Porcentaje de la población de 18 años y más, bisexual, gay o lesbiana u otra orientación  que declaró la negación de sus derechos en los últimos cinco años'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '10.n3.1 Porcentaje de la población de 18 años y más, bisexual, gay o lesbiana u otra orientación  que declaró la negación de sus derechos en los últimos cinco años'
+indicator_number:
+  '10.n3.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

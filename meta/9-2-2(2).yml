@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación
+SDG_TARGET: >-
+  Meta 9.2 Promover una industrialización inclusiva y sostenible y, de aquí a 2030, aumentar significativamente la contribución de la industria al empleo y al producto interno bruto, de acuerdo con las circunstancias nacionales, y duplicar esa contribución en los países menos adelantados
+SDG_INDICATOR: >-
+  9.2.2(2) Ocupación en la manufactura como proporción del empleo total, desglosada por sexo (1995-2020)
+SDG_SERIES_DESCR: >-
+  Este indicador se calcula como el número de personas empleadas en el sector de la industria manufacturera, dividido entre el empleo total. Los ocupados se definen como todas aquellas personas de 15 años y más que, durante el período de referencia, se dedicaron a cualquier actividad para producir bienes o prestar servicios. 
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Lic. Antonio Amerlinck Assereto<br>Director de Estudios e Investigación Laboral. Dirección General de Investigación y Estadísticas del Trabajo<br>Boulevard Adolfo López Mateos. No. 1968. Colonia Los Alpes, 01010. Alcaldía Alvaro Obregón, Ciudad de México<br>(55) 2000 5463, 2000 5300, ext. 63263<br>aamerlinck@stps.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Proporción de la población ocupada en la industria manufacturera respecto de la población ocupada total.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI) y Secretaría del Trabajo y Previsión Social (STPS).<br>1995-2004: Encuesta Nacional de Empleo (ENE), con proyecciones de población basadas en el Conteo de Población y Vivienda 2005.<br>A partir de 2005: Encuesta Nacional de Ocupación y Empleo (ENOE), con proyecciones de población basadas en el Censo de Población y Vivienda 2010.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Serie que ya no se actualiza
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Organización de las Naciones Unidas para el Desarrollo Industrial (ONUDI), Informe del desarrollo industrial, 2013. <a target="_blank" class="liga3" href="https://www.unido.org/fileadmin/user_media/Research_and_Statistics/UNIDO_IDR13_Spanish_overview_1118_for_web.pdf">”La creación sostenida de empleo, el rol de la industria manufacturera y el cambio estructural". ONUDI, Viena, 2013</a><br>
+COMPILING_ORG: >-
+  Secretaría del Trabajo y Previsión Social (STPS).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Este indicador representa la contribución de la manufactura en la creación de empleo. Refleja el grado de desarrollo industrial del país. Asimismo, cuando esta tasa deja de aumentar en forma sostenida, puede ser el resultado de un incremento sustancial en la productividad de la mano de obra, o bien de una pérdida de dinamismo de las actividades en este sector.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  1. La información de la Encuesta Nacional de Empleo (ENE) está conceptualmente homologada a la Encuesta Nacional de Ocupación y Empleo (ENOE).<br><br>2. Los datos de 1995 a 1999 corresponden al segundo trimestre de cada año. Los datos de 2000 se calculan con el promedio aritmético de los trimestres segundo, tercero y cuarto.<br><br>3. Los datos absolutos de 1995 a 2004 fueron generados utilizando el factor de expansión correspondiente a las proyecciones de población elaboradas usando como base el Conteo de Población y Vivienda 2005.<br><br>4. Los datos absolutos correspondientes al periodo 2005-2020 se generaron utilizando el factor de expansión correspondiente a las proyecciones de población revisadas por el Consejo Nacional de Población (CONAPO), las cuales fueron elaboradas usando como base el Censo de Población y Vivienda 2010 y se difundieron en abril de 2013. 
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/9.2.2(2)_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>- Debido a la contingencia sanitaria originada por el COVID-19 se suspendió el levantamiento de la Encuesta Nacional de Ocupación Empleo (ENOE) en el segundo trimestre de 2020. En los meses de abril, mayo y junio se realizó la Encuesta Telefónica de Ocupación y Empleo (ETOE), con la cual fue posible obtener información con representatividad a nivel nacional, motivo por el cual no hay información disponible para los estados en estos meses y por tanto no se cuenta información basada en promedios anuales.<br>- En los trimestres tercero y cuarto de 2020 se reanudaron los levantamientos de la información con representatividad nacional y estatal, recopilándola tanto por vía telefónica como mediante entrevistas cara a cara. De esta manera se generó la Encuesta Nacional de Ocupación y Empleo Nueva Edición (ENOEN).<br>- Las cifras del periodo 2005-2020 se generaron con el factor de expansión correspondiente a las proyecciones de población revisadas por el Consejo Nacional de Población (CONAPO), las cuales se basaron en el Censo de Población y Vivienda 2010 y se difundieron en abril de 2013.<br>- Esta es una serie histórica de referencia, que ya no se actualiza y que no es comparable con la nueva serie de 2014-2022 basada en el Marco de Muestreo de Viviendas del INEGI, con base en el Censo 2020.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '9.2.2(2) Ocupación en la manufactura como proporción del empleo total, desglosada por sexo (1995-2020)'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '9.2.2(2) Ocupación en la manufactura como proporción del empleo total, desglosada por sexo (1995-2020)'
+indicator_number:
+  '9.2.2(2)'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  STPS, con base en cifras del INEGI. ENE, ENOE (varios años) y ETOE.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

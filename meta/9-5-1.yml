@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación
+SDG_TARGET: >-
+  Meta 9.5 Aumentar la investigación científica y mejorar la capacidad tecnológica de los sectores industriales de todos los países, en particular los países en desarrollo, entre otras cosas fomentando la innovación y aumentando considerablemente, de aquí a 2030, el número de personas que trabajan en investigación y desarrollo por millón de habitantes y los gastos de los sectores público y privado en investigación y desarrollo
+SDG_INDICATOR: >-
+  9.5.1 Gasto federal en investigación científica y desarrollo experimental como proporción del PIB
+SDG_SERIES_DESCR: >-
+  Proporción del PIB que el Gobierno Federal destina a la investigación científica y desarrollo experimental en un año en específico.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Viridiana Gabriela Yañez Rivas<br>Directora de Planeación y Evaluación (DPE)<br>Avenida Insurgentes Sur, 1582<br>Colonia Crédito Constructor, 03940<br>Alcaldía Benito Juárez, Ciudad de México<br>55 5322 7700, ext. 6400<br>vgyanezri@conacyt.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Se refiere al porcentaje del PIB destinado a realizar investigación científica y desarrollo experimental por el Gobierno Federal, esto es el gasto público utilizado para realizar actividades de investigación científica y desarrollo experimental dentro del país en un año dado (t). Muestra la inversión del gobierno federal en investigación científica y desarrollo experimental que ses lleva a cabo para apoyar el desarrollo nacional.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Hacienda y Crédito Público (SHCP). Cuenta de Hacienda Pública Federal; Gasto Federal en Investigación Científica y Desarrollo Experimental (GFIDE).<br>Producto Interno Bruto (PIB): INEGI, Sistema de Cuentas Nacionales. Producto Interno Bruto Trimestral, base 2013. Series Originales / Valores a precios corrientes Obtenido en: <a target="_blank" class="liga3" href="https://www.inegi.org.mx/programas/pib/2013/default.htmlNum.Tabulados"> https://www.inegi.org.mx/programas/pib/2013/default.htmlNum.Tabulados<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  junio 2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Organización para la Cooperación y el Desarrollo Económicos (OCDE). <a target="_blank" class="liga3" href="http://www.oecd.org/publications/frascati-manual-2015-9789264239012-en.htm">Manual de Frascati 2015.</a><br>
+COMPILING_ORG: >-
+  Consejo Nacional de Ciencia y Tecnología (CONACYT). Dirección de Planeación y Evaluación (DPE).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Este indicador permite dimensionar y dar seguimiento al monto de los recursos monetarios que el gobierno federal destina a actividades de investigación científica y desarrollo experimental mediante el porcentaje que representan del PIB. Igualmente, refleja el esfuerzo de un país por destinar recursos e incentivar la inversión del Gobierno Federal para la investigación científica y desarrollo experimental.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Este indicador es un valor Proxi del indicador Gasto en Investigación Científica y Desarrollo Experimental (GIDE) como proporción del PIB, y se propone debido a que la fuente de información del GIDE ya no se encuentra disponible.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/9.5.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '9.5.1 Gasto federal en investigación científica y desarrollo experimental como proporción del PIB'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '9.5.1 Gasto federal en investigación científica y desarrollo experimental como proporción del PIB'
+indicator_number:
+  '9.5.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Consejo Nacional de Humanidades, Ciencias y Tecnologías (Conahcyt) con base en datos provenientes de la Cuenta de la Hacienda Pública Federal.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

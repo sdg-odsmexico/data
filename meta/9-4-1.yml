@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 9. Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación
+SDG_TARGET: >-
+  Meta 9.4 De aquí a 2030, modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, y logrando que todos los países tomen medidas de acuerdo con sus capacidades respectivas
+SDG_INDICATOR: >-
+  9.4.1 Emisiones de dióxido de carbono total por PIB por paridad de poder de compra
+SDG_SERIES_DESCR: >-
+  El indicador resulta de dividir las emisiones totales de dióxido de carbono equivalente derivadas de los sectores de energía, por procesos industriales y uso de productos, agricultura, silvicultura y otros usos de la tierra, y residuos, entre el PIB expresado en paridad de poder de compra a precios constantes en un año específico. El resultado se expresa en kilogramos de CO2e por dólar por paridad de poder de compra.
+META_LAST_UPDATE: >-
+  No definida.
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Dr. César Edgardo Rodríguez Ortega<br>Director General de Planeación, Evaluación y Estadística Ambiental<br>Avenida Ejército Nacional 223<br>(55) 5490 0983, ext. 10983<br>cesar.rodriguez@semarnat.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es la cantidad total de dióxido de carbono equivalente emitida anualmente (derivada de los sectores de energía, por procesos industriales y uso de productos, agricultura, silvicultura y otros usos de la tierra, y residuos), por PIB a precios constantes base 2015 expresado en Paridad de Poder de Compra (dólares).
+UNIT_MEASURE: >-
+  Kilogramos de CO<sub>2</sub>e por dólar
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  INECC. 2022. Inventario Nacional de Gases y Compuestos de Efecto Invernadero. Resumen 1990-2019. Consultado en: Compendios de Estadísticas Ambientales BadeSNIARN [Fecha de consulta: mayo de 2023]. Disponible en: <a target="_blank" class="liga3" href=" http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_AIRE02_19&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*">http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_AIRE02_19&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*</a><br>OCDE. Stat. National Accounts. Gross domestic product (GDP). GDP, US $, constant prices, constant PPPs, reference year 2015, millions [Fecha de consulta: mayo de 2023]. Disponible en: <a target="_blank" class="liga3" href="https://stats.oecd.org/index.aspx?queryid=60702Num."> https://stats.oecd.org/index.aspx?queryid=60702Num.</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  30 de abril de 2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Panel Intergubernamental sobre el Cambio Climático (IPCC). <a target="_blank" class="liga3" href="http://www.ipcc.ch/"> http://www.ipcc.ch/</a><br>
+COMPILING_ORG: >-
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Los ODS establecieron como una de sus metas promover la sostenibilidad de las industrias, buscando considerar procesos industriales limpios y ambientalmente racionales. Entre las ventajas de alcanzar esta meta podría estar el desacoplamiento de la emisión de gases de efecto invernadero del crecimiento económico. El cambio climático es acelerado por el incremento de gases de efecto invernadero (GEI) en la atmósfera. El CO2 es considerado el GEI más importante debido a su elevada persistencia en la atmósfera (entre 5 y 200 años); a su importancia como mecanismo potencial de cambio climático y al significativo incremento de su concentración en la atmósfera (40 por ciento respecto a la época preindustrial). El indicador refleja la intensidad de emisión de CO2e respecto al PIB PPC y se usa como una medida de la eficiencia, en materia de emisiones, con la que crece la economía de un país, resultando por ello útil para medir el desacoplamiento de la economía con la emisión de GEI.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero (INEGyCEI) 1990-2019 fue elaborado con estimaciones que se realizaron de acuerdo con las Directrices del Panel Intergubernamental de Cambio Climático (IPCC, por su nombre en inglés: Intergovernmental Panel on Climate Change) de 2006 para los inventarios nacionales de gases de efecto invernadero, complementadas con el refinamiento a las mismas, adoptado en 2019: 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (INECC, 2022). El año de referencia para el cálculo del PIB a precios constantes expresado en Paridad de Poder de Compra (dólares) cambió de 2010 a 2015. <br>Por lo anterior, las nuevas estimaciones no permiten una comparación directa válida con las cifras reportadas anteriormente. 
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/9.4.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Kilogramos de CO<sub>2</sub>e por dólar
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Los rubros y las cifras históricas del indicador cambiaron, debido a la actualización del Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero y al año de referencia para el cálculo del PIB a precios constantes expresado en Paridad de Poder de Compra (dólares).
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '9.4.1 Emisiones de dióxido de carbono total por PIB por paridad de poder de compra'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '9.4.1 Emisiones de dióxido de carbono total por PIB por paridad de poder de compra'
+indicator_number:
+  '9.4.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  - INECC. 2022. Inventario Nacional de Gases y Compuestos de Efecto Invernadero. Resumen 1990-2019. Consultado en Compendios de Estadísticas Ambientales BadeSNIARN. [Fecha de consulta mayo de 2023]. Disponible en <a target="_blank" class="liga3" href=" http//dgeiawf.semarnat.gob.mx8080/ibi_apps/WFServlet?IBIF_ex=D3_AIRE02_19&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*">http//dgeiawf.semarnat.gob.mx8080/ibi_apps/WFServlet?IBIF_ex=D3_AIRE02_19&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*</a>- OCDE. Stat. National Accounts. Gross domestic product (GDP). GDP, US $, constant prices, constant PPPs, reference year 2015, millions [Fecha de consulta mayo de 2023]. Disponible en <a target="_blank" class="liga3" href="https//stats.oecd.org/index.aspx?queryid=60702Num.">https//stats.oecd.org/index.aspx?queryid=60702Num.</a>
+source_periodicity_1:
+  Bienal
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

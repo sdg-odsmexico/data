@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 10. Reducir la desigualdad en los países y entre ellos
+SDG_TARGET: >-
+  Meta 10.4 Adoptar políticas, especialmente fiscales, salariales y de protección social, y lograr progresivamente una mayor igualdad
+SDG_INDICATOR: >-
+  10.4.r.1b Índice de Gini sin transferencias
+SDG_SERIES_DESCR: >-
+  Para el cálculo, la población se divide usualmente en grupos de ingreso. Comúnmente tenemos diez grupos (deciles) con una cantidad similar de individuos en cada grupo. En otros casos los grupos pueden estar basados en rangos de ingreso lo que implica tener diferentes números de individuos en cada grupo. Para el cálculo del coeficiente de Gini, para cada grupo la cantidad de individuos u hogares, y el ingreso total, tienen que estar ordenados de manera que el valor en grupo sea de manera ascendente.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Con este indicador se mide la desigualdad que existen entre los ingresos de los hogares, siendo el valor mas cercano a cero una menor desigualdad entre los hogares, y mas cercano a 1 denotando la mayor desigualdad entre los ingresos de los hogares.
+UNIT_MEASURE: >-
+  Índice
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH), Nueva Serie 2016, 2018 y 2020. INEGI<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Manual de Encuestas sobre Hogares. Departamento de Asuntos Económicos y Sociales Internacionales, Oficina de Estadística. Naciones Unidas, Nueva York, 1987.<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). <a target="_blank" class="liga3" href="https://www.inegi.org.mx/">https://www.inegi.org.mx/ </a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Permite identificar la desigualdad entre los ingresos de los hogares a nivel nacional y entidades federativas.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El cálculo de este indicador no toma en cuenta las Transferencias. <br><br>Las transferencias son entradas a cambio de las cuales el receptor no da nada al donante; están motivadas por la intención de redistribuir el ingreso, por parte del gobierno o de distintas entidades privadas. Las transferencias se pueden realizar entre hogares, entre el gobierno y los hogares o entre asociaciones de beneficencia y hogares. Pueden hacerse en forma de efectivo, de bienes o de servicios. Las transferencias corrientes son las que se repiten de forma periódica (en relación con el periodo de referencia utilizado para los ingresos), suelen ser pequeñas y en su mayor parte suelen utilizarse durante el periodo de referencia. Para mayor información técnica sobre las transferencias, se recomienda consultar el Documento de Diseño conceptual de la Encuesta Nacional de la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH). 2018 Nueva serie. <a target="_blank" class="liga3" href=" https://www.inegi.org.mx/contenidos/programas/enigh/nc/2018/doc/enigh18_diseno_conceptual_ns.pdf"> https://www.inegi.org.mx/contenidos/programas/enigh/nc/2018/doc/enigh18_diseno_conceptual_ns.pdf
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/10r.4.1b_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Índice
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '10.4.r.1b Índice de Gini sin transferencias'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '10.4.r.1b Índice de Gini sin transferencias'
+indicator_number:
+  '10.4.r.1b'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH), Nueva Serie 2016, 2018 y 2020. INEGI
+source_periodicity_1:
+  Bienal
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''
