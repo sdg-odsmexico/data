@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 15. Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad
+SDG_TARGET: >-
+  Meta 15.1 De aquí a 2020, asegurar la conservación, el restablecimiento y el uso sostenible de los ecosistemas terrestres y los ecosistemas interiores de agua dulce y sus servicios, en particular los bosques, los humedales, las montañas y las zonas áridas, en consonancia con las obligaciones contraídas en virtud de acuerdos internacionales
+SDG_INDICATOR: >-
+  15.1.1 Superficie forestal como proporción de la superficie total
+SDG_SERIES_DESCR: >-
+  El indicador se calcula dividiendo la superficie nacional cubierta por bosques y selvas en un año particular por la superficie terrestre nacional, excluyendo de ésta los cuerpos de agua naturales y artificiales, expresado en porcentaje.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Arturo Flores Martínez<br>Director General de Estadística e Información Ambiental<br>Avenida Ejército Nacional 223<br>Colonia Anáhuac, 11320<br>Miguel Hidalgo, Miguel Hidalgo, Ciudad de México<br>55 5490 0900, ext. 10941<br>arturo.flores@semarnat.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el porcentaje de la superficie cubierta por bosques y selvas, respecto a la superficie terrestre nacional.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Cartografía de uso del suelo y vegetación, serie II, 1993; serie III, 2002; serie IV, 2007; serie V, 2011; serie VI, 2014; y Cubierta de la Tierra. Dirección de Recursos Naturales. Dirección General Adjunta de Recursos Naturales y Dirección General de Geografía y Medio Ambiente. México, 2009.<br>Instituto Nacional de Estadística y Geografía (INEGI). Anuario Estadístico de los Estados Unidos Mexicanos. Edición 2002. No. 61. Consultado en enero de 2019.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Food and Agriculture Organization (FAO). Global Forest Resources Assessment (2005, 2010 y 2015). Disponible en:  http://www.fao.org/forestry/fra/en/<br>
+COMPILING_ORG: >-
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Sistema Nacional de Información Ambiental y de Recursos Naturales (SNIARN), Indicadores de la Iniciativa ILAC.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Los ODS establecieron como una de sus metas proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, y de manera particular de los bosques. Los bosques y selvas representan importantes reservorios de la biodiversidad. El desarrollo de las actividades productivas (principalmente de la agricultura y la ganadería), el crecimiento de la infraestructura (de comunicaciones y eléctrica, fundamentalmente) y el desarrollo urbano, han reducido la superficie de los bosques y selvas en México y el mundo. La pérdida de ésta superficie conlleva necesariamente a la degradación ambiental y a la pérdida de biodiversidad y de los servicios ambientales que brindan los ecosistemas naturales. En este sentido, el indicador es una medida del capital natural, en particular de los ecosistemas forestales, que tiene el país.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  De acuerdo con el INEGI, la superficie terrestre nacional es de 1 950 484.12 km2 (no incluye los cuerpos de agua naturales y artificiales: ríos, lagos, lagunas, presas, bordos y canales, con base en la Carta Topográfica Escala 1:250,000, serie II).<br>El indicador incluye bosque mesófilo de montaña; bosque templado (bosque de ayarín, bosque de cedro, bosque de encino, bosque de encino-pino, bosque de oyamel, bosque de pino, bosque de pino-encino, bosque de táscate y matorral de coníferas); bosque inducido (bosque cultivado y bosque inducido); selva húmeda (selva alta perennifolia, selva alta subperennifolia, selva baja perennifolia, selva baja subperennifolia, selva mediana subperennifolia, selva mediana perennifolia); selva subhúmeda (matorral subtropical, selva baja caducifolia, selva baja espinosa, selva baja subcaducifolia, selva mediana caducifolia, selva mediana subcaducifolia, selva baja espinosa caducifolia, selva baja espinosa subperennifolia). Se excluyen otros tipos de vegetación natural, como matorrales, que son importantes para el país.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/15.1.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '15.1.1 Superficie forestal como proporción de la superficie total'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '15.1.1 Superficie forestal como proporción de la superficie total'
+indicator_number:
+  '15.1.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT).
+source_periodicity_1:
+  No establecida
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

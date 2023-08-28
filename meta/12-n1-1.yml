@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 12. Garantizar modalidades de consumo y producción sostenibles
+SDG_TARGET: >-
+  Meta 12.n1 Impulsar la Economía circular, en las cadenas productivas y de consumo, entendida como el rediseño de productos y servicios para disminuir desechos al final de la vida útil de los mismos y desde una perspectiva de valor compartido
+SDG_INDICATOR: >-
+  12.n1.1 Porcentaje de municipios con disposición adecuada de residuos sólidos urbanos
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de dividir el número de municipios y demarcaciones territoriales que disponen los residuos sólidos urbanos en sitios de disposición final con infraestructura para el control de la fuga de lixiviados y biogases, entre el número de municipios y demarcaciones territoriales con disposición final de residuos sólidos urbanos, multiplicado por 100.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Porcentaje de municipios que declaran depositar residuos sólidos urbanos en sitios de disposición final controlados respecto al total de municipios que cuentan con sitios de disposición final de residuos sólidos urbanos.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Censo Nacional de Gobiernos Municipales y Delegacionales. <a target="_blank" class="liga3" href="https://www.inegi.org.mx/programas/cngmd/2021/ ">  https://www.inegi.org.mx/programas/cngmd/2021/<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Mayo 2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Norma Oficial Mexicana NOM-083-SEMARNAT-2003.Secretaría de Medio Ambiente y Recursos Naturales.<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Geografía y Medio Ambiente.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Para el diseño de políticas públicas en materia de residuos sólidos urbanos y el seguimiento al Programa Nacional de Prevención y Gestión Integral de los Residuos 2013-2018.<br><br>En México la responsabilidad sobre la gestión de los residuos sólidos urbanos recae en los gobiernos municipales, así lo establece la Carta Magna. Un aspecto básico de esa gestión está representado por la prestación del servicio de recolección de los residuos. La heterogeneidad que presentan los municipios en términos de peso demográfico y económico, distribución de la población (concentración-dispersión) y capacidades financieras y administrativas, genera también heterogeneidad en la forma como se resuelve la cobertura del servicio en los municipios a nivel de localidad y población. En esa diversidad, atención especial merecen los municipios que reportan no ofrecer el servicio de recogida de los residuos sólidos urbanos ni siquiera en la cabecera municipal. En esa circunstancia, los pobladores aplican estrategias muy cuestionables en términos ambientales para separarse de los desechos, como la quema, disposición en barrancas, caminos, o sobre el lecho de ríos y arroyos. El indicador permite dimensionar progresos y brechas en este aspecto de la gestión de los residuos sólidos.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Se considera como disposición adecuada de los residuos sólidos urbanos aquella que se realiza en sitios con infraestructura para el control de fuga de lixiviados y biogases.<br><br>La Norma Oficial Mexicana NOM-083-SEMARNAT-2003 en su Artículo 9.2 Conformación final del sitio señala: "La conformación final que se debe dar al sitio de disposición final debe contemplar las restricciones relacionadas con el uso del sitio, estabilidad de taludes, límites del predio, características de la cobertura final de clausura, drenajes superficiales y la infraestructura para control del lixiviado y biogás".<br><br>El indicador está construido con base en la respuesta del informante al módulo de residuos sólidos urbanos del Censo Nacional de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México sobre la infraestructura existente en el sitio donde depositan sus residuos sólidos urbanos.<br><br>El cuestionario del Módulo Ambiental de Residuos Sólidos Urbanos del Censo Nacional de Gobiernos Municipales y Delegacionales permite identificar la infraestructura del sitio en el que los municipios depositan los residuos.<br><br>Este es un indicador que pertenece al Catálogo Nacional de Indicadores (CNI).
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/12n.1.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Cifra Revisada para 2012
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '12.n1.1 Porcentaje de municipios con disposición adecuada de residuos sólidos urbanos'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '12.n1.1 Porcentaje de municipios con disposición adecuada de residuos sólidos urbanos'
+indicator_number:
+  '12.n1.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

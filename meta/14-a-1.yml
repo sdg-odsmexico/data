@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 14. Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible
+SDG_TARGET: >-
+  Meta 14.a Aumentar los conocimientos científicos, desarrollar la capacidad de investigación y transferir tecnología marina, teniendo en cuenta los Criterios y Directrices para la Transferencia de Tecnología Marina de la Comisión Oceanográfica Intergubernamental, a fin de mejorar la salud de los océanos y potenciar la contribución de la biodiversidad marina al desarrollo de los países en desarrollo, en particular los pequeños Estados insulares en desarrollo y los países menos adelantados
+SDG_INDICATOR: >-
+  14.a.1 Proporción del Presupuesto Federal para Investigación Científica y Desarrollo Experimental asignado a la Secretaría de Marina
+SDG_SERIES_DESCR: >-
+  De la Cuenta de la Hacienda Pública Federal se identifica el Presupuesto Federal Ejercido en Ciencia, Tecnología e Innovación. Éste se clasifica en Investigación Científica y Desarrollo Experimental, Posgrado, Servicios Científicos y Tecnológicos e Innovación y por secretaría de estado. Con estas clasificaciones, se obtiene el dato de las dos variables del indicador.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Viridiana Gabriela Yañez Rivas<br>Directora de Planeación y Evaluación (DPE)<br>Avenida Insurgentes Sur, 1582<br>Colonia Crédito Constructor, 03940<br>Alcaldía Benito Juárez, Ciudad de México<br>55 5322 7700, ext. 6400<br>vgyanezri@conacyt.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Presupuesto Federal para Investigación Científica y Desarrollo Experimental asignado a la Secretaría de Marina entre el Presupuesto Federal Total para Investigación Científica y Desarrollo Experimental multiplicado por 100.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Consejo Nacional de Humanidades, Ciencias y Tecnologías  (Conahcyt). Dirección de Planeación y Evaluación con información de la Cuenta de la Hacienda Pública Federal.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  junio 2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Secretaría de Hacienda y Crédito Público (SHCP), Cuenta de la Hacienda Pública Federal (CHPF).<br>
+COMPILING_ORG: >-
+  Consejo Nacional de Ciencia y Tecnología (CONACYT). Dirección de Planeación y Evaluación (DPE).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El indicador mide el grado de involucramiento del país con respecto a conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Los datos de las variables del indicador los calcula el CONACYT con base en la información publicada en la Cuenta de la Hacienda Pública Federal.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/14.a.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '14.a.1 Proporción del Presupuesto Federal para Investigación Científica y Desarrollo Experimental asignado a la Secretaría de Marina'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '14.a.1 Proporción del Presupuesto Federal para Investigación Científica y Desarrollo Experimental asignado a la Secretaría de Marina'
+indicator_number:
+  '14.a.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Consejo Nacional de Humanidades, Ciencias y Tecnologías  (Conahcyt). Dirección de Planeación y Evaluación con información de la Cuenta de la Hacienda Pública Federal.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

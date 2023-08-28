@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 15. Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad
+SDG_TARGET: >-
+  Meta 15.n2 Gestión sostenible de los recursos naturales y la distribución equitativa de los beneficios derivados de éstos considerando el patrimonio biocultural de las comunidades
+SDG_INDICATOR: >-
+  15.n2.1 Tasa anual de deforestación bruta a nivel nacional
+SDG_SERIES_DESCR: >-
+  La tasa anual de deforestación bruta a nivel nacional (TDEFB) mide el porcentaje de variación de la superficie de tierras forestales, expresada en hectáreas, estimada para el año t, en comparación con la superficie de tierras forestales, expresada en hectáreas, estimada en el año t-1.<br>La estimación de tierras forestales se realiza mediante el enfoque de muestreo del sistema Satelital de Monitoreo Forestal (SAMOF) implementado por la Comisión Nacional Forestal (CONAFOR).
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  León Jorge Castaños Martínez<br>Director General<br>Periférico Poniente 5360; San Juan de Ocotán 45019, Jalisco<br>(33) 3777-7000 ext. 1015/1019<br>directorgeneral@conafor.gob.mx<br><br>Jorge David Fernández Medina<br>Coordinador General de Planeación e Información<br>Periférico Poniente 5360; San Juan de Ocotán 45019, Jalisco<br>(33) 3777-7000 ext. 4001<br>directorgeneral@conafor.gob.mx<br><br>José Armando Alanís de la Rosa<br>Gerente de Sistema Nacional de Monitoreo Forestal<br>Periférico Poniente 5360; San Juan de Ocotán 45019, Jalisco<br>(33) 3777-7000 ext. 4001<br>jalanis@conafor.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Mide la tasa anual de pérdida de vegetación forestal (tierras forestales) a nivel nacional como un indicador proxi del nivel de protección y conservación de los ecosistemas forestales incluyendo los bienes y servicios ecosistémicos que contribuyen al bienestar de la población.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  CONAFOR https://www.gob.mx/conafor<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Diciembre 2021
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Comisión Nacional Forestal (CONAFOR). 2020. Estimación de la tasa de deforestación bruta en México para el periodo 2001-2018 mediante el método de muestreo. Resumen ejecutivo<br>
+COMPILING_ORG: >-
+  Comisión Nacional Forestal.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El indicador mide la tasa anual de pérdida de vegetación forestal (tierras forestales) a nivel nacional como un indicador proxi del nivel de protección y conservación de los ecosistemas forestales incluyendo los bienes y servicios ecosistémicos que contribuyen al bienestar de la población. En la medida que se evita la pérdida de la vegetación forestal, se contribuye a gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad. 
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Este indicador está muy correlacionado con el indicador global 15.1.1 "Superficie forestal en proporción a la superficie total; mismo que ya se reporta en el SIODS". Sin embargo, la UE considera apropiada su inclusión en el MNI debido a que con base en este indicador es que se está definiendo la meta (que afecta el resultado en el 15.1.1).<br><br>Se han de destacar las diferencias conceptuales y metodológicas entre el cálculo del indicador global y éste. Este indicador ya fue presentado ante el CTE de recursos naturales, específicamente en el Comité Técnico Especializado de Información en Materia de Uso del Suelo, Vegetación y Recursos Forestales (CTEIMUSVRF).<br><br>Respecto a la Oportunidad del indicador, se calcula un año calendario posterior al año en que se estima la actualización debido a que se requiere contar con imágenes de satélite de mediana, alta y muy alta resolución disponibles de manera gratuita en diversas plataformas como Google Earth, Yandex o Bing, las cuales son evaluadas mediante la herramienta Collect Earth desarrollada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO).<br>
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/15n.2.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '15.n2.1 Tasa anual de deforestación bruta a nivel nacional'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '15.n2.1 Tasa anual de deforestación bruta a nivel nacional'
+indicator_number:
+  '15.n2.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 12. Garantizar modalidades de consumo y producción sostenibles
+SDG_TARGET: >-
+  Meta 12.b. Elaborar y aplicar instrumentos para vigilar los efectos en el desarrollo sostenible, a fin de lograr un turismo sostenible que cree puestos de trabajo y promueva la cultura y los productos locales
+SDG_INDICATOR: >-
+  12.b.1 Implementación de herramientas contables estándar para supervisar los aspectos económicos y ambientales de la sostenibilidad del turismo
+SDG_SERIES_DESCR: >-
+  Es el número de tablas implementadas a nivel nacional que hasta la fecha se consideran más relevantes y viables para el seguimiento de la sostenibilidad en el turismo. Las tablas deberán implementarse siguiendo la Cuenta Satélite de Turismo (Cuenta Satélite de Turismo: Recomendaciones sobre el Marco Conceptual 2008) y las tablas ambientales implementadas siguiendo el Marco Central del Sistema de Contabilidad Ambiental y Económica 2012.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Raúl Figueroa Díaz<br>Director de Cuentas Satélite<br>INEGI Oficina Enlace Ciudad de México. Patriotismo 711, Torre A, Nivel 7, Col. San Juan, C.P. 03730<br>5552781000 Ext. 321681<br>raul.figueroa@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  El indicador se refiere al grado de implementación en los países de las tablas de la Cuenta Satélite de Turismo (TSA, por sus siglas en inglés) y del Marco Central del Sistema de Contabilidad Ambiental y Económica (SEEA, por sus siglas en inglés), que hasta la fecha se consideran más relevantes y viables para el seguimiento de la sostenibilidad del turismo.
+UNIT_MEASURE: >-
+  Número de tablas
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuenta Satélite del Turismo de México, 2021. Preliminar. Año Base 2013. 2022 (15 de diciembre de 2022)<br>Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas Económicas y Ecológicas de México, 2021. Preliminar. Año base 2013. 2022 (01 de diciembre de 2022)<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  15 de diciembre de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Marco Central del Sistema de Contabilidad Ambiental y Económica (SEEA, por sus siglas en inglés, 2012) [en línea]. Naciones Unidas, Comisión Europea, Fondo Monetario Internacional, Organización de las Naciones Unidas para la Alimentación y la Agricultura, Organización de Cooperación y Desarrollo Económicos (OCDE) y el Banco Mundial. Disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/unsd/envaccounting/seearev/CF_trans/S_march2014.pdf">https://unstats.un.org/unsd/envaccounting/seearev/CF_trans/S_march2014.pdf</a><br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Económicas.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Este indicador es de relevancia para dar seguimiento a los aspectos económicos y ambientales de la sostenibilidad del turismo, a través del análisis de herramientas contables.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Este indicador proviene de varias fuentes:<br><br>Cuenta Satélite del Turismo de México.<br>Cuentas Económicas y Ecológicas de México.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Estados Unidos Mexicanos
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/12.b.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Número de tablas
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '12.b.1 Implementación de herramientas contables estándar para supervisar los aspectos económicos y ambientales de la sostenibilidad del turismo'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '12.b.1 Implementación de herramientas contables estándar para supervisar los aspectos económicos y ambientales de la sostenibilidad del turismo'
+indicator_number:
+  '12.b.1'
+national_geographical_coverage:
+  Estados Unidos Mexicanos
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

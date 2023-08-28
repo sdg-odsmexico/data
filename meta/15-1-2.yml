@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 15. Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad
+SDG_TARGET: >-
+  Meta 15.1 De aquí a 2020, asegurar la conservación, el restablecimiento y el uso sostenible de los ecosistemas terrestres y los ecosistemas interiores de agua dulce y sus servicios, en particular los bosques, los humedales, las montañas y las zonas áridas, en consonancia con las obligaciones contraídas en virtud de acuerdos internacionales
+SDG_INDICATOR: >-
+  15.1.2 Proporción de lugares importantes para la diversidad biológica terrestre y del agua dulce que forman parte de zonas protegidas, desglosada por tipo de ecosistema
+SDG_SERIES_DESCR: >-
+  El indicador se calcula dividiendo la superficie nacional cubierta por áreas naturales protegidas federales, tanto terrestres como de agua dulce, en un año particular por la superficie nacional, expresado en porcentaje. 
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Arturo Flores Martínez<br>Director General de Estadística e Información Ambiental<br>Avenida Ejército Nacional 223<br>Colonia Anáhuac, 11320<br>Miguel Hidalgo, Miguel Hidalgo, Ciudad de México<br>55 5490 0900, ext. 10941<br>arturo.flores@semarnat.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el porcentaje de la superficie nacional cubierta por áreas naturales protegidas federales, terrestres y de agua dulce, expresado en porcentaje.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional de Áreas Naturales Protegidas (CONANP). Áreas naturales protegidas de México. Consultado en: <a target="_blank" class="liga3" href="http://sig.conanp.gob.mx/website/interactivo/anps/">http://sig.conanp.gob.mx/website/interactivo/anps/</a> (marzo de 2019).<br>Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Geografía y Medio Ambiente. (marzo de 2019).<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional de Áreas Naturales Protegidas (CONANP). Página electrónica institucional. Disponible en: <a target="_blank" class="liga3" href="http://www.gob.mx/conanp">http://www.gob.mx/conanp</a><br>
+COMPILING_ORG: >-
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT).  Sistema Nacional de Información Ambiental y de Recursos Naturales (SNIARN),  Indicadores de la Iniciativa ILAC.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Los ODS establecieron como una de sus metas proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres. Las Áreas Naturales Protegidas (ANP) tienen como función principal la protección de la flora y fauna, de los servicios ambientales, de los recursos naturales de importancia especial y de los ecosistemas representativos de una región o país, por lo que el porcentaje de la superficie cubierta por ANPs refleja el esfuerzo gubernamental encaminado a salvaguardar la biodiversidad y los servicios ambientales que brindan los ecosistemas naturales.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  La superficie nacional utilizada para realizar el cálculo del indicador es de 1 964 375 km<sup>2</sup>. Las superficies señaladas por el indicador pueden diferir de las reportadas por la Comisión Nacional de Áreas Naturales Protegidas debido a que se calculan con base en las fechas de decreto de las áreas naturales protegidas.<br><br>La Ley General del Equilibrio Ecológico y la Protección al Ambiente de México, define a las Áreas Naturales Protegidas como aquellas que constituyen porciones terrestres o acuáticas del territorio nacional, representativas de los diferentes ecosistemas y de su biodiversidad, en donde el ambiente original no ha sido esencialmente alterado por el hombre y están sujetas a regímenes especiales de protección, conservación, restauración y desarrollo. El indicador no incluye las áreas estatales protegidas.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/15.1.2_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>La fuente realizó una revisión de la serie histórica de la superficie cubierta por áreas naturales protegidas federales marinas, por lo que las cifras no coinciden con las anteriormente reportadas a esta actualización. En el mes de diciembre del año 2016, se incorporaron áreas naturales protegidas con una gran superficie ("Pacífico Mexicano Profundo" 43 millones de ha, entre otras) lo que incrementó considerablemente la superficie en cuestión.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '15.1.2 Proporción de lugares importantes para la diversidad biológica terrestre y del agua dulce que forman parte de zonas protegidas, desglosada por tipo de ecosistema'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '15.1.2 Proporción de lugares importantes para la diversidad biológica terrestre y del agua dulce que forman parte de zonas protegidas, desglosada por tipo de ecosistema'
+indicator_number:
+  '15.1.2'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional de Áreas Naturales Protegidas (CONANP). Áreas naturales protegidas de México. Consultado en <a target="_blank" class="liga3" href="http//sig.conanp.gob.mx/website/interactivo/anps/">http//sig.conanp.gob.mx/website/interactivo/anps/</a> (marzo de 2019).
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

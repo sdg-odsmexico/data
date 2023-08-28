@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 15. Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad
+SDG_TARGET: >-
+  Meta 15.1 De aquí a 2020, asegurar la conservación, el restablecimiento y el uso sostenible de los ecosistemas terrestres y los ecosistemas interiores de agua dulce y sus servicios, en particular los bosques, los humedales, las montañas y las zonas áridas, en consonancia con las obligaciones contraídas en virtud de acuerdos internacionales
+SDG_INDICATOR: >-
+  15.1.r.b Área de humedales incluidos en la Convención relativa a los Humedales de Importancia Internacional, especialmente como Hábitat de Aves Acuáticas (Convención de Ramsar)
+SDG_SERIES_DESCR: >-
+  El indicador se calcula sumando la superficie de cada polígono de humedales designados dentro de la Convención sobre los Humedales RAMSAR.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Dr. César Edgardo Rodríguez Ortega<br>Director General de Planeación, Evaluación y Estadística Ambiental<br>Avenida Ejército Nacional 223<br>(55) 5490 0983, ext. 10983<br>cesar.rodriguez@semarnat.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el calculo acumulativo de la superficie en hectáreas de los 144 Humedales designados dentro de la Convención sobre los Humedales RAMSAR.
+UNIT_MEASURE: >-
+  Hectáreas
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Listado de Humedales designados dentro de la Convención sobre los Humedales RAMSAR. [Fecha de Consulta: diciembre 2022]. Disponible en: <a target="_blank" class="liga3" href="https://rsis.ramsar.org/es/ris-search/?language=es&f[0]=regionCountry_es_ss%3AM%C3%A9xico&pagetab=1"> https://rsis.ramsar.org/es/ris-search/?language=es&f[0]=regionCountry_es_ss%3AM%C3%A9xico&pagetab=1  </a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  28 de junio de 2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Ficha técnica CEPAL. <a target="_blank" class="liga3" href="https://agenda2030lac.org/estadisticas/technical-sheet.html?lang=es&indicator_id=2016">https://agenda2030lac.org/estadisticas/technical-sheet.html?lang=es&indicator_id=2016 </a><br>
+COMPILING_ORG: >-
+  Comisión Nacional de Áreas Naturales Protegidas (CONANP). <a target="_blank" class="liga3" href="https://www.gob.mx/conanp">https://www.gob.mx/conanp</a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Los ODS establecieron como una de sus metas proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres. Los Humedales son  ecosistemas esenciales para la conservación de especies migratorias de aves y el agua potable de la humanidad.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  La misión de la Convención es " la conservación y el uso racional de los humedales mediante acciones locales y nacionales y gracias a la cooperación internacional, como contribución al logro de un desarrollo sostenible en todo el mundo".<br><br>Los humedales están entre los ecosistemas más diversos y productivos. Proporcionan servicios esenciales y suministran toda nuestra agua potable. Sin embargo, continúa su degradación y conversión para otros usos. <br><br>La Convención aplica una definición amplia de los humedales, que abarca todos los lagos y ríos, acuíferos subterráneos, pantanos y marismas, pastizales húmedos, turberas, oasis, estuarios, deltas y bajos de marea, manglares y otras zonas costeras, arrecifes coralinos, y sitios artificiales como estanques piscícolas, arrozales, reservorios y salinas.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/15r.1b_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Hectáreas
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>El cálculo se llevó a cabo a partir de los datos oficiales de la Convención sobre los Humedales RAMSAR por parte del personal de la CONANP presentando el valor acumulado de la superficie en hectáreas, por lo cual los datos que se repiten a través de los años se refieren a que en ese periodo no se designaron Humedales, por tanto la superficie se mantiene constante.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '15.1.r.b Área de humedales incluidos en la Convención relativa a los Humedales de Importancia Internacional, especialmente como Hábitat de Aves Acuáticas (Convención de Ramsar)'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '15.1.r.b Área de humedales incluidos en la Convención relativa a los Humedales de Importancia Internacional, especialmente como Hábitat de Aves Acuáticas (Convención de Ramsar)'
+indicator_number:
+  '15.1.r.b'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Listado de Humedales designados dentro de la Convención sobre los Humedales RAMSAR. [Fecha de Consulta diciembre 2022]. Disponible en <a target="_blank" class="liga3" href="https//rsis.ramsar.org/es/ris-search/?language=es&f[0]=regionCountry_es_ss%3AM%C3%A9xico&pagetab=1"> https//rsis.ramsar.org/es/ris-search/?language=es&f[0]=regionCountry_es_ss%3AM%C3%A9xico&pagetab=1  </a>
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

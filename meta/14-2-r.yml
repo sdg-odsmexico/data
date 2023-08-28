@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 14. Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible
+SDG_TARGET: >-
+  Meta 14.2. De aquí a 2020, gestionar y proteger sosteniblemente los ecosistemas marinos y costeros para evitar efectos adversos importantes, incluso fortaleciendo su resiliencia, y adoptar medidas para restaurarlos a fin de restablecer la salud y la productividad de los océanos
+SDG_INDICATOR: >-
+  14.2.r Área de manglares
+SDG_SERIES_DESCR: >-
+  Se refiere a la superficie de manglares en México, como resultado del monitoreo de los cambios en el ecosistema de manglar a través de la evaluación periódica de su distribución espacial y condición de sus atributos naturales y sociales.<br>Cada cinco años con imágenes satelitales de 10 m de resolución y el método interdependiente se obtienen las áreas de cambio de manglar.  
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  César E. Rodríguez Ortega<br>Director General de Planeación, Evaluación y Estadística Ambiental<br>Avenida Ejército Nacional 223, Colonia Anáhuac, 11320; Miguel Hidalgo, Miguel Hidalgo, Ciudad de México<br>55 5490 0983, ext. 10983<br>cesar.rodriguez@semarnat.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Se refiere a la superficie de manglares en México.
+UNIT_MEASURE: >-
+  Hectáreas
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  CONABIO. Sistema de Monitoreo de Manglares de México (SMMM). [Fecha de consulta: Mayo de 2023]. Disponible en: <a target="_blank" class="liga3" href="https://biodiversidad.gob.mx/monitoreo/smmm "> https://biodiversidad.gob.mx/monitoreo/smmm </a><br>Velázquez Salazar, Samuel et al. 2021. Manglares de México: Actualización y Análisis de los datos 2020. CONABIO. México. [Fecha de consulta: Mayo de 2023] Disponible en: <a target="_blank" class="liga3" href="https://bioteca.biodiversidad.gob.mx/janium/Documentos/15638.pdf"> https://bioteca.biodiversidad.gob.mx/janium/Documentos/15638.pdf </a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  31 de marzo de 2026
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Repositorio de Indicadores priorizados para el seguimiento de los ODS en América Latina y el Caribe (CEPAL). Disponible en: <a target="_blank" class="liga3" href="https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html"> https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html</a><br>
+COMPILING_ORG: >-
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Dirección General de Planeación, Evaluación y Estadística Ambiental<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El indicador es la superficie de manglares que tiene nuestro país, resultado del monitoreo que se hace de los manglares. La importancia de realizar un monitoreo permanente de los ecosistemas de manglar radica en que, al determinar el estado y las tendencias de cambio (deterioro o recuperación), incluida la identificación de las amenazas existentes y la aparición de nuevas, será posible emprender acciones y prevenir o corregir los cambios que provocan o se pueden provocar en estos ecosistemas. El objetivo del Sistema de Monitoreo de Manglares de México (SMMM) es identificar cambios en el ecosistema de manglar a través de la evaluación periódica de su distribución espacial y condición de sus atributos naturales y sociales, de tal forma que la información generada apoye a la conservación y manejo del ecosistema de manglar. El SMMM tiene cuatro componentes: Distribución espacial de los manglares; Caracterización de los manglares; Dimensión social; y Colaboración.<br>
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  1970/1980 Corresponde a las décadas de la toma de fotografías áereas, insumo para elaborar el mapa Distribución de los manglares en México en 1970 -1980.  El resto de los mapas (2005, 2010, 2015 y 2020) fueron elaborados con imágenes satelitales.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/14r.2_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Hectáreas
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>1970/1980 Corresponde a las décadas de la toma de fotografías aéreas, insumo para elaborar el mapa Distribución de los manglares en México en 1970 -1980.<br>La periodicidad quinquenal se dio a partir del año de evaluación 2005. El último dato se publicó en enero de 2021 y corresponde al año 2020.<br>Los detalles del aumento de superficie en 2020 se encuentran en la publicación abajo mencionada (Velázquez-Salazar et al. 2021).
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '14.2.r Área de manglares'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '14.2.r Área de manglares'
+indicator_number:
+  '14.2.r'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  - CONABIO. Sistema de Monitoreo de Manglares de México (SMMM). [Fecha de consulta Mayo de 2023]. Disponible en <a target="_blank" class="liga3" href="https//biodiversidad.gob.mx/monitoreo/smmm "> https//biodiversidad.gob.mx/monitoreo/smmm </a> - Velázquez Salazar, Samuel et al. 2021. Manglares de México Actualización y Análisis de los datos 2020. CONABIO. México. [Fecha de consulta Mayo de 2023] Disponible en <a target="_blank" class="liga3" href="https//bioteca.biodiversidad.gob.mx/janium/Documentos/15638.pdf"> https//bioteca.biodiversidad.gob.mx/janium/Documentos/15638.pdf </a>
+source_periodicity_1:
+  Quinquenal
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''
