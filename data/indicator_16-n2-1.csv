@@ -1,0 +1,694 @@
+﻿Year,Entidad federativa,"Sexo",GeoCode,Value
+2022,"Estados Unidos Mexicanos","Total",00,56.17133453000015
+2021,"Estados Unidos Mexicanos","Total",00,58.64802209000007
+2020,"Estados Unidos Mexicanos","Total",00,57.57514091000009
+2019,"Estados Unidos Mexicanos","Total",00,57.93692542999998
+2018,"Estados Unidos Mexicanos","Total",00,54.280461620000075
+2017,"Estados Unidos Mexicanos","Total",00,56.360490770000055
+2016,"Estados Unidos Mexicanos","Total",00,55.503893789999914
+2022,"Estados Unidos Mexicanos","Hombres",00,55.06978660999995
+2021,"Estados Unidos Mexicanos","Hombres",00,57.986556830000104
+2020,"Estados Unidos Mexicanos","Hombres",00,57.37531208000012
+2019,"Estados Unidos Mexicanos","Hombres",00,56.68890006000012
+2018,"Estados Unidos Mexicanos","Hombres",00,53.635117660000084
+2017,"Estados Unidos Mexicanos","Hombres",00,55.739136510000144
+2016,"Estados Unidos Mexicanos","Hombres",00,55.87624665000015
+2022,"Estados Unidos Mexicanos","Mujeres",00,57.342158290000036
+2021,"Estados Unidos Mexicanos","Mujeres",00,59.364001459999855
+2020,"Estados Unidos Mexicanos","Mujeres",00,57.769263850000044
+2019,"Estados Unidos Mexicanos","Mujeres",00,59.29733470999988
+2018,"Estados Unidos Mexicanos","Mujeres",00,54.98950134999996
+2017,"Estados Unidos Mexicanos","Mujeres",00,57.03884907999989
+2016,"Estados Unidos Mexicanos","Mujeres",00,55.10696612999988
+2022,"Aguascalientes","Total",01,64.94318979000013
+2021,"Aguascalientes","Total",01,68.71443079999992
+2020,"Aguascalientes","Total",01,67.1226504799999
+2019,"Aguascalientes","Total",01,65.96889279999982
+2018,"Aguascalientes","Total",01,65.26133163000013
+2017,"Aguascalientes","Total",01,62.56165571000014
+2016,"Aguascalientes","Total",01,65.49285171999985
+2022,"Aguascalientes","Hombres",01,61.06446110999988
+2021,"Aguascalientes","Hombres",01,68.27714918000015
+2020,"Aguascalientes","Hombres",01,64.7494110799999
+2019,"Aguascalientes","Hombres",01,66.76379616000013
+2018,"Aguascalientes","Hombres",01,65.64307214000013
+2017,"Aguascalientes","Hombres",01,61.673950540000064
+2016,"Aguascalientes","Hombres",01,64.26994053
+2022,"Aguascalientes","Mujeres",01,68.59897397999995
+2021,"Aguascalientes","Mujeres",01,69.15529146999985
+2020,"Aguascalientes","Mujeres",01,69.26045806999996
+2019,"Aguascalientes","Mujeres",01,65.20290638999997
+2018,"Aguascalientes","Mujeres",01,64.85309976999999
+2017,"Aguascalientes","Mujeres",01,63.513146309999875
+2016,"Aguascalientes","Mujeres",01,66.67244933999991
+2022,"Baja California","Total",02,46.627110530000124
+2021,"Baja California","Total",02,49.3664703000001
+2020,"Baja California","Total",02,48.06908415999993
+2019,"Baja California","Total",02,53.359606549999896
+2018,"Baja California","Total",02,51.695321950000086
+2017,"Baja California","Total",02,50.90994816999985
+2016,"Baja California","Total",02,48.06279676000005
+2022,"Baja California","Hombres",02,45.79674616000009
+2021,"Baja California","Hombres",02,49.19837275000007
+2020,"Baja California","Hombres",02,47.657400019999905
+2019,"Baja California","Hombres",02,54.3353653699999
+2018,"Baja California","Hombres",02,50.685391750000015
+2017,"Baja California","Hombres",02,49.16268981000005
+2016,"Baja California","Hombres",02,45.96027273999998
+2022,"Baja California","Mujeres",02,47.548462619999874
+2021,"Baja California","Mujeres",02,49.562623159999944
+2020,"Baja California","Mujeres",02,48.46093546999994
+2019,"Baja California","Mujeres",02,52.32529797999997
+2018,"Baja California","Mujeres",02,52.78437850000016
+2017,"Baja California","Mujeres",02,52.97560519000008
+2016,"Baja California","Mujeres",02,50.24757744999994
+2022,"Baja California Sur","Total",03,60.302853850000055
+2021,"Baja California Sur","Total",03,65.14234545
+2020,"Baja California Sur","Total",03,65.03903757999984
+2019,"Baja California Sur","Total",03,57.65621009999996
+2018,"Baja California Sur","Total",03,59.62739494000011
+2017,"Baja California Sur","Total",03,58.52058761999985
+2016,"Baja California Sur","Total",03,61.85426459999986
+2022,"Baja California Sur","Hombres",03,59.12040800999987
+2021,"Baja California Sur","Hombres",03,66.18382870000003
+2020,"Baja California Sur","Hombres",03,62.331895600000095
+2019,"Baja California Sur","Hombres",03,55.74319740000008
+2018,"Baja California Sur","Hombres",03,60.998824850000105
+2017,"Baja California Sur","Hombres",03,56.27913520000013
+2016,"Baja California Sur","Hombres",03,60.66324874000014
+2022,"Baja California Sur","Mujeres",03,61.77633679999986
+2021,"Baja California Sur","Mujeres",03,63.732520730000026
+2020,"Baja California Sur","Mujeres",03,67.76382406999988
+2019,"Baja California Sur","Mujeres",03,60.486411369999836
+2018,"Baja California Sur","Mujeres",03,58.09357111000007
+2017,"Baja California Sur","Mujeres",03,61.33773922
+2016,"Baja California Sur","Mujeres",03,63.336171689999915
+2022,"Campeche","Total",04,65.57663096000014
+2021,"Campeche","Total",04,69.1159654800001
+2020,"Campeche","Total",04,69.78963914
+2019,"Campeche","Total",04,70.1145228599999
+2018,"Campeche","Total",04,65.3086702500002
+2017,"Campeche","Total",04,60.55764079999991
+2016,"Campeche","Total",04,66.37200864999983
+2022,"Campeche","Hombres",04,66.97551080999989
+2021,"Campeche","Hombres",04,66.92175458000014
+2020,"Campeche","Hombres",04,70.11967722000007
+2019,"Campeche","Hombres",04,70.69847924999998
+2018,"Campeche","Hombres",04,64.16710985000007
+2017,"Campeche","Hombres",04,62.42217253000012
+2016,"Campeche","Hombres",04,66.18828907999983
+2022,"Campeche","Mujeres",04,63.87078648999983
+2021,"Campeche","Mujeres",04,71.79420902000012
+2020,"Campeche","Mujeres",04,69.43954347
+2019,"Campeche","Mujeres",04,69.35456765999992
+2018,"Campeche","Mujeres",04,66.75518772000014
+2017,"Campeche","Mujeres",04,58.52863116000007
+2016,"Campeche","Mujeres",04,66.6402374899999
+2022,"Coahuila de Zaragoza","Total",05,58.71649959000005
+2021,"Coahuila de Zaragoza","Total",05,61.31479588999993
+2020,"Coahuila de Zaragoza","Total",05,63.58938918999981
+2019,"Coahuila de Zaragoza","Total",05,60.553872370000086
+2018,"Coahuila de Zaragoza","Total",05,58.568395680000116
+2017,"Coahuila de Zaragoza","Total",05,57.48033169999988
+2016,"Coahuila de Zaragoza","Total",05,60.90411443999989
+2022,"Coahuila de Zaragoza","Hombres",05,56.440703029999916
+2021,"Coahuila de Zaragoza","Hombres",05,58.79607019000009
+2020,"Coahuila de Zaragoza","Hombres",05,66.59008685000009
+2019,"Coahuila de Zaragoza","Hombres",05,58.928303370000116
+2018,"Coahuila de Zaragoza","Hombres",05,56.84537556000011
+2017,"Coahuila de Zaragoza","Hombres",05,58.234992740000045
+2016,"Coahuila de Zaragoza","Hombres",05,61.644039900000095
+2022,"Coahuila de Zaragoza","Mujeres",05,61.2453975999999
+2021,"Coahuila de Zaragoza","Mujeres",05,64.16250869000012
+2020,"Coahuila de Zaragoza","Mujeres",05,61.15656149000005
+2019,"Coahuila de Zaragoza","Mujeres",05,62.29501665000019
+2018,"Coahuila de Zaragoza","Mujeres",05,60.40276019999989
+2017,"Coahuila de Zaragoza","Mujeres",05,56.627682680000106
+2016,"Coahuila de Zaragoza","Mujeres",05,60.09276848999986
+2022,"Colima","Total",06,62.0282724600001
+2021,"Colima","Total",06,66.08319220999986
+2020,"Colima","Total",06,69.63595067999997
+2019,"Colima","Total",06,62.775400280000156
+2018,"Colima","Total",06,61.579148419999925
+2017,"Colima","Total",06,60.21152307000009
+2016,"Colima","Total",06,61.96686185999993
+2022,"Colima","Hombres",06,59.491351880000124
+2021,"Colima","Hombres",06,64.67742008999996
+2020,"Colima","Hombres",06,68.33092010000011
+2019,"Colima","Hombres",06,60.07816119000012
+2018,"Colima","Hombres",06,58.9337351499999
+2017,"Colima","Hombres",06,59.3520090499999
+2016,"Colima","Hombres",06,59.07388840000015
+2022,"Colima","Mujeres",06,64.69744254000011
+2021,"Colima","Mujeres",06,67.60232084000012
+2020,"Colima","Mujeres",06,70.90490209000012
+2019,"Colima","Mujeres",06,65.60918719999991
+2018,"Colima","Mujeres",06,64.24759346999986
+2017,"Colima","Mujeres",06,61.048689139999865
+2016,"Colima","Mujeres",06,64.80376025999995
+2022,"Chiapas","Total",07,67.2025390299998
+2021,"Chiapas","Total",07,71.06763746999987
+2020,"Chiapas","Total",07,66.22958529999983
+2019,"Chiapas","Total",07,67.54932670000011
+2018,"Chiapas","Total",07,65.87791200999987
+2017,"Chiapas","Total",07,63.903319889999885
+2016,"Chiapas","Total",07,63.805165830000064
+2022,"Chiapas","Hombres",07,68.00530147999984
+2021,"Chiapas","Hombres",07,72.30557837999997
+2020,"Chiapas","Hombres",07,65.73752325999995
+2019,"Chiapas","Hombres",07,68.90182289000018
+2018,"Chiapas","Hombres",07,66.54902008000022
+2017,"Chiapas","Hombres",07,63.40468630000013
+2016,"Chiapas","Hombres",07,66.08475536999981
+2022,"Chiapas","Mujeres",07,66.26514888000014
+2021,"Chiapas","Mujeres",07,69.64680537999995
+2020,"Chiapas","Mujeres",07,66.83090713999992
+2019,"Chiapas","Mujeres",07,65.71414791999997
+2018,"Chiapas","Mujeres",07,64.99242847000004
+2017,"Chiapas","Mujeres",07,64.52359386999984
+2016,"Chiapas","Mujeres",07,60.61909159999984
+2022,"Chihuahua","Total",08,48.30151223000004
+2021,"Chihuahua","Total",08,48.96962368999995
+2020,"Chihuahua","Total",08,54.44993392000009
+2019,"Chihuahua","Total",08,53.48210888999989
+2018,"Chihuahua","Total",08,52.296591469999896
+2017,"Chihuahua","Total",08,48.31249537999999
+2016,"Chihuahua","Total",08,50.518700720000126
+2022,"Chihuahua","Hombres",08,45.42177229
+2021,"Chihuahua","Hombres",08,45.642025969999914
+2020,"Chihuahua","Hombres",08,53.17024324999993
+2019,"Chihuahua","Hombres",08,51.61002969000009
+2018,"Chihuahua","Hombres",08,49.870336889999926
+2017,"Chihuahua","Hombres",08,45.55481217000006
+2016,"Chihuahua","Hombres",08,48.439321959999944
+2022,"Chihuahua","Mujeres",08,51.2354963300001
+2021,"Chihuahua","Mujeres",08,52.30715105000008
+2020,"Chihuahua","Mujeres",08,55.76973102000009
+2019,"Chihuahua","Mujeres",08,55.55043768999991
+2018,"Chihuahua","Mujeres",08,54.95499849000016
+2017,"Chihuahua","Mujeres",08,51.43374270000003
+2016,"Chihuahua","Mujeres",08,52.92401103999991
+2022,"Ciudad de México","Total",09,44.182889910000064
+2021,"Ciudad de México","Total",09,47.10044276999998
+2020,"Ciudad de México","Total",09,45.64625641000012
+2019,"Ciudad de México","Total",09,39.63225838000008
+2018,"Ciudad de México","Total",09,35.379731039999996
+2017,"Ciudad de México","Total",09,36.96419778000008
+2016,"Ciudad de México","Total",09,35.75671013000007
+2022,"Ciudad de México","Hombres",09,42.54249055999998
+2021,"Ciudad de México","Hombres",09,46.17275938999988
+2020,"Ciudad de México","Hombres",09,45.69648776000004
+2019,"Ciudad de México","Hombres",09,37.39899044999999
+2018,"Ciudad de México","Hombres",09,34.399314750000016
+2017,"Ciudad de México","Hombres",09,35.05608020999992
+2016,"Ciudad de México","Hombres",09,36.92745632000002
+2022,"Ciudad de México","Mujeres",09,45.8602221800001
+2021,"Ciudad de México","Mujeres",09,48.11532668000011
+2020,"Ciudad de México","Mujeres",09,45.59430142000011
+2019,"Ciudad de México","Mujeres",09,42.040226879999935
+2018,"Ciudad de México","Mujeres",09,36.51118448999992
+2017,"Ciudad de México","Mujeres",09,39.031368309999976
+2016,"Ciudad de México","Mujeres",09,34.640583660000054
+2022,"Durango","Total",10,55.774663219999894
+2021,"Durango","Total",10,58.654083989999904
+2020,"Durango","Total",10,54.47809142999996
+2019,"Durango","Total",10,57.549940490000104
+2018,"Durango","Total",10,50.31025216000006
+2017,"Durango","Total",10,51.11538715999996
+2016,"Durango","Total",10,47.6544110799999
+2022,"Durango","Hombres",10,50.906801350000016
+2021,"Durango","Hombres",10,54.98386714000005
+2020,"Durango","Hombres",10,56.37989703000014
+2019,"Durango","Hombres",10,54.80022190999991
+2018,"Durango","Hombres",10,48.42231500999995
+2017,"Durango","Hombres",10,48.111670260000125
+2016,"Durango","Hombres",10,44.767494730000095
+2022,"Durango","Mujeres",10,60.76300472000002
+2021,"Durango","Mujeres",10,62.3168910100001
+2020,"Durango","Mujeres",10,52.49483882999995
+2019,"Durango","Mujeres",10,60.46122457999992
+2018,"Durango","Mujeres",10,52.44401345000005
+2017,"Durango","Mujeres",10,54.753025420000064
+2016,"Durango","Mujeres",10,50.93552330999985
+2022,"Guanajuato","Total",11,59.24514901000014
+2021,"Guanajuato","Total",11,63.4190802399999
+2020,"Guanajuato","Total",11,64.68548875000013
+2019,"Guanajuato","Total",11,71.65978945999997
+2018,"Guanajuato","Total",11,58.48465830999996
+2017,"Guanajuato","Total",11,65.10418317000017
+2016,"Guanajuato","Total",11,63.41524972000007
+2022,"Guanajuato","Hombres",11,60.12851996999986
+2021,"Guanajuato","Hombres",11,64.0254563999999
+2020,"Guanajuato","Hombres",11,68.51336004000018
+2019,"Guanajuato","Hombres",11,70.35672286000022
+2018,"Guanajuato","Hombres",11,59.22983123999989
+2017,"Guanajuato","Hombres",11,67.08907541000006
+2016,"Guanajuato","Hombres",11,65.69842356000008
+2022,"Guanajuato","Mujeres",11,58.27498258000009
+2021,"Guanajuato","Mujeres",11,62.760388069999905
+2020,"Guanajuato","Mujeres",11,60.280096299999975
+2019,"Guanajuato","Mujeres",11,73.23033166999996
+2018,"Guanajuato","Mujeres",11,57.47047234000001
+2017,"Guanajuato","Mujeres",11,62.486144739999915
+2016,"Guanajuato","Mujeres",11,60.77664221000012
+2022,"Guerrero","Total",12,61.14232228000014
+2021,"Guerrero","Total",12,60.176769699999824
+2020,"Guerrero","Total",12,56.076626080000075
+2019,"Guerrero","Total",12,57.467246760000094
+2018,"Guerrero","Total",12,63.43092413999988
+2017,"Guerrero","Total",12,62.33040448999987
+2016,"Guerrero","Total",12,57.184133200000105
+2022,"Guerrero","Hombres",12,61.55356291000019
+2021,"Guerrero","Hombres",12,60.89377160000003
+2020,"Guerrero","Hombres",12,63.14702137000016
+2019,"Guerrero","Hombres",12,57.234547600000035
+2018,"Guerrero","Hombres",12,62.6834670600001
+2017,"Guerrero","Hombres",12,62.85321239000017
+2016,"Guerrero","Hombres",12,56.97468351000017
+2022,"Guerrero","Mujeres",12,60.72986364999998
+2021,"Guerrero","Mujeres",12,59.41961182999987
+2020,"Guerrero","Mujeres",12,48.48252522999998
+2019,"Guerrero","Mujeres",12,57.700549590000065
+2018,"Guerrero","Mujeres",12,64.1993128800002
+2017,"Guerrero","Mujeres",12,61.78193571999987
+2016,"Guerrero","Mujeres",12,57.40760630000016
+2022,"Hidalgo","Total",13,59.214949139999845
+2021,"Hidalgo","Total",13,64.19128045999989
+2020,"Hidalgo","Total",13,58.74184994000005
+2019,"Hidalgo","Total",13,61.5194842499998
+2018,"Hidalgo","Total",13,59.71942995999986
+2017,"Hidalgo","Total",13,62.75975774000011
+2016,"Hidalgo","Total",13,65.41379391000008
+2022,"Hidalgo","Hombres",13,57.44677020000011
+2021,"Hidalgo","Hombres",13,60.484116970000095
+2020,"Hidalgo","Hombres",13,57.68279724999983
+2019,"Hidalgo","Hombres",13,61.22230530999988
+2018,"Hidalgo","Hombres",13,60.3943808200001
+2017,"Hidalgo","Hombres",13,62.642949590000114
+2016,"Hidalgo","Hombres",13,64.96530379999987
+2022,"Hidalgo","Mujeres",13,60.91635064000001
+2021,"Hidalgo","Mujeres",13,67.9514387199999
+2020,"Hidalgo","Mujeres",13,59.61630110999996
+2019,"Hidalgo","Mujeres",13,61.8088482700002
+2018,"Hidalgo","Mujeres",13,59.091817800000115
+2017,"Hidalgo","Mujeres",13,62.875338980000144
+2016,"Hidalgo","Mujeres",13,65.86690507999994
+2022,"Jalisco","Total",14,56.34261109
+2021,"Jalisco","Total",14,62.40189248000006
+2020,"Jalisco","Total",14,61.702529369999915
+2019,"Jalisco","Total",14,58.75650115999998
+2018,"Jalisco","Total",14,57.71999027000013
+2017,"Jalisco","Total",14,62.21596230999987
+2016,"Jalisco","Total",14,63.513311929999915
+2022,"Jalisco","Hombres",14,53.087703049999895
+2021,"Jalisco","Hombres",14,59.538785710000155
+2020,"Jalisco","Hombres",14,62.330290519999885
+2019,"Jalisco","Hombres",14,54.76213028999994
+2018,"Jalisco","Hombres",14,58.08856689000003
+2017,"Jalisco","Hombres",14,61.136343199999885
+2016,"Jalisco","Hombres",14,64.34794177000002
+2022,"Jalisco","Mujeres",14,60.004757050000066
+2021,"Jalisco","Mujeres",14,65.4530311600001
+2020,"Jalisco","Mujeres",14,61.173442119999905
+2019,"Jalisco","Mujeres",14,63.14671017
+2018,"Jalisco","Mujeres",14,57.317059619999846
+2017,"Jalisco","Mujeres",14,63.38624022000016
+2016,"Jalisco","Mujeres",14,62.59635643000001
+2022,"México","Total",15,44.30502995999996
+2021,"México","Total",15,48.60108751999997
+2020,"México","Total",15,48.16638386000001
+2019,"México","Total",15,49.97475398999996
+2018,"México","Total",15,42.078747139999926
+2017,"México","Total",15,48.23451792000009
+2016,"México","Total",15,45.81225499999991
+2022,"México","Hombres",15,43.012548910000056
+2021,"México","Hombres",15,48.29562892000007
+2020,"México","Hombres",15,45.326249319999995
+2019,"México","Hombres",15,47.54202849000006
+2018,"México","Hombres",15,41.287183299999946
+2017,"México","Hombres",15,47.00061504000009
+2016,"México","Hombres",15,46.36608140000011
+2022,"México","Mujeres",15,45.71783710999991
+2021,"México","Mujeres",15,48.93562580999994
+2020,"México","Mujeres",15,50.82370009999999
+2019,"México","Mujeres",15,52.67105059000004
+2018,"México","Mujeres",15,42.928103059999906
+2017,"México","Mujeres",15,49.551448279999946
+2016,"México","Mujeres",15,45.22100073999993
+2022,"Michoacán de Ocampo","Total",16,49.545588590000065
+2021,"Michoacán de Ocampo","Total",16,53.51898901999995
+2020,"Michoacán de Ocampo","Total",16,53.077565669999856
+2019,"Michoacán de Ocampo","Total",16,56.007726740000116
+2018,"Michoacán de Ocampo","Total",16,50.055109570000006
+2017,"Michoacán de Ocampo","Total",16,52.577154210000096
+2016,"Michoacán de Ocampo","Total",16,59.01724491999995
+2022,"Michoacán de Ocampo","Hombres",16,47.98461190000005
+2021,"Michoacán de Ocampo","Hombres",16,53.33226817000008
+2020,"Michoacán de Ocampo","Hombres",16,50.64878003000007
+2019,"Michoacán de Ocampo","Hombres",16,55.045183100000024
+2018,"Michoacán de Ocampo","Hombres",16,48.30604552000014
+2017,"Michoacán de Ocampo","Hombres",16,51.33679794999991
+2016,"Michoacán de Ocampo","Hombres",16,60.55571226000009
+2022,"Michoacán de Ocampo","Mujeres",16,51.23234096000009
+2021,"Michoacán de Ocampo","Mujeres",16,53.728010220000144
+2020,"Michoacán de Ocampo","Mujeres",16,55.61051548999989
+2019,"Michoacán de Ocampo","Mujeres",16,57.17213458999985
+2018,"Michoacán de Ocampo","Mujeres",16,52.28048401999992
+2017,"Michoacán de Ocampo","Mujeres",16,53.80840617000007
+2016,"Michoacán de Ocampo","Mujeres",16,57.326248579999884
+2022,"Morelos","Total",17,49.6241152
+2021,"Morelos","Total",17,54.64228664999994
+2020,"Morelos","Total",17,55.061307560000124
+2019,"Morelos","Total",17,53.477692319999946
+2018,"Morelos","Total",17,47.058837649999994
+2017,"Morelos","Total",17,48.34336238000009
+2016,"Morelos","Total",17,45.499655929999875
+2022,"Morelos","Hombres",17,49.13161005999997
+2021,"Morelos","Hombres",17,54.31285017000006
+2020,"Morelos","Hombres",17,55.62293348000002
+2019,"Morelos","Hombres",17,51.758806120000095
+2018,"Morelos","Hombres",17,46.34614887000011
+2017,"Morelos","Hombres",17,46.398875479999994
+2016,"Morelos","Hombres",17,42.39695269999995
+2022,"Morelos","Mujeres",17,50.158935600000106
+2021,"Morelos","Mujeres",17,55.00910344000015
+2020,"Morelos","Mujeres",17,54.57044915000005
+2019,"Morelos","Mujeres",17,55.349503100000156
+2018,"Morelos","Mujeres",17,47.95150886000008
+2017,"Morelos","Mujeres",17,50.394780790000084
+2016,"Morelos","Mujeres",17,48.98026524000008
+2022,"Nayarit","Total",18,68.12816799000011
+2021,"Nayarit","Total",18,64.14609923999984
+2020,"Nayarit","Total",18,67.03658441999983
+2019,"Nayarit","Total",18,61.69547263000003
+2018,"Nayarit","Total",18,57.842741839999896
+2017,"Nayarit","Total",18,57.25136860000014
+2016,"Nayarit","Total",18,64.56355336999988
+2022,"Nayarit","Hombres",18,65.9182209199999
+2021,"Nayarit","Hombres",18,63.52332830999986
+2020,"Nayarit","Hombres",18,65.03816129999997
+2019,"Nayarit","Hombres",18,59.72101597999991
+2018,"Nayarit","Hombres",18,55.96927168000001
+2017,"Nayarit","Hombres",18,57.33332514999989
+2016,"Nayarit","Hombres",18,63.1225076500002
+2022,"Nayarit","Mujeres",18,70.14612211999996
+2021,"Nayarit","Mujeres",18,64.74552095000013
+2020,"Nayarit","Mujeres",18,68.8985193600001
+2019,"Nayarit","Mujeres",18,64.03584543000011
+2018,"Nayarit","Mujeres",18,59.97091178000009
+2017,"Nayarit","Mujeres",18,57.163254809999884
+2016,"Nayarit","Mujeres",18,66.20904576999986
+2022,"Nuevo León","Total",19,73.60328810000001
+2021,"Nuevo León","Total",19,67.30899347000009
+2020,"Nuevo León","Total",19,73.29268813000007
+2019,"Nuevo León","Total",19,68.00931539999988
+2018,"Nuevo León","Total",19,72.1119683699999
+2017,"Nuevo León","Total",19,72.51232554000008
+2016,"Nuevo León","Total",19,72.00503318000005
+2022,"Nuevo León","Hombres",19,74.27700925000016
+2021,"Nuevo León","Hombres",19,67.50258243000006
+2020,"Nuevo León","Hombres",19,73.86280773
+2019,"Nuevo León","Hombres",19,67.69845944999999
+2018,"Nuevo León","Hombres",19,71.39940183
+2017,"Nuevo León","Hombres",19,74.02594349999994
+2016,"Nuevo León","Hombres",19,72.6532867300001
+2022,"Nuevo León","Mujeres",19,72.71866535000002
+2021,"Nuevo León","Mujeres",19,67.06257897999986
+2020,"Nuevo León","Mujeres",19,72.54616500999991
+2019,"Nuevo León","Mujeres",19,68.39508967999991
+2018,"Nuevo León","Mujeres",19,72.93323340999997
+2017,"Nuevo León","Mujeres",19,70.87244050000005
+2016,"Nuevo León","Mujeres",19,71.25842449
+2022,"Oaxaca","Total",20,69.10448670999997
+2021,"Oaxaca","Total",20,69.86563678000014
+2020,"Oaxaca","Total",20,68.59669403000021
+2019,"Oaxaca","Total",20,68.04570898000014
+2018,"Oaxaca","Total",20,67.29276821999993
+2017,"Oaxaca","Total",20,69.16738030000012
+2016,"Oaxaca","Total",20,67.09980125000017
+2022,"Oaxaca","Hombres",20,68.45460758999985
+2021,"Oaxaca","Hombres",20,69.05983496000022
+2020,"Oaxaca","Hombres",20,68.55613307000016
+2019,"Oaxaca","Hombres",20,66.1510169399999
+2018,"Oaxaca","Hombres",20,65.81023324000013
+2017,"Oaxaca","Hombres",20,71.23466008000005
+2016,"Oaxaca","Hombres",20,66.7379461800001
+2022,"Oaxaca","Mujeres",20,69.72864469999989
+2021,"Oaxaca","Mujeres",20,70.78788300000002
+2020,"Oaxaca","Mujeres",20,68.6334082000001
+2019,"Oaxaca","Mujeres",20,69.83317451000018
+2018,"Oaxaca","Mujeres",20,68.88964734999995
+2017,"Oaxaca","Mujeres",20,66.96858187999992
+2016,"Oaxaca","Mujeres",20,67.46343239
+2022,"Puebla","Total",21,66.15762636
+2021,"Puebla","Total",21,66.25150989000012
+2020,"Puebla","Total",21,57.223689559999926
+2019,"Puebla","Total",21,60.107456789999816
+2018,"Puebla","Total",21,59.84378292000014
+2017,"Puebla","Total",21,59.452041239999936
+2016,"Puebla","Total",21,60.19675260999994
+2022,"Puebla","Hombres",21,66.19558111999982
+2021,"Puebla","Hombres",21,65.97145596999984
+2020,"Puebla","Hombres",21,57.165595610000096
+2019,"Puebla","Hombres",21,59.69653973000003
+2018,"Puebla","Hombres",21,60.869655229999864
+2017,"Puebla","Hombres",21,59.67878370000011
+2016,"Puebla","Hombres",21,59.53990757999988
+2022,"Puebla","Mujeres",21,66.1207022999999
+2021,"Puebla","Mujeres",21,66.53718314999988
+2020,"Puebla","Mujeres",21,57.27568176000016
+2019,"Puebla","Mujeres",21,60.58953323999983
+2018,"Puebla","Mujeres",21,58.75537165999984
+2017,"Puebla","Mujeres",21,59.192934249999844
+2016,"Puebla","Mujeres",21,60.877106830000166
+2022,"Querétaro","Total",22,60.14374043000018
+2021,"Querétaro","Total",22,65.21933910999998
+2020,"Querétaro","Total",22,68.75012958000005
+2019,"Querétaro","Total",22,62.711110309999874
+2018,"Querétaro","Total",22,60.6391410100002
+2017,"Querétaro","Total",22,63.786271289999846
+2016,"Querétaro","Total",22,66.43422025000012
+2022,"Querétaro","Hombres",22,59.625137709999954
+2021,"Querétaro","Hombres",22,64.26308839000008
+2020,"Querétaro","Hombres",22,70.07436073999999
+2019,"Querétaro","Hombres",22,62.87135268000014
+2018,"Querétaro","Hombres",22,60.63565466
+2017,"Querétaro","Hombres",22,63.35344590000017
+2016,"Querétaro","Hombres",22,66.39761627000006
+2022,"Querétaro","Mujeres",22,60.627881149999865
+2021,"Querétaro","Mujeres",22,66.21668692999994
+2020,"Querétaro","Mujeres",22,67.36276215999992
+2019,"Querétaro","Mujeres",22,62.55120222999995
+2018,"Querétaro","Mujeres",22,60.64236195000007
+2017,"Querétaro","Mujeres",22,64.27707896999988
+2016,"Querétaro","Mujeres",22,66.47754678999992
+2022,"Quintana Roo","Total",23,50.95515061999988
+2021,"Quintana Roo","Total",23,50.4598097199999
+2020,"Quintana Roo","Total",23,49.71253856000014
+2019,"Quintana Roo","Total",23,53.558100999999894
+2018,"Quintana Roo","Total",23,53.1552804100001
+2017,"Quintana Roo","Total",23,51.72305962999991
+2016,"Quintana Roo","Total",23,56.50526391000013
+2022,"Quintana Roo","Hombres",23,50.60383877999995
+2021,"Quintana Roo","Hombres",23,50.93114158000004
+2020,"Quintana Roo","Hombres",23,46.26333837000007
+2019,"Quintana Roo","Hombres",23,53.517401690000035
+2018,"Quintana Roo","Hombres",23,54.20072127999994
+2017,"Quintana Roo","Hombres",23,51.34538763
+2016,"Quintana Roo","Hombres",23,56.448447769999866
+2022,"Quintana Roo","Mujeres",23,51.41197241000007
+2021,"Quintana Roo","Mujeres",23,49.90206512999999
+2020,"Quintana Roo","Mujeres",23,52.85218485000013
+2019,"Quintana Roo","Mujeres",23,53.607903959999945
+2018,"Quintana Roo","Mujeres",23,51.86211411000015
+2017,"Quintana Roo","Mujeres",23,52.17264875999992
+2016,"Quintana Roo","Mujeres",23,56.57116475000014
+2022,"San Luis Potosí","Total",24,60.26815913999987
+2021,"San Luis Potosí","Total",24,56.30773651999992
+2020,"San Luis Potosí","Total",24,57.35074213999997
+2019,"San Luis Potosí","Total",24,53.58945192000008
+2018,"San Luis Potosí","Total",24,49.39487652000002
+2017,"San Luis Potosí","Total",24,51.9912033199999
+2016,"San Luis Potosí","Total",24,51.673661169999896
+2022,"San Luis Potosí","Hombres",24,59.17509110999987
+2021,"San Luis Potosí","Hombres",24,56.14315481999989
+2020,"San Luis Potosí","Hombres",24,54.93683048000002
+2019,"San Luis Potosí","Hombres",24,50.793410829999914
+2018,"San Luis Potosí","Hombres",24,47.907585269999885
+2017,"San Luis Potosí","Hombres",24,48.75184265999997
+2016,"San Luis Potosí","Hombres",24,52.34336359999998
+2022,"San Luis Potosí","Mujeres",24,61.443818009999866
+2021,"San Luis Potosí","Mujeres",24,56.47514785000015
+2020,"San Luis Potosí","Mujeres",24,59.517990530000084
+2019,"San Luis Potosí","Mujeres",24,56.4173097100001
+2018,"San Luis Potosí","Mujeres",24,50.81529026000014
+2017,"San Luis Potosí","Mujeres",24,55.26954372
+2016,"San Luis Potosí","Mujeres",24,50.99870921000001
+2022,"Sinaloa","Total",25,66.55563853999979
+2021,"Sinaloa","Total",25,67.15407102999984
+2020,"Sinaloa","Total",25,64.57332943999991
+2019,"Sinaloa","Total",25,64.01361472000006
+2018,"Sinaloa","Total",25,60.760653459999965
+2017,"Sinaloa","Total",25,60.20869720999987
+2016,"Sinaloa","Total",25,58.45945441999994
+2022,"Sinaloa","Hombres",25,64.38312746999986
+2021,"Sinaloa","Hombres",25,66.38268368999985
+2020,"Sinaloa","Hombres",25,60.67889084000011
+2019,"Sinaloa","Hombres",25,63.513059189999886
+2018,"Sinaloa","Hombres",25,57.104664200000094
+2017,"Sinaloa","Hombres",25,60.50945201000008
+2016,"Sinaloa","Hombres",25,57.70363532000009
+2022,"Sinaloa","Mujeres",25,68.75176214000015
+2021,"Sinaloa","Mujeres",25,68.05047709999984
+2020,"Sinaloa","Mujeres",25,68.72643326999987
+2019,"Sinaloa","Mujeres",25,64.5632743799999
+2018,"Sinaloa","Mujeres",25,65.29512740999985
+2017,"Sinaloa","Mujeres",25,59.803283919999814
+2016,"Sinaloa","Mujeres",25,59.33364163999996
+2022,"Sonora","Total",26,56.42019602999992
+2021,"Sonora","Total",26,61.20452690000001
+2020,"Sonora","Total",26,59.69235595000008
+2019,"Sonora","Total",26,58.16026691000005
+2018,"Sonora","Total",26,56.53629318999994
+2017,"Sonora","Total",26,57.57611343999998
+2016,"Sonora","Total",26,59.98374670999989
+2022,"Sonora","Hombres",26,56.68278960000016
+2021,"Sonora","Hombres",26,60.1317524799999
+2020,"Sonora","Hombres",26,60.075141100000096
+2019,"Sonora","Hombres",26,57.222211270000095
+2018,"Sonora","Hombres",26,57.514233429999926
+2017,"Sonora","Hombres",26,55.145230520000034
+2016,"Sonora","Hombres",26,59.894259820000094
+2022,"Sonora","Mujeres",26,56.141324559999916
+2021,"Sonora","Mujeres",26,62.36494844000008
+2020,"Sonora","Mujeres",26,59.26425174999991
+2019,"Sonora","Mujeres",26,59.12640233999993
+2018,"Sonora","Mujeres",26,55.59979621999994
+2017,"Sonora","Mujeres",26,59.993808680000065
+2016,"Sonora","Mujeres",26,60.06786123999992
+2022,"Tabasco","Total",27,56.54725685999989
+2021,"Tabasco","Total",27,62.49200056999985
+2020,"Tabasco","Total",27,54.123947080000086
+2019,"Tabasco","Total",27,58.456183070000144
+2018,"Tabasco","Total",27,53.79780294000009
+2017,"Tabasco","Total",27,53.91418465999987
+2016,"Tabasco","Total",27,54.17698962000008
+2022,"Tabasco","Hombres",27,56.26735110000006
+2021,"Tabasco","Hombres",27,64.41443787000007
+2020,"Tabasco","Hombres",27,56.15793512999992
+2019,"Tabasco","Hombres",27,58.23203841000011
+2018,"Tabasco","Hombres",27,54.85900582999992
+2017,"Tabasco","Hombres",27,55.45183326999996
+2016,"Tabasco","Hombres",27,56.72826798000005
+2022,"Tabasco","Mujeres",27,56.85106266999993
+2021,"Tabasco","Mujeres",27,60.55040900000015
+2020,"Tabasco","Mujeres",27,52.33690140999994
+2019,"Tabasco","Mujeres",27,58.6960599200001
+2018,"Tabasco","Mujeres",27,52.65165044999986
+2017,"Tabasco","Mujeres",27,52.269451209999936
+2016,"Tabasco","Mujeres",27,51.46548276999993
+2022,"Tamaulipas","Total",28,53.83329752999999
+2021,"Tamaulipas","Total",28,57.35037118000011
+2020,"Tamaulipas","Total",28,53.550347649999885
+2019,"Tamaulipas","Total",28,54.766041459999826
+2018,"Tamaulipas","Total",28,56.375961400000044
+2017,"Tamaulipas","Total",28,55.044922989999854
+2016,"Tamaulipas","Total",28,53.78032084999996
+2022,"Tamaulipas","Hombres",28,54.19285077000013
+2021,"Tamaulipas","Hombres",28,55.921079560000116
+2020,"Tamaulipas","Hombres",28,53.78565653999998
+2019,"Tamaulipas","Hombres",28,53.55568769999993
+2018,"Tamaulipas","Hombres",28,53.70170131000008
+2017,"Tamaulipas","Hombres",28,53.943123379999896
+2016,"Tamaulipas","Hombres",28,52.791253420000146
+2022,"Tamaulipas","Mujeres",28,53.47678016000007
+2021,"Tamaulipas","Mujeres",28,58.81180658999989
+2020,"Tamaulipas","Mujeres",28,53.32117268000001
+2019,"Tamaulipas","Mujeres",28,55.93855832000006
+2018,"Tamaulipas","Mujeres",28,58.99999484999991
+2017,"Tamaulipas","Mujeres",28,56.19025794000006
+2016,"Tamaulipas","Mujeres",28,54.778160930000006
+2022,"Tlaxcala","Total",29,67.3379114700001
+2021,"Tlaxcala","Total",29,63.65619490999985
+2020,"Tlaxcala","Total",29,65.27956644000004
+2019,"Tlaxcala","Total",29,64.96164950000001
+2018,"Tlaxcala","Total",29,59.72519778999984
+2017,"Tlaxcala","Total",29,59.92325076999992
+2016,"Tlaxcala","Total",29,58.813352299999885
+2022,"Tlaxcala","Hombres",29,65.49540110999992
+2021,"Tlaxcala","Hombres",29,63.198746160000105
+2020,"Tlaxcala","Hombres",29,64.50376008999979
+2019,"Tlaxcala","Hombres",29,67.50707296000013
+2018,"Tlaxcala","Hombres",29,59.019685840000164
+2017,"Tlaxcala","Hombres",29,59.94574241000008
+2016,"Tlaxcala","Hombres",29,56.22563970000008
+2022,"Tlaxcala","Mujeres",29,69.05580646000001
+2021,"Tlaxcala","Mujeres",29,64.09923529000007
+2020,"Tlaxcala","Mujeres",29,65.8959957500001
+2019,"Tlaxcala","Mujeres",29,62.57676892000012
+2018,"Tlaxcala","Mujeres",29,60.394537180000036
+2017,"Tlaxcala","Mujeres",29,59.901840980000074
+2016,"Tlaxcala","Mujeres",29,61.28513631999995
+2022,"Veracruz de Ignacio de la Llave","Total",30,54.95323651000009
+2021,"Veracruz de Ignacio de la Llave","Total",30,55.97117970999991
+2020,"Veracruz de Ignacio de la Llave","Total",30,56.741394370000094
+2019,"Veracruz de Ignacio de la Llave","Total",30,58.83489040000015
+2018,"Veracruz de Ignacio de la Llave","Total",30,48.675774979999936
+2017,"Veracruz de Ignacio de la Llave","Total",30,51.84550848999994
+2016,"Veracruz de Ignacio de la Llave","Total",30,47.36751260999997
+2022,"Veracruz de Ignacio de la Llave","Hombres",30,51.91998169999994
+2021,"Veracruz de Ignacio de la Llave","Hombres",30,55.63185058
+2020,"Veracruz de Ignacio de la Llave","Hombres",30,58.5871786799999
+2019,"Veracruz de Ignacio de la Llave","Hombres",30,58.14785030999994
+2018,"Veracruz de Ignacio de la Llave","Hombres",30,47.74191295000007
+2017,"Veracruz de Ignacio de la Llave","Hombres",30,50.88134752000012
+2016,"Veracruz de Ignacio de la Llave","Hombres",30,48.22536784000013
+2022,"Veracruz de Ignacio de la Llave","Mujeres",30,58.08063829000002
+2021,"Veracruz de Ignacio de la Llave","Mujeres",30,56.31368581999986
+2020,"Veracruz de Ignacio de la Llave","Mujeres",30,55.03912228999986
+2019,"Veracruz de Ignacio de la Llave","Mujeres",30,59.554788899999956
+2018,"Veracruz de Ignacio de la Llave","Mujeres",30,49.7126323700001
+2017,"Veracruz de Ignacio de la Llave","Mujeres",30,52.82883004999991
+2016,"Veracruz de Ignacio de la Llave","Mujeres",30,46.51986985999999
+2022,"Yucatán","Total",31,73.45601114999975
+2021,"Yucatán","Total",31,77.28601465000001
+2020,"Yucatán","Total",31,77.23284719000002
+2019,"Yucatán","Total",31,75.79309617999999
+2018,"Yucatán","Total",31,74.32886185999998
+2017,"Yucatán","Total",31,73.35731861000016
+2016,"Yucatán","Total",31,73.65119805999996
+2022,"Yucatán","Hombres",31,75.83034918999995
+2021,"Yucatán","Hombres",31,78.76827267000024
+2020,"Yucatán","Hombres",31,78.59647408999992
+2019,"Yucatán","Hombres",31,76.94960530999998
+2018,"Yucatán","Hombres",31,75.66467175999986
+2017,"Yucatán","Hombres",31,72.0820717899999
+2016,"Yucatán","Hombres",31,76.08791533000004
+2022,"Yucatán","Mujeres",31,70.6001522099998
+2021,"Yucatán","Mujeres",31,75.63723475000005
+2020,"Yucatán","Mujeres",31,76.0682017299999
+2019,"Yucatán","Mujeres",31,74.49165981999982
+2018,"Yucatán","Mujeres",31,72.79770293
+2017,"Yucatán","Mujeres",31,74.82237237000001
+2016,"Yucatán","Mujeres",31,71.11013081999977
+2022,"Zacatecas","Total",32,58.97895941000005
+2021,"Zacatecas","Total",32,64.27234597999997
+2020,"Zacatecas","Total",32,58.090599209999915
+2019,"Zacatecas","Total",32,69.73572893999992
+2018,"Zacatecas","Total",32,68.82962546000002
+2017,"Zacatecas","Total",32,71.16329927999985
+2016,"Zacatecas","Total",32,64.73098816000015
+2022,"Zacatecas","Hombres",32,57.938791190000096
+2021,"Zacatecas","Hombres",32,62.72126785999991
+2020,"Zacatecas","Hombres",32,56.42580143000011
+2019,"Zacatecas","Hombres",32,68.28576066000002
+2018,"Zacatecas","Hombres",32,66.90944425999992
+2017,"Zacatecas","Hombres",32,69.61749897000007
+2016,"Zacatecas","Hombres",32,63.18508955000011
+2022,"Zacatecas","Mujeres",32,59.905375110000016
+2021,"Zacatecas","Mujeres",32,65.82318011000005
+2020,"Zacatecas","Mujeres",32,59.739660649999884
+2019,"Zacatecas","Mujeres",32,71.1570228600001
+2018,"Zacatecas","Mujeres",32,71.02946673000021
+2017,"Zacatecas","Mujeres",32,72.76043777999989
+2016,"Zacatecas","Mujeres",32,66.28723654999993

@@ -1,0 +1,586 @@
+﻿Year,Entidad federativa,Áreas metropolitanas autorrepresentadas,"Sexo",GeoCode,Value
+2021,"Estados Unidos Mexicanos",,"Total",00,54.06802365719256
+2019,"Estados Unidos Mexicanos",,"Total",00,51.22416976000015
+2017,"Estados Unidos Mexicanos",,"Total",00,25.46423489000003
+2021,"Estados Unidos Mexicanos",,"Hombres",00,56.79746141565646
+2019,"Estados Unidos Mexicanos",,"Hombres",00,53.181991309999894
+2017,"Estados Unidos Mexicanos",,"Hombres",00,26.61413099999995
+2021,"Estados Unidos Mexicanos",,"Mujeres",00,51.68245819100232
+2019,"Estados Unidos Mexicanos",,"Mujeres",00,49.513145859999916
+2017,"Estados Unidos Mexicanos",,"Mujeres",00,24.44295963000001
+2021,"Aguascalientes",,"Total",01,52.17391938804847
+2019,"Aguascalientes",,"Total",01,48.42191235999992
+2017,"Aguascalientes",,"Total",01,31.231945049999947
+2021,"Aguascalientes",,"Hombres",01,52.74260097831855
+2019,"Aguascalientes",,"Hombres",01,52.662225920000076
+2017,"Aguascalientes",,"Hombres",01,31.69586604000005
+2021,"Aguascalientes",,"Mujeres",01,51.70889047451055
+2019,"Aguascalientes",,"Mujeres",01,44.84841495
+2017,"Aguascalientes",,"Mujeres",01,30.832220199999963
+2021,"Aguascalientes","Área Metropolitana Aguascalientes","Total",9012001,52.17391938804847
+2019,"Aguascalientes","Área Metropolitana Aguascalientes","Total",9012001,48.42191235999992
+2017,"Aguascalientes","Área Metropolitana Aguascalientes","Total",9012001,31.231945049999947
+2021,"Aguascalientes","Área Metropolitana Aguascalientes","Hombres",9012001,52.74260097831855
+2019,"Aguascalientes","Área Metropolitana Aguascalientes","Hombres",9012001,52.662225920000076
+2017,"Aguascalientes","Área Metropolitana Aguascalientes","Hombres",9012001,31.69586604000005
+2021,"Aguascalientes","Área Metropolitana Aguascalientes","Mujeres",9012001,51.70889047451055
+2019,"Aguascalientes","Área Metropolitana Aguascalientes","Mujeres",9012001,44.84841495
+2017,"Aguascalientes","Área Metropolitana Aguascalientes","Mujeres",9012001,30.832220199999963
+2021,"Baja California",,"Total",02,46.43555590665262
+2019,"Baja California",,"Total",02,48.51922130999994
+2017,"Baja California",,"Total",02,19.49909984000002
+2021,"Baja California",,"Hombres",02,47.855628852299496
+2019,"Baja California",,"Hombres",02,54.71928819999995
+2017,"Baja California",,"Hombres",02,18.80400488000002
+2021,"Baja California",,"Mujeres",02,44.907184697501265
+2019,"Baja California",,"Mujeres",02,42.814600300000095
+2017,"Baja California",,"Mujeres",02,20.16629591999999
+2021,"Baja California","Área Metropolitana Tijuana","Total",9018001,36.770934659511916
+2019,"Baja California","Área Metropolitana Tijuana","Total",9018001,45.662452999999935
+2017,"Baja California","Área Metropolitana Tijuana","Total",9018001,17.97803388000006
+2021,"Baja California","Área Metropolitana Tijuana","Hombres",9018001,35.536815627594976
+2019,"Baja California","Área Metropolitana Tijuana","Hombres",9018001,53.54567953999987
+2017,"Baja California","Área Metropolitana Tijuana","Hombres",9018001,17.71134890999999
+2021,"Baja California","Área Metropolitana Tijuana","Mujeres",9018001,38.00208789423474
+2019,"Baja California","Área Metropolitana Tijuana","Mujeres",9018001,38.43437020999995
+2017,"Baja California","Área Metropolitana Tijuana","Mujeres",9018001,18.260517010000044
+2021,"Baja California Sur",,"Total",03,44.26786676980043
+2019,"Baja California Sur",,"Total",03,45.033957589999865
+2017,"Baja California Sur",,"Total",03,24.909007960000043
+2021,"Baja California Sur",,"Hombres",03,44.08519693643766
+2019,"Baja California Sur",,"Hombres",03,49.83436812000007
+2017,"Baja California Sur",,"Hombres",03,26.16891399999997
+2021,"Baja California Sur",,"Mujeres",03,44.44271139166177
+2019,"Baja California Sur",,"Mujeres",03,41.00678120999999
+2017,"Baja California Sur",,"Mujeres",03,23.790175350000023
+2021,"Baja California Sur","Área Metropolitana La Paz","Total",9030001,44.26786676980043
+2019,"Baja California Sur","Área Metropolitana La Paz","Total",9030001,45.033957589999865
+2017,"Baja California Sur","Área Metropolitana La Paz","Total",9030001,24.909007960000043
+2021,"Baja California Sur","Área Metropolitana La Paz","Hombres",9030001,44.08519693643766
+2019,"Baja California Sur","Área Metropolitana La Paz","Hombres",9030001,49.83436812000007
+2017,"Baja California Sur","Área Metropolitana La Paz","Hombres",9030001,26.16891399999997
+2021,"Baja California Sur","Área Metropolitana La Paz","Mujeres",9030001,44.44271139166177
+2019,"Baja California Sur","Área Metropolitana La Paz","Mujeres",9030001,41.00678120999999
+2017,"Baja California Sur","Área Metropolitana La Paz","Mujeres",9030001,23.790175350000023
+2021,"Campeche",,"Total",04,71.02771657331965
+2019,"Campeche",,"Total",04,66.9424603500001
+2017,"Campeche",,"Total",04,34.15647847999992
+2021,"Campeche",,"Hombres",04,76.57543374080626
+2019,"Campeche",,"Hombres",04,72.07900797999999
+2017,"Campeche",,"Hombres",04,35.21449905999999
+2021,"Campeche",,"Mujeres",04,66.3410172170233
+2019,"Campeche",,"Mujeres",04,62.44642068000011
+2017,"Campeche",,"Mujeres",04,33.34619032
+2021,"Campeche","Área Metropolitana Campeche","Total",9023001,70.64647641234725
+2019,"Campeche","Área Metropolitana Campeche","Total",9023001,64.58380409999991
+2017,"Campeche","Área Metropolitana Campeche","Total",9023001,37.34661575000004
+2021,"Campeche","Área Metropolitana Campeche","Hombres",9023001,76.00375170917485
+2019,"Campeche","Área Metropolitana Campeche","Hombres",9023001,70.85147986999988
+2017,"Campeche","Área Metropolitana Campeche","Hombres",9023001,38.04218456999994
+2021,"Campeche","Área Metropolitana Campeche","Mujeres",9023001,66.15400651959679
+2019,"Campeche","Área Metropolitana Campeche","Mujeres",9023001,59.196049969999926
+2017,"Campeche","Área Metropolitana Campeche","Mujeres",9023001,36.83095004000004
+2021,"Coahuila de Zaragoza",,"Total",05,68.70655990337559
+2019,"Coahuila de Zaragoza",,"Total",05,63.3237233700001
+2017,"Coahuila de Zaragoza",,"Total",05,40.18316999999996
+2021,"Coahuila de Zaragoza",,"Hombres",05,70.92779282652288
+2019,"Coahuila de Zaragoza",,"Hombres",05,67.32960979000012
+2017,"Coahuila de Zaragoza",,"Hombres",05,46.22258149000001
+2021,"Coahuila de Zaragoza",,"Mujeres",05,66.58535970830259
+2019,"Coahuila de Zaragoza",,"Mujeres",05,59.648227329999884
+2017,"Coahuila de Zaragoza",,"Mujeres",05,34.69412322000006
+2021,"Coahuila de Zaragoza","Área Metropolitana Saltillo","Total",9015001,73.19780609690196
+2019,"Coahuila de Zaragoza","Área Metropolitana Saltillo","Total",9015001,68.77653243999995
+2017,"Coahuila de Zaragoza","Área Metropolitana Saltillo","Total",9015001,49.277742049999944
+2021,"Coahuila de Zaragoza","Área Metropolitana Saltillo","Hombres",9015001,75.86629582132808
+2019,"Coahuila de Zaragoza","Área Metropolitana Saltillo","Hombres",9015001,73.32671831999988
+2017,"Coahuila de Zaragoza","Área Metropolitana Saltillo","Hombres",9015001,55.48862867000005
+2021,"Coahuila de Zaragoza","Área Metropolitana Saltillo","Mujeres",9015001,70.55306674237644
+2019,"Coahuila de Zaragoza","Área Metropolitana Saltillo","Mujeres",9015001,64.14721539000016
+2017,"Coahuila de Zaragoza","Área Metropolitana Saltillo","Mujeres",9015001,42.78302947000002
+2021,"Colima",,"Total",06,63.97572591795962
+2019,"Colima",,"Total",06,59.73790429000013
+2017,"Colima",,"Total",06,38.12977946999999
+2021,"Colima",,"Hombres",06,63.94690300657749
+2019,"Colima",,"Hombres",06,61.78928009999987
+2017,"Colima",,"Hombres",06,39.525234199999986
+2021,"Colima",,"Mujeres",06,64.00066482883534
+2019,"Colima",,"Mujeres",06,57.99770036999987
+2017,"Colima",,"Mujeres",06,36.89834780999993
+2021,"Colima","Área Metropolitana Colima","Total",9027001,63.57173662024726
+2019,"Colima","Área Metropolitana Colima","Total",9027001,59.20329851000017
+2017,"Colima","Área Metropolitana Colima","Total",9027001,36.21091510999997
+2021,"Colima","Área Metropolitana Colima","Hombres",9027001,62.882949233334344
+2019,"Colima","Área Metropolitana Colima","Hombres",9027001,61.60313244999998
+2017,"Colima","Área Metropolitana Colima","Hombres",9027001,38.15268905999993
+2021,"Colima","Área Metropolitana Colima","Mujeres",9027001,64.14295651583781
+2019,"Colima","Área Metropolitana Colima","Mujeres",9027001,57.25357979
+2017,"Colima","Área Metropolitana Colima","Mujeres",9027001,34.58262057
+2021,"Chiapas",,"Total",07,59.991484756609886
+2019,"Chiapas",,"Total",07,53.776383690000095
+2017,"Chiapas",,"Total",07,24.95766442000001
+2021,"Chiapas",,"Hombres",07,65.29686955656213
+2019,"Chiapas",,"Hombres",07,57.408015429999985
+2017,"Chiapas",,"Hombres",07,28.101614579999957
+2021,"Chiapas",,"Mujeres",07,54.83106578982392
+2019,"Chiapas",,"Mujeres",07,50.27986220999993
+2017,"Chiapas",,"Mujeres",07,22.180252420000045
+2021,"Chiapas","Área Metropolitana Tuxtla Gutiérrez","Total",9017001,58.29041225996024
+2019,"Chiapas","Área Metropolitana Tuxtla Gutiérrez","Total",9017001,54.95976996999986
+2017,"Chiapas","Área Metropolitana Tuxtla Gutiérrez","Total",9017001,26.812919760000078
+2021,"Chiapas","Área Metropolitana Tuxtla Gutiérrez","Hombres",9017001,65.2337647054048
+2019,"Chiapas","Área Metropolitana Tuxtla Gutiérrez","Hombres",9017001,57.56597074999992
+2017,"Chiapas","Área Metropolitana Tuxtla Gutiérrez","Hombres",9017001,28.906485670000063
+2021,"Chiapas","Área Metropolitana Tuxtla Gutiérrez","Mujeres",9017001,51.683258547586085
+2019,"Chiapas","Área Metropolitana Tuxtla Gutiérrez","Mujeres",9017001,52.50620367000008
+2017,"Chiapas","Área Metropolitana Tuxtla Gutiérrez","Mujeres",9017001,24.97841987999996
+2021,"Chihuahua",,"Total",08,42.76397068391508
+2019,"Chihuahua",,"Total",08,46.77396852000007
+2017,"Chihuahua",,"Total",08,41.25572886000007
+2021,"Chihuahua",,"Hombres",08,45.04687322526743
+2019,"Chihuahua",,"Hombres",08,48.109232570000074
+2017,"Chihuahua",,"Hombres",08,43.05960454999997
+2021,"Chihuahua",,"Mujeres",08,40.58917242065581
+2019,"Chihuahua",,"Mujeres",08,45.6805674
+2017,"Chihuahua",,"Mujeres",08,39.45866341000001
+2021,"Chihuahua","Área Metropolitana Chihuahua","Total",9008001,43.18668513066069
+2019,"Chihuahua","Área Metropolitana Chihuahua","Total",9008001,51.10156277999999
+2017,"Chihuahua","Área Metropolitana Chihuahua","Total",9008001,36.17263637999994
+2021,"Chihuahua","Área Metropolitana Chihuahua","Hombres",9008001,51.518475248263044
+2019,"Chihuahua","Área Metropolitana Chihuahua","Hombres",9008001,55.28583299000001
+2017,"Chihuahua","Área Metropolitana Chihuahua","Hombres",9008001,37.24968371999999
+2021,"Chihuahua","Área Metropolitana Chihuahua","Mujeres",9008001,35.95282222276182
+2019,"Chihuahua","Área Metropolitana Chihuahua","Mujeres",9008001,47.53491140999996
+2017,"Chihuahua","Área Metropolitana Chihuahua","Mujeres",9008001,35.14268253000002
+2021,"Ciudad de México",,"Total",09,49.089495787600086
+2019,"Ciudad de México",,"Total",09,45.42069203000002
+2017,"Ciudad de México",,"Total",09,10.659695179999977
+2021,"Ciudad de México",,"Hombres",09,50.20143026327491
+2019,"Ciudad de México",,"Hombres",09,45.42335072999991
+2017,"Ciudad de México",,"Hombres",09,11.552477270000033
+2021,"Ciudad de México",,"Mujeres",09,48.147213217598534
+2019,"Ciudad de México",,"Mujeres",09,45.41838017000007
+2017,"Ciudad de México",,"Mujeres",09,9.886608634000003
+2021,"Ciudad de México","Área Metropolitana Ciudad de México","Total",9001001,49.559557480497695
+2019,"Ciudad de México","Área Metropolitana Ciudad de México","Total",9001001,44.94510033000005
+2017,"Ciudad de México","Área Metropolitana Ciudad de México","Total",9001001,14.73599338999998
+2021,"Ciudad de México","Área Metropolitana Ciudad de México","Hombres",9001001,51.648957995551136
+2019,"Ciudad de México","Área Metropolitana Ciudad de México","Hombres",9001001,45.360638029999876
+2017,"Ciudad de México","Área Metropolitana Ciudad de México","Hombres",9001001,15.545277449999972
+2021,"Ciudad de México","Área Metropolitana Ciudad de México","Mujeres",9001001,47.800867260974286
+2019,"Ciudad de México","Área Metropolitana Ciudad de México","Mujeres",9001001,44.589799319999976
+2017,"Ciudad de México","Área Metropolitana Ciudad de México","Mujeres",9001001,14.02904944000004
+2021,"Durango",,"Total",10,60.19417335649535
+2019,"Durango",,"Total",10,59.10007416000006
+2017,"Durango",,"Total",10,38.80995557999996
+2021,"Durango",,"Hombres",10,63.67589161472637
+2019,"Durango",,"Hombres",10,62.99335553000014
+2017,"Durango",,"Hombres",10,39.45034760999995
+2021,"Durango",,"Mujeres",10,57.05855414880808
+2019,"Durango",,"Mujeres",10,55.68492174000013
+2017,"Durango",,"Mujeres",10,38.27623600999999
+2021,"Durango","Área Metropolitana Durango","Total",9021001,55.455591337290315
+2019,"Durango","Área Metropolitana Durango","Total",9021001,57.561477799999935
+2017,"Durango","Área Metropolitana Durango","Total",9021001,35.81625302000007
+2021,"Durango","Área Metropolitana Durango","Hombres",9021001,58.94166649354974
+2019,"Durango","Área Metropolitana Durango","Hombres",9021001,61.87193678000015
+2017,"Durango","Área Metropolitana Durango","Hombres",9021001,37.50308136999997
+2021,"Durango","Área Metropolitana Durango","Mujeres",9021001,52.44466972287768
+2019,"Durango","Área Metropolitana Durango","Mujeres",9021001,53.95381768999987
+2017,"Durango","Área Metropolitana Durango","Mujeres",9021001,34.354779989999884
+2021,"Guanajuato",,"Total",11,52.30030696650949
+2019,"Guanajuato",,"Total",11,51.29281603999995
+2017,"Guanajuato",,"Total",11,31.823006269999958
+2021,"Guanajuato",,"Hombres",11,51.659217766586785
+2019,"Guanajuato",,"Hombres",11,51.30039588999991
+2017,"Guanajuato",,"Hombres",11,32.37372697
+2021,"Guanajuato",,"Mujeres",11,52.80232897182646
+2019,"Guanajuato",,"Mujeres",11,51.28556306999991
+2017,"Guanajuato",,"Mujeres",11,31.332698589999936
+2021,"Guanajuato","Área Metropolitana León","Total",9005001,51.34397072877318
+2019,"Guanajuato","Área Metropolitana León","Total",9005001,54.36816989
+2017,"Guanajuato","Área Metropolitana León","Total",9005001,31.988464649999976
+2021,"Guanajuato","Área Metropolitana León","Hombres",9005001,53.94922988606408
+2019,"Guanajuato","Área Metropolitana León","Hombres",9005001,51.508208330000066
+2017,"Guanajuato","Área Metropolitana León","Hombres",9005001,34.48838991000001
+2021,"Guanajuato","Área Metropolitana León","Mujeres",9005001,49.149027213750735
+2019,"Guanajuato","Área Metropolitana León","Mujeres",9005001,56.951352240000034
+2017,"Guanajuato","Área Metropolitana León","Mujeres",9005001,29.673818390000054
+2021,"Guerrero",,"Total",12,64.87217168369172
+2019,"Guerrero",,"Total",12,62.21208048999984
+2017,"Guerrero",,"Total",12,30.783967429999947
+2021,"Guerrero",,"Hombres",12,70.68496134160957
+2019,"Guerrero",,"Hombres",12,65.43636169999992
+2017,"Guerrero",,"Hombres",12,31.052719150000026
+2021,"Guerrero",,"Mujeres",12,60.072277268628774
+2019,"Guerrero",,"Mujeres",12,59.40622727000008
+2017,"Guerrero",,"Mujeres",12,30.560711220000027
+2021,"Guerrero","Área Metropolitana Acapulco","Total",9011001,66.07130398381372
+2019,"Guerrero","Área Metropolitana Acapulco","Total",9011001,59.808872569999956
+2017,"Guerrero","Área Metropolitana Acapulco","Total",9011001,31.932943320000042
+2021,"Guerrero","Área Metropolitana Acapulco","Hombres",9011001,70.53080967402725
+2019,"Guerrero","Área Metropolitana Acapulco","Hombres",9011001,62.57591945999981
+2017,"Guerrero","Área Metropolitana Acapulco","Hombres",9011001,30.584533149999974
+2021,"Guerrero","Área Metropolitana Acapulco","Mujeres",9011001,62.26072642845337
+2019,"Guerrero","Área Metropolitana Acapulco","Mujeres",9011001,57.45288762000012
+2017,"Guerrero","Área Metropolitana Acapulco","Mujeres",9011001,33.06405829000004
+2021,"Hidalgo",,"Total",13,57.07185675937574
+2019,"Hidalgo",,"Total",13,50.92701409999996
+2017,"Hidalgo",,"Total",13,41.30920627999997
+2021,"Hidalgo",,"Hombres",13,56.81070315206105
+2019,"Hidalgo",,"Hombres",13,50.09832579999994
+2017,"Hidalgo",,"Hombres",13,45.88161260000009
+2021,"Hidalgo",,"Mujeres",13,57.31471622480123
+2019,"Hidalgo",,"Mujeres",13,51.62939671000003
+2017,"Hidalgo",,"Mujeres",13,37.78253744999992
+2021,"Hidalgo","Área Metropolitana Pachuca","Total",9032001,58.37461413730832
+2019,"Hidalgo","Área Metropolitana Pachuca","Total",9032001,55.881074070000054
+2017,"Hidalgo","Área Metropolitana Pachuca","Total",9032001,40.268985390000054
+2021,"Hidalgo","Área Metropolitana Pachuca","Hombres",9032001,58.216326913038095
+2019,"Hidalgo","Área Metropolitana Pachuca","Hombres",9032001,54.14186382000004
+2017,"Hidalgo","Área Metropolitana Pachuca","Hombres",9032001,46.187136849999966
+2021,"Hidalgo","Área Metropolitana Pachuca","Mujeres",9032001,58.518405933671666
+2019,"Hidalgo","Área Metropolitana Pachuca","Mujeres",9032001,57.370463510000064
+2017,"Hidalgo","Área Metropolitana Pachuca","Mujeres",9032001,35.63649595000004
+2021,"Jalisco",,"Total",14,52.362010327050726
+2019,"Jalisco",,"Total",14,51.90049116000016
+2017,"Jalisco",,"Total",14,30.462032439999927
+2021,"Jalisco",,"Hombres",14,55.19260785493069
+2019,"Jalisco",,"Hombres",14,57.09741510999994
+2017,"Jalisco",,"Hombres",14,33.10975799000007
+2021,"Jalisco",,"Mujeres",14,49.812668479450004
+2019,"Jalisco",,"Mujeres",14,47.49197019999999
+2017,"Jalisco",,"Mujeres",14,28.310928209999954
+2021,"Jalisco","Área Metropolitana Guadalajara","Total",9002001,52.08821046585492
+2019,"Jalisco","Área Metropolitana Guadalajara","Total",9002001,50.934167510000115
+2017,"Jalisco","Área Metropolitana Guadalajara","Total",9002001,28.930325469999946
+2021,"Jalisco","Área Metropolitana Guadalajara","Hombres",9002001,55.49303641816978
+2019,"Jalisco","Área Metropolitana Guadalajara","Hombres",9002001,55.580142239999994
+2017,"Jalisco","Área Metropolitana Guadalajara","Hombres",9002001,32.58461515999991
+2021,"Jalisco","Área Metropolitana Guadalajara","Mujeres",9002001,49.0732492885573
+2019,"Jalisco","Área Metropolitana Guadalajara","Mujeres",9002001,47.01383864000005
+2017,"Jalisco","Área Metropolitana Guadalajara","Mujeres",9002001,25.936723689999926
+2021,"México",,"Total",15,50.30234683421992
+2019,"México",,"Total",15,44.10017539
+2017,"México",,"Total",15,19.057190140000028
+2021,"México",,"Hombres",15,53.39427245269697
+2019,"México",,"Hombres",15,44.38680300000005
+2017,"México",,"Hombres",15,19.348452200000033
+2021,"México",,"Mujeres",15,47.698505310429326
+2019,"México",,"Mujeres",15,43.848295110000095
+2017,"México",,"Mujeres",15,18.796564920000026
+2021,"México","Área Metropolitana Toluca","Total",9014001,53.652445262416435
+2019,"México","Área Metropolitana Toluca","Total",9014001,39.93039147
+2017,"México","Área Metropolitana Toluca","Total",9014001,25.955205579999987
+2021,"México","Área Metropolitana Toluca","Hombres",9014001,58.585253436069245
+2019,"México","Área Metropolitana Toluca","Hombres",9014001,37.69992573999995
+2017,"México","Área Metropolitana Toluca","Hombres",9014001,22.525854450000057
+2021,"México","Área Metropolitana Toluca","Mujeres",9014001,49.27383496266795
+2019,"México","Área Metropolitana Toluca","Mujeres",9014001,42.727057549999984
+2017,"México","Área Metropolitana Toluca","Mujeres",9014001,29.474764489999966
+2021,"Michoacán de Ocampo",,"Total",16,48.132645558056225
+2019,"Michoacán de Ocampo",,"Total",16,47.70921694000001
+2017,"Michoacán de Ocampo",,"Total",16,27.14763228999995
+2021,"Michoacán de Ocampo",,"Hombres",16,49.32491055674169
+2019,"Michoacán de Ocampo",,"Hombres",16,50.63207698000012
+2017,"Michoacán de Ocampo",,"Hombres",16,27.177517980000044
+2021,"Michoacán de Ocampo",,"Mujeres",16,47.128661259604684
+2019,"Michoacán de Ocampo",,"Mujeres",16,45.39384751000003
+2017,"Michoacán de Ocampo",,"Mujeres",16,27.121242279999958
+2021,"Michoacán de Ocampo","Área Metropolitana Morelia","Total",9013001,44.68409357505943
+2019,"Michoacán de Ocampo","Área Metropolitana Morelia","Total",9013001,48.92195026999987
+2017,"Michoacán de Ocampo","Área Metropolitana Morelia","Total",9013001,24.300921789999975
+2021,"Michoacán de Ocampo","Área Metropolitana Morelia","Hombres",9013001,47.29046534541521
+2019,"Michoacán de Ocampo","Área Metropolitana Morelia","Hombres",9013001,51.91251012999992
+2017,"Michoacán de Ocampo","Área Metropolitana Morelia","Hombres",9013001,25.93040224000003
+2021,"Michoacán de Ocampo","Área Metropolitana Morelia","Mujeres",9013001,42.350916892290094
+2019,"Michoacán de Ocampo","Área Metropolitana Morelia","Mujeres",9013001,46.69658911999986
+2017,"Michoacán de Ocampo","Área Metropolitana Morelia","Mujeres",9013001,22.908434350000007
+2021,"Morelos",,"Total",17,54.542209102835834
+2019,"Morelos",,"Total",17,53.81353923999996
+2017,"Morelos",,"Total",17,25.83157037999994
+2021,"Morelos",,"Hombres",17,57.67971084087912
+2019,"Morelos",,"Hombres",17,55.840997899999884
+2017,"Morelos",,"Hombres",17,27.11871437999994
+2021,"Morelos",,"Mujeres",17,52.08999602205193
+2019,"Morelos",,"Mujeres",17,52.15202500000008
+2017,"Morelos",,"Mujeres",17,24.77668922000006
+2021,"Morelos","Área Metropolitana Cuernavaca","Total",9024001,55.09683964104554
+2019,"Morelos","Área Metropolitana Cuernavaca","Total",9024001,52.760551690000064
+2017,"Morelos","Área Metropolitana Cuernavaca","Total",9024001,26.627990750000066
+2021,"Morelos","Área Metropolitana Cuernavaca","Hombres",9024001,57.59757782247381
+2019,"Morelos","Área Metropolitana Cuernavaca","Hombres",9024001,55.467338659999974
+2017,"Morelos","Área Metropolitana Cuernavaca","Hombres",9024001,27.234465529999962
+2021,"Morelos","Área Metropolitana Cuernavaca","Mujeres",9024001,53.16301905173078
+2019,"Morelos","Área Metropolitana Cuernavaca","Mujeres",9024001,50.58423924999994
+2017,"Morelos","Área Metropolitana Cuernavaca","Mujeres",9024001,26.141450309999986
+2021,"Nayarit",,"Total",18,68.60911404147738
+2019,"Nayarit",,"Total",18,61.917979810000126
+2017,"Nayarit",,"Total",18,26.370635799999956
+2021,"Nayarit",,"Hombres",18,70.4279691632119
+2019,"Nayarit",,"Hombres",18,66.26693934000009
+2017,"Nayarit",,"Hombres",18,26.747659550000066
+2021,"Nayarit",,"Mujeres",18,67.02407296467919
+2019,"Nayarit",,"Mujeres",18,58.06464561000009
+2017,"Nayarit",,"Mujeres",18,26.005689560000036
+2021,"Nayarit","Área Metropolitana Tepic","Total",9022001,68.60911404147738
+2019,"Nayarit","Área Metropolitana Tepic","Total",9022001,61.917979810000126
+2017,"Nayarit","Área Metropolitana Tepic","Total",9022001,26.370635799999956
+2021,"Nayarit","Área Metropolitana Tepic","Hombres",9022001,70.4279691632119
+2019,"Nayarit","Área Metropolitana Tepic","Hombres",9022001,66.26693934000009
+2017,"Nayarit","Área Metropolitana Tepic","Hombres",9022001,26.747659550000066
+2021,"Nayarit","Área Metropolitana Tepic","Mujeres",9022001,67.02407296467919
+2019,"Nayarit","Área Metropolitana Tepic","Mujeres",9022001,58.06464561000009
+2017,"Nayarit","Área Metropolitana Tepic","Mujeres",9022001,26.005689560000036
+2021,"Nuevo León",,"Total",19,60.45352011054164
+2019,"Nuevo León",,"Total",19,56.03656678999987
+2017,"Nuevo León",,"Total",19,37.183888940000024
+2021,"Nuevo León",,"Hombres",19,64.85183478177258
+2019,"Nuevo León",,"Hombres",19,60.01347996999995
+2017,"Nuevo León",,"Hombres",19,37.17006609000003
+2021,"Nuevo León",,"Mujeres",19,56.182099307086055
+2019,"Nuevo León",,"Mujeres",19,52.39847412000011
+2017,"Nuevo León",,"Mujeres",19,37.19782205999997
+2021,"Nuevo León","Área Metropolitana Monterrey","Total",9003001,60.45352011054164
+2019,"Nuevo León","Área Metropolitana Monterrey","Total",9003001,56.03656678999987
+2017,"Nuevo León","Área Metropolitana Monterrey","Total",9003001,37.183888940000024
+2021,"Nuevo León","Área Metropolitana Monterrey","Hombres",9003001,64.85183478177258
+2019,"Nuevo León","Área Metropolitana Monterrey","Hombres",9003001,60.01347996999995
+2017,"Nuevo León","Área Metropolitana Monterrey","Hombres",9003001,37.17006609000003
+2021,"Nuevo León","Área Metropolitana Monterrey","Mujeres",9003001,56.182099307086055
+2019,"Nuevo León","Área Metropolitana Monterrey","Mujeres",9003001,52.39847412000011
+2017,"Nuevo León","Área Metropolitana Monterrey","Mujeres",9003001,37.19782205999997
+2021,"Oaxaca",,"Total",20,62.960005297046095
+2019,"Oaxaca",,"Total",20,60.47317110000015
+2017,"Oaxaca",,"Total",20,23.340385299999983
+2021,"Oaxaca",,"Hombres",20,67.47747911040206
+2019,"Oaxaca",,"Hombres",20,64.93772093000005
+2017,"Oaxaca",,"Hombres",20,24.54484382000006
+2021,"Oaxaca",,"Mujeres",20,59.370127508489325
+2019,"Oaxaca",,"Mujeres",20,56.78149592000018
+2017,"Oaxaca",,"Mujeres",20,22.39935959
+2021,"Oaxaca","Área Metropolitana Oaxaca","Total",9025001,61.971312628841645
+2019,"Oaxaca","Área Metropolitana Oaxaca","Total",9025001,58.38569170000008
+2017,"Oaxaca","Área Metropolitana Oaxaca","Total",9025001,22.263824959999976
+2021,"Oaxaca","Área Metropolitana Oaxaca","Hombres",9025001,65.4245336592805
+2019,"Oaxaca","Área Metropolitana Oaxaca","Hombres",9025001,63.27997231999985
+2017,"Oaxaca","Área Metropolitana Oaxaca","Hombres",9025001,21.934613469999963
+2021,"Oaxaca","Área Metropolitana Oaxaca","Mujeres",9025001,59.205202186928595
+2019,"Oaxaca","Área Metropolitana Oaxaca","Mujeres",9025001,54.18438375999995
+2017,"Oaxaca","Área Metropolitana Oaxaca","Mujeres",9025001,22.521743799999978
+2021,"Puebla",,"Total",21,50.58718530834086
+2019,"Puebla",,"Total",21,47.506747569999874
+2017,"Puebla",,"Total",21,13.997284580000027
+2021,"Puebla",,"Hombres",21,51.8498228298576
+2019,"Puebla",,"Hombres",21,47.53675010000005
+2017,"Puebla",,"Hombres",21,15.456241699999977
+2021,"Puebla",,"Mujeres",21,49.415038722788886
+2019,"Puebla",,"Mujeres",21,47.47863692000008
+2017,"Puebla",,"Mujeres",21,12.736907160000028
+2021,"Puebla","Área Metropolitana Puebla","Total",9004001,48.55341697599184
+2019,"Puebla","Área Metropolitana Puebla","Total",9004001,46.54092232000008
+2017,"Puebla","Área Metropolitana Puebla","Total",9004001,13.294302750000027
+2021,"Puebla","Área Metropolitana Puebla","Hombres",9004001,49.68421312832931
+2019,"Puebla","Área Metropolitana Puebla","Hombres",9004001,46.63271318999986
+2017,"Puebla","Área Metropolitana Puebla","Hombres",9004001,14.559486419999988
+2021,"Puebla","Área Metropolitana Puebla","Mujeres",9004001,47.52795072826021
+2019,"Puebla","Área Metropolitana Puebla","Mujeres",9004001,46.457262120000124
+2017,"Puebla","Área Metropolitana Puebla","Mujeres",9004001,12.219879210000027
+2021,"Querétaro",,"Total",22,52.14553921327486
+2019,"Querétaro",,"Total",22,50.536486940000025
+2017,"Querétaro",,"Total",22,36.38260308999998
+2021,"Querétaro",,"Hombres",22,55.16389946982241
+2019,"Querétaro",,"Hombres",22,52.177611860000056
+2017,"Querétaro",,"Hombres",22,39.14907929000001
+2021,"Querétaro",,"Mujeres",22,49.93340436867336
+2019,"Querétaro",,"Mujeres",22,48.98970365999988
+2017,"Querétaro",,"Mujeres",22,33.83962542000007
+2021,"Querétaro","Área Metropolitana Querétaro","Total",9028001,51.05716692222973
+2019,"Querétaro","Área Metropolitana Querétaro","Total",9028001,49.5497130800001
+2017,"Querétaro","Área Metropolitana Querétaro","Total",9028001,34.82621897999991
+2021,"Querétaro","Área Metropolitana Querétaro","Hombres",9028001,54.92561330209179
+2019,"Querétaro","Área Metropolitana Querétaro","Hombres",9028001,50.76451708999987
+2017,"Querétaro","Área Metropolitana Querétaro","Hombres",9028001,38.10405555999993
+2021,"Querétaro","Área Metropolitana Querétaro","Mujeres",9028001,48.19771129993484
+2019,"Querétaro","Área Metropolitana Querétaro","Mujeres",9028001,48.37908455999994
+2017,"Querétaro","Área Metropolitana Querétaro","Mujeres",9028001,31.708997400000037
+2021,"Quintana Roo",,"Total",23,54.67569880060973
+2019,"Quintana Roo",,"Total",23,54.28787111000013
+2017,"Quintana Roo",,"Total",23,19.420827050000003
+2021,"Quintana Roo",,"Hombres",23,58.358456183577594
+2019,"Quintana Roo",,"Hombres",23,57.065328089999895
+2017,"Quintana Roo",,"Hombres",23,21.58808761
+2021,"Quintana Roo",,"Mujeres",23,50.798213996183456
+2019,"Quintana Roo",,"Mujeres",23,51.65178130000003
+2017,"Quintana Roo",,"Mujeres",23,17.212854860000046
+2021,"Quintana Roo","Área Metropolitana Cancún","Total",9031001,51.62715465930184
+2019,"Quintana Roo","Área Metropolitana Cancún","Total",9031001,50.815343919999876
+2017,"Quintana Roo","Área Metropolitana Cancún","Total",9031001,17.883410100000006
+2021,"Quintana Roo","Área Metropolitana Cancún","Hombres",9031001,56.64862059817305
+2019,"Quintana Roo","Área Metropolitana Cancún","Hombres",9031001,54.20655079999988
+2017,"Quintana Roo","Área Metropolitana Cancún","Hombres",9031001,21.14500237999999
+2021,"Quintana Roo","Área Metropolitana Cancún","Mujeres",9031001,46.392175575419124
+2019,"Quintana Roo","Área Metropolitana Cancún","Mujeres",9031001,47.63773363000011
+2017,"Quintana Roo","Área Metropolitana Cancún","Mujeres",9031001,14.431944939999996
+2021,"San Luis Potosí",,"Total",24,57.83153786172624
+2019,"San Luis Potosí",,"Total",24,54.55546452999993
+2017,"San Luis Potosí",,"Total",24,30.30564387999996
+2021,"San Luis Potosí",,"Hombres",24,56.78535586497221
+2019,"San Luis Potosí",,"Hombres",24,58.09127399000018
+2017,"San Luis Potosí",,"Hombres",24,28.699663599999926
+2021,"San Luis Potosí",,"Mujeres",24,58.711505262292775
+2019,"San Luis Potosí",,"Mujeres",24,51.717903069999934
+2017,"San Luis Potosí",,"Mujeres",24,31.715769689999917
+2021,"San Luis Potosí","Área Metropolitana San Luis Potosí","Total",9006001,56.25512098362015
+2019,"San Luis Potosí","Área Metropolitana San Luis Potosí","Total",9006001,52.58612462000013
+2017,"San Luis Potosí","Área Metropolitana San Luis Potosí","Total",9006001,27.937363930000046
+2021,"San Luis Potosí","Área Metropolitana San Luis Potosí","Hombres",9006001,54.966285103663715
+2019,"San Luis Potosí","Área Metropolitana San Luis Potosí","Hombres",9006001,56.58330112000015
+2017,"San Luis Potosí","Área Metropolitana San Luis Potosí","Hombres",9006001,27.35253509999995
+2021,"San Luis Potosí","Área Metropolitana San Luis Potosí","Mujeres",9006001,57.35835181271984
+2019,"San Luis Potosí","Área Metropolitana San Luis Potosí","Mujeres",9006001,49.36359999999993
+2017,"San Luis Potosí","Área Metropolitana San Luis Potosí","Mujeres",9006001,28.463394519999945
+2021,"Sinaloa",,"Total",25,59.32744469166484
+2019,"Sinaloa",,"Total",25,58.45069419999988
+2017,"Sinaloa",,"Total",25,34.97550164999995
+2021,"Sinaloa",,"Hombres",25,65.23425881073196
+2019,"Sinaloa",,"Hombres",25,62.34711719000005
+2017,"Sinaloa",,"Hombres",25,35.11259224000003
+2021,"Sinaloa",,"Mujeres",25,54.727426752350986
+2019,"Sinaloa",,"Mujeres",25,55.2983992099999
+2017,"Sinaloa",,"Mujeres",25,34.857651759999975
+2021,"Sinaloa","Área Metropolitana Culiacán","Total",9019001,57.45593451568878
+2019,"Sinaloa","Área Metropolitana Culiacán","Total",9019001,53.286858380000005
+2017,"Sinaloa","Área Metropolitana Culiacán","Total",9019001,32.475644359999954
+2021,"Sinaloa","Área Metropolitana Culiacán","Hombres",9019001,62.01967765130934
+2019,"Sinaloa","Área Metropolitana Culiacán","Hombres",9019001,57.63971992000005
+2017,"Sinaloa","Área Metropolitana Culiacán","Hombres",9019001,35.095061429999994
+2021,"Sinaloa","Área Metropolitana Culiacán","Mujeres",9019001,54.22011104410039
+2019,"Sinaloa","Área Metropolitana Culiacán","Mujeres",9019001,49.83775896000012
+2017,"Sinaloa","Área Metropolitana Culiacán","Mujeres",9019001,30.377512409999905
+2021,"Sonora",,"Total",26,56.54315115550429
+2019,"Sonora",,"Total",26,54.65543097000017
+2017,"Sonora",,"Total",26,27.009851710000017
+2021,"Sonora",,"Hombres",26,59.50298066789491
+2019,"Sonora",,"Hombres",26,57.109690919999856
+2017,"Sonora",,"Hombres",26,29.68276182
+2021,"Sonora",,"Mujeres",26,53.92653177340792
+2019,"Sonora",,"Mujeres",26,52.26547607999992
+2017,"Sonora",,"Mujeres",26,24.78497263000005
+2021,"Sonora","Área Metropolitana Hermosillo","Total",9020001,51.93070080649619
+2019,"Sonora","Área Metropolitana Hermosillo","Total",9020001,55.007651959999954
+2017,"Sonora","Área Metropolitana Hermosillo","Total",9020001,25.976767279999986
+2021,"Sonora","Área Metropolitana Hermosillo","Hombres",9020001,53.81331897325436
+2019,"Sonora","Área Metropolitana Hermosillo","Hombres",9020001,57.15975507999994
+2017,"Sonora","Área Metropolitana Hermosillo","Hombres",9020001,28.517972109999953
+2021,"Sonora","Área Metropolitana Hermosillo","Mujeres",9020001,50.273781726610025
+2019,"Sonora","Área Metropolitana Hermosillo","Mujeres",9020001,52.60327409999993
+2017,"Sonora","Área Metropolitana Hermosillo","Mujeres",9020001,24.00812048999994
+2021,"Tabasco",,"Total",27,67.85687361001165
+2019,"Tabasco",,"Total",27,55.83090885999993
+2017,"Tabasco",,"Total",27,21.134219530000017
+2021,"Tabasco",,"Hombres",27,72.51987605641874
+2019,"Tabasco",,"Hombres",27,59.38438738999983
+2017,"Tabasco",,"Hombres",27,24.69281745999994
+2021,"Tabasco",,"Mujeres",27,64.20856965292498
+2019,"Tabasco",,"Mujeres",27,52.63880643999989
+2017,"Tabasco",,"Mujeres",27,17.870603620000058
+2021,"Tabasco","Área Metropolitana Villahermosa","Total",9016001,67.85687361001165
+2019,"Tabasco","Área Metropolitana Villahermosa","Total",9016001,55.83090885999993
+2017,"Tabasco","Área Metropolitana Villahermosa","Total",9016001,21.134219530000017
+2021,"Tabasco","Área Metropolitana Villahermosa","Hombres",9016001,72.51987605641874
+2019,"Tabasco","Área Metropolitana Villahermosa","Hombres",9016001,59.38438738999983
+2017,"Tabasco","Área Metropolitana Villahermosa","Hombres",9016001,24.69281745999994
+2021,"Tabasco","Área Metropolitana Villahermosa","Mujeres",9016001,64.20856965292498
+2019,"Tabasco","Área Metropolitana Villahermosa","Mujeres",9016001,52.63880643999989
+2017,"Tabasco","Área Metropolitana Villahermosa","Mujeres",9016001,17.870603620000058
+2021,"Tamaulipas",,"Total",28,64.29168929289425
+2019,"Tamaulipas",,"Total",28,58.32142009000011
+2017,"Tamaulipas",,"Total",28,39.98564253999999
+2021,"Tamaulipas",,"Hombres",28,68.94109396914433
+2019,"Tamaulipas",,"Hombres",28,57.38033137999993
+2017,"Tamaulipas",,"Hombres",28,40.41048555999994
+2021,"Tamaulipas",,"Mujeres",28,60.59494992415063
+2019,"Tamaulipas",,"Mujeres",28,59.1585225899999
+2017,"Tamaulipas",,"Mujeres",28,39.631313660000075
+2021,"Tamaulipas","Área Metropolitana Tampico","Total",9009001,64.74989275281403
+2019,"Tamaulipas","Área Metropolitana Tampico","Total",9009001,60.213828969999874
+2017,"Tamaulipas","Área Metropolitana Tampico","Total",9009001,39.44049679
+2021,"Tamaulipas","Área Metropolitana Tampico","Hombres",9009001,70.20553255955448
+2019,"Tamaulipas","Área Metropolitana Tampico","Hombres",9009001,57.10310374999992
+2017,"Tamaulipas","Área Metropolitana Tampico","Hombres",9009001,41.965023120000005
+2021,"Tamaulipas","Área Metropolitana Tampico","Mujeres",9009001,60.66560495333936
+2019,"Tamaulipas","Área Metropolitana Tampico","Mujeres",9009001,63.01994148999989
+2017,"Tamaulipas","Área Metropolitana Tampico","Mujeres",9009001,37.47661005999999
+2021,"Tlaxcala",,"Total",29,58.5964995115007
+2019,"Tlaxcala",,"Total",29,56.332267189999854
+2017,"Tlaxcala",,"Total",29,36.04758352999994
+2021,"Tlaxcala",,"Hombres",29,62.2930553872257
+2019,"Tlaxcala",,"Hombres",29,61.86858547999987
+2017,"Tlaxcala",,"Hombres",29,37.51703025999996
+2021,"Tlaxcala",,"Mujeres",29,55.57802438509434
+2019,"Tlaxcala",,"Mujeres",29,51.30950780999985
+2017,"Tlaxcala",,"Mujeres",29,34.71520568000003
+2021,"Tlaxcala","Área Metropolitana Tlaxcala","Total",9029001,58.5964995115007
+2019,"Tlaxcala","Área Metropolitana Tlaxcala","Total",9029001,56.332267189999854
+2017,"Tlaxcala","Área Metropolitana Tlaxcala","Total",9029001,36.04758352999994
+2021,"Tlaxcala","Área Metropolitana Tlaxcala","Hombres",9029001,62.2930553872257
+2019,"Tlaxcala","Área Metropolitana Tlaxcala","Hombres",9029001,61.86858547999987
+2017,"Tlaxcala","Área Metropolitana Tlaxcala","Hombres",9029001,37.51703025999996
+2021,"Tlaxcala","Área Metropolitana Tlaxcala","Mujeres",9029001,55.57802438509434
+2019,"Tlaxcala","Área Metropolitana Tlaxcala","Mujeres",9029001,51.30950780999985
+2017,"Tlaxcala","Área Metropolitana Tlaxcala","Mujeres",9029001,34.71520568000003
+2021,"Veracruz de Ignacio de la Llave",,"Total",30,59.34647686262653
+2019,"Veracruz de Ignacio de la Llave",,"Total",30,63.1549201400001
+2017,"Veracruz de Ignacio de la Llave",,"Total",30,15.779715359999969
+2021,"Veracruz de Ignacio de la Llave",,"Hombres",30,65.33779069044164
+2019,"Veracruz de Ignacio de la Llave",,"Hombres",30,63.89890122999991
+2017,"Veracruz de Ignacio de la Llave",,"Hombres",30,16.232103779999992
+2021,"Veracruz de Ignacio de la Llave",,"Mujeres",30,54.47905181918401
+2019,"Veracruz de Ignacio de la Llave",,"Mujeres",30,62.62889996000008
+2017,"Veracruz de Ignacio de la Llave",,"Mujeres",30,15.36777740000002
+2021,"Veracruz de Ignacio de la Llave","Área Metropolitana Veracruz","Total",9010001,55.00983529493353
+2019,"Veracruz de Ignacio de la Llave","Área Metropolitana Veracruz","Total",9010001,53.304209140000026
+2017,"Veracruz de Ignacio de la Llave","Área Metropolitana Veracruz","Total",9010001,17.521324829999973
+2021,"Veracruz de Ignacio de la Llave","Área Metropolitana Veracruz","Hombres",9010001,57.97627506800201
+2019,"Veracruz de Ignacio de la Llave","Área Metropolitana Veracruz","Hombres",9010001,58.01361234999988
+2017,"Veracruz de Ignacio de la Llave","Área Metropolitana Veracruz","Hombres",9010001,14.699929119999982
+2021,"Veracruz de Ignacio de la Llave","Área Metropolitana Veracruz","Mujeres",9010001,52.811137202281245
+2019,"Veracruz de Ignacio de la Llave","Área Metropolitana Veracruz","Mujeres",9010001,50.493612760000076
+2017,"Veracruz de Ignacio de la Llave","Área Metropolitana Veracruz","Mujeres",9010001,20.528617550000025
+2021,"Yucatán",,"Total",31,59.3100467039822
+2019,"Yucatán",,"Total",31,61.78932938999989
+2017,"Yucatán",,"Total",31,40.21412371000005
+2021,"Yucatán",,"Hombres",31,64.93929801929518
+2019,"Yucatán",,"Hombres",31,68.93541074000017
+2017,"Yucatán",,"Hombres",31,44.380412970000094
+2021,"Yucatán",,"Mujeres",31,54.00084431118284
+2019,"Yucatán",,"Mujeres",31,56.019016420000085
+2017,"Yucatán",,"Mujeres",31,36.5774695199999
+2021,"Yucatán","Área Metropolitana Mérida","Total",9007001,59.3100467039822
+2019,"Yucatán","Área Metropolitana Mérida","Total",9007001,61.78932938999989
+2017,"Yucatán","Área Metropolitana Mérida","Total",9007001,40.21412371000005
+2021,"Yucatán","Área Metropolitana Mérida","Hombres",9007001,64.93929801929518
+2019,"Yucatán","Área Metropolitana Mérida","Hombres",9007001,68.93541074000017
+2017,"Yucatán","Área Metropolitana Mérida","Hombres",9007001,44.380412970000094
+2021,"Yucatán","Área Metropolitana Mérida","Mujeres",9007001,54.00084431118284
+2019,"Yucatán","Área Metropolitana Mérida","Mujeres",9007001,56.019016420000085
+2017,"Yucatán","Área Metropolitana Mérida","Mujeres",9007001,36.5774695199999
+2021,"Zacatecas",,"Total",32,47.88977494240655
+2019,"Zacatecas",,"Total",32,43.749523329999974
+2017,"Zacatecas",,"Total",32,38.50498069999997
+2021,"Zacatecas",,"Hombres",32,49.79510516425555
+2019,"Zacatecas",,"Hombres",32,45.234395890000066
+2017,"Zacatecas",,"Hombres",32,41.35408404999999
+2021,"Zacatecas",,"Mujeres",32,46.20262892350457
+2019,"Zacatecas",,"Mujeres",32,42.38044789000007
+2017,"Zacatecas",,"Mujeres",32,35.89191251000008
+2021,"Zacatecas","Área Metropolitana Zacatecas","Total",9026001,54.0527082890294
+2019,"Zacatecas","Área Metropolitana Zacatecas","Total",9026001,47.49290541000003
+2017,"Zacatecas","Área Metropolitana Zacatecas","Total",9026001,37.54744304999994
+2021,"Zacatecas","Área Metropolitana Zacatecas","Hombres",9026001,55.662274805055006
+2019,"Zacatecas","Área Metropolitana Zacatecas","Hombres",9026001,49.71753156999991
+2017,"Zacatecas","Área Metropolitana Zacatecas","Hombres",9026001,39.94330327999988
+2021,"Zacatecas","Área Metropolitana Zacatecas","Mujeres",9026001,52.55354531065308
+2019,"Zacatecas","Área Metropolitana Zacatecas","Mujeres",9026001,45.32674695999991
+2017,"Zacatecas","Área Metropolitana Zacatecas","Mujeres",9026001,35.47859586000001
