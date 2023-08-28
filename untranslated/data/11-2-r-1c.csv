@@ -1,1 +1,13 @@
-Year,Value
+Year,Tam_loc,Sexo,Value
+2019,Urbano,Total,400.0
+2014,Urbano,Total,370.3999999999999
+2019,Urbano,Hombres,426.5
+2014,Urbano,Hombres,393.7
+2019,Urbano,Mujeres,363.6000000000001
+2014,Urbano,Mujeres,338.1
+2019,Rural,Total,352.2
+2014,Rural,Total,361.1000000000001
+2019,Rural,Hombres,379.5
+2014,Rural,Hombres,393.2
+2019,Rural,Mujeres,296.4
+2014,Rural,Mujeres,288.8

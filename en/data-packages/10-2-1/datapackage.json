@@ -12,8 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Personas debajo del 50% de mediana de ingresos",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nacional",
+                "Población rural",
+                "Población urbana",
+                "Hombres",
+                "Mujeres",
+                "Niñas, niños y adolescentes (0 a 17 años)",
+                "Jóvenes (18 a 29 años)",
+                "Personas adultas (30 a 64 años)",
+                "Personas adultas mayores (65 años o más)",
+                "Personas con discapacidad",
+                "Personas indígenas",
+                ""
+              ]
+            },
+            "title": "Personas debajo del 50% de mediana de ingresos"
           },
           {
             "name": "Value",

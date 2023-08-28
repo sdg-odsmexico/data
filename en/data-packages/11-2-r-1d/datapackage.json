@@ -12,8 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Traslado al trabajo_grupos de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-19 años",
+                "20-29 años",
+                "30-39 años",
+                "40-49 años",
+                "50-59 años",
+                "60 años y más",
+                ""
+              ]
+            },
+            "title": "Traslado al trabajo_grupos de edad"
           },
           {
             "name": "Value",

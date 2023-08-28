@@ -1,1 +1,199 @@
-Year,Value
+Year,Entidad federativa,Sexo,GeoCode,Value
+2019,Estados Unidos Mexicanos,Total,0,385.3922279264
+2014,Estados Unidos Mexicanos,Total,0,367.4949979783222
+2019,Estados Unidos Mexicanos,Hombres,0,410.6270170146796
+2014,Estados Unidos Mexicanos,Hombres,0,393.5223655185861
+2019,Estados Unidos Mexicanos,Mujeres,0,346.4180764582705
+2014,Estados Unidos Mexicanos,Mujeres,0,325.81446512912936
+2019,Aguascalientes,Total,1,310.4199201883772
+2014,Aguascalientes,Total,1,
+2019,Aguascalientes,Hombres,1,311.93392144449604
+2014,Aguascalientes,Hombres,1,
+2019,Aguascalientes,Mujeres,1,308.40091470688634
+2014,Aguascalientes,Mujeres,1,
+2019,Baja California,Total,2,322.72750210654635
+2014,Baja California,Total,2,
+2019,Baja California,Hombres,2,345.64107186353294
+2014,Baja California,Hombres,2,
+2019,Baja California,Mujeres,2,289.2337255161992
+2014,Baja California,Mujeres,2,
+2019,Baja California Sur,Total,3,303.45089620120825
+2014,Baja California Sur,Total,3,
+2019,Baja California Sur,Hombres,3,307.1622478431016
+2014,Baja California Sur,Hombres,3,
+2019,Baja California Sur,Mujeres,3,297.8858494362761
+2014,Baja California Sur,Mujeres,3,
+2019,Campeche,Total,4,296.7753251976076
+2014,Campeche,Total,4,
+2019,Campeche,Hombres,4,323.4762000364353
+2014,Campeche,Hombres,4,
+2019,Campeche,Mujeres,4,248.5026919845404
+2014,Campeche,Mujeres,4,
+2019,Coahuila de Zaragoza,Total,5,311.10023887553695
+2014,Coahuila de Zaragoza,Total,5,
+2019,Coahuila de Zaragoza,Hombres,5,329.4661584738977
+2014,Coahuila de Zaragoza,Hombres,5,
+2019,Coahuila de Zaragoza,Mujeres,5,279.7670066887656
+2014,Coahuila de Zaragoza,Mujeres,5,
+2019,Colima,Total,6,249.78528701914908
+2014,Colima,Total,6,
+2019,Colima,Hombres,6,271.2988974792997
+2014,Colima,Hombres,6,
+2019,Colima,Mujeres,6,217.76303317535456
+2014,Colima,Mujeres,6,
+2019,Chiapas,Total,7,371.5525972730997
+2014,Chiapas,Total,7,
+2019,Chiapas,Hombres,7,408.4978223800768
+2014,Chiapas,Hombres,7,
+2019,Chiapas,Mujeres,7,283.8902440067978
+2014,Chiapas,Mujeres,7,
+2019,Chihuahua,Total,8,284.87274045308
+2014,Chihuahua,Total,8,
+2019,Chihuahua,Hombres,8,294.223063317877
+2014,Chihuahua,Hombres,8,
+2019,Chihuahua,Mujeres,8,270.3715604158276
+2014,Chihuahua,Mujeres,8,
+2019,Ciudad de México,Total,9,522.1835969166044
+2014,Ciudad de México,Total,9,
+2019,Ciudad de México,Hombres,9,535.497486647022
+2014,Ciudad de México,Hombres,9,
+2019,Ciudad de México,Mujeres,9,505.8767964972353
+2014,Ciudad de México,Mujeres,9,
+2019,Durango,Total,10,293.97443288855806
+2014,Durango,Total,10,
+2019,Durango,Hombres,10,329.27702217880926
+2014,Durango,Hombres,10,
+2019,Durango,Mujeres,10,242.76755000016783
+2014,Durango,Mujeres,10,
+2019,Guanajuato,Total,11,319.64278362309835
+2014,Guanajuato,Total,11,
+2019,Guanajuato,Hombres,11,334.4744531289687
+2014,Guanajuato,Hombres,11,
+2019,Guanajuato,Mujeres,11,298.29372039774086
+2014,Guanajuato,Mujeres,11,
+2019,Guerrero,Total,12,301.8394364190359
+2014,Guerrero,Total,12,
+2019,Guerrero,Hombres,12,332.272182876678
+2014,Guerrero,Hombres,12,
+2019,Guerrero,Mujeres,12,255.3568878593333
+2014,Guerrero,Mujeres,12,
+2019,Hidalgo,Total,13,313.05520602023176
+2014,Hidalgo,Total,13,
+2019,Hidalgo,Hombres,13,345.15048681447433
+2014,Hidalgo,Hombres,13,
+2019,Hidalgo,Mujeres,13,270.63583854447285
+2014,Hidalgo,Mujeres,13,
+2019,Jalisco,Total,14,384.1609778589215
+2014,Jalisco,Total,14,
+2019,Jalisco,Hombres,14,398.5197163746059
+2014,Jalisco,Hombres,14,
+2019,Jalisco,Mujeres,14,363.32906487215735
+2014,Jalisco,Mujeres,14,
+2019,México,Total,15,584.0433403938933
+2014,México,Total,15,
+2019,México,Hombres,15,639.9386373638393
+2014,México,Hombres,15,
+2019,México,Mujeres,15,499.9055222782355
+2014,México,Mujeres,15,
+2019,Michoacán de Ocampo,Total,16,302.585083128397
+2014,Michoacán de Ocampo,Total,16,
+2019,Michoacán de Ocampo,Hombres,16,330.2035553833242
+2014,Michoacán de Ocampo,Hombres,16,
+2019,Michoacán de Ocampo,Mujeres,16,261.4197129493923
+2014,Michoacán de Ocampo,Mujeres,16,
+2019,Morelos,Total,17,337.12597715136286
+2014,Morelos,Total,17,
+2019,Morelos,Hombres,17,362.310121557115
+2014,Morelos,Hombres,17,
+2019,Morelos,Mujeres,17,304.3955496479587
+2014,Morelos,Mujeres,17,
+2019,Nayarit,Total,18,294.4181430168351
+2014,Nayarit,Total,18,
+2019,Nayarit,Hombres,18,312.37779103389454
+2014,Nayarit,Hombres,18,
+2019,Nayarit,Mujeres,18,265.93597228487766
+2014,Nayarit,Mujeres,18,
+2019,Nuevo León,Total,19,435.6173687187766
+2014,Nuevo León,Total,19,
+2019,Nuevo León,Hombres,19,464.0442218462502
+2014,Nuevo León,Hombres,19,
+2019,Nuevo León,Mujeres,19,391.9751273586736
+2014,Nuevo León,Mujeres,19,
+2019,Oaxaca,Total,20,366.6714147746463
+2014,Oaxaca,Total,20,
+2019,Oaxaca,Hombres,20,397.8117466601931
+2014,Oaxaca,Hombres,20,
+2019,Oaxaca,Mujeres,20,308.24556685204857
+2014,Oaxaca,Mujeres,20,
+2019,Puebla,Total,21,383.0082001789556
+2014,Puebla,Total,21,
+2019,Puebla,Hombres,21,412.6217582686999
+2014,Puebla,Hombres,21,
+2019,Puebla,Mujeres,21,334.78265167978026
+2014,Puebla,Mujeres,21,
+2019,Querétaro,Total,22,343.8670760794222
+2014,Querétaro,Total,22,
+2019,Querétaro,Hombres,22,350.268418063307
+2014,Querétaro,Hombres,22,
+2019,Querétaro,Mujeres,22,335.54251714637434
+2014,Querétaro,Mujeres,22,
+2019,Quintana Roo,Total,23,359.4436517026361
+2014,Quintana Roo,Total,23,
+2019,Quintana Roo,Hombres,23,374.3521203070855
+2014,Quintana Roo,Hombres,23,
+2019,Quintana Roo,Mujeres,23,334.7217077421743
+2014,Quintana Roo,Mujeres,23,
+2019,San Luis Potosí,Total,24,326.51781302271183
+2014,San Luis Potosí,Total,24,
+2019,San Luis Potosí,Hombres,24,334.97053797670304
+2014,San Luis Potosí,Hombres,24,
+2019,San Luis Potosí,Mujeres,24,312.76169447586057
+2014,San Luis Potosí,Mujeres,24,
+2019,Sinaloa,Total,25,289.2181460357274
+2014,Sinaloa,Total,25,
+2019,Sinaloa,Hombres,25,298.5963454387992
+2014,Sinaloa,Hombres,25,
+2019,Sinaloa,Mujeres,25,273.9020795350842
+2014,Sinaloa,Mujeres,25,
+2019,Sonora,Total,26,290.76715082058865
+2014,Sonora,Total,26,
+2019,Sonora,Hombres,26,331.14959875122366
+2014,Sonora,Hombres,26,
+2019,Sonora,Mujeres,26,231.9811234290345
+2014,Sonora,Mujeres,26,
+2019,Tabasco,Total,27,294.6307769677182
+2014,Tabasco,Total,27,
+2019,Tabasco,Hombres,27,320.0871524263887
+2014,Tabasco,Hombres,27,
+2019,Tabasco,Mujeres,27,249.83943087132943
+2014,Tabasco,Mujeres,27,
+2019,Tamaulipas,Total,28,283.237008606902
+2014,Tamaulipas,Total,28,
+2019,Tamaulipas,Hombres,28,310.23392323115934
+2014,Tamaulipas,Hombres,28,
+2019,Tamaulipas,Mujeres,28,240.67027746600152
+2014,Tamaulipas,Mujeres,28,
+2019,Tlaxcala,Total,29,405.5944846079632
+2014,Tlaxcala,Total,29,
+2019,Tlaxcala,Hombres,29,452.939499438034
+2014,Tlaxcala,Hombres,29,
+2019,Tlaxcala,Mujeres,29,336.44996216685826
+2014,Tlaxcala,Mujeres,29,
+2019,Veracruz de Ignacio de la Llave,Total,30,324.84095652704144
+2014,Veracruz de Ignacio de la Llave,Total,30,
+2019,Veracruz de Ignacio de la Llave,Hombres,30,344.83551519231247
+2014,Veracruz de Ignacio de la Llave,Hombres,30,
+2019,Veracruz de Ignacio de la Llave,Mujeres,30,284.91925896669613
+2014,Veracruz de Ignacio de la Llave,Mujeres,30,
+2019,Yucatán,Total,31,363.3450065806466
+2014,Yucatán,Total,31,
+2019,Yucatán,Hombres,31,393.6909475990756
+2014,Yucatán,Hombres,31,
+2019,Yucatán,Mujeres,31,316.6380473753408
+2014,Yucatán,Mujeres,31,
+2019,Zacatecas,Total,32,275.1520387908168
+2014,Zacatecas,Total,32,
+2019,Zacatecas,Hombres,32,288.8788913979556
+2014,Zacatecas,Hombres,32,
+2019,Zacatecas,Mujeres,32,249.0233879021724
+2014,Zacatecas,Mujeres,32,

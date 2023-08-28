@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Tam_loc",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urbano",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Tam_loc"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
           },
           {
             "name": "Value",

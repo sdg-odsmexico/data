@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2019,2014,2019,2014,2019,2014,2019,2014,2019,2014,2019,2014],"Tam_loc":["Urbano","Urbano","Urbano","Urbano","Urbano","Urbano","Rural","Rural","Rural","Rural","Rural","Rural"],"Sexo":["Total","Total","Hombres","Hombres","Mujeres","Mujeres","Total","Total","Hombres","Hombres","Mujeres","Mujeres"],"Value":[400.0,370.4,426.5,393.7,363.6,338.1,352.2,361.1,379.5,393.2,296.4,288.8]},"edges":{"From":["Tam_loc"],"To":["Sexo"]}}
