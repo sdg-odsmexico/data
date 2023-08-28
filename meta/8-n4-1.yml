@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos
+SDG_TARGET: >-
+  Meta 8.n4 Crecimiento de la productividad laboral
+SDG_INDICATOR: >-
+  8.n4.1 Variación anual del índice global de productividad laboral de la economía
+SDG_SERIES_DESCR: >-
+  El Índice Global de Productividad Laboral de la Economía (IGPLE) se genera al relacionar dos variables agregadas de la economía del país, obtenidas de fuentes de información diferentes. El Sistema de Cuentas Nacionales de México (SCNM) que genera el Producto Interno Bruto (PIB) trimestral base 2013, a precios básicos y en términos reales. La Encuesta Nacional de Ocupación y Empleo (ENOE) que capta información trimestral del número de ocupados en el país y del número de horas trabajadas. Como resultado de la relación entre ambas variables, es factible obtener tanto el PIB por persona ocupada como el PIB por hora trabajada. https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825188894.pdf 
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Tasa anualizada de crecimiento de la productividad laboral al primer trimestre del año . Esto es el  crecimiento de un año si se mantuviera la tasa de crecimiento trimestral durante los cuatro trimestres.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Índice Global de Productividad Laboral de la Economía (IGPLE).<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Junio de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  En noviembre de 2009, en el marco de la Ley del Sistema Nacional de Información Estadística y Geográfica (LSNIEG, D.O.F.16/IV/2008), se constituyó como parte del Subsistema Nacional de Información Demográfica y Social, el Comité Técnico Especializado de Estadísticas del Trabajo y Previsión Social (CTEETPS)<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI) <a target="_blank" class="liga3" href=" https://inegi.org.mx/default.html"> https://inegi.org.mx/default.html</a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Es un indicador global de productividad laboral de la economía. Se estima que un crecimiento anual de 4.8% es el necesario para un crecimiento económico sostenido.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El Comité Técnico Especializado de Estadísticas del Trabajo y Previsión Social (CTEETPS) conformado por representantes de las siguientes instituciones: Secretaría del Trabajo y Previsión Social (STPS), Instituto Nacional de Estadística y Geografía (INEGI), Secretaría de Hacienda y Crédito Público (SHCP), Secretaría de Economía (SE), Instituto Mexicano del Seguro Social (IMSS), Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) y la Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR).
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/8n.4.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Refiere a datos publicados del primer trimestre de cada año, para mayor información consultar <a target="_blank" class="liga3" href="https//www.inegi.org.mx/app/tabulados/pxwebv2/pxweb/es/IPL/IPL/IPL_01.px/"> https//www.inegi.org.mx/app/tabulados/pxwebv2/pxweb/es/IPL/IPL/IPL_01.px/</a>
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '8.n4.1 Variación anual del índice global de productividad laboral de la economía'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '8.n4.1 Variación anual del índice global de productividad laboral de la economía'
+indicator_number:
+  '8.n4.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

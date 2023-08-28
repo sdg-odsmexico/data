@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos
+SDG_TARGET: >-
+  Meta 8.6. De aquí a 2020, reducir considerablemente la proporción de jóvenes que no están empleados y no cursan estudios ni reciben capacitación
+SDG_INDICATOR: >-
+  8.6.r.1 Proporción de jóvenes (de 15 a 24 años) que no estudian, no tienen empleo, no reciben capacitación y no realizan trabajo doméstico no remunerado de manera exclusiva, desglosada por sexo
+SDG_SERIES_DESCR: >-
+  Porcentaje de jóvenes de 15 a 24 años de edad que no estudian ni trabajan ni se capacitan ni realizan labores del hogar (o no integran la PEA), según  sexo, grupo de edad y tamaño de la localidad
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Octavio Heredia Hernández<br>Director General Adjunto de Encuestas Sociodemográficas<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276<br>Aguascalientes, Aguascalientes<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Telefóno: 4499105300, Ext. 4322, 4223<br>octavio.heredia@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Jóvenes de 15 a 24 años de edad que no estudian  ni trabajan ni se capacitan ni realizan labores del hogar (o no integran la PEA), según sexo y grupos de edad
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOE).<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Repositorio de Indicadores priorizados para el seguimiento de los ODS en América Latina y el Caribe (CEPAL). Disponible en: <a target="_blank" class="liga3" href="https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html"> https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html</a><br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Sociodemográficas.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El indicador permite identificar el porcentaje de jóvenes de 15 a 24 años de edad que no estudian ni trabajan ni se capacitan ni realizan labores del hogar (o no integran la PEA), según sexo y grupos de edad.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/8r.6.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '8.6.r.1 Proporción de jóvenes (de 15 a 24 años) que no estudian, no tienen empleo, no reciben capacitación y no realizan trabajo doméstico no remunerado de manera exclusiva, desglosada por sexo'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '8.6.r.1 Proporción de jóvenes (de 15 a 24 años) que no estudian, no tienen empleo, no reciben capacitación y no realizan trabajo doméstico no remunerado de manera exclusiva, desglosada por sexo'
+indicator_number:
+  '8.6.r.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOE).
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

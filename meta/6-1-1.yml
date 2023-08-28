@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos
+SDG_TARGET: >-
+  Meta 6.1. De aquí a 2030, lograr el acceso universal y equitativo al agua potable a un precio asequible para todos
+SDG_INDICATOR: >-
+  6.1.1. Proporción de la población que dispone de servicios de suministro de agua potable gestionados de manera segura
+SDG_SERIES_DESCR: >-
+  El indicador se calcula dividiendo a la población que tiene el servicio diario y agua entubada dentro de la vivienda, fuera de la vivienda pero dentro del predio, captación de agua de lluvia y llave pública o hidrante entre la población total residente en los hogares, expresado en porcentaje. Para el cálculo se toma la información de la Encuesta Nacional de Ingreso y Gasto en los Hogares que realiza el Instituto Nacional de Estadística y Geografía (INEGI).
+META_LAST_UPDATE: >-
+  Cada 10 y 5 años para datos censales y conteos, respectivamente.
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Gerencia de Planificación Hídrica<br>Subgerencia del Sistema Nacional de Información del Agua<br>Insurgentes Sur Num. 2416. Piso 4; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México<br>+52 55 5174 4000, ext. 2112 y 4458<br>sina@conagua.gob.mx<br><br>Gerencia de Cooperación Internacional<br>Dirección de Área de Evaluación de Programas y Proyectos<br>Insurgentes Sur Num. 2416. Piso 9; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México<br>+52 55 5174 4000, ext. 1313<br>internacional@conagua.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Proporción de la población que utiliza una fuente de agua potable mejorada (agua entubada dentro de la vivienda, fuera de la vivienda pero dentro del predio, captación de agua de lluvia y llave pública o hidrante) con un servicio diario y exenta de contaminación fecal y sustancias químicas prioritarias.<br>  <br>  
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingreso y Gasto en los Hogares (ENIGH), 2014, 2016, 2018, 2020.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Octubre de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Comisión Nacional del Agua (Conagua). Programa Nacional Hídrico 2020-2024<br>
+COMPILING_ORG: >-
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA), a partir de la información de la Encuesta Nacional de Ingreso y Gasto en los Hogares (ENIGH), 2014, 2016, 2018, 2020 de INEGI.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Los ODS establecieron como una de sus metas lograr el acceso universal y equitativo al agua potable a un precio asequible para todos, por lo que con este indicador se podrá apoyar a los encargados de la formulación de políticas y de la toma de decisiones a identificar quién tiene acceso a una fuente fiable de agua potable de buena calidad en su domicilio y quién lo necesita.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El valor reportado por el indicador parte de los resultados de la ENIGH. Para el caso del año 2018, la ENIGH consideró en su diseño estadístico una muestra de 87 mil 826 viviendas en el territorio nacional, mientras que para el año 2020, la ENIGH fue diseñada con una muestra de 105 mil 483 viviendas.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/6.1.1._es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>A partir de la información de la Encuesta Nacional de Ingreso y Gasto en los Hogares. 2014. 2016. 2018. 2020. Instituto Nacional de Estadística y Geografía (INEGI).
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '6.1.1. Proporción de la población que dispone de servicios de suministro de agua potable gestionados de manera segura'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '6.1.1. Proporción de la población que dispone de servicios de suministro de agua potable gestionados de manera segura'
+indicator_number:
+  '6.1.1.'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA). <a target="_blank" class="liga3" href="https//sinav30.conagua.gob.mx8080/">Sistema Nacional de Información del Agua (SINA).</a>
+source_periodicity_1:
+  Bienal
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

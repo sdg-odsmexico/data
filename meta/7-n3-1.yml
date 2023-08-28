@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 7. Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos
+SDG_TARGET: >-
+  Meta 7.n3 Promover proyectos de Generación Distribuida para la extensión del Servicio de Distribución
+SDG_INDICATOR: >-
+  7.n3.1 Capacidad total instalada por generación distribuida
+SDG_SERIES_DESCR: >-
+  La capacidad total instalada por generación distribuida se calcula mediante la tasa de crecimiento de las capacidades instaladas de las centrales electricas de Generación distribuida, obtenida de información proporcionada por CFE-Distribución.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  M.I. Lorena Gutiérrez Olvera<br>Subdirección de Integración de Estadisticas<br>Insurgentes Sur Num.890, Colonia del Valle, C.P. 03100. Benito Juárez, Benito Juárez , Ciudad de México<br>5000 6000, ext. 2217<br>lgutierrezo@energia.gob.mx<br><br>Lic. Alinne Denisse Estrella Santiago<br>Dirección de Tecnologías Limpias<br>Insurgentes Sur Num.890, Colonia del Valle, C.P. 03100. Benito Juárez, Benito Juárez , Ciudad de México<br>5000 6000, ext. 2092<br>aestrella@energia.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Capacidad total instalada por Generación Distribuida en MW.
+UNIT_MEASURE: >-
+  Megawatt
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Comisión Reguladora de Energía (CRE).<br>Secretaría de Energía (SENER).<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  28 de diciembre de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Ericson, Sean J, & Olis, Daniel R. A Comparison of Fuel Choice for Backup Generators. United States.<br>
+COMPILING_ORG: >-
+  Secretaría de Energía (SENER)<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  La Generación Distribuida (GD) se define en la Ley de la Industria Eléctrica (LIE) como la generación de energía eléctrica realizada por un generador exento y realizada en una Central Eléctrica interconectada a un circuito de distribución con alta concentración de Centros de Carga, en los términos de las Reglas del Mercado.<br>Una de las ventajas sociales de la GD es la posibilidad de reducir la pobreza energética, plantear nuevas formas para el acceso a la electricidad, ahorros en el pago por electricidad de usuarios que se constituyan en generadores exentos; así como las reducciones de la huella de carbono en el sector de energía.<br>La GD brinda la posibilidad de electrificación de zonas marginadas sin la necesidad de la extensión de la red eléctrica. Finalmente, de acuerdo a la Ley de Transición Energética, existirán estímulos fiscales, o financieros, que permitan promover inversiones en medidas técnica y económicamente viables en materia de eficiencia energética e integración de sistemas de generación distribuida de electricidad.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Se consideró la información proporcionada por la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, CFE Distribución, con cifras al segundo semestre de 2022.<br><br>Cabe señalar que, el Factor de Planta (F.P.) para el cálculo de la Generación de energías limpias, se obtiene con estimaciones realizadas por el Centro Nacional de Control de la Energía (CENACE), a partir de la Generación (GWh) de las siguientes tecnologías: Biogás se utilizó el factor de planta F.P. 0.336, Biomasa el F.P. de 0.211 y para Eólica F.P de 0.398, bajo la siguiente formula:<br><br>GWh=(MW X factor de planta (F.P)X 24 horas x 365 días )/1000<br><br>Finalmente, las Reglas de Mercado definirán los criterios para acreditar la potencia de las Centrales Eléctricas de Generación Distribuida, o bien, los criterios de ajuste a los requisitos para adquirir potencia por parte de los Usuarios Finales con Generación Distribuida, a fin de asegurar la implementación de procedimientos de medición.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/7n.3.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Megawatt
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>- Capacidad total instalada por generación distribuida de energías limpias.<br>- Capacidad Instalada (MW) Se obtiene con información proporcionada por CFE-Distribución.<br>- Generación (GWh) de tecnología Solar FV Se estima con base en la regionalización de las GCR, con soporte del Software especializado denominado Renewables.Ninja
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '7.n3.1 Capacidad total instalada por generación distribuida'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '7.n3.1 Capacidad total instalada por generación distribuida'
+indicator_number:
+  '7.n3.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

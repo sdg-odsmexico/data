@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 7. Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos
+SDG_TARGET: >-
+  Meta 7.3 De aquí a 2030, duplicar la tasa mundial de mejora de la eficiencia energética
+SDG_INDICATOR: >-
+  7.3.1 Intensidad energética medida en función de la energía primaria y el PIB
+SDG_SERIES_DESCR: >-
+  Este indicador considera la relación entre consumo energético primario y la actividad económica y se calcula como el cociente entre el consumo energético final a nivel nacional y el producto interno bruto.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  J. Alfredo Ontiveros Montesinos<br>Director de Integración de Información Energética<br>Insurgentes Sur Num.890<br>Colonia del Valle, C.P. 03100<br>Benito Juárez, Benito Juárez , Ciudad de México<br>5000 6000, ext. 1079<br>jontiveros@energia.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Se refiere a la cantidad de energía requerida para generar una unidad monetaria del producto interno bruto
+UNIT_MEASURE: >-
+  Kilojoules por peso de PIB producido
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Energía. Sistema de Información Energética. <a target="_blank" class="liga3" href="http://sie.energia.gob.mx/">Balance Nacional de Energía</a><br>Instituto Nacional de Estadística y Geografía (INEGI). <a target="_blank" class="liga3" href="http://www.inegi.org.mx/sistemas/bie/">Banco de Información Económica (BIE)</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Mayo de 2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Indicadores de Eficiencia Energética: Bases Esenciales para el Establecimiento de Políticas, Agencia Internacional de Energía (AIE), 2015<br>
+COMPILING_ORG: >-
+  Secretaría de Energía (SENER), Dirección General de Planeación e Información Energéticas.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El indicador tiene un reconocimiento global que permite comparar la cantidad de energía primaria consumida frente al crecimiento económico nacional respecto a otros países. Asimismo, brinda información necesaria para verificar el progreso hacia el logro de los objetivos y metas del país.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/7.3.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Kilojoules por peso de PIB producido
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>El cálculo de la intensidad energética medida en función de la energía primaria ha cambiado debido a que se ajustaron las dos variables involucradas.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '7.3.1 Intensidad energética medida en función de la energía primaria y el PIB'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '7.3.1 Intensidad energética medida en función de la energía primaria y el PIB'
+indicator_number:
+  '7.3.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Energía (SENER), Balance Nacional de Energía e Instituto Nacional de Estadística y Geografía (INEGI), Banco de Información Económica.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

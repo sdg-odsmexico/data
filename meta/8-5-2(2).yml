@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos
+SDG_TARGET: >-
+  Meta 8.5 De aquí a 2030, lograr el empleo pleno y productivo y el trabajo decente para todas las mujeres y los hombres, incluidos los jóvenes y las personas con discapacidad, así como la igualdad de remuneración por trabajo de igual valor
+SDG_INDICATOR: >-
+  8.5.2(2) Tasa de desocupación, desglosada por sexo y edad (1995-2020)
+SDG_SERIES_DESCR: >-
+  La tasa de desempleo se refiere al número de personas desocupadas, expresado como porcentaje del total de la población económicamente activa.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Lic. Antonio Amerlinck Assereto<br>Director de Estudios e Investigación Laboral. Dirección General de Investigación y Estadísticas del Trabajo<br>Boulevard Adolfo López Mateos. No. 1968. Colonia Los Alpes, 01010. Alcaldía Alvaro Obregón, Ciudad de México<br>(55) 2000 5463, 2000 5300, ext. 63263<br>aamerlinck@stps.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Proporción de las personas desocupadas, respecto de la Población Económicamente Activa.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI) y Secretaría del Trabajo y Previsión Social (STPS).<br>1995-2004: Encuesta Nacional de Empleo (ENE), con proyecciones de población basadas en el Conteo de Población y Vivienda 2005.<br>A partir de 2005: Encuesta Nacional de Ocupación y Empleo (ENOE), con proyecciones de población basadas en el Censo de Población y Vivienda 2010.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Serie que ya no se actualiza
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Organización Internacional del Trabajo (OIT), Indicadores clave del mercado laboral, 2015. OIT. Ginebra, Suiza. <a target="_blank" class="liga3" href="http://www.ilo.org/ilostat/faces/home/statisticaldata/new_link_10?_adf.ctrl-state=15qffd79n1_154&_afrLoop=214033851619998Num.! ">http://www.ilo.org/ilostat/faces/home/statisticaldata/new_link_10?_adf.ctrl-state=15qffd79n1_154&_afrLoop=214033851619998Num.!</a><br>
+COMPILING_ORG: >-
+  Secretaría del Trabajo y Previsión Social (STPS).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Este indicador ilustra la magnitud relativa de las personas que desean trabajar y buscan trabajo, pero no lo han encontrado. Mide la falta de oportunidades y los problemas de desajuste en la información entre la oferta y demanda de trabajo, lo que impide la incorporación de las personas a una ocupación productiva.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  1. Para el cálculo de este indicador por edad se consideraron los grupos: a) De 15 a 24 años; b) De 25 a 64; c) De 65 y más.<br><br>2. La información de la Encuesta Nacional de Empleo (ENE) está conceptualmente homologada a la Encuesta Nacional de Ocupación y Empleo (ENOE).<br><br>3. Los datos de 1995 a 1999 corresponden al segundo trimestre de cada año. Los datos de 2000 se calculan con el promedio aritmético de los trimestres segundo, tercero y cuarto.<br><br>4. Los datos absolutos de 1995 a 2004 fueron generados utilizando el factor de expansión correspondiente a las proyecciones de población elaboradas usando como base el Conteo de Población y Vivienda 2005.<br><br>5. Los datos absolutos correspondientes al periodo 2005-2020 se generaron utilizando el factor de expansión correspondiente a las proyecciones de población revisadas por el Consejo Nacional de Población (CONAPO), las cuales fueron elaboradas usando como base el Censo de Población y Vivienda 2010 y se difundieron en abril de 2013.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/8.5.2(2)_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>- Debido a la contingencia sanitaria originada por el COVID-19 se suspendió el levantamiento de la Encuesta Nacional de Ocupación Empleo (ENOE) en el segundo trimestre de 2020. En los meses de abril, mayo y junio se realizó la Encuesta Telefónica de Ocupación y Empleo (ETOE), con la cual fue posible obtener información con representatividad a nivel nacional, motivo por el cual no hay información disponible para los estados en estos meses y por tanto no se cuenta información basada en promedios anuales.<br>- En los trimestres tercero y cuarto de 2020 se reanudaron los levantamientos de la información con representatividad nacional y estatal, recopilándola tanto por vía telefónica como mediante entrevistas cara a cara. De esta manera se generó la Encuesta Nacional de Ocupación y Empleo Nueva Edición (ENOEN).<br>- Las cifras del periodo 2005-2020 se generaron con el factor de expansión correspondiente a las proyecciones de población revisadas por el Consejo Nacional de Población (CONAPO), las cuales se basaron en el Censo de Población y Vivienda 2010 y se difundieron en abril de 2013.<br>- Esta es una serie histórica de referencia, que ya no se actualiza y que no es comparable con la nueva serie de 2014-2022 basada en el Marco de Muestreo de Viviendas del INEGI, con base en el Censo 2020.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '8.5.2(2) Tasa de desocupación, desglosada por sexo y edad (1995-2020)'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '8.5.2(2) Tasa de desocupación, desglosada por sexo y edad (1995-2020)'
+indicator_number:
+  '8.5.2(2)'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  STPS, con base en cifras del INEGI. ENE, ENOE (varios años) y ETOE.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

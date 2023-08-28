@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos
+SDG_TARGET: >-
+  Meta 8.n2 Acceso a la protección social para las trabajadoras y los trabajadores del hogar/ Construcción de un sistema nacional de cuidados
+SDG_INDICATOR: >-
+  8.n2.2 Número de Personas Trabajadoras del Hogar afiliadas ante el Instituto Mexicano del Seguro Social
+SDG_SERIES_DESCR: >-
+  Registro administrativo: número de personas trabajadoras del hogar afiliadas por los patrones ante el Instituto Mexicano del Seguro Social.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Luis Gerardo Magaña Zaga<br>Titular de la Unidad de Incorporación<br>Paseo de la Reforma, 476<br>5552382700 ext. 10428<br>luis.magana@imss.gob.mx<br><br>Adriana Alejandra Pedroza Marquez<br>Coordinadora de Afiliación<br>Paseo de la Reforma, 476<br>5552382700 ext. 10428<br>adriana.pedroza@imss.gob.mx<br><br>Eduardo Alcaraz Prous<br>Coordinador de Planeación y Evaluación<br>Paseo de la Reforma, 476<br>5552382700 ext. 10469<br>eduardo.alcarazp@imss.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Se considera como personas trabajadoras del hogar a aquéllas que prestan los servicios de aseo, asistencia y demás actividades propias o inherentes al hogar de una persona o familia; pueden trabajar para uno o varios patrones y vivir o no en su lugar de trabajo. 
+UNIT_MEASURE: >-
+  Número de personas
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Mexicano del Seguro Social (IMSS). Coordinación de Planeación y Evaluación. Información Estadística de los Puestos de trabajo registrados por los patrones en el IMSS. 2019, 2020, 2021 y 2022 SNIEG. Información de Interés Nacional.El indicador no se publica, pero lo datos con base en los cuáles se calcula provienen del programa de información “Puestos de trabajo registrados por los patrones en el IMSS” y pueden ser consultados en: <a target="_blank" class="liga3" href="http://www.imss.gob.mx/conoce-al-imss/cubos">http://www.imss.gob.mx/conoce-al-imss/cubos</a> y <a target="_blank" class="liga3" href="https://public.tableau.com/app/profile/imss.cpe/viz/FaseIIProgramapilotodeincorporacindePersonasTrabajadorasdelHogar/PTH">https://public.tableau.com/app/profile/imss.cpe/viz/FaseIIProgramapilotodeincorporacindePersonasTrabajadorasdelHogar/PTH</a>La metodología del programa de los “Puestos de trabajo registrados por los patrones en el IMSS” puede ser consultada en: <a target="_blank" class="liga3" href="https://www.inegi.org.mx/rnm/index.php/catalog/765">https://www.inegi.org.mx/rnm/index.php/catalog/765</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Referencia nacional: ENOE (INEGI) <br>Referencia internacional: Uruguay, el país latinoamericano con la mayor cobertura para este segmento de la población y en donde el aseguramiento de las Personas Trabajadoras del Hogar es obligatorio.<br>
+COMPILING_ORG: >-
+  Instituto Mexicano del Seguro Social (IMSS)<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  De acuerdo con el INEGI, en México 2.3 millones de personas se dedican al trabajo del hogar. Este sector de la población ha sido discriminado en cuanto al acceso a la protección social. Recientemente se han implementado esfuerzos por la incorporación de este sector al sistema de seguridad social. El indicador da seguimiento a los programas pilotos implementados para el acceso a este derecho.<br><br>La meta se estableció considerando el número de trabajadoras y trabajadores del hogar; sin embargo, no se cuenta con suficiente información para hacer alguna predicción estadística.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El Instituto Mexicano del Seguro Social reporta el número de personas trabajadoras del hogar de manera mensual, salario promedio diario asociado y beneficiarios potenciales, registrados en el Programa Piloto para Personas Trabajadoras del Hogar.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/8n.2.2_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Número de personas
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '8.n2.2 Número de Personas Trabajadoras del Hogar afiliadas ante el Instituto Mexicano del Seguro Social'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '8.n2.2 Número de Personas Trabajadoras del Hogar afiliadas ante el Instituto Mexicano del Seguro Social'
+indicator_number:
+  '8.n2.2'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Instituto Mexicano del Seguro Social (IMSS). Coordinación de Planeación y Evaluación. Información Estadística de los Puestos de trabajo registrados por los patrones en el IMSS. 2019, 2020, 2021 y 2022 SNIEG. Información de Interés Nacional.El indicador no se publica, pero lo datos con base en los cuáles se calcula provienen del programa de información “Puestos de trabajo registrados por los patrones en el IMSS” y pueden ser consultados en <a target="_blank" class="liga3" href="http//www.imss.gob.mx/conoce-al-imss/cubos">http//www.imss.gob.mx/conoce-al-imss/cubos</a> y <a target="_blank" class="liga3" href="https//public.tableau.com/app/profile/imss.cpe/viz/FaseIIProgramapilotodeincorporacindePersonasTrabajadorasdelHogar/PTH">https//public.tableau.com/app/profile/imss.cpe/viz/FaseIIProgramapilotodeincorporacindePersonasTrabajadorasdelHogar/PTH</a>La metodología del programa de los “Puestos de trabajo registrados por los patrones en el IMSS” puede ser consultada en <a target="_blank" class="liga3" href="https//www.inegi.org.mx/rnm/index.php/catalog/765">https//www.inegi.org.mx/rnm/index.php/catalog/765</a>
+source_periodicity_1:
+  Mensual
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

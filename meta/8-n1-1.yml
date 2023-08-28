@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 8. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos
+SDG_TARGET: >-
+  Meta 8.n1 Acceso a la capacitación y al empleo sin discriminación de ningún tipo, con especial énfasis en las y los jóvenes
+SDG_INDICATOR: >-
+  8.n1.1 Tasa de participación laboral de personas con discapacidad
+SDG_SERIES_DESCR: >-
+  Población en edad de trabajar con discapacidad (15 a 130 años de edad) de un país que participa activamente en el mercado de trabajo, ya sea trabajando o buscando empleo durante al menos una hora de la semana anterior a la entrevista que tiene discapacidad, entre el total de la población de 15 años y más con discapacidad multiplicada por 100.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Centro de atención a usuarios INEGI<br>Horario de lunes a domingo de 8:00 a 23:00 horas (tiempo del centro de México).<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276,<br>Aguascalientes, Aguascalientes, Aguascalientes,<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Nacional sin costo: 800 111 46 34<br>Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301<br>atencion.usuarios@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Mide el grado de participación de las personas con discapacidad en el mercado de trabajo.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Encuesta Nacional de la Dinámica Demográfica (ENADID) del INEGI<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  2025
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Organización Internacional del Trabajo (OIT).<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI) <a target="_blank" class="liga3" href=" https://inegi.org.mx/default.html"> https://inegi.org.mx/default.html</a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  La Constitución Política de los Estados Unidos Mexicanos señala en el Artículo 123 que "toda persona tiene derecho al trabajo digno y socialmente útil". A su vez, la Ley Federal del Trabajo en su Artículo 2o señala que el trabajo digno o decente "es aquél en el que se respeta plenamente la dignidad humana del trabajador, no existe discriminación por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales o estado civil". <br><br>El Artículo 11 de la Ley General para la Inclusión de las Personas con Discapacidad señala que "la Secretaría del Trabajo y Previsión Social promoverá el derecho al trabajo y empleo de las personas con discapacidad en igualdad de oportunidades y equidad, que les otorgue certeza en su desarrollo personal, social y laboral". <br><br>Aunque existe el marco legal que impulsa el acceso igualitario al trabajo digno y socialmente útil, los datos muestran grandes diferencias. En 2018, el 66.6% de la población sin discapacidad o limitación era parte de la Población Económicamente Activa (PEA), mientras que solo el 38.5% de la población con discapacidad era parte de la PEA. <br><br>En este marco, se propone la inclusión del indicador, el cual da cuenta sobre la participación de las personas con discapacidad en el mercado de trabajo. Se establece que la meta sea la reducción de la brecha de la participación laboral, comparado con la población sin discapacidad o limitación.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El INEGI en la ENADID presenta información sobre las características laborales de la población con discapacidad. Aunque la ENADID no es la fuente oficial de datos sobre el mercado laboral, sí incluye la captación de información de las personas con discapacidad. 
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/8n.1.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '8.n1.1 Tasa de participación laboral de personas con discapacidad'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '8.n1.1 Tasa de participación laboral de personas con discapacidad'
+indicator_number:
+  '8.n1.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 7. Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos
+SDG_TARGET: >-
+  Meta 7.2 De aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas
+SDG_INDICATOR: >-
+  7.2.1 Proporción de la energía renovable en el consumo final total de energía
+SDG_SERIES_DESCR: >-
+  Se calcula dividiendo el consumo de energía de todas las fuentes renovables entre el consumo total de energía final, multiplicado por 100.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  M.I. Lorena Gutiérrez Olvera<br>Subdirección de Integración de Estadisticas<br>Insurgentes Sur Num.890, Colonia del Valle, C.P. 03100. Benito Juárez, Benito Juárez , Ciudad de México<br>5000 6000, ext. 2217<br>lgutierrezo@energia.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Mide la participación de energías renovables en el consumo final energético en el país. Se determina sumando el consumo energético de Biogas, Bagazo de Caña, Eólica, Geotermia, Hidráulica, Leña y Solar, dividida por el consumo final de energía (Carbón, Coque, Renovables, Petrolíferos, Gas seco y Electricidad).
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Energía. Dirección General de Planeación e Información Energéticas.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Mayo de 2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Sin referencia<br>
+COMPILING_ORG: >-
+  Secretaría de Energía (SENER) <a target="_blank" class="liga3" href="https://www.gob.mx/sener"> https://www.gob.mx/sener<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Muestra el avance del uso de fuentes de energías renovables en la matriz energética del país.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Consumo total de energía renovable se obtiene a partir de sumar:<br>1. La generación bruta de electricidad a partir de energías renovables (Hidráulica, Eólica, Geotermia, Solar fotovoltaica, Bagazo, Biogás), al cual se resta perdidas de energía por transmisión y distribución.<br>2. Más el consumo final de Leña, Bagazo de caña y Solar.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/7.2.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Considera Biogas, Bagazo de Caña, Eólica, Geotermia, Hidráulica, Leña, y Solar.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '7.2.1 Proporción de la energía renovable en el consumo final total de energía'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '7.2.1 Proporción de la energía renovable en el consumo final total de energía'
+indicator_number:
+  '7.2.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Energía (SENER). Reporte de Avances de Energías Limpias y Balance Nacional de Energía.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

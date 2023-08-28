@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 6. Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos
+SDG_TARGET: >-
+  Meta 6.4. De aquí a 2030, aumentar considerablemente el uso eficiente de los recursos hídricos en todos los sectores y asegurar la sostenibilidad de la extracción y el abastecimiento de agua dulce para hacer frente a la escasez de agua y reducir considerablemente el número de personas que sufren falta de agua
+SDG_INDICATOR: >-
+  6.4.2 Nivel de estrés hídrico: extracción de agua dulce como proporción de los recursos disponibles de agua dulce.
+SDG_SERIES_DESCR: >-
+  El valor nacional de este indicador se calcula sobre la base de tres componentes:<br>1. Recursos renovables totales de agua dulce (TRWR): expresados como la suma de (a) los  recursos hídricos renovables internos (IRWR) y (b) los recursos hídricos renovables externos (ERWR).  Se consideran en este apartado el escurrimiento natural medio superficial, las entradas y salidas de agua superficial de y hacia otros países, y la recarga de agua subterránea. <br>2. La extracción total de agua dulce (TFWW), es el volumen de agua dulce extraída de su fuente (ríos, lagos, acuíferos) para la agricultura, las industrias, y los servicios. Se toman en cuenta los volúmenes concesionados de agua registrados en el Registro Público de Derechos de Agua (Repda) e integrados en el Sistema Nacional de Información del Agua (SINA) con corte al 31 de diciembre de cada año.<br>3. Requisitos de caudales ambientales (EFR) se definen como la cantidad y duración de los caudales de agua dulce y de los niveles necesarios para sostener los ecosistemas acuáticos; en este caso se consideran, el caudal ecológico en los sistemas de cuencas y la descarga natural comprometida en acuíferos. <br>Los datos son obtenidos de las publicaciones de las disponibilidades de aguas superficiales y aguas subterráneas en el Diario Oficial de la Federación, a partir de los registros administrativos de la Subdirección General Técnica de la Conagua, así como de los registros del Sistema Nacional de Información del Agua.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Gerencia de Planificación Hídrica<br>Subgerencia del Sistema Nacional de Información del Agua<br>Insurgentes Sur Num. 2416. Piso 4; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México<br>+52 55 5174 4000, ext. 2112 y 4458<br>sina@conagua.gob.mx<br><br>Gerencia de Cooperación Internacional<br>Dirección de Área de Evaluación de Programas y Proyectos<br>Insurgentes Sur Num. 2416. Piso 9; Colonia Copilco El Bajo, 04340. Coyoacán, Ciudad de México<br>+52 55 5174 4000, ext. 1313<br>internacional@conagua.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es la proporción entre el total de agua dulce extraída por todos los sectores principales y los recursos renovables totales de agua dulce, luego de considerar los requisitos ambientales relativos al agua.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA), con información del Registro Público de Derechos del Agua (Repda) y publicaciones de las disponibilidades de agua superficial  y subterránea de la Subdirección General Técnica, en el Diario Oficial de la Federación el 16-jul-2016 (Agua superficial) y 04-ene-2018 (Agua Subterránea), así como del 17-sep-2020 de aguas subterráneas y 21-sep-2020 de aguas superficiales.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  Octubre de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Comisión Nacional del Agua (Conagua). Programa Nacional Hídrico 2020-2024<br>
+COMPILING_ORG: >-
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Este indicador proporciona una estimación de la presión, por parte de todos los sectores, sobre los recursos renovables de agua dulce del país. Un nivel bajo de estrés hídrico indica una situación donde la extracción combinada por todos los sectores es marginal en relación con los recursos, y por lo tanto tiene poco impacto potencial sobre la sostenibilidad de los recursos o sobre la potencial competencia entre los usuarios. Un nivel alto de estrés hídrico indica una situación donde la extracción combinada por todos los sectores representa una proporción considerable de los recursos renovables totales de agua dulce, con impactos potencialmente mayores sobre la sostenibilidad de los recursos y situaciones potenciales de conflictos y competencia entre los usuarios. 
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Para el indicador ODS 6.4.2, internacionalmente se propone clasificar el nivel de estrés hídrico en tres categorías principales (niveles): bajo, alto y muy alto. No se han definido los umbrales para el indicador ya que podrían ser específicos del país, para reflejar las diferencias en el clima y los objetivos nacionales de gestión del agua. O también, alternativamente, se pueden proponer umbrales uniformes utilizando la literatura existente y teniendo en cuenta los requisitos ambientales del agua. Algunos de los valores de las variables involucradas en este indicador provienen de las publicación de las disponibilidades de agua superficial y agua subterránea que realiza la Conagua. Al interior de México, se ha implementado el indicador "Grado de Presión sobre los Recursos Hídricos", pero este indicador no descuenta los requerimientos ambientales del total de agua renovable, por lo que ambos indicadores se complementan.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/6.4.2_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>A partir de la información integrada en el Sistema Nacional de Información del Agua (SINA) del Registro Público de Derechos del Agua (Repda) de la Subdirección General de Administración del Agua y publicaciones de las disponibilidades de agua superficial  y subterránea de la Subdirección General Técnica, en el Diario Oficial de la Federación el 16-jul-2016 (Agua superficial) y 04-ene-2018 (Agua Subterránea), así como del 17-sep-2020 de aguas subterráneas y 21-sep-2020 de aguas superficiales.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '6.4.2 Nivel de estrés hídrico: extracción de agua dulce como proporción de los recursos disponibles de agua dulce.'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '6.4.2 Nivel de estrés hídrico: extracción de agua dulce como proporción de los recursos disponibles de agua dulce.'
+indicator_number:
+  '6.4.2'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA). <a target="_blank" class="liga3" href="https//sinav30.conagua.gob.mx8080/">Sistema Nacional de Información del Agua (SINA).</a>
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''
