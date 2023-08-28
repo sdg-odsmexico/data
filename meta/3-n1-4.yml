@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades
+SDG_TARGET: >-
+  Meta 3.n1 Lograr la cobertura universal de salud
+SDG_INDICATOR: >-
+  3.n1.4 Porcentaje de hogares con gasto catastrófico en salud
+SDG_SERIES_DESCR: >-
+  Es el cociente que resulta del número de hogares que presenta gasto catastrófico en salud en el estrato q en el año t, entre el número total de hogares del estrato q en el año t, multiplicado por cien.<br><br>Se considera el ingreso neto total para la división por quintil de ingreso.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Delfino Campos Díaz<br>Director de Evaluación del Desempeño de los Sistemas de Salud<br>Avenida Paseo de la Reforma 450 <br>Colonia Juárez, 06600<br>Cuauhtémoc, Cuauhtémoc, Ciudad de México<br>55 6392 2300, ext. 52681<br>delfino.campos@salud.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el número de hogares por quintil de ingreso y estrato urbano-rural con gasto catastrófico en salud con respecto al número total de hogares en el mismo quintil de ingreso y estrato en el año del levantamiento de Encuesta Nacional de Ingreso y Gasto de los Hogares. Se considera que un hogar incurre en gasto catastrófico en salud cuando efectúa un pago de bolsillo para atender su salud mayor al 30% de su ingreso efectivo (ingreso total menos gasto en alimentos). Se considera el ingreso neto total para la división por quintil de ingreso.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  INEGI. Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  4 de Octubre de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Gasto catastrófico y empobrecedor en salud. Organización Mundial de la Salud, Génova 2005. <a target="_blank" class="liga3" href="https://apps.who.int/iris/bitstream/handle/10665/85626/EIP_HSF_DP.05.2_spa.pdf?sequence=1&isAllowed=y"> https://apps.who.int/iris/bitstream/handle/10665/85626/EIP_HSF_DP.05.2_spa.pdf?sequence=1&isAllowed=y<br>
+COMPILING_ORG: >-
+  Secretaría de Salud. Unidad de Análisis Económico.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Busca identificar por quintil de ingreso y estrato urbano-rural el número de hogares que incurren en gastos catastróficos por salud, generalmente los hogares más afectados por este tipo de gasto son los hogares pobres sin aseguramiento público en salud.<br><br>Para el seguimiento en términos de protección financiera en salud que buscan eliminar o disminuir el riesgo de los hogares de incurrir en gastos catastróficos.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Los periodos 2006, 2008 y 2010 se actualizaron por los nuevos factores de expansión derivados de los ajustes poblacionales de CONAPO en 2013.<br><br>Este indicador pertenece al Catálogo Nacional de Indicadores (CNI).
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional, urbano y rural.
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/3n.1.4_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '3.n1.4 Porcentaje de hogares con gasto catastrófico en salud'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '3.n1.4 Porcentaje de hogares con gasto catastrófico en salud'
+indicator_number:
+  '3.n1.4'
+national_geographical_coverage:
+  Nacional, urbano y rural.
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  INEGI. Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH).
+source_periodicity_1:
+  Bienal
+source_geographical_coverage_1:
+  Nacional, urbano y rural.
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

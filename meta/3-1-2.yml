@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades
+SDG_TARGET: >-
+  Meta 3.1 De aquí a 2030, reducir la tasa mundial de mortalidad materna a menos de 70 por cada 100,000 nacidos vivos
+SDG_INDICATOR: >-
+  3.1.2 Proporción de partos atendidos por personal sanitario capacitado
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de dividir el número de partos atendidos por personal calificado en un determinado año, entre el total de partos atendidos en el mismo periodo, multiplicado por 100.
+META_LAST_UPDATE: >-
+  Mayo de 2015
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Delfino Campos Díaz<br>Director de Evaluación del Desempeño de los Sistemas de Salud<br>Avenida Paseo de la Reforma 450 <br>Colonia Juárez, 06600<br>Cuauhtémoc, Cuauhtémoc, Ciudad de México<br>55 6392 2300, ext. 52681<br>delfino.campos@salud.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el porcentaje de partos con asistencia de personal calificado para ofrecer la necesaria supervisión, atención y asesoramiento a las mujeres durante el embarazo, el parto y el posparto con respecto al total de partos atendidos durante un periodo determinado.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Salud (SS). Sistema Nacional de Información en Salud (SINAIS). Base de datos del Subsistema de Información sobre Nacimientos (SINAC).<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
+COMPILING_ORG: >-
+  Secretaría de Salud (SS). Dirección General de Información en Salud (DGIS).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Permite conocer el número de mujeres atendidas por médicos en el momento del parto, lo cual implica una mayor calidad en la atención y con ello menos riesgo de fallecer por una causa materna. Un bajo nivel de este indicador mostraría la necesidad de contar con un mayor número de médicos gineco-obstetras, clínicas de salud y mejorar la atención durante el embarazo.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Las Naciones Unidas mencionan que el indicador puede expresarse como el número de nacimientos en presencia de personal de salud capacitado con respecto al total de nacimientos. <br><br>Se entiende por personal calificado (sanitario capacitado) a aquellas personas debidamente capacitadas y que tienen equipo y medicamentos adecuados. No se incluyen los asistentes de tipo tradicional, aun cuando hayan recibido un breve curso de capacitación. <br><br>Para 1990 a 2010, debido al registro tardío en los nacimientos registrados en la base de datos del INEGI, se utiliza el número de nacimientos ocurridos y registrados en el año n, más los nacimientos ocurridos en el año n pero registrados en el año n+1 y n+2 (reconstrucción de nacimientos). <br><br>A partir de 2011 se utilizan los nacidos vivos ocurridos del Subsistema de Información sobre Nacimientos (SINAC) que capta la información a través del certificado de nacimiento y ha logrado una mejora en su cobertura, proporciona información de manera oportuna, con diferentes desagregaciones y mide el hecho vital al momento de la ocurrencia del mismo. Además, la Junta de Gobierno del INEGI determinó, el 23 de mayo de 2013, al SINAC en el marco del sector salud como Información de Interés Nacional, y, por tanto, es oficial y de uso obligatorio para el cálculo de los indicadores que se incluyan en el Catálogo Nacional de Indicadores. Sin embargo, cabe destacar que en las siguientes entidades: Baja California, Colima, Chiapas, Chihuahua, Guerrero, Hidalgo, México, Nayarit, Oaxaca, San Luis Potosí, Sinaloa, Sonora, Veracruz y Yucatán, aún falta mejorar la cobertura del SINAC, por lo cual las cifras se corrigen a través de un factor de ajuste por entidad federativa, que se obtiene a partir de la tendencia de las diferencias porcentuales entre los nacimientos estimados del CONAPO y los nacidos vivos ocurridos del SINAC. <br><br>El cálculo del indicador a nivel entidad federativa se hace por entidad de ocurrencia del parto.<br><br>Este indicador forma parte del Catálogo Nacional de Indicadores (CNI).<br>
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/3.1.2_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '3.1.2 Proporción de partos atendidos por personal sanitario capacitado'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '3.1.2 Proporción de partos atendidos por personal sanitario capacitado'
+indicator_number:
+  '3.1.2'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Salud (SS). Sistema Nacional de Información en Salud (SINAIS). Base de datos del Subsistema de Información sobre Nacimientos (SINAC).
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

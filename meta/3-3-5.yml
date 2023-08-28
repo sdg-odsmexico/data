@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades
+SDG_TARGET: >-
+  Meta 3.3 De aquí a 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles
+SDG_INDICATOR: >-
+  3.3.5 Proporción de tratamientos otorgados a casos confirmados de paludismo, para la prevención, control y eliminación de la transmisión del Plasmodium Vivax
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de dividir el número de casos confirmados mediante exámenes de sangre que recibieron tratamiento en un año determinado entre los casos confirmados de paludismo en el mismo periodo, multiplicado por cien.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Delfino Campos Díaz<br>Director de Evaluación del Desempeño de los Sistemas de Salud<br>Avenida Paseo de la Reforma 450 <br>Colonia Juárez, 06600<br>Cuauhtémoc, Cuauhtémoc, Ciudad de México<br>55 6392 2300, ext. 52681<br>delfino.campos@salud.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el porcentaje de casos nuevos y repetidores confirmados que reciben tratamiento médico con relación al total de casos presentados en el periodo.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Salud (SS). Centro Nacional de Programas Preventivos y Control de Enfermedades (CENAPRECE)<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  No aplica.<br>
+COMPILING_ORG: >-
+  Secretaría de Salud (SS). Centro Nacional de Programas Preventivos y Control de Enfermedades (CENAPRECE).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Medir la proporción de personas sin acceso a tratamiento médico contra paludismo para evaluar la cobertura del mismo. Proporciona el nivel de población que ha sido atendida, diagnosticada y medicada para tratar este padecimiento, de ahí que pueda ser una medida para disminuir la mortalidad por paludismo.<br><br>Para el diseño, seguimiento y evaluación de políticas públicas en materia de salud.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Caso nuevo: Confirmado por laboratorio a Plasmodium Vivax, sin antecedente de haber sido caso en los últimos tres años.<br><br>Caso repetidor: Confirmado por laboratorio a Plasmodium Vivax con antecedentes de haber sido caso en los últimos tres años.<br><br>Este indicador forma parte del Catálogo Nacional de Indicadores (CNI).
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/3.3.5_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Algunas entidades no tienen valor en el indicador porque no hay casos nuevos y repetidores con paludismo.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '3.3.5 Proporción de tratamientos otorgados a casos confirmados de paludismo, para la prevención, control y eliminación de la transmisión del Plasmodium Vivax'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '3.3.5 Proporción de tratamientos otorgados a casos confirmados de paludismo, para la prevención, control y eliminación de la transmisión del Plasmodium Vivax'
+indicator_number:
+  '3.3.5'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Salud (SS). Dirección General de Epidemiología (DGE). Sistema Nacional de Vigilancia Epidemiológica (SINAVE).
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

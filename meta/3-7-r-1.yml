@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades
+SDG_TARGET: >-
+  Meta 3.7 De aquí a 2030, garantizar el acceso universal a los servicios de salud sexual y reproductiva, incluidos los de planificación familiar, información y educación, y la integración de la salud reproductiva en las estrategias y los programas nacionales
+SDG_INDICATOR: >-
+  3.7.r.1 Necesidad insatisfecha de métodos anticonceptivos en mujeres en edad fértil (15 a 49 años) sexualmente activas
+SDG_SERIES_DESCR: >-
+  Es el cociente que resulta de dividir el número de mujeres en edad fértil (15 a 49 años) sexualmente activas que en el momento de referencia (t) desean espaciar el siguiente embarazo, pero no hacen uso de método anticonceptivo alguno. Lo anterior entre el total de mujeres en edad fértil (15 a 49 años) sexualmente activas en el mismo momento de referencia (t).
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  María de la Cruz Muradás Troitiño<br>Directora General de Estudios Sociodemográficos y Prospectiva<br>Doctor José María Vertiz 852<br>Colonia Narvarte, 03020<br>Benito Juárez, Ciudad de México<br>55 5128 0000, ext. 19511<br>maria.muradas@conapo.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Porcentaje de mujeres en edad fértil sexualmente activas (15 a 49 años), expuestas al riesgo de embarazarse en un momento determinado, que refieren su deseo de limitar o espaciar sus hijos(as), pero no usan métodos anticonceptivos. 
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  CONAPO.  Estimaciones con base en la Encuesta Nacional de la Dinámica Demográfica.<br>Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de la Dinámica Demográfica<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  4 de Septiembre de 2024
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Perfiles de salud reproductiva, República Mexicana; 2011.Consejo Nacional de Población. Disponible en: <a target="_blank" class="liga3" href=" https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Perfiles_SR_Republica_Mexicana.pdf/"> https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Perfiles_SR_Republica_Mexicana.pdf</a><br>
+COMPILING_ORG: >-
+  Consejo Nacional de Población (CONAPO). Dirección General de Estudios Sociodemográficos y Prospectiva.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Consolidar las acciones de protección, promoción de la salud y prevención de enfermedades, y dar seguimiento y evaluación de la Estrategia Nacional para la Prevención del Embarazo en Adolescentes. 
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Se consideran mujeres sexualmente activas a aquéllas que tuvieron al menos una relación sexual en el mes previo al levantamiento de la encuesta.<br><br>Este indicador forma parte del Catálogo Nacional de Indicadores (CNI).
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y estatal
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/3r.7.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '3.7.r.1 Necesidad insatisfecha de métodos anticonceptivos en mujeres en edad fértil (15 a 49 años) sexualmente activas'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '3.7.r.1 Necesidad insatisfecha de métodos anticonceptivos en mujeres en edad fértil (15 a 49 años) sexualmente activas'
+indicator_number:
+  '3.7.r.1'
+national_geographical_coverage:
+  Nacional y estatal
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  CONAPO.  Estimaciones con base en la Encuesta Nacional de la Dinámica Demográfica. INEGI.  Encuesta Nacional de la Dinámica Demográfica (ENADID).
+source_periodicity_1:
+  Quinquenal
+source_geographical_coverage_1:
+  Nacional y estatal
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

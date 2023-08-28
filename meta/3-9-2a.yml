@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades
+SDG_TARGET: >-
+  Meta 3.9 De aquí a 2030, reducir considerablemente el número de muertes y enfermedades causadas por productos químicos peligrosos y por la polución y contaminación del aire, el agua y el suelo
+SDG_INDICATOR: >-
+  3.9.2a Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de dividir la totalidad de muertes atribuidas a la insalubridad del agua, el saneamiento inseguro y la falta de higiene en un determinado año, entre la población total a mitad del periodo en el mismo año, multiplicado por 100.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Mtro. Arturo Barranco Flores<br>Director de Información sobre Necesidades de Salud y Población<br>Homero No. 213, Col. Chapultepec Morales. Alcaldía Miguel Hidalgo, CDMX C.P. 11570<br>(55) 6392-2300 Ext.52594<br>arturo.barranco@salud.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  La tasa de mortalidad atribuida al agua insalubre, al saneamiento inseguro y a la falta de higiene (exposición a servicios de Agua, Saneamiento e Higiene para Todos (WASH, por sus siglas en inglés) definidas como el número de muertes por agua, saneamiento inseguro y falta de higiene (exposición a servicios WASH inseguros) en un año, dividido por el población, y multiplicado por 100.000.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Salud-DGIS 1998 - 2020. INEGI. Estadísticas de Defunciones Registradas 1998 - 2020. SNIEG. Información de Interés Nacional y SEGOB.2018. Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  30 de noviembre de 2022
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Estrategia Nacional para la implementación de la Agenda 2030 en México <a target="_blank" class="liga3" href="https://www.gob.mx/agenda2030/documentos/estrategia-nacional-de-la-implementacion-de-la-agenda-2030-para-el-desarrollo-sostenible-en-mexico"> https://www.gob.mx/agenda2030/documentos/estrategia-nacional-de-la-implementacion-de-la-agenda-2030-para-el-desarrollo-sostenible-en-mexico<br>
+COMPILING_ORG: >-
+  Secretaría de Salud. Dirección General de Información en Salud.<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Conocer las regiones con mayores muertes por estas causas, mismas que se usan para que los diferentes programas de la Secretaría de Salud analicen sus resultados para fortalecer sus estrategias donde sea necesario, ya que son muertes totalmente prevenibles.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Muertes atribuibles a agua, saneamiento e higiene inseguros que se centran en servicios WASH inadecuados, expresado por 100.000 habitantes; Las enfermedades incluidas son las fracciones atribuibles a WASH de diarrea (CIE-10 códigos A00, A01, A03, A04, A06-A09), infecciones respiratorias agudas (CIE-10 códigos H65-H66, J20-J22, P23, Y U04) infecciones por nematodos intestinales (CIE-10 códigos B76-B77, B79) y desnutrición proteico-energética (CIE-10 códigos E40-E46).
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/3.9.2a_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Muertes atribuibles a agua, saneamiento e higiene inseguros que se centran en servicios WASH inadecuados, expresado por 100.000 habitantes; Las enfermedades incluidas son las fracciones atribuibles a WASH de diarrea (CIE-10 códigos A00, A01, A03, A04, A06-A09), infecciones respiratorias agudas (CIE-10 códigos H65-H66, J20-J22, P23, Y U04) infecciones por nematodos intestinales (CIE-10 códigos B76-B77, B79) y desnutrición proteico-energética (CIE-10 códigos E40-E46).
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '3.9.2a Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '3.9.2a Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))'
+indicator_number:
+  '3.9.2a'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Salud/DGIS con base en las defunciones de INEGI/SS de 1998-2020 y Población a mitad del año estimada por el CONAPO (2018) conciliación demografica 1950-2015 y proyecciones de población 2016-2050.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

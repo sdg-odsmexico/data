@@ -1,0 +1,165 @@
+﻿SDG_GOAL: >-
+  Objetivo 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades
+SDG_TARGET: >-
+  Meta 3.2 De aquí a 2030, poner fin a las muertes evitables de recién nacidos y de niños menores de 5 años, logrando que todos los países intenten reducir la mortalidad neonatal al menos a 12 por cada 1,000 nacidos vivos y la mortalidad de los niños menores de 5 años al menos a 25 por cada 1,000 nacidos vivos
+SDG_INDICATOR: >-
+  3.2.1 Tasa de mortalidad de niños menores de 5 años
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de dividir las defunciones de la población menor de 5 años de edad en un determinado año, entre los nacidos vivos del mismo periodo, multiplicado por mil.
+META_LAST_UPDATE: >-
+  Diciembre de 2014
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Mtro. Arturo Barranco Flores<br>Director de Información sobre Necesidades de Salud y Población<br>Homero No. 213, Col. Chapultepec Morales. Alcaldía Miguel Hidalgo, CDMX C.P. 11570<br>(55) 6392-2300 Ext.52594<br>arturo.barranco@salud.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el número de defunciones de niños menores de 5 años de edad por cada mil nacidos vivos, en el año de referencia.
+UNIT_MEASURE: >-
+  Defunciones de menores de 5 años por cada mil nacidos vivos
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  SALUD. Base de datos del Subsistema de Información sobre Nacimientos. Bases de datos de mortalidad.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
+COMPILING_ORG: >-
+  Secretaría de Salud (SS). Dirección General de Información en Salud (DGIS).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Es un indicador del nivel de rezago social y las condiciones de salud de la población menor de cinco años, permite observar el comportamiento de la mortalidad de este grupo poblacional en un momento y lugar determinados, aportando información valiosa acerca de la disponibilidad y acceso a los servicios de salud.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Las defunciones registradas para niños menores de cinco años se corrigen por subregistro con respecto a las defunciones estimadas por el CONAPO, la corrección se realiza por un lado para el grupo de niños menores de 1 año en las siguientes entidades: Chiapas, Guerrero, Hidalgo, Nayarit, Nuevo León, Oaxaca, San Luis Potosí, Sinaloa y Zacatecas, y por otro lado se ajustan las defunciones de niños de 1 a 4 años para: Baja California, Coahuila, Chiapas, Chihuahua, Guerrero, Hidalgo, Oaxaca, San Luis Potosí y Veracruz, de manera que las defunciones para niños menores de 5 años se obtiene de la suma de defunciones de menores de 1 y de 1 a 4 años.<br><br>Los nacidos vivos ocurridos del SINAC correspondiente al 2011 fueron corregidos con respecto a los nacimientos estimados por el CONAPO en las siguientes entidades: Chiapas, Chihuahua, Guerrero, Hidalgo, Oaxaca, San Luis Potosí, Sonora, Veracruz y Yucatán.<br><br>La corrección de las defunciones se basa en el cálculo de un factor de ajuste que se obtiene a través de la tendencia de las diferencias porcentuales entre las defunciones estimadas del CONAPO y las defunciones registradas del INEGI/SALUD. En tanto que para los nacidos vivos se obtiene la tendencia de las diferencias porcentuales entre los nacimientos estimados del CONAPO y los nacidos vivos ocurridos del SINAC.<br><br>Las defunciones registradas de INEGI/SALUD se reportan por entidad de residencia y año de registro y los nacidos vivos ocurridos del SINAC por entidad de residencia y año de ocurrencia.<br><br>El 25 de agosto de 2015, el INEGI actualizó la cifra de defunciones generales 2013. En los nacimientos 2013, la cifra estatal de Puebla se actualizó debido a un proceso de calidad de los datos, ya que se observó un caso duplicado.<br><br>Este indicador forma parte del Catálogo Nacional de Indicadores (CNI).
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/3.2.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Defunciones de menores de 5 años por cada mil nacidos vivos
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  - field: 'Entidad federativa'
+    value: 'Estados Unidos Mexicanos'
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '3.2.1 Tasa de mortalidad de niños menores de 5 años'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '3.2.1 Tasa de mortalidad de niños menores de 5 años'
+indicator_number:
+  '3.2.1'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  SALUD. Base de datos del Subsistema de Información sobre Nacimientos. Bases de datos de mortalidad.
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

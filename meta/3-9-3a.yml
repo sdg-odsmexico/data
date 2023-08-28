@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades
+SDG_TARGET: >-
+  Meta 3.9 De aquí a 2030, reducir considerablemente el número de muertes y enfermedades causadas por productos químicos peligrosos y por la polución y contaminación del aire, el agua y el suelo
+SDG_INDICATOR: >-
+  3.9.3a Tasa de mortalidad atribuida a intoxicaciones involuntarias
+SDG_SERIES_DESCR: >-
+  Se calcula dividiendo el número de personas muertas debido a intoxicaciones involuntarias entre el total de la población a mitad de periodo por cada 100,000 habitantes.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Mtro. Arturo Barranco Flores<br>Director de Información sobre Necesidades de Salud y Población<br>Homero No. 213, Col. Chapultepec Morales. Alcaldía Miguel Hidalgo, CDMX C.P. 11570<br>(55) 6392-2300 Ext.52594<br>arturo.barranco@salud.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  El indicador se define como el número de personas muertas debido a intoxicaciones involuntarias respecto de la población a mitad de período multiplicado por 100,000
+UNIT_MEASURE: >-
+  Tasa
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas Vitales. Estadísticas de defunciones registradas. Disponible en: <a target="_blank" class="liga3" href=" https://www.inegi.org.mx/programas/mortalidad/Num.Microdatos"> https://www.inegi.org.mx/programas/mortalidad/Num.Microdatos</a><br>Consejo Nacional de Población (CONAPO). Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050 y Conciliación Demográfica de México, 1950-2015. Disponible en: <a target="_blank" class="liga3" href="https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-mexico-1950-2015-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050 ">https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-mexico-1950-2015-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
+COMPILING_ORG: >-
+  Insitituto Nacional de Estadística y Geografía (INEGI), Dirección General Adjunta de Registros Administrativos y Secretaría de Salud (SS), Dirección General de Información en Salud (DGIS).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  La medición de la tasa de mortalidad por la ingesta de sustancias tóxicas proporcionan un indicativo del grado en el cual se manejan o gestionan los productos químicos peligrosos, que puedan tener un efecto significativo en el sistema de salud de los países. 
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Las muertes consideradas en el calculo del indicador corresponden a las claves X40, X43, X46-X48, X49.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y estatal
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/3.9.3a_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Tasa
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '3.9.3a Tasa de mortalidad atribuida a intoxicaciones involuntarias'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '3.9.3a Tasa de mortalidad atribuida a intoxicaciones involuntarias'
+indicator_number:
+  '3.9.3a'
+national_geographical_coverage:
+  Nacional y estatal
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas Vitales. Estadísticas de defunciones registradas. Disponible en <a target="_blank" class="liga3" href=" https//www.inegi.org.mx/programas/mortalidad/Num.Microdatos"> https//www.inegi.org.mx/programas/mortalidad/Num.Microdatos</a>
+source_periodicity_1:
+  Anual
+source_geographical_coverage_1:
+  Nacional y estatal
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''
