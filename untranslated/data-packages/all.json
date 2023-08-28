@@ -134,7 +134,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.n1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica"
     },
     {
       "path": "5-a-1b/data.csv",
@@ -5331,7 +5331,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.n2.1 Porcentaje de población con inseguridad alimentaria moderada o severa"
     },
     {
       "path": "8-9-1/data.csv",
@@ -13704,7 +13704,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.2.2(2) Prevalencia de sobrepeso u obesidad (peso para la estatura, desviación típica >+2 de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años"
     },
     {
       "path": "1-a-2/data.csv",
@@ -23095,7 +23095,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.2.2(1) Prevalencia de emaciación (peso para la estatura, desviación típica <-2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años"
     },
     {
       "path": "17-8-1/data.csv",
@@ -26321,7 +26321,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.1.2.a Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico"
     },
     {
       "path": "9-5-2/data.csv",
@@ -27166,7 +27166,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.4.r.a Intensidad de uso de fertilizantes (consumo aparente por superficie cultivada)"
     },
     {
       "path": "10-n4-1/data.csv",
@@ -27276,7 +27276,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.4.r.b Consumo aparente de plaguicidas por tipo (herbicidas, insecticidas o funguicidas)"
     },
     {
       "path": "14-n1-1/data.csv",
@@ -27452,7 +27452,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.n3.1 Rendimiento agrícola del maíz de grano"
     },
     {
       "path": "1-1-r-1/data.csv",

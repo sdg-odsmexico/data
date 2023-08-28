@@ -12,3 +12,10 @@ Indicator,Disaggregations,Number of disaggregations
 #1-n2-2,Entidad federativa,1
 #1-n3-1-a,Entidad federativa,1
 #1-n3-3,Entidad federativa,1
+#2-1-2,"Sexo, Grupo de edad",2
+#2-1-2-a,"Entidad federativa, Municipio",2
+#2-2-1,"Entidad federativa, Cobertura geografica",2
+#2-2-2,"Entidad federativa, Cobertura geografica",2
+#2-2-2(1),"Entidad federativa, Cobertura geografica",2
+#2-2-2(2),"Entidad federativa, Cobertura geografica",2
+#2-n2-1,Grupos de interés,1
