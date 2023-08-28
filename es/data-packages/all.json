@@ -122,7 +122,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.n1.2 Porcentaje de población que tardaría menos de dos horas en llegar a un hospital en caso de una emergencia"
     },
     {
       "path": "2-n1-1/data.csv",
@@ -547,7 +547,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.3.r.1 Tasa de prevalencia del VIH/SIDA entre la población de 15 a 49 años"
     },
     {
       "path": "3-9-3a/data.csv",
@@ -663,7 +663,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.9.3a Tasa de mortalidad atribuida a intoxicaciones involuntarias"
     },
     {
       "path": "10-n1-1/data.csv",
@@ -3937,7 +3937,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.n4.1 Porcentaje de la población con sobrepeso y obesidad"
     },
     {
       "path": "17-8-1-a/data.csv",
@@ -4046,7 +4046,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.7.2.a Tasa de fecundidad en niñas y adolescentes (de 10 a 14 años) por cada 1 000 niñas y adolescentes en ese grupo de edad"
     },
     {
       "path": "11-n2-1/data.csv",
@@ -4628,7 +4628,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.4.2.a Tasa de mortalidad por suicidio"
     },
     {
       "path": "15-4-2/data.csv",
@@ -5103,7 +5103,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.n1.3 Porcentaje de población derechohabiente que no gastó en servicios médicos la última vez que recibió atención médica"
     },
     {
       "path": "8-2-1(2)/data.csv",
@@ -5902,7 +5902,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.9.2a Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))"
     },
     {
       "path": "16-1-1/data.csv",
@@ -6338,7 +6338,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.n3.1 Tasa de fecundidad en niñas de 10 a 14 años"
     },
     {
       "path": "8-3-1(2)/data.csv",
@@ -8817,7 +8817,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.7.r.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado"
     },
     {
       "path": "1-2-2-a/data.csv",
@@ -12046,7 +12046,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.7.r.1 Necesidad insatisfecha de métodos anticonceptivos en mujeres en edad fértil (15 a 49 años) sexualmente activas"
     },
     {
       "path": "16-3-2/data.csv",
@@ -12417,7 +12417,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.n1.4 Porcentaje de hogares con gasto catastrófico en salud"
     },
     {
       "path": "1-n2-2/data.csv",
@@ -13030,7 +13030,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.9.3b Defunciones atribuidas a intoxicaciones involuntarias, según la residencia habitual fuera de México o no especificada"
     },
     {
       "path": "5-5-1-b/data.csv",
@@ -14593,7 +14593,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.4.2.b Número de muertes por suicidio (personas con residencia habitual fuera de México o no especificada)"
     },
     {
       "path": "16-3-r-b/data.csv",
@@ -18267,7 +18267,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.3.r.2 Mortalidad por VIH/SIDA, desglosada por sexo"
     },
     {
       "path": "13-1-1/data.csv",
@@ -24201,7 +24201,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.7.2.b Tasa de fecundidad en adolescentes (de 15 a 19 años) por cada 1 000 mujeres de ese grupo de edad"
     },
     {
       "path": "16-n1-1/data.csv",
@@ -27621,7 +27621,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.7.r.b Porcentaje de mujeres de 15 a 19 años que son madres"
     },
     {
       "path": "4-a-1-d1/data.csv",
@@ -27813,7 +27813,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.n1.1 Porcentaje de la población que presenta carencia por acceso a los servicios de salud"
     },
     {
       "path": "10-2-1/data.csv",
@@ -28135,7 +28135,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.1.r.1 Cobertura de atención prenatal por personal capacitado (al menos cuatro consultas)"
     },
     {
       "path": "13-n2-1/data.csv",
@@ -28471,7 +28471,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.n2.1 Porcentaje de recursos económicos destinado a salud mental"
     },
     {
       "path": "3-3-r-c/data.csv",
@@ -28495,7 +28495,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3.3.r.c Incidencia de enfermedades transmitidas por vectores"
     },
     {
       "path": "12-5-r-1/data.csv",

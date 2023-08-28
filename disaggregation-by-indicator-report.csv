@@ -19,3 +19,27 @@ Indicator,Disaggregations,Number of disaggregations
 #2-2-2(1),"Entidad federativa, Cobertura geografica",2
 #2-2-2(2),"Entidad federativa, Cobertura geografica",2
 #2-n2-1,Grupos de interés,1
+#3-1-1,Entidad federativa,1
+#3-1-2,Entidad federativa,1
+#3-2-1,Entidad federativa,1
+#3-3-1,"Sexo, Estimación",2
+#3-3-2,Entidad federativa,1
+#3-3-3,Entidad federativa,1
+#3-3-5,Entidad federativa,1
+#3-3-r-2,Entidad federativa,1
+#3-4-1,Tasa de mortalidad-enfermedad no transmisible,1
+#3-4-2-a,"Entidad federativa, Sexo (t-h-m-na), Grupos quinquenales de edad (0 a 85 y más, NA)",3
+#3-4-2-b,"Sexo (t-h-m-na), Residencia habitual fuera de México o no especificada",2
+#3-7-1,Entidad federativa,1
+#3-7-2-a,Entidad federativa,1
+#3-7-2-b,Entidad federativa,1
+#3-7-r-1,Entidad federativa,1
+#3-7-r-a,último hijo nacido vivo,1
+#3-7-r-b,Entidad federativa,1
+#3-9-2a,Entidad federativa,1
+#3-9-3a,"Entidad federativa, Sexo (t-h-m-na), Intoxicaciones_grupo de edad",3
+#3-9-3b,"Sexo (t-h-m-na), Residencia habitual fuera de México o no especificada",2
+#3-c-1,"Entidad federativa, Densidad del personal sanitario",2
+#3-n1-4,"Cobertura geografica, Quintiles de Ingreso",2
+#3-n3-1,Entidad federativa,1
+#3-n4-1,Población con sobrepeso y obesidad,1
