@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos
+SDG_TARGET: >-
+  Meta 4.n1 Asegurar el acceso efectivo a educación inclusiva, equitativa, intercultural e integral de calidad con particular atención a grupos en desventaja (desagregación por sexo, población indígena, personas con discapacidad, etc.)
+SDG_INDICATOR: >-
+  4.n1.1 Porcentaje de alumnos que asisten a escuelas de organización escolar multigrado
+SDG_SERIES_DESCR: >-
+  El indicador resulta de dividir la matrícula de escuelas multigrado de primaria entre la matrícula total de primaria en un ciclo escolar determinado y el resultado multiplicarlo por cien.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  César Morón Rojas<br>Director General de Planeación, Programación y Estadística Educativa<br>Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México<br>55 3601 2511, ext. 54760<br>cesar.mr@nube.sep.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Mide el porcentaje alumnos inscritos en escuelas primarias de organización escolar multigrado respecto a la matrícula total del nivel. Se define a las escuelas multigrado como aquéllas en donde un docente imparte más de un grado (incluye a las escuelas con un solo docente), y aquéllas donde el número de grupos es mayor al número de docentes. Las escuelas multigrado son parte importante de la estructura del Sistema Educativo Nacional; de manera general, otorgan servicio a poblaciones de difícil acceso, dispersas y ubicadas en regiones alejadas de los centros urbanos.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas. Disponible en: <a target="_blank" class="liga3" href="https://www.planeacion.sep.gob.mx/principalescifras/">https://www.planeacion.sep.gob.mx/principalescifras/</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  30 de octubre de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+  Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE). <a target="_blank" class="liga3" href="https://www.planeacion.sep.gob.mx/">https://www.planeacion.sep.gob.mx/</a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Ofrece información básica que puede utilizarse para advertir sobre la proporción de alumnos atendidos en escuelas que necesitan contar no solo con docentes competentes para aplicar el modelo multigrado a partir de la instrumentación de estrategias pedagógicas pertinentes, sino también con los recursos didácticos, la infraestructura y el apoyo pedagógico, administrativo y de gestión escolar que permitan garantizar la distribución equitativa de oportunidades educativas a los alumnos, contribuyendo así a la consecución de las condiciones mínimas escolares.<br><br>En conjunto, esta información permite mostrar la magnitud de los esfuerzos que el Sistema Educativo debe realizar para generar propuestas que atiendan la diversidad organizativa de los centros escolares, así como sus acciones para ofrecer a los estudiantes condiciones educativas que aseguren la equidad y la eficiencia de los subsistemas. 
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Se considera a los alumnos inscritos en escuelas con organización multigrado y unitarias de educación primaria.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/4n.1.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Se consideran a los alumnos inscritos en escuelas con organización multigrado y unitarias de educación primaria.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '4.n1.1 Porcentaje de alumnos que asisten a escuelas de organización escolar multigrado'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '4.n1.1 Porcentaje de alumnos que asisten a escuelas de organización escolar multigrado'
+indicator_number:
+  '4.n1.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

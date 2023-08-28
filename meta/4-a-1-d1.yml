@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos
+SDG_TARGET: >-
+  Meta 4.a. Construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de género, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos
+SDG_INDICATOR: >-
+  4.a.1.d1 Proporción de escuelas con infraestructura adaptada para discapacidad por entidad federativa y nivel educativo
+SDG_SERIES_DESCR: >-
+  El indicador resulta del número de escuelas, de un nivel educativo determinado, que cuentan con acceso a las principales condiciones (instalaciones y servicios) expresado como porcentaje del total de las escuelas en ese nivel de educación.
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  César Morón Rojas<br>Director General de Planeación, Programación y Estadística Educativa<br>Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México<br>55 3601 2511, ext. 54760<br>cesar.mr@nube.sep.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el porcentaje de escuelas por nivel de educación con acceso a infraestructura adaptada para discapacidad.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas. Disponible en: <a target="_blank" class="liga3" href="https://www.planeacion.sep.gob.mx/principalescifras/">https://www.planeacion.sep.gob.mx/principalescifras/</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  30 de octubre de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Sin referencia<br>
+COMPILING_ORG: >-
+  Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE). <a target="_blank" class="liga3" href="https://www.planeacion.sep.gob.mx/">https://www.planeacion.sep.gob.mx/</a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  El indicador mide el acceso en las escuelas a los servicios básicos clave y las instalaciones necesarias para garantizar un entorno de aprendizaje seguro y eficaz para todos los estudiantes.<br><br>Un alto valor indica que las escuelas tienen buen acceso a los servicios e instalaciones pertinentes. Idealmente, cada escuela debería tener acceso a todos estos servicios e instalaciones.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  El indicador mide la existencia en las escuelas del servicio o instalación dada, pero no su calidad o estado operacional.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/4.a.1.d1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>En el ciclo escolar 2020-2021, la entidad federativa Nuevo León no reportó toda la información de infraestructura debido a la contingencia sanitaría por COVID-19.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '4.a.1.d1 Proporción de escuelas con infraestructura adaptada para discapacidad por entidad federativa y nivel educativo'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '4.a.1.d1 Proporción de escuelas con infraestructura adaptada para discapacidad por entidad federativa y nivel educativo'
+indicator_number:
+  '4.a.1.d1'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas. Disponible en <a target="_blank" class="liga3" href="https//www.planeacion.sep.gob.mx/principalescifras/">https//www.planeacion.sep.gob.mx/principalescifras/</a>
+source_periodicity_1:
+  Ciclo escolar
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

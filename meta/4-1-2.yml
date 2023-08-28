@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos
+SDG_TARGET: >-
+  Meta 4.1 De aquí a 2030, asegurar que todas las niñas y todos los niños terminen la enseñanza primaria y secundaria, que ha de ser gratuita, equitativa y de calidad y producir resultados de aprendizaje pertinentes y efectivos
+SDG_INDICATOR: >-
+  4.1.2 Índice de finalización (enseñanza primaria, secundaria y preparatoria)
+SDG_SERIES_DESCR: >-
+  El indicador se calcula dividiendo a la población que finalizó el nivel de instrucción del grupo de edad, entre la población total del grupo de edad, expresado en porcentaje.<br><br>Se desglosa la información para el total de población, Hombres, Mujeres, Hablantes de lengua indígena, Población con alguna discapacidad y Cambio de residencia (sólo nacional).
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Octavio Heredia Hernández<br>Director General Adjunto de Encuestas Sociodemográficas<br>Avenida Héroe de Nacozari Sur 2301<br>Fraccionamiento Jardines del Parque, 20276<br>Aguascalientes, Aguascalientes<br>Entre Calle INEGI y Avenida del Lago, Avenida Paseo de las Garzas.<br>Telefóno: 4499105300, Ext. 4322, 4223<br>octavio.heredia@inegi.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Porcentaje de población de 14 a 22 años de edad que supera la edad prevista para el último grado de cada nivel educativo y que ha completado ese grado.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingreso y Gasto en los Hogares (ENIGH). 2014. 2016. 2018. 2020.<br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  No definida
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
+COMPILING_ORG: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). <a target="_blank" class="liga3" href="https://www.inegi.org.mx/">https://www.inegi.org.mx/ </a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Los ODS establecieron como una de sus metas lograr el acceso universal, equitativo y de calidad a la enseñanza primaria y secundaria para todos, por lo que con este indicador se podrá apoyar a los encargados de la formulación de políticas y de la toma de decisiones.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional y entidad federativa
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/4.1.2_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  ''
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  true
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '4.1.2 Índice de finalización (enseñanza primaria, secundaria y preparatoria)'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '4.1.2 Índice de finalización (enseñanza primaria, secundaria y preparatoria)'
+indicator_number:
+  '4.1.2'
+national_geographical_coverage:
+  Nacional y entidad federativa
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH), Nueva Serie 2016, 2018 y 2020. INEGI
+source_periodicity_1:
+  Bienal
+source_geographical_coverage_1:
+  Nacional y entidad federativa
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

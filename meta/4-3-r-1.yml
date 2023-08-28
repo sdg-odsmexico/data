@@ -1,0 +1,164 @@
+﻿SDG_GOAL: >-
+  Objetivo 4. Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos
+SDG_TARGET: >-
+  Meta 4.3 De aquí a 2030, asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria
+SDG_INDICATOR: >-
+  4.3.r.1 Tasa bruta de matrícula de educación superior, desglosada por sexo
+SDG_SERIES_DESCR: >-
+  Se calcula como la relación entre el número total de matriculados en el nivel licenciatura entre la población del grupo de edad típico correspondiente a este nivel (18 a 22 años). El resultado se multiplica por 100.<br><br>Los datos usualmente son recogidos por los ministerios de educación de los países o compilados de encuestas y censos.<br>
+META_LAST_UPDATE: >-
+  
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  César Morón Rojas<br>Director General de Planeación, Programación y Estadística Educativa<br>Av. Universidad 1200, Colonia Xoco, 3330, Benito Juárez, Ciudad de México<br>55 3601 2511, ext. 54760<br>cesar.mr@nube.sep.gob.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Proporción de alumnos matriculados en el nivel terciario de enseñanza, independiente de su edad, dentro de la población que corresponde oficialmente a ese nivel de enseñanza. Se refiere a la inscripción total en educación superior, sin considerar posgrado, en las modalidades escolarizada y no escolarizada.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas. Disponible en: <a target="_blank" class="liga3" href="https://www.planeacion.sep.gob.mx/principalescifras/">https://www.planeacion.sep.gob.mx/principalescifras/</a><br>Consejo Nacional de Población (CONAPO). Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050 y Conciliación Demográfica de México, 1950-2015. Disponible en: <a target="_blank" class="liga3" href="https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-mexico-1950-2015-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050 ">https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-mexico-1950-2015-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  30 de octubre 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Instituto de Estadísticas de la UNESCO (UIS). <a target="_blank" class="liga3" href="http://data.uis.unesco.org/"> http://data.uis.unesco.org/<br>
+COMPILING_ORG: >-
+  Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE). <a target="_blank" class="liga3" href="https://www.planeacion.sep.gob.mx/">https://www.planeacion.sep.gob.mx/</a><br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Muestra el porcentaje de la población que asiste a la enseñanza de educación superior. Es un indicador del nivel de atención educativa.<br><br>Sirve de base para el diseño y aplicación de estrategias orientadas a elevar la matriculación en educación superior de la población.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  Las tasas de matriculación mayores a 100 se presentan en diversos países, generalmente debido a que el indicador se construye a partir de dos fuentes de información diferentes, los registros de la matrícula escolar y las estimaciones del número de niños y niñas en edad escolar. Para el caso específico de México, los registros de matrícula escolar se obtienen año con año, mientras que las estimaciones de población se generan a partir de los censos de población que se realizan cada 10 años y se ajustan con los conteos de población y vivienda que se llevan a cabo entre los años censales.<br><br>Las cifras están sujetas a modificación cada vez que se genere una nueva actualización de las proyecciones de población por parte del CONAPO, siendo las más actuales las de septiembre de 2018.<br><br>Proyecciones de población a mitad de año.<br><br>Nota: Incluye las modalidades escolarizada y no escolarizada de nivel superior, sin considerar posgrado.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/4r.3.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>Incluye las modalidades escolarizada y no escolarizada de educación superior, sin posgrado.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  []
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  ''
+embedded_feature_tab_title:
+  ''
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '4.3.r.1 Tasa bruta de matrícula de educación superior, desglosada por sexo'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '4.3.r.1 Tasa bruta de matrícula de educación superior, desglosada por sexo'
+indicator_number:
+  '4.3.r.1'
+national_geographical_coverage:
+  Nacional
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''
