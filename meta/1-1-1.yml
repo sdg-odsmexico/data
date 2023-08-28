@@ -1,0 +1,165 @@
+SDG_GOAL: >-
+  Objetivo 1. Poner fin a la pobreza en todas sus formas y en todo el mundo
+SDG_TARGET: >-
+  Meta 1.1 De aquí a 2030, erradicar para todas las personas y en todo el mundo la pobreza extrema (actualmente se considera que sufren pobreza extrema las personas que viven con menos de 1,25 dólares de los Estados Unidos al día)
+SDG_INDICATOR: >-
+  1.1.1 Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), desglosada por sexo, edad, situación laboral y ubicación geográfica (urbano y rural)
+SDG_SERIES_DESCR: >-
+  Este indicador resulta de dividir el número de personas con ingreso per cápita inferior a 1.90 dólares diarios a precios de 2011, entre la población de referencia total, multiplicado por 100.
+META_LAST_UPDATE: >-
+  Septiembre de 2015
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+  Alida Marcela Gutiérrez Landeros<br>Coordinadora General de Análisis de la Pobreza<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70075<br>amgutierrez@coneval.org.mx<br><br>David Antonio Rojas Rosey<br>Director Ejecutivo de Medición de Pobreza y Seguimiento de Indicadores<br>Insurgentes Sur Num.810, Colonia Del Valle, C.P. 03100, Benito Juárez, Ciudad de México<br>(55) 54-81-72-00, ext. 70100<br>drojas@coneval.org.mx<br><br>
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+STAT_CONC_DEF: >-
+  Es el porcentaje de la población a nivel nacional que en el año del cálculo vive con menos del equivalente a 1.90 dólares diarios a precios de 2011, según la paridad del poder adquisitivo.
+UNIT_MEASURE: >-
+  Porcentaje
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+  Instituto Nacional de Estadística y Geografía (INEGI). Índice Nacional de Precios al Consumidor (INPC). <a target="_blank" class="liga3" href="https://www.inegi.org.mx/programas/inpc/2018/">https://www.inegi.org.mx/programas/inpc/2018/</a><br>Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 1992-2014 y el Modelo Estadístico para la Continuidad (MEC) del MCS-ENIGH 2016, 2018 y 2020.<br>Instituto Nacional de Estadística y Geografía (INEGI). Banco de Información Económica (BIE). Serie de datos para el PIB y Consumo Privado.<br>Banco Mundial (BM). Global Purchasing Power Parities and Real Expenditures. 2011 International Comparison Program. <a target="_blank" class="liga3" href="http://icp.worldbank.org/">http://icp.worldbank.org/</a><br>
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+  6 de Noviembre de 2023
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  Banco Mundial (BM) <a target="_blank" class="liga3" href="http://www.bancomundial.org/">http://www.bancomundial.org</a><br>
+COMPILING_ORG: >-
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).<br>
+INST_MANDATE: >-
+
+RATIONALE: >-
+  Este indicador busca medir la pobreza a través de un estándar internacional acorde a los países con menores ingresos, por ello, generalmente se asocia a la población que vive en pobreza extrema. El indicador está directamente ligado al Objetivo 1, especifico, de la  Meta 1.1. Erradicar la pobreza extrema para todas las personas en el mundo. Este indicador permite dar seguimiento a la evolución de la pobreza extrema a través del tiempo y permite realizar comparaciones internacionales de pobreza en los países.
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+  1. Cálculo del ingreso per cápita ajustado.- En primer lugar, se utiliza el ingreso corriente total per cápita utilizado en la medición de pobreza por ingresos reportada por CONEVAL (para mayor información sobre su composición consultar <a target="_blank" class="liga3" href="http://www.coneval.org.mx">http://www.coneval.org.mx</a>). En segundo lugar, se deflacta el ingreso con el Índice Nacional de Precios al Consumidor (INPC, base 2<sup>ª</sup> quincena de julio de 2018=100) al mes de agosto de cada año en que INEGI capta la información de ingresos y gastos de los hogares. Posteriormente, se realiza un ajuste a los ingresos multiplicándolos por la propensión marginal al consumo. Esta propensión se estima a partir de la razón entre el Consumo Privado y el Producto Interno Bruto (PIB) con series originales base 2008 a precios corrientes (en 2018 y 2020 se usa la base 2013).<br><br>2. Construcción de la línea de referencia.- La línea de la pobreza de $1.90 dólares diarios se construye a partir del tipo de cambio de Paridad de Poder Adquisitivo (PPA) de 2011 publicado por el Banco Mundial (7.673013 pesos por cada dólar americano a precios internacionales). El resultado se lleva a precios de agosto de cada año de medición, utilizando el INPC publicado por el INEGI. Finalmente, se multiplica por 30 para obtener la línea de referencia mensual.<br><br>3. Cálculo del número de personas con ingresos ajustados por debajo de la línea.- Se compara el ingreso per cápita ajustado mensual con la línea de referencia, identificando y contabilizando el número de personas cuyo ingreso es menor a la línea. Se crea el factor de expansión de personas multiplicando el tamaño del hogar por el factor de expansión y se usa para calcular el porcentaje total de personas con ingresos por debajo de la línea de referencia.<br><br>4. La ENIGH 2005, a diferencia de las encuestas llevadas a cabo en años anteriores de manera bienal, corresponde a una edición especial, por lo que la ENIGH continuará actualizándose cada dos años.<br><br>5. El total de población presentada en estas estimaciones, es para fines de la medición de pobreza, por lo que puede diferir con las cifras de población total reportadas por el INEGI o CONAPO.<br><br><sup>*/</sup> La actualización del indicador está sujeta a la publicación de los microdatos por parte de INEGI.<br><br><sup>1/</sup> Para el año 2005 se realizó una medición.
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Nacional, urbano y rural.
+COMPARABILITY: >-
+
+OTHER_DOC: >-
+  <a href="https://agenda2030.mx/docs/files/csv/zip/1.1.1_es.zip">Datos para el cálculo</a>
+composite_breakdown_label:
+  ''
+computation_units:
+  Porcentaje
+copyright:
+  ''
+data_footnote:
+  <br>Nota <br>- A partir de 2006 se utiliza la ENIGH con factores ajustados a la proyección de población de CONAPO, actualizadas en abril de 2013. <br>- La información de 1992 se toma de los datos históricos del indicador. <br>- Urbana Localidades de 15,000 habitantes y más.<br>- Rural Localidades de menos de 15,000 habitantes.
+data_non_statistical:
+  false
+data_notice_class:
+  ''
+data_notice_heading:
+  ''
+data_notice_text:
+  ''
+data_show_map:
+  false
+data_start_values:
+  - field: 'Ámbito'
+    value: 'Total'
+embedded_feature_footer:
+  ''
+embedded_feature_html:
+  <iframe width="1110" height="700" title="Ejemplo" src="https://www.arcgis.com/apps/MapSeries/index.html?appid=6d77e77abbbe47ca871eaa9b0162cd34" frameborder="0" allowFullScreen="true" scrolling="yes"></iframe>
+embedded_feature_tab_title:
+  Título pestaña
+embedded_feature_title:
+  ''
+embedded_feature_url:
+  ''
+expected_disaggregations:
+  []
+graph_annotations:
+  []
+graph_limits:
+  []
+graph_series_breaks:
+  []
+graph_stacked_disaggregation:
+  ''
+graph_title:
+  '1.1.1 Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), desglosada por sexo, edad, situación laboral y ubicación geográfica (urbano y rural)'
+graph_titles:
+  []
+graph_type:
+  Line
+graph_types:
+  []
+indicator_name:
+  '1.1.1 Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), desglosada por sexo, edad, situación laboral y ubicación geográfica (urbano y rural)'
+indicator_number:
+  '1.1.1'
+national_geographical_coverage:
+  Nacional, urbano y rural.
+page_content:
+  ''
+permalink:
+  ''
+precision:
+  []
+reporting_status:
+  complete
+sort:
+  ''
+standalone:
+  false
+tags:
+  []
+source_active_1:
+  true
+source_organisation_1:
+  Estimaciones del CONEVAL con base en información del INEGI, ENIGH 1992-2014 y el Modelo Estadístico para la Continuidad del MCS-ENIGH 2016, 2018 y 2020.
+source_periodicity_1:
+  Bienal <sup>1/</sup>
+source_geographical_coverage_1:
+  Nacional, urbano y rural.
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''
