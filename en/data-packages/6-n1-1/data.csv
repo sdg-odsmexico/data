@@ -1,1 +1,595 @@
-Year,Value
+Year,Entidad federativa,Población con acceso al agua entubada y al saneamiento,GeoCode,Value
+2020,Estados Unidos Mexicanos,Total,0,58.4983671931026
+2018,Estados Unidos Mexicanos,Total,0,57.6110035329687
+2016,Estados Unidos Mexicanos,Total,0,58.815600410826
+2020,Estados Unidos Mexicanos,Hombres,0,58.3224925506726
+2018,Estados Unidos Mexicanos,Hombres,0,57.5846532915981
+2016,Estados Unidos Mexicanos,Hombres,0,58.86384401017
+2020,Estados Unidos Mexicanos,Mujeres,0,58.6629676570781
+2018,Estados Unidos Mexicanos,Mujeres,0,57.6358724920905
+2016,Estados Unidos Mexicanos,Mujeres,0,58.7703633015112
+2020,Estados Unidos Mexicanos,Hablantes de lengua indígena,0,37.112687225478
+2018,Estados Unidos Mexicanos,Hablantes de lengua indígena,0,38.3576401704791
+2016,Estados Unidos Mexicanos,Hablantes de lengua indígena,0,36.090500826617
+2020,Estados Unidos Mexicanos,Población con alguna discapacidad,0,55.5072953345487
+2018,Estados Unidos Mexicanos,Población con alguna discapacidad,0,55.9984468477491
+2016,Estados Unidos Mexicanos,Población con alguna discapacidad,0,56.3103138881284
+2020,Estados Unidos Mexicanos,Cambio de residencia,0,63.4732131010872
+2018,Estados Unidos Mexicanos,Cambio de residencia,0,
+2016,Estados Unidos Mexicanos,Cambio de residencia,0,66.7975767057865
+2020,Aguascalientes,Total,1,81.3426685476427
+2018,Aguascalientes,Total,1,85.0423561644633
+2016,Aguascalientes,Total,1,86.9085071743825
+2020,Aguascalientes,Hombres,1,81.9868800013985
+2018,Aguascalientes,Hombres,1,84.9197634437353
+2016,Aguascalientes,Hombres,1,86.6909032811844
+2020,Aguascalientes,Mujeres,1,80.7522643766556
+2018,Aguascalientes,Mujeres,1,85.157610361146
+2016,Aguascalientes,Mujeres,1,87.1130764371447
+2020,Aguascalientes,Hablantes de lengua indígena,1,98.5871271585557
+2018,Aguascalientes,Hablantes de lengua indígena,1,
+2016,Aguascalientes,Hablantes de lengua indígena,1,77.8418451400329
+2020,Aguascalientes,Población con alguna discapacidad,1,80.02805911633
+2018,Aguascalientes,Población con alguna discapacidad,1,86.0045059418482
+2016,Aguascalientes,Población con alguna discapacidad,1,84.6874626768439
+2020,Aguascalientes,Cambio de residencia,1,
+2018,Aguascalientes,Cambio de residencia,1,
+2016,Aguascalientes,Cambio de residencia,1,
+2020,Baja California,Total,2,84.0048278894924
+2018,Baja California,Total,2,81.5388019340381
+2016,Baja California,Total,2,83.3341057032345
+2020,Baja California,Hombres,2,83.859135314804
+2018,Baja California,Hombres,2,81.22799316876
+2016,Baja California,Hombres,2,83.0544679199252
+2020,Baja California,Mujeres,2,84.1491132788562
+2018,Baja California,Mujeres,2,81.8508981478609
+2016,Baja California,Mujeres,2,83.6124677789477
+2020,Baja California,Hablantes de lengua indígena,2,55.9718908146944
+2018,Baja California,Hablantes de lengua indígena,2,46.6522308963474
+2016,Baja California,Hablantes de lengua indígena,2,49.7016661663164
+2020,Baja California,Población con alguna discapacidad,2,84.7289535866434
+2018,Baja California,Población con alguna discapacidad,2,84.7389112583621
+2016,Baja California,Población con alguna discapacidad,2,80.5884072191313
+2020,Baja California,Cambio de residencia,2,
+2018,Baja California,Cambio de residencia,2,
+2016,Baja California,Cambio de residencia,2,
+2020,Baja California Sur,Total,3,18.7732482077801
+2018,Baja California Sur,Total,3,21.0817351274229
+2016,Baja California Sur,Total,3,25.9786777431637
+2020,Baja California Sur,Hombres,3,19.1252466525289
+2018,Baja California Sur,Hombres,3,21.3443384243311
+2016,Baja California Sur,Hombres,3,25.3498493290264
+2020,Baja California Sur,Mujeres,3,18.4173784290051
+2018,Baja California Sur,Mujeres,3,20.800478872473
+2016,Baja California Sur,Mujeres,3,26.6356013294303
+2020,Baja California Sur,Hablantes de lengua indígena,3,
+2018,Baja California Sur,Hablantes de lengua indígena,3,
+2016,Baja California Sur,Hablantes de lengua indígena,3,13.8745334481769
+2020,Baja California Sur,Población con alguna discapacidad,3,19.992351662507
+2018,Baja California Sur,Población con alguna discapacidad,3,25.9015371832156
+2016,Baja California Sur,Población con alguna discapacidad,3,26.9284118960856
+2020,Baja California Sur,Cambio de residencia,3,
+2018,Baja California Sur,Cambio de residencia,3,
+2016,Baja California Sur,Cambio de residencia,3,
+2020,Campeche,Total,4,67.4986171012945
+2018,Campeche,Total,4,63.1301474089505
+2016,Campeche,Total,4,68.9348008146107
+2020,Campeche,Hombres,4,66.5225055926447
+2018,Campeche,Hombres,4,62.2007673409259
+2016,Campeche,Hombres,4,68.3649538614695
+2020,Campeche,Mujeres,4,68.4266220294622
+2018,Campeche,Mujeres,4,64.0143795227081
+2016,Campeche,Mujeres,4,69.4766423191572
+2020,Campeche,Hablantes de lengua indígena,4,55.8593557501191
+2018,Campeche,Hablantes de lengua indígena,4,65.3119531445305
+2016,Campeche,Hablantes de lengua indígena,4,61.1180312415836
+2020,Campeche,Población con alguna discapacidad,4,67.1551560883942
+2018,Campeche,Población con alguna discapacidad,4,62.0035757202732
+2016,Campeche,Población con alguna discapacidad,4,66.7761794826259
+2020,Campeche,Cambio de residencia,4,
+2018,Campeche,Cambio de residencia,4,
+2016,Campeche,Cambio de residencia,4,
+2020,Coahuila de Zaragoza,Total,5,75.6091083233896
+2018,Coahuila de Zaragoza,Total,5,73.3135560047654
+2016,Coahuila de Zaragoza,Total,5,70.2034044862249
+2020,Coahuila de Zaragoza,Hombres,5,75.4362442750242
+2018,Coahuila de Zaragoza,Hombres,5,72.9356506399868
+2016,Coahuila de Zaragoza,Hombres,5,69.6935093847158
+2020,Coahuila de Zaragoza,Mujeres,5,75.7769496945666
+2018,Coahuila de Zaragoza,Mujeres,5,73.6819241789986
+2016,Coahuila de Zaragoza,Mujeres,5,70.700340811776
+2020,Coahuila de Zaragoza,Hablantes de lengua indígena,5,71.4477867449254
+2018,Coahuila de Zaragoza,Hablantes de lengua indígena,5,77.9670975323149
+2016,Coahuila de Zaragoza,Hablantes de lengua indígena,5,92.7404988123515
+2020,Coahuila de Zaragoza,Población con alguna discapacidad,5,69.6201811910087
+2018,Coahuila de Zaragoza,Población con alguna discapacidad,5,70.8085780344061
+2016,Coahuila de Zaragoza,Población con alguna discapacidad,5,68.9916089309698
+2020,Coahuila de Zaragoza,Cambio de residencia,5,
+2018,Coahuila de Zaragoza,Cambio de residencia,5,
+2016,Coahuila de Zaragoza,Cambio de residencia,5,
+2020,Colima,Total,6,83.5922873415946
+2018,Colima,Total,6,82.9219191671821
+2016,Colima,Total,6,87.4020026280382
+2020,Colima,Hombres,6,83.8867236786766
+2018,Colima,Hombres,6,82.7995771407251
+2016,Colima,Hombres,6,87.4614770849833
+2020,Colima,Mujeres,6,83.314318688969
+2018,Colima,Mujeres,6,83.0392255175909
+2016,Colima,Mujeres,6,87.3466503240909
+2020,Colima,Hablantes de lengua indígena,6,82.6283048211508
+2018,Colima,Hablantes de lengua indígena,6,92.6021727884118
+2016,Colima,Hablantes de lengua indígena,6,76.9212800747489
+2020,Colima,Población con alguna discapacidad,6,79.569834510269
+2018,Colima,Población con alguna discapacidad,6,78.0111810391002
+2016,Colima,Población con alguna discapacidad,6,86.5873233371178
+2020,Colima,Cambio de residencia,6,
+2018,Colima,Cambio de residencia,6,
+2016,Colima,Cambio de residencia,6,
+2020,Chiapas,Total,7,29.2934287903893
+2018,Chiapas,Total,7,30.9445988793815
+2016,Chiapas,Total,7,24.7364112869838
+2020,Chiapas,Hombres,7,29.2630124590738
+2018,Chiapas,Hombres,7,31.6569827662744
+2016,Chiapas,Hombres,7,24.7040002170865
+2020,Chiapas,Mujeres,7,29.3213091867064
+2018,Chiapas,Mujeres,7,30.2506569488744
+2016,Chiapas,Mujeres,7,24.7667717441403
+2020,Chiapas,Hablantes de lengua indígena,7,45.4669921684127
+2018,Chiapas,Hablantes de lengua indígena,7,39.8270986946451
+2016,Chiapas,Hablantes de lengua indígena,7,29.2957662724397
+2020,Chiapas,Población con alguna discapacidad,7,25.9657802633125
+2018,Chiapas,Población con alguna discapacidad,7,29.5920509793122
+2016,Chiapas,Población con alguna discapacidad,7,28.0580461049606
+2020,Chiapas,Cambio de residencia,7,
+2018,Chiapas,Cambio de residencia,7,
+2016,Chiapas,Cambio de residencia,7,
+2020,Chihuahua,Total,8,85.3406574254732
+2018,Chihuahua,Total,8,88.0240091799806
+2016,Chihuahua,Total,8,86.4662730990171
+2020,Chihuahua,Hombres,8,85.3286820286777
+2018,Chihuahua,Hombres,8,87.7994554067747
+2016,Chihuahua,Hombres,8,85.8691819867671
+2020,Chihuahua,Mujeres,8,85.3521946669908
+2018,Chihuahua,Mujeres,8,88.238587113551
+2016,Chihuahua,Mujeres,8,87.0305799215001
+2020,Chihuahua,Hablantes de lengua indígena,8,36.3826002380373
+2018,Chihuahua,Hablantes de lengua indígena,8,49.5620840439583
+2016,Chihuahua,Hablantes de lengua indígena,8,35.9129325082469
+2020,Chihuahua,Población con alguna discapacidad,8,81.603040015146
+2018,Chihuahua,Población con alguna discapacidad,8,86.4653032462645
+2016,Chihuahua,Población con alguna discapacidad,8,86.3991927115017
+2020,Chihuahua,Cambio de residencia,8,
+2018,Chihuahua,Cambio de residencia,8,
+2016,Chihuahua,Cambio de residencia,8,
+2020,Ciudad de México,Total,9,70.2463269875996
+2018,Ciudad de México,Total,9,65.8490808548082
+2016,Ciudad de México,Total,9,69.291037195239
+2020,Ciudad de México,Hombres,9,69.3275336157865
+2018,Ciudad de México,Hombres,9,64.7932084483064
+2016,Ciudad de México,Hombres,9,68.5429562112345
+2020,Ciudad de México,Mujeres,9,71.0745901890656
+2018,Ciudad de México,Mujeres,9,66.8076486695571
+2016,Ciudad de México,Mujeres,9,69.9480144202117
+2020,Ciudad de México,Hablantes de lengua indígena,9,42.0158286778398
+2018,Ciudad de México,Hablantes de lengua indígena,9,59.9235278718695
+2016,Ciudad de México,Hablantes de lengua indígena,9,55.2191362979611
+2020,Ciudad de México,Población con alguna discapacidad,9,64.6289386401327
+2018,Ciudad de México,Población con alguna discapacidad,9,60.8516814064058
+2016,Ciudad de México,Población con alguna discapacidad,9,67.3663391373456
+2020,Ciudad de México,Cambio de residencia,9,
+2018,Ciudad de México,Cambio de residencia,9,
+2016,Ciudad de México,Cambio de residencia,9,
+2020,Durango,Total,10,78.7441546587532
+2018,Durango,Total,10,77.6983174453004
+2016,Durango,Total,10,77.4034511562322
+2020,Durango,Hombres,10,77.6228662732928
+2018,Durango,Hombres,10,77.6407587890444
+2016,Durango,Hombres,10,77.0295963998541
+2020,Durango,Mujeres,10,79.8042319971808
+2018,Durango,Mujeres,10,77.7521307393803
+2016,Durango,Mujeres,10,77.7542623940285
+2020,Durango,Hablantes de lengua indígena,10,
+2018,Durango,Hablantes de lengua indígena,10,68.5082872928177
+2016,Durango,Hablantes de lengua indígena,10,82.8391734052111
+2020,Durango,Población con alguna discapacidad,10,77.9053992309909
+2018,Durango,Población con alguna discapacidad,10,79.3958587088916
+2016,Durango,Población con alguna discapacidad,10,78.7256549063531
+2020,Durango,Cambio de residencia,10,
+2018,Durango,Cambio de residencia,10,
+2016,Durango,Cambio de residencia,10,
+2020,Guanajuato,Total,11,71.1788116305289
+2018,Guanajuato,Total,11,69.0268336809688
+2016,Guanajuato,Total,11,68.2169377988177
+2020,Guanajuato,Hombres,11,70.8987219602426
+2018,Guanajuato,Hombres,11,69.4154149592166
+2016,Guanajuato,Hombres,11,69.1225319334527
+2020,Guanajuato,Mujeres,11,71.4380768278557
+2018,Guanajuato,Mujeres,11,68.6736054772871
+2016,Guanajuato,Mujeres,11,67.3929654273607
+2020,Guanajuato,Hablantes de lengua indígena,11,71.9049794426679
+2018,Guanajuato,Hablantes de lengua indígena,11,72.2097209720972
+2016,Guanajuato,Hablantes de lengua indígena,11,
+2020,Guanajuato,Población con alguna discapacidad,11,69.5039804041641
+2018,Guanajuato,Población con alguna discapacidad,11,69.2255554160914
+2016,Guanajuato,Población con alguna discapacidad,11,69.0695060306602
+2020,Guanajuato,Cambio de residencia,11,
+2018,Guanajuato,Cambio de residencia,11,
+2016,Guanajuato,Cambio de residencia,11,
+2020,Guerrero,Total,12,13.7268202653095
+2018,Guerrero,Total,12,9.8856138744897
+2016,Guerrero,Total,12,14.9113608061987
+2020,Guerrero,Hombres,12,13.4033166518786
+2018,Guerrero,Hombres,12,9.3456509692644
+2016,Guerrero,Hombres,12,14.5759533173141
+2020,Guerrero,Mujeres,12,14.0229308495437
+2018,Guerrero,Mujeres,12,10.3798064679026
+2016,Guerrero,Mujeres,12,15.2173805188555
+2020,Guerrero,Hablantes de lengua indígena,12,17.7045152126175
+2018,Guerrero,Hablantes de lengua indígena,12,
+2016,Guerrero,Hablantes de lengua indígena,12,
+2020,Guerrero,Población con alguna discapacidad,12,13.5095212099804
+2018,Guerrero,Población con alguna discapacidad,12,11.3223872973907
+2016,Guerrero,Población con alguna discapacidad,12,16.1614774638701
+2020,Guerrero,Cambio de residencia,12,
+2018,Guerrero,Cambio de residencia,12,
+2016,Guerrero,Cambio de residencia,12,
+2020,Hidalgo,Total,13,46.9370147793375
+2018,Hidalgo,Total,13,39.2262596567991
+2016,Hidalgo,Total,13,38.5324167391885
+2020,Hidalgo,Hombres,13,47.0845943988841
+2018,Hidalgo,Hombres,13,39.8187668041355
+2016,Hidalgo,Hombres,13,39.2758888778776
+2020,Hidalgo,Mujeres,13,46.8050267497521
+2018,Hidalgo,Mujeres,13,38.6713488796042
+2016,Hidalgo,Mujeres,13,37.8274174292619
+2020,Hidalgo,Hablantes de lengua indígena,13,35.5958732678103
+2018,Hidalgo,Hablantes de lengua indígena,13,36.3657115264319
+2016,Hidalgo,Hablantes de lengua indígena,13,26.9560742581948
+2020,Hidalgo,Población con alguna discapacidad,13,47.104719515547
+2018,Hidalgo,Población con alguna discapacidad,13,38.6317501714009
+2016,Hidalgo,Población con alguna discapacidad,13,37.9733678317311
+2020,Hidalgo,Cambio de residencia,13,
+2018,Hidalgo,Cambio de residencia,13,
+2016,Hidalgo,Cambio de residencia,13,
+2020,Jalisco,Total,14,79.2583325569208
+2018,Jalisco,Total,14,79.1167902556868
+2016,Jalisco,Total,14,82.1088735626411
+2020,Jalisco,Hombres,14,78.8431967232568
+2018,Jalisco,Hombres,14,78.6145282052807
+2016,Jalisco,Hombres,14,81.6271520978023
+2020,Jalisco,Mujeres,14,79.6454658232161
+2018,Jalisco,Mujeres,14,79.5931023663695
+2016,Jalisco,Mujeres,14,82.5648967962623
+2020,Jalisco,Hablantes de lengua indígena,14,77.9006087776051
+2018,Jalisco,Hablantes de lengua indígena,14,60.9868202458744
+2016,Jalisco,Hablantes de lengua indígena,14,66.1354313765046
+2020,Jalisco,Población con alguna discapacidad,14,77.9393784875332
+2018,Jalisco,Población con alguna discapacidad,14,79.2847157704631
+2016,Jalisco,Población con alguna discapacidad,14,80.6342565527593
+2020,Jalisco,Cambio de residencia,14,
+2018,Jalisco,Cambio de residencia,14,
+2016,Jalisco,Cambio de residencia,14,
+2020,México,Total,15,48.2846226516453
+2018,México,Total,15,46.3234449349622
+2016,México,Total,15,48.6211419227879
+2020,México,Hombres,15,47.7479182187917
+2018,México,Hombres,15,46.5312692591666
+2016,México,Hombres,15,48.9694409966938
+2020,México,Mujeres,15,48.7967329498647
+2018,México,Mujeres,15,46.1267315222471
+2016,México,Mujeres,15,48.3035942201685
+2020,México,Hablantes de lengua indígena,15,29.5643394790257
+2018,México,Hablantes de lengua indígena,15,38.8047409860367
+2016,México,Hablantes de lengua indígena,15,34.392007303973
+2020,México,Población con alguna discapacidad,15,44.3253470871572
+2018,México,Población con alguna discapacidad,15,45.3977221265063
+2016,México,Población con alguna discapacidad,15,40.9408748992038
+2020,México,Cambio de residencia,15,
+2018,México,Cambio de residencia,15,
+2016,México,Cambio de residencia,15,
+2020,Michoacán de Ocampo,Total,16,46.9894728234636
+2018,Michoacán de Ocampo,Total,16,50.2610305108987
+2016,Michoacán de Ocampo,Total,16,46.7220580552708
+2020,Michoacán de Ocampo,Hombres,16,46.758740250969
+2018,Michoacán de Ocampo,Hombres,16,50.5608587386423
+2016,Michoacán de Ocampo,Hombres,16,46.2395396300859
+2020,Michoacán de Ocampo,Mujeres,16,47.2066846799563
+2018,Michoacán de Ocampo,Mujeres,16,49.986283650811
+2016,Michoacán de Ocampo,Mujeres,16,47.1866284049238
+2020,Michoacán de Ocampo,Hablantes de lengua indígena,16,
+2018,Michoacán de Ocampo,Hablantes de lengua indígena,16,47.4042142612593
+2016,Michoacán de Ocampo,Hablantes de lengua indígena,16,
+2020,Michoacán de Ocampo,Población con alguna discapacidad,16,45.4261882383673
+2018,Michoacán de Ocampo,Población con alguna discapacidad,16,54.7625804849495
+2016,Michoacán de Ocampo,Población con alguna discapacidad,16,49.643258680152
+2020,Michoacán de Ocampo,Cambio de residencia,16,
+2018,Michoacán de Ocampo,Cambio de residencia,16,
+2016,Michoacán de Ocampo,Cambio de residencia,16,
+2020,Morelos,Total,17,26.1205937230052
+2018,Morelos,Total,17,22.5621501609635
+2016,Morelos,Total,17,26.7792370623125
+2020,Morelos,Hombres,17,25.6591557333316
+2018,Morelos,Hombres,17,23.0457326028377
+2016,Morelos,Hombres,17,26.974244048199
+2020,Morelos,Mujeres,17,26.5415933588435
+2018,Morelos,Mujeres,17,22.1180749996824
+2016,Morelos,Mujeres,17,26.597682311117
+2020,Morelos,Hablantes de lengua indígena,17,
+2018,Morelos,Hablantes de lengua indígena,17,49.5503354640189
+2016,Morelos,Hablantes de lengua indígena,17,
+2020,Morelos,Población con alguna discapacidad,17,26.5568018565587
+2018,Morelos,Población con alguna discapacidad,17,22.3924809628949
+2016,Morelos,Población con alguna discapacidad,17,25.1636950984656
+2020,Morelos,Cambio de residencia,17,
+2018,Morelos,Cambio de residencia,17,
+2016,Morelos,Cambio de residencia,17,
+2020,Nayarit,Total,18,52.7936168048174
+2018,Nayarit,Total,18,45.4840641949284
+2016,Nayarit,Total,18,47.1801840703769
+2020,Nayarit,Hombres,18,53.8300601564368
+2018,Nayarit,Hombres,18,45.9854798167471
+2016,Nayarit,Hombres,18,47.0687425557257
+2020,Nayarit,Mujeres,18,51.8261336547183
+2018,Nayarit,Mujeres,18,44.9916143033708
+2016,Nayarit,Mujeres,18,47.2905606956873
+2020,Nayarit,Hablantes de lengua indígena,18,31.6534812353951
+2018,Nayarit,Hablantes de lengua indígena,18,
+2016,Nayarit,Hablantes de lengua indígena,18,
+2020,Nayarit,Población con alguna discapacidad,18,51.4986220875942
+2018,Nayarit,Población con alguna discapacidad,18,37.2682060712571
+2016,Nayarit,Población con alguna discapacidad,18,43.6418182261644
+2020,Nayarit,Cambio de residencia,18,
+2018,Nayarit,Cambio de residencia,18,
+2016,Nayarit,Cambio de residencia,18,
+2020,Nuevo León,Total,19,93.6230968475583
+2018,Nuevo León,Total,19,94.524037914561
+2016,Nuevo León,Total,19,93.8054362106813
+2020,Nuevo León,Hombres,19,93.451202802782
+2018,Nuevo León,Hombres,19,94.1316666576634
+2016,Nuevo León,Hombres,19,93.6898922564258
+2020,Nuevo León,Mujeres,19,93.7897292426056
+2018,Nuevo León,Mujeres,19,94.9237951025892
+2016,Nuevo León,Mujeres,19,93.9233818709419
+2020,Nuevo León,Hablantes de lengua indígena,19,88.1758693632248
+2018,Nuevo León,Hablantes de lengua indígena,19,98.4629390189197
+2016,Nuevo León,Hablantes de lengua indígena,19,89.094358819243
+2020,Nuevo León,Población con alguna discapacidad,19,89.0774599108695
+2018,Nuevo León,Población con alguna discapacidad,19,91.1701874475849
+2016,Nuevo León,Población con alguna discapacidad,19,90.6379190138425
+2020,Nuevo León,Cambio de residencia,19,
+2018,Nuevo León,Cambio de residencia,19,
+2016,Nuevo León,Cambio de residencia,19,
+2020,Oaxaca,Total,20,25.4539473115895
+2018,Oaxaca,Total,20,22.4149551780338
+2016,Oaxaca,Total,20,18.6337877852184
+2020,Oaxaca,Hombres,20,25.4064104168002
+2018,Oaxaca,Hombres,20,22.3681391293468
+2016,Oaxaca,Hombres,20,18.4726687673217
+2020,Oaxaca,Mujeres,20,25.4964149450134
+2018,Oaxaca,Mujeres,20,22.4580317959182
+2016,Oaxaca,Mujeres,20,18.7813333046167
+2020,Oaxaca,Hablantes de lengua indígena,20,25.9799589057231
+2018,Oaxaca,Hablantes de lengua indígena,20,20.938845527987
+2016,Oaxaca,Hablantes de lengua indígena,20,19.25250975014
+2020,Oaxaca,Población con alguna discapacidad,20,28.9614218246707
+2018,Oaxaca,Población con alguna discapacidad,20,22.3986606333918
+2016,Oaxaca,Población con alguna discapacidad,20,19.5598766741162
+2020,Oaxaca,Cambio de residencia,20,
+2018,Oaxaca,Cambio de residencia,20,
+2016,Oaxaca,Cambio de residencia,20,
+2020,Puebla,Total,21,22.3888647991583
+2018,Puebla,Total,21,22.757279580266
+2016,Puebla,Total,21,29.5721200944626
+2020,Puebla,Hombres,21,22.3400883601988
+2018,Puebla,Hombres,21,22.5990063879699
+2016,Puebla,Hombres,21,30.1698465087622
+2020,Puebla,Mujeres,21,22.4325364189629
+2018,Puebla,Mujeres,21,22.9007705512224
+2016,Puebla,Mujeres,21,29.025234276741
+2020,Puebla,Hablantes de lengua indígena,21,
+2018,Puebla,Hablantes de lengua indígena,21,
+2016,Puebla,Hablantes de lengua indígena,21,38.7682475264838
+2020,Puebla,Población con alguna discapacidad,21,21.2740825054199
+2018,Puebla,Población con alguna discapacidad,21,20.796367528908
+2016,Puebla,Población con alguna discapacidad,21,25.4293133839531
+2020,Puebla,Cambio de residencia,21,
+2018,Puebla,Cambio de residencia,21,
+2016,Puebla,Cambio de residencia,21,
+2020,Querétaro,Total,22,74.3910767509622
+2018,Querétaro,Total,22,69.6717313399236
+2016,Querétaro,Total,22,73.2625300443286
+2020,Querétaro,Hombres,22,74.3312293095114
+2018,Querétaro,Hombres,22,69.8170217767868
+2016,Querétaro,Hombres,22,73.088153923903
+2020,Querétaro,Mujeres,22,74.445970410138
+2018,Querétaro,Mujeres,22,69.5382598672563
+2016,Querétaro,Mujeres,22,73.4258204950449
+2020,Querétaro,Hablantes de lengua indígena,22,56.2934695636117
+2018,Querétaro,Hablantes de lengua indígena,22,50.6463614579392
+2016,Querétaro,Hablantes de lengua indígena,22,50.769886190737
+2020,Querétaro,Población con alguna discapacidad,22,71.7012185889122
+2018,Querétaro,Población con alguna discapacidad,22,63.0206458180735
+2016,Querétaro,Población con alguna discapacidad,22,75.3437371098584
+2020,Querétaro,Cambio de residencia,22,
+2018,Querétaro,Cambio de residencia,22,
+2016,Querétaro,Cambio de residencia,22,
+2020,Quintana Roo,Total,23,85.9283909690792
+2018,Quintana Roo,Total,23,83.5563321325493
+2016,Quintana Roo,Total,23,84.4329130073512
+2020,Quintana Roo,Hombres,23,85.6753507691463
+2018,Quintana Roo,Hombres,23,82.5291975276216
+2016,Quintana Roo,Hombres,23,83.7876000988306
+2020,Quintana Roo,Mujeres,23,86.1848861152843
+2018,Quintana Roo,Mujeres,23,84.6039905120692
+2016,Quintana Roo,Mujeres,23,85.0604571692557
+2020,Quintana Roo,Hablantes de lengua indígena,23,82.3792234736218
+2018,Quintana Roo,Hablantes de lengua indígena,23,75.6123738280184
+2016,Quintana Roo,Hablantes de lengua indígena,23,79.6194808801189
+2020,Quintana Roo,Población con alguna discapacidad,23,82.8419031019012
+2018,Quintana Roo,Población con alguna discapacidad,23,82.0851230890028
+2016,Quintana Roo,Población con alguna discapacidad,23,79.4271300566749
+2020,Quintana Roo,Cambio de residencia,23,
+2018,Quintana Roo,Cambio de residencia,23,
+2016,Quintana Roo,Cambio de residencia,23,
+2020,San Luis Potosí,Total,24,44.1385342073693
+2018,San Luis Potosí,Total,24,43.1761570659416
+2016,San Luis Potosí,Total,24,54.4811321609386
+2020,San Luis Potosí,Hombres,24,43.0647479161603
+2018,San Luis Potosí,Hombres,24,41.6698392223431
+2016,San Luis Potosí,Hombres,24,54.2702190553332
+2020,San Luis Potosí,Mujeres,24,45.1322592395264
+2018,San Luis Potosí,Mujeres,24,44.5543032996813
+2016,San Luis Potosí,Mujeres,24,54.6797350210555
+2020,San Luis Potosí,Hablantes de lengua indígena,24,15.3689202602845
+2018,San Luis Potosí,Hablantes de lengua indígena,24,12.829160076004
+2016,San Luis Potosí,Hablantes de lengua indígena,24,20.6038544107605
+2020,San Luis Potosí,Población con alguna discapacidad,24,38.1662265811643
+2018,San Luis Potosí,Población con alguna discapacidad,24,37.8774519646271
+2016,San Luis Potosí,Población con alguna discapacidad,24,52.5265704296307
+2020,San Luis Potosí,Cambio de residencia,24,
+2018,San Luis Potosí,Cambio de residencia,24,
+2016,San Luis Potosí,Cambio de residencia,24,
+2020,Sinaloa,Total,25,86.3040546804271
+2018,Sinaloa,Total,25,83.6786386611525
+2016,Sinaloa,Total,25,83.8491474505123
+2020,Sinaloa,Hombres,25,85.1079545301239
+2018,Sinaloa,Hombres,25,82.9640605969522
+2016,Sinaloa,Hombres,25,83.8309669280086
+2020,Sinaloa,Mujeres,25,87.441086509051
+2018,Sinaloa,Mujeres,25,84.3679379388113
+2016,Sinaloa,Mujeres,25,83.8664278148708
+2020,Sinaloa,Hablantes de lengua indígena,25,39.0899799104783
+2018,Sinaloa,Hablantes de lengua indígena,25,48.1653242209747
+2016,Sinaloa,Hablantes de lengua indígena,25,56.7729483130295
+2020,Sinaloa,Población con alguna discapacidad,25,84.1597641511736
+2018,Sinaloa,Población con alguna discapacidad,25,78.2209115231776
+2016,Sinaloa,Población con alguna discapacidad,25,77.7612255121681
+2020,Sinaloa,Cambio de residencia,25,
+2018,Sinaloa,Cambio de residencia,25,
+2016,Sinaloa,Cambio de residencia,25,
+2020,Sonora,Total,26,80.2428466178679
+2018,Sonora,Total,26,81.2794034382478
+2016,Sonora,Total,26,83.8433887381061
+2020,Sonora,Hombres,26,79.8136460253002
+2018,Sonora,Hombres,26,80.3127564372685
+2016,Sonora,Hombres,26,83.7464913221997
+2020,Sonora,Mujeres,26,80.6678963834617
+2018,Sonora,Mujeres,26,82.2342208384335
+2016,Sonora,Mujeres,26,83.9395595540888
+2020,Sonora,Hablantes de lengua indígena,26,32.8474634174116
+2018,Sonora,Hablantes de lengua indígena,26,44.355857129394
+2016,Sonora,Hablantes de lengua indígena,26,40.8924800293821
+2020,Sonora,Población con alguna discapacidad,26,79.9479617552567
+2018,Sonora,Población con alguna discapacidad,26,80.2102536893317
+2016,Sonora,Población con alguna discapacidad,26,81.7076729613142
+2020,Sonora,Cambio de residencia,26,
+2018,Sonora,Cambio de residencia,26,
+2016,Sonora,Cambio de residencia,26,
+2020,Tabasco,Total,27,59.2692550322125
+2018,Tabasco,Total,27,64.4551317545834
+2016,Tabasco,Total,27,61.8407509104511
+2020,Tabasco,Hombres,27,58.6867812750121
+2018,Tabasco,Hombres,27,64.2193506529093
+2016,Tabasco,Hombres,27,62.593950624298
+2020,Tabasco,Mujeres,27,59.8157579725354
+2018,Tabasco,Mujeres,27,64.6712033937159
+2016,Tabasco,Mujeres,27,61.1157292499264
+2020,Tabasco,Hablantes de lengua indígena,27,
+2018,Tabasco,Hablantes de lengua indígena,27,60.2488831071019
+2016,Tabasco,Hablantes de lengua indígena,27,51.0487612598059
+2020,Tabasco,Población con alguna discapacidad,27,51.7045213844357
+2018,Tabasco,Población con alguna discapacidad,27,62.9672315650499
+2016,Tabasco,Población con alguna discapacidad,27,61.3012366563972
+2020,Tabasco,Cambio de residencia,27,
+2018,Tabasco,Cambio de residencia,27,
+2016,Tabasco,Cambio de residencia,27,
+2020,Tamaulipas,Total,28,82.2590862379533
+2018,Tamaulipas,Total,28,83.4655969028285
+2016,Tamaulipas,Total,28,82.8201833790808
+2020,Tamaulipas,Hombres,28,81.7115257872132
+2018,Tamaulipas,Hombres,28,82.9422353962679
+2016,Tamaulipas,Hombres,28,82.3870348538254
+2020,Tamaulipas,Mujeres,28,82.7866022387425
+2018,Tamaulipas,Mujeres,28,83.9615295519689
+2016,Tamaulipas,Mujeres,28,83.2280479742916
+2020,Tamaulipas,Hablantes de lengua indígena,28,92.8519140507256
+2018,Tamaulipas,Hablantes de lengua indígena,28,93.0077876934389
+2016,Tamaulipas,Hablantes de lengua indígena,28,91.0053631488046
+2020,Tamaulipas,Población con alguna discapacidad,28,77.4144834232462
+2018,Tamaulipas,Población con alguna discapacidad,28,87.0360061785968
+2016,Tamaulipas,Población con alguna discapacidad,28,82.6175439668273
+2020,Tamaulipas,Cambio de residencia,28,
+2018,Tamaulipas,Cambio de residencia,28,
+2016,Tamaulipas,Cambio de residencia,28,
+2020,Tlaxcala,Total,29,41.7013321007846
+2018,Tlaxcala,Total,29,40.7139331244366
+2016,Tlaxcala,Total,29,38.8959225206579
+2020,Tlaxcala,Hombres,29,41.8066439825043
+2018,Tlaxcala,Hombres,29,39.6800867561339
+2016,Tlaxcala,Hombres,29,39.1993133789552
+2020,Tlaxcala,Mujeres,29,41.6039496400929
+2018,Tlaxcala,Mujeres,29,41.6706636933707
+2016,Tlaxcala,Mujeres,29,38.6157587931186
+2020,Tlaxcala,Hablantes de lengua indígena,29,29.1799845696021
+2018,Tlaxcala,Hablantes de lengua indígena,29,
+2016,Tlaxcala,Hablantes de lengua indígena,29,
+2020,Tlaxcala,Población con alguna discapacidad,29,38.7248490245735
+2018,Tlaxcala,Población con alguna discapacidad,29,39.0482682430924
+2016,Tlaxcala,Población con alguna discapacidad,29,40.1564519958842
+2020,Tlaxcala,Cambio de residencia,29,
+2018,Tlaxcala,Cambio de residencia,29,
+2016,Tlaxcala,Cambio de residencia,29,
+2020,Veracruz de Ignacio de la Llave,Total,30,41.6817524516457
+2018,Veracruz de Ignacio de la Llave,Total,30,45.6056607779779
+2016,Veracruz de Ignacio de la Llave,Total,30,47.837509151643
+2020,Veracruz de Ignacio de la Llave,Hombres,30,41.4744840269684
+2018,Veracruz de Ignacio de la Llave,Hombres,30,45.2615232836862
+2016,Veracruz de Ignacio de la Llave,Hombres,30,46.9913888853141
+2020,Veracruz de Ignacio de la Llave,Mujeres,30,41.8751116424637
+2018,Veracruz de Ignacio de la Llave,Mujeres,30,45.926881653406
+2016,Veracruz de Ignacio de la Llave,Mujeres,30,48.635862269607
+2020,Veracruz de Ignacio de la Llave,Hablantes de lengua indígena,30,16.5939589127995
+2018,Veracruz de Ignacio de la Llave,Hablantes de lengua indígena,30,28.0009240417981
+2016,Veracruz de Ignacio de la Llave,Hablantes de lengua indígena,30,43.4021710817068
+2020,Veracruz de Ignacio de la Llave,Población con alguna discapacidad,30,43.903340816057
+2018,Veracruz de Ignacio de la Llave,Población con alguna discapacidad,30,48.2613635739888
+2016,Veracruz de Ignacio de la Llave,Población con alguna discapacidad,30,42.9893281931595
+2020,Veracruz de Ignacio de la Llave,Cambio de residencia,30,
+2018,Veracruz de Ignacio de la Llave,Cambio de residencia,30,
+2016,Veracruz de Ignacio de la Llave,Cambio de residencia,30,
+2020,Yucatán,Total,31,85.2582688452354
+2018,Yucatán,Total,31,84.2768624012467
+2016,Yucatán,Total,31,82.6381140027094
+2020,Yucatán,Hombres,31,84.7477406303275
+2018,Yucatán,Hombres,31,83.8694942845195
+2016,Yucatán,Hombres,31,82.2992198471633
+2020,Yucatán,Mujeres,31,85.7166509486793
+2018,Yucatán,Mujeres,31,84.6753226234009
+2016,Yucatán,Mujeres,31,82.9624528457945
+2020,Yucatán,Hablantes de lengua indígena,31,75.9012595261515
+2018,Yucatán,Hablantes de lengua indígena,31,78.3778610914086
+2016,Yucatán,Hablantes de lengua indígena,31,73.1158248573862
+2020,Yucatán,Población con alguna discapacidad,31,84.2434743090863
+2018,Yucatán,Población con alguna discapacidad,31,80.758328949205
+2016,Yucatán,Población con alguna discapacidad,31,80.5643276963464
+2020,Yucatán,Cambio de residencia,31,
+2018,Yucatán,Cambio de residencia,31,
+2016,Yucatán,Cambio de residencia,31,
+2020,Zacatecas,Total,32,37.0521082673541
+2018,Zacatecas,Total,32,36.9907166967609
+2016,Zacatecas,Total,32,41.4638827027437
+2020,Zacatecas,Hombres,32,36.47689076433
+2018,Zacatecas,Hombres,32,37.5129984453345
+2016,Zacatecas,Hombres,32,41.6232127729072
+2020,Zacatecas,Mujeres,32,37.5870814434345
+2018,Zacatecas,Mujeres,32,36.506711669539
+2016,Zacatecas,Mujeres,32,41.3156690562831
+2020,Zacatecas,Hablantes de lengua indígena,32,
+2018,Zacatecas,Hablantes de lengua indígena,32,
+2016,Zacatecas,Hablantes de lengua indígena,32,
+2020,Zacatecas,Población con alguna discapacidad,32,36.1584898057237
+2018,Zacatecas,Población con alguna discapacidad,32,38.1344744643956
+2016,Zacatecas,Población con alguna discapacidad,32,44.2729426674381
+2020,Zacatecas,Cambio de residencia,32,
+2018,Zacatecas,Cambio de residencia,32,
+2016,Zacatecas,Cambio de residencia,32,
