@@ -1,14 +1,14 @@
 ﻿Year,Entidad federativa,Municipio,GeoCode,Value
-2020,"Estados Unidos Mexicanos",,"00",52.47631256
-2018,"Estados Unidos Mexicanos",,"00",49.8843391449441
-2016,"Estados Unidos Mexicanos",,"00",50.8
-2015,"Estados Unidos Mexicanos",,"00",51.71318522
-2010,"Estados Unidos Mexicanos",,"00",51.99791869
-2020,"Aguascalientes",,"01",38.7020100135
-2018,"Aguascalientes",,"01",38.24698324
-2016,"Aguascalientes",,"01",40.4838581138262
-2015,"Aguascalientes",,"01",
-2010,"Aguascalientes",,"01",
+2020,"Estados Unidos Mexicanos",,"0",52.47631256
+2018,"Estados Unidos Mexicanos",,"0",49.8843391449441
+2016,"Estados Unidos Mexicanos",,"0",50.8
+2015,"Estados Unidos Mexicanos",,"0",51.71318522
+2010,"Estados Unidos Mexicanos",,"0",51.99791869
+2020,"Aguascalientes",,"1",38.7020100135
+2018,"Aguascalientes",,"1",38.24698324
+2016,"Aguascalientes",,"1",40.4838581138262
+2015,"Aguascalientes",,"1",
+2010,"Aguascalientes",,"1",
 2020,"Aguascalientes","Aguascalientes","01001",33.6609203898
 2018,"Aguascalientes","Aguascalientes","01001",
 2016,"Aguascalientes","Aguascalientes","01001",
@@ -64,11 +64,11 @@
 2016,"Aguascalientes","San Francisco de los Romo","01011",
 2015,"Aguascalientes","San Francisco de los Romo","01011",44.9896633233
 2010,"Aguascalientes","San Francisco de los Romo","01011",52.3853195283
-2020,"Baja California",,"02",30.4331922343
-2018,"Baja California",,"02",32.40023679
-2016,"Baja California",,"02",30.3325107593886
-2015,"Baja California",,"02",
-2010,"Baja California",,"02",
+2020,"Baja California",,"2",30.4331922343
+2018,"Baja California",,"2",32.40023679
+2016,"Baja California",,"2",30.3325107593886
+2015,"Baja California",,"2",
+2010,"Baja California",,"2",
 2020,"Baja California","Ensenada","02001",27.7597284084
 2018,"Baja California","Ensenada","02001",
 2016,"Baja California","Ensenada","02001",
@@ -99,11 +99,11 @@
 2016,"Baja California","San Quintín","02006",
 2015,"Baja California","San Quintín","02006",
 2010,"Baja California","San Quintín","02006",
-2020,"Baja California Sur",,"03",35.850079867
-2018,"Baja California Sur",,"03",23.91830429
-2016,"Baja California Sur",,"03",30.1685879461349
-2015,"Baja California Sur",,"03",
-2010,"Baja California Sur",,"03",
+2020,"Baja California Sur",,"3",35.850079867
+2018,"Baja California Sur",,"3",23.91830429
+2016,"Baja California Sur",,"3",30.1685879461349
+2015,"Baja California Sur",,"3",
+2010,"Baja California Sur",,"3",
 2020,"Baja California Sur","Comondú","03001",42.626491628
 2018,"Baja California Sur","Comondú","03001",
 2016,"Baja California Sur","Comondú","03001",
@@ -129,11 +129,11 @@
 2016,"Baja California Sur","Loreto","03009",
 2015,"Baja California Sur","Loreto","03009",50.986068627
 2010,"Baja California Sur","Loreto","03009",45.6678641199
-2020,"Campeche",,"04",57.7088712016
-2018,"Campeche",,"04",54.89906618
-2016,"Campeche",,"04",51.2499096043353
-2015,"Campeche",,"04",
-2010,"Campeche",,"04",
+2020,"Campeche",,"4",57.7088712016
+2018,"Campeche",,"4",54.89906618
+2016,"Campeche",,"4",51.2499096043353
+2015,"Campeche",,"4",
+2010,"Campeche",,"4",
 2020,"Campeche","Calkiní","04001",68.6432508633
 2018,"Campeche","Calkiní","04001",
 2016,"Campeche","Calkiní","04001",
@@ -199,11 +199,11 @@
 2016,"Campeche","Dzitbalché","04013",
 2015,"Campeche","Dzitbalché","04013",
 2010,"Campeche","Dzitbalché","04013",
-2020,"Coahuila de Zaragoza",,"05",40.167919375
-2018,"Coahuila de Zaragoza",,"05",40.08167737
-2016,"Coahuila de Zaragoza",,"05",43.0739091104073
-2015,"Coahuila de Zaragoza",,"05",
-2010,"Coahuila de Zaragoza",,"05",
+2020,"Coahuila de Zaragoza",,"5",40.167919375
+2018,"Coahuila de Zaragoza",,"5",40.08167737
+2016,"Coahuila de Zaragoza",,"5",43.0739091104073
+2015,"Coahuila de Zaragoza",,"5",
+2010,"Coahuila de Zaragoza",,"5",
 2020,"Coahuila de Zaragoza","Abasolo","05001",12.5840886203
 2018,"Coahuila de Zaragoza","Abasolo","05001",
 2016,"Coahuila de Zaragoza","Abasolo","05001",
@@ -394,11 +394,11 @@
 2016,"Coahuila de Zaragoza","Zaragoza","05038",
 2015,"Coahuila de Zaragoza","Zaragoza","05038",50.5677661183
 2010,"Coahuila de Zaragoza","Zaragoza","05038",54.2969687191
-2020,"Colima",,"06",33.7749462508
-2018,"Colima",,"06",36.62409322
-2016,"Colima",,"06",39.267723887266
-2015,"Colima",,"06",
-2010,"Colima",,"06",
+2020,"Colima",,"6",33.7749462508
+2018,"Colima",,"6",36.62409322
+2016,"Colima",,"6",39.267723887266
+2015,"Colima",,"6",
+2010,"Colima",,"6",
 2020,"Colima","Armería","06001",42.2761317095
 2018,"Colima","Armería","06001",
 2016,"Colima","Armería","06001",
@@ -449,11 +449,11 @@
 2016,"Colima","Villa de Álvarez","06010",
 2015,"Colima","Villa de Álvarez","06010",32.1480089252
 2010,"Colima","Villa de Álvarez","06010",31.1102545446
-2020,"Chiapas",,"07",78.7739416698
-2018,"Chiapas",,"07",80.96086822
-2016,"Chiapas",,"07",81.5216625558788
-2015,"Chiapas",,"07",
-2010,"Chiapas",,"07",
+2020,"Chiapas",,"7",78.7739416698
+2018,"Chiapas",,"7",80.96086822
+2016,"Chiapas",,"7",81.5216625558788
+2015,"Chiapas",,"7",
+2010,"Chiapas",,"7",
 2020,"Chiapas","Acacoyagua","07001",78.0095730553
 2018,"Chiapas","Acacoyagua","07001",
 2016,"Chiapas","Acacoyagua","07001",
@@ -1074,11 +1074,11 @@
 2016,"Chiapas","Honduras de la Sierra","07125",
 2015,"Chiapas","Honduras de la Sierra","07125",
 2010,"Chiapas","Honduras de la Sierra","07125",
-2020,"Chihuahua",,"08",37.6483787529
-2018,"Chihuahua",,"08",38.38577748
-2016,"Chihuahua",,"08",43.5143655529303
-2015,"Chihuahua",,"08",
-2010,"Chihuahua",,"08",
+2020,"Chihuahua",,"8",37.6483787529
+2018,"Chihuahua",,"8",38.38577748
+2016,"Chihuahua",,"8",43.5143655529303
+2015,"Chihuahua",,"8",
+2010,"Chihuahua",,"8",
 2020,"Chihuahua","Ahumada","08001",51.0516147536
 2018,"Chihuahua","Ahumada","08001",
 2016,"Chihuahua","Ahumada","08001",
@@ -1414,11 +1414,11 @@
 2016,"Chihuahua","Valle de Zaragoza","08067",
 2015,"Chihuahua","Valle de Zaragoza","08067",53.2356813693
 2010,"Chihuahua","Valle de Zaragoza","08067",49.160326087
-2020,"Ciudad de México",,"09",43.8120395181
-2018,"Ciudad de México",,"09",38.57551035
-2016,"Ciudad de México",,"09",34.0078064242007
-2015,"Ciudad de México",,"09",
-2010,"Ciudad de México",,"09",
+2020,"Ciudad de México",,"9",43.8120395181
+2018,"Ciudad de México",,"9",38.57551035
+2016,"Ciudad de México",,"9",34.0078064242007
+2015,"Ciudad de México",,"9",
+2010,"Ciudad de México",,"9",
 2020,"Ciudad de México","Azcapotzalco","09002",35.9033759856
 2018,"Ciudad de México","Azcapotzalco","09002",
 2016,"Ciudad de México","Azcapotzalco","09002",
