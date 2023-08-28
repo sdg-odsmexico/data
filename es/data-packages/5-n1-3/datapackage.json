@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Edad brecha",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (5 a 11 años)",
+                "De 5 a 7 años",
+                "De 8 a 9 años",
+                "De 10 a 11 años",
+                ""
+              ]
+            },
+            "title": "Edad brecha"
           },
           {
             "name": "Value",

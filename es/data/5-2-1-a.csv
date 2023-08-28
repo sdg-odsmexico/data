@@ -1,1 +1,595 @@
-Year,Value
+Year,Entidad federativa,Condición de violencia,Tipo de violencia,GeoCode,Value
+2021,Estados Unidos Mexicanos,"Con incidentes de violencia física, sexual o emocional",,0,19.2640397378533
+2016,Estados Unidos Mexicanos,"Con incidentes de violencia física, sexual o emocional",,0,23.8736238200721
+2011,Estados Unidos Mexicanos,"Con incidentes de violencia física, sexual o emocional",,0,24.6639112403476
+2021,Aguascalientes,"Con incidentes de violencia física, sexual o emocional",,1,23.3506723230748
+2016,Aguascalientes,"Con incidentes de violencia física, sexual o emocional",,1,31.408138522823705
+2011,Aguascalientes,"Con incidentes de violencia física, sexual o emocional",,1,24.680951125489
+2021,Baja California,"Con incidentes de violencia física, sexual o emocional",,2,12.5588711046766
+2016,Baja California,"Con incidentes de violencia física, sexual o emocional",,2,18.6803866965894
+2011,Baja California,"Con incidentes de violencia física, sexual o emocional",,2,20.2533622886815
+2021,Baja California Sur,"Con incidentes de violencia física, sexual o emocional",,3,16.718308055018
+2016,Baja California Sur,"Con incidentes de violencia física, sexual o emocional",,3,18.131718085066
+2011,Baja California Sur,"Con incidentes de violencia física, sexual o emocional",,3,21.4285714285714
+2021,Campeche,"Con incidentes de violencia física, sexual o emocional",,4,18.750576096814
+2016,Campeche,"Con incidentes de violencia física, sexual o emocional",,4,18.3289237383027
+2011,Campeche,"Con incidentes de violencia física, sexual o emocional",,4,23.043038045885694
+2021,Coahuila de Zaragoza,"Con incidentes de violencia física, sexual o emocional",,5,20.5712988380013
+2016,Coahuila de Zaragoza,"Con incidentes de violencia física, sexual o emocional",,5,25.1422292899352
+2011,Coahuila de Zaragoza,"Con incidentes de violencia física, sexual o emocional",,5,20.9185440175989
+2021,Colima,"Con incidentes de violencia física, sexual o emocional",,6,21.5528690982834
+2016,Colima,"Con incidentes de violencia física, sexual o emocional",,6,23.3746611900297
+2011,Colima,"Con incidentes de violencia física, sexual o emocional",,6,26.7627309504942
+2021,Chiapas,"Con incidentes de violencia física, sexual o emocional",,7,11.4550935907955
+2016,Chiapas,"Con incidentes de violencia física, sexual o emocional",,7,16.2897253633177
+2011,Chiapas,"Con incidentes de violencia física, sexual o emocional",,7,16.1512136405169
+2021,Chihuahua,"Con incidentes de violencia física, sexual o emocional",,8,18.4923979688895
+2016,Chihuahua,"Con incidentes de violencia física, sexual o emocional",,8,25.9531805383334
+2011,Chihuahua,"Con incidentes de violencia física, sexual o emocional",,8,25.5252859306008
+2021,Ciudad de México,"Con incidentes de violencia física, sexual o emocional",,9,17.6610610214671
+2016,Ciudad de México,"Con incidentes de violencia física, sexual o emocional",,9,26.565203394824
+2011,Ciudad de México,"Con incidentes de violencia física, sexual o emocional",,9,24.4425147266446
+2021,Durango,"Con incidentes de violencia física, sexual o emocional",,10,21.1441062730896
+2016,Durango,"Con incidentes de violencia física, sexual o emocional",,10,26.0246234509823
+2011,Durango,"Con incidentes de violencia física, sexual o emocional",,10,22.580477628993595
+2021,Guanajuato,"Con incidentes de violencia física, sexual o emocional",,11,20.8178052319475
+2016,Guanajuato,"Con incidentes de violencia física, sexual o emocional",,11,22.1940010690695
+2011,Guanajuato,"Con incidentes de violencia física, sexual o emocional",,11,21.378462574011404
+2021,Guerrero,"Con incidentes de violencia física, sexual o emocional",,12,23.6772618400194
+2016,Guerrero,"Con incidentes de violencia física, sexual o emocional",,12,20.564371660672
+2011,Guerrero,"Con incidentes de violencia física, sexual o emocional",,12,23.5316591128481
+2021,Hidalgo,"Con incidentes de violencia física, sexual o emocional",,13,22.1057430130971
+2016,Hidalgo,"Con incidentes de violencia física, sexual o emocional",,13,23.570398732229098
+2011,Hidalgo,"Con incidentes de violencia física, sexual o emocional",,13,21.570591582676
+2021,Jalisco,"Con incidentes de violencia física, sexual o emocional",,14,20.7403999397591
+2016,Jalisco,"Con incidentes de violencia física, sexual o emocional",,14,27.9298338064819
+2011,Jalisco,"Con incidentes de violencia física, sexual o emocional",,14,23.7013444962818
+2021,México,"Con incidentes de violencia física, sexual o emocional",,15,19.9715661760523
+2016,México,"Con incidentes de violencia física, sexual o emocional",,15,29.125780214186097
+2011,México,"Con incidentes de violencia física, sexual o emocional",,15,32.9230706833973
+2021,Michoacán de Ocampo,"Con incidentes de violencia física, sexual o emocional",,16,22.3135404059845
+2016,Michoacán de Ocampo,"Con incidentes de violencia física, sexual o emocional",,16,24.8352580756118
+2011,Michoacán de Ocampo,"Con incidentes de violencia física, sexual o emocional",,16,26.3674685259184
+2021,Morelos,"Con incidentes de violencia física, sexual o emocional",,17,18.1302821513042
+2016,Morelos,"Con incidentes de violencia física, sexual o emocional",,17,23.7572624837694
+2011,Morelos,"Con incidentes de violencia física, sexual o emocional",,17,24.1882352226142
+2021,Nayarit,"Con incidentes de violencia física, sexual o emocional",,18,21.9385409588651
+2016,Nayarit,"Con incidentes de violencia física, sexual o emocional",,18,22.379242205277496
+2011,Nayarit,"Con incidentes de violencia física, sexual o emocional",,18,30.9338397420374
+2021,Nuevo León,"Con incidentes de violencia física, sexual o emocional",,19,16.5997954421186
+2016,Nuevo León,"Con incidentes de violencia física, sexual o emocional",,19,17.619449250049
+2011,Nuevo León,"Con incidentes de violencia física, sexual o emocional",,19,22.8303056327415
+2021,Oaxaca,"Con incidentes de violencia física, sexual o emocional",,20,19.8151768956748
+2016,Oaxaca,"Con incidentes de violencia física, sexual o emocional",,20,22.5255533965137
+2011,Oaxaca,"Con incidentes de violencia física, sexual o emocional",,20,22.607886070398298
+2021,Puebla,"Con incidentes de violencia física, sexual o emocional",,21,19.7795202474472
+2016,Puebla,"Con incidentes de violencia física, sexual o emocional",,21,23.6506497047949
+2011,Puebla,"Con incidentes de violencia física, sexual o emocional",,21,25.4376900769686
+2021,Querétaro,"Con incidentes de violencia física, sexual o emocional",,22,23.4920907629438
+2016,Querétaro,"Con incidentes de violencia física, sexual o emocional",,22,24.4573513533639
+2011,Querétaro,"Con incidentes de violencia física, sexual o emocional",,22,22.6881184930097
+2021,Quintana Roo,"Con incidentes de violencia física, sexual o emocional",,23,17.2975819651284
+2016,Quintana Roo,"Con incidentes de violencia física, sexual o emocional",,23,23.025001451069
+2011,Quintana Roo,"Con incidentes de violencia física, sexual o emocional",,23,25.1193198821327
+2021,San Luis Potosí,"Con incidentes de violencia física, sexual o emocional",,24,19.9138039123218
+2016,San Luis Potosí,"Con incidentes de violencia física, sexual o emocional",,24,21.904275822461
+2011,San Luis Potosí,"Con incidentes de violencia física, sexual o emocional",,24,23.5495385135278
+2021,Sinaloa,"Con incidentes de violencia física, sexual o emocional",,25,17.7751075368536
+2016,Sinaloa,"Con incidentes de violencia física, sexual o emocional",,25,21.5290972374018
+2011,Sinaloa,"Con incidentes de violencia física, sexual o emocional",,25,20.2409392019882
+2021,Sonora,"Con incidentes de violencia física, sexual o emocional",,26,20.7327802216159
+2016,Sonora,"Con incidentes de violencia física, sexual o emocional",,26,21.8093686880043
+2011,Sonora,"Con incidentes de violencia física, sexual o emocional",,26,28.791295379273706
+2021,Tabasco,"Con incidentes de violencia física, sexual o emocional",,27,19.5652300378481
+2016,Tabasco,"Con incidentes de violencia física, sexual o emocional",,27,20.1280812762667
+2011,Tabasco,"Con incidentes de violencia física, sexual o emocional",,27,21.4015159259456
+2021,Tamaulipas,"Con incidentes de violencia física, sexual o emocional",,28,15.6080579986847
+2016,Tamaulipas,"Con incidentes de violencia física, sexual o emocional",,28,17.9856278496438
+2011,Tamaulipas,"Con incidentes de violencia física, sexual o emocional",,28,22.250115351094603
+2021,Tlaxcala,"Con incidentes de violencia física, sexual o emocional",,29,19.1566826046468
+2016,Tlaxcala,"Con incidentes de violencia física, sexual o emocional",,29,22.998013270831404
+2011,Tlaxcala,"Con incidentes de violencia física, sexual o emocional",,29,24.4705301714335
+2021,Veracruz de Ignacio de la Llave,"Con incidentes de violencia física, sexual o emocional",,30,20.052628913284
+2016,Veracruz de Ignacio de la Llave,"Con incidentes de violencia física, sexual o emocional",,30,22.5725417608343
+2011,Veracruz de Ignacio de la Llave,"Con incidentes de violencia física, sexual o emocional",,30,23.4233697303515
+2021,Yucatán,"Con incidentes de violencia física, sexual o emocional",,31,21.1512630247389
+2016,Yucatán,"Con incidentes de violencia física, sexual o emocional",,31,25.2580598467776
+2011,Yucatán,"Con incidentes de violencia física, sexual o emocional",,31,24.0811796739548
+2021,Zacatecas,"Con incidentes de violencia física, sexual o emocional",,32,19.271996690894
+2016,Zacatecas,"Con incidentes de violencia física, sexual o emocional",,32,24.2906320876185
+2011,Zacatecas,"Con incidentes de violencia física, sexual o emocional",,32,27.2003473948335
+2021,Estados Unidos Mexicanos,"Sin al menos un incidente de violencia física, sexual o emocional",,0,80.6492814403392
+2016,Estados Unidos Mexicanos,"Sin al menos un incidente de violencia física, sexual o emocional",,0,75.9442230122408
+2011,Estados Unidos Mexicanos,"Sin al menos un incidente de violencia física, sexual o emocional",,0,75.0292368998401
+2021,Aguascalientes,"Sin al menos un incidente de violencia física, sexual o emocional",,1,76.529778590595
+2016,Aguascalientes,"Sin al menos un incidente de violencia física, sexual o emocional",,1,68.2858063653325
+2011,Aguascalientes,"Sin al menos un incidente de violencia física, sexual o emocional",,1,75.3057477489033
+2021,Baja California,"Sin al menos un incidente de violencia física, sexual o emocional",,2,87.3679961631381
+2016,Baja California,"Sin al menos un incidente de violencia física, sexual o emocional",,2,81.1570389075929
+2011,Baja California,"Sin al menos un incidente de violencia física, sexual o emocional",,2,79.6058709093015
+2021,Baja California Sur,"Sin al menos un incidente de violencia física, sexual o emocional",,3,83.1992965231209
+2016,Baja California Sur,"Sin al menos un incidente de violencia física, sexual o emocional",,3,81.4237599277841
+2011,Baja California Sur,"Sin al menos un incidente de violencia física, sexual o emocional",,3,78.0682067242362
+2021,Campeche,"Sin al menos un incidente de violencia física, sexual o emocional",,4,81.2202845546586
+2016,Campeche,"Sin al menos un incidente de violencia física, sexual o emocional",,4,81.4834229210026
+2011,Campeche,"Sin al menos un incidente de violencia física, sexual o emocional",,4,76.8173924048853
+2021,Coahuila de Zaragoza,"Sin al menos un incidente de violencia física, sexual o emocional",,5,79.1919499425536
+2016,Coahuila de Zaragoza,"Sin al menos un incidente de violencia física, sexual o emocional",,5,74.7708580819256
+2011,Coahuila de Zaragoza,"Sin al menos un incidente de violencia física, sexual o emocional",,5,78.96046360044
+2021,Colima,"Sin al menos un incidente de violencia física, sexual o emocional",,6,78.2968209991146
+2016,Colima,"Sin al menos un incidente de violencia física, sexual o emocional",,6,76.4450197781507
+2011,Colima,"Sin al menos un incidente de violencia física, sexual o emocional",,6,72.9540809942862
+2021,Chiapas,"Sin al menos un incidente de violencia física, sexual o emocional",,7,88.5449064092045
+2016,Chiapas,"Sin al menos un incidente de violencia física, sexual o emocional",,7,83.6140871017124
+2011,Chiapas,"Sin al menos un incidente de violencia física, sexual o emocional",,7,83.7427129307758
+2021,Chihuahua,"Sin al menos un incidente de violencia física, sexual o emocional",,8,81.5076020311105
+2016,Chihuahua,"Sin al menos un incidente de violencia física, sexual o emocional",,8,73.7998163762356
+2011,Chihuahua,"Sin al menos un incidente de violencia física, sexual o emocional",,8,73.749313391674
+2021,Ciudad de México,"Sin al menos un incidente de violencia física, sexual o emocional",,9,82.0720653579659
+2016,Ciudad de México,"Sin al menos un incidente de violencia física, sexual o emocional",,9,73.1852240294937
+2011,Ciudad de México,"Sin al menos un incidente de violencia física, sexual o emocional",,9,75.5162812654351
+2021,Durango,"Sin al menos un incidente de violencia física, sexual o emocional",,10,78.7432597751262
+2016,Durango,"Sin al menos un incidente de violencia física, sexual o emocional",,10,73.6643265542448
+2011,Durango,"Sin al menos un incidente de violencia física, sexual o emocional",,10,76.6593669122039
+2021,Guanajuato,"Sin al menos un incidente de violencia física, sexual o emocional",,11,79.0575277184072
+2016,Guanajuato,"Sin al menos un incidente de violencia física, sexual o emocional",,11,77.4940636042054
+2011,Guanajuato,"Sin al menos un incidente de violencia física, sexual o emocional",,11,78.3611845631919
+2021,Guerrero,"Sin al menos un incidente de violencia física, sexual o emocional",,12,76.2185220755277
+2016,Guerrero,"Sin al menos un incidente de violencia física, sexual o emocional",,12,79.3234491557322
+2011,Guerrero,"Sin al menos un incidente de violencia física, sexual o emocional",,12,76.2602082921515
+2021,Hidalgo,"Sin al menos un incidente de violencia física, sexual o emocional",,13,77.8942569869029
+2016,Hidalgo,"Sin al menos un incidente de violencia física, sexual o emocional",,13,76.3596566041008
+2011,Hidalgo,"Sin al menos un incidente de violencia física, sexual o emocional",,13,78.2249109652834
+2021,Jalisco,"Sin al menos un incidente de violencia física, sexual o emocional",,14,79.2037945124545
+2016,Jalisco,"Sin al menos un incidente de violencia física, sexual o emocional",,14,71.8107136786466
+2011,Jalisco,"Sin al menos un incidente de violencia física, sexual o emocional",,14,76.0199020654196
+2021,México,"Sin al menos un incidente de violencia física, sexual o emocional",,15,79.9459870817511
+2016,México,"Sin al menos un incidente de violencia física, sexual o emocional",,15,70.6626644480661
+2011,México,"Sin al menos un incidente de violencia física, sexual o emocional",,15,67.0488103674728
+2021,Michoacán de Ocampo,"Sin al menos un incidente de violencia física, sexual o emocional",,16,77.6255422739615
+2016,Michoacán de Ocampo,"Sin al menos un incidente de violencia física, sexual o emocional",,16,75.0754468919956
+2011,Michoacán de Ocampo,"Sin al menos un incidente de violencia física, sexual o emocional",,16,73.1561989585072
+2021,Morelos,"Sin al menos un incidente de violencia física, sexual o emocional",,17,81.776754553789
+2016,Morelos,"Sin al menos un incidente de violencia física, sexual o emocional",,17,75.9908888839983
+2011,Morelos,"Sin al menos un incidente de violencia física, sexual o emocional",,17,75.6614914287972
+2021,Nayarit,"Sin al menos un incidente de violencia física, sexual o emocional",,18,78.0614590411349
+2016,Nayarit,"Sin al menos un incidente de violencia física, sexual o emocional",,18,77.414531999029
+2011,Nayarit,"Sin al menos un incidente de violencia física, sexual o emocional",,18,68.8652961343852
+2021,Nuevo León,"Sin al menos un incidente de violencia física, sexual o emocional",,19,83.3475550194438
+2016,Nuevo León,"Sin al menos un incidente de violencia física, sexual o emocional",,19,82.2536495845412
+2011,Nuevo León,"Sin al menos un incidente de violencia física, sexual o emocional",,19,76.8533206523604
+2021,Oaxaca,"Sin al menos un incidente de violencia física, sexual o emocional",,20,80.1055161452376
+2016,Oaxaca,"Sin al menos un incidente de violencia física, sexual o emocional",,20,77.4008687302561
+2011,Oaxaca,"Sin al menos un incidente de violencia física, sexual o emocional",,20,77.3372392973273
+2021,Puebla,"Sin al menos un incidente de violencia física, sexual o emocional",,21,80.155447203924
+2016,Puebla,"Sin al menos un incidente de violencia física, sexual o emocional",,21,76.2909615703441
+2011,Puebla,"Sin al menos un incidente de violencia física, sexual o emocional",,21,73.7292423388379
+2021,Querétaro,"Sin al menos un incidente de violencia física, sexual o emocional",,22,76.4443185025609
+2016,Querétaro,"Sin al menos un incidente de violencia física, sexual o emocional",,22,75.4170269155935
+2011,Querétaro,"Sin al menos un incidente de violencia física, sexual o emocional",,22,77.1206877320208
+2021,Quintana Roo,"Sin al menos un incidente de violencia física, sexual o emocional",,23,82.5894607073074
+2016,Quintana Roo,"Sin al menos un incidente de violencia física, sexual o emocional",,23,76.9285643404002
+2011,Quintana Roo,"Sin al menos un incidente de violencia física, sexual o emocional",,23,74.3854889548561
+2021,San Luis Potosí,"Sin al menos un incidente de violencia física, sexual o emocional",,24,80.0861960876782
+2016,San Luis Potosí,"Sin al menos un incidente de violencia física, sexual o emocional",,24,77.8939800603451
+2011,San Luis Potosí,"Sin al menos un incidente de violencia física, sexual o emocional",,24,75.6628831038036
+2021,Sinaloa,"Sin al menos un incidente de violencia física, sexual o emocional",,25,82.1455543594691
+2016,Sinaloa,"Sin al menos un incidente de violencia física, sexual o emocional",,25,78.4270920324255
+2011,Sinaloa,"Sin al menos un incidente de violencia física, sexual o emocional",,25,79.1784664561495
+2021,Sonora,"Sin al menos un incidente de violencia física, sexual o emocional",,26,79.1924197709598
+2016,Sonora,"Sin al menos un incidente de violencia física, sexual o emocional",,26,77.9617618936818
+2011,Sonora,"Sin al menos un incidente de violencia física, sexual o emocional",,26,71.2087046207263
+2021,Tabasco,"Sin al menos un incidente de violencia física, sexual o emocional",,27,80.3413423557486
+2016,Tabasco,"Sin al menos un incidente de violencia física, sexual o emocional",,27,79.6120007016798
+2011,Tabasco,"Sin al menos un incidente de violencia física, sexual o emocional",,27,77.803720165686
+2021,Tamaulipas,"Sin al menos un incidente de violencia física, sexual o emocional",,28,84.3302958548603
+2016,Tamaulipas,"Sin al menos un incidente de violencia física, sexual o emocional",,28,81.7869488469858
+2011,Tamaulipas,"Sin al menos un incidente de violencia física, sexual o emocional",,28,77.48765316062
+2021,Tlaxcala,"Sin al menos un incidente de violencia física, sexual o emocional",,29,80.80947201202
+2016,Tlaxcala,"Sin al menos un incidente de violencia física, sexual o emocional",,29,76.6422978535534
+2011,Tlaxcala,"Sin al menos un incidente de violencia física, sexual o emocional",,29,75.2655211957284
+2021,Veracruz de Ignacio de la Llave,"Sin al menos un incidente de violencia física, sexual o emocional",,30,79.947371086716
+2016,Veracruz de Ignacio de la Llave,"Sin al menos un incidente de violencia física, sexual o emocional",,30,77.3176591621804
+2011,Veracruz de Ignacio de la Llave,"Sin al menos un incidente de violencia física, sexual o emocional",,30,75.7901022000189
+2021,Yucatán,"Sin al menos un incidente de violencia física, sexual o emocional",,31,78.6820487711191
+2016,Yucatán,"Sin al menos un incidente de violencia física, sexual o emocional",,31,74.4156552987093
+2011,Yucatán,"Sin al menos un incidente de violencia física, sexual o emocional",,31,75.4893005503904
+2021,Zacatecas,"Sin al menos un incidente de violencia física, sexual o emocional",,32,80.4428461687813
+2016,Zacatecas,"Sin al menos un incidente de violencia física, sexual o emocional",,32,75.5608590171118
+2011,Zacatecas,"Sin al menos un incidente de violencia física, sexual o emocional",,32,72.7607475276609
+2021,Estados Unidos Mexicanos,No especificado,,0,0.0866788218075231
+2016,Estados Unidos Mexicanos,No especificado,,0,0.182153167687116
+2011,Estados Unidos Mexicanos,No especificado,,0,0.306851859812329
+2021,Aguascalientes,No especificado,,1,0.1195490863301799
+2016,Aguascalientes,No especificado,,1,0.30605511184385
+2011,Aguascalientes,No especificado,,1,0.0133011256077546
+2021,Baja California,No especificado,,2,0.0731327321852537
+2016,Baja California,No especificado,,2,0.162574395817668
+2011,Baja California,No especificado,,2,0.140766802017059
+2021,Baja California Sur,No especificado,,3,0.0823954218610979
+2016,Baja California Sur,No especificado,,3,0.444521987149825
+2011,Baja California Sur,No especificado,,3,0.50322184719239
+2021,Campeche,No especificado,,4,0.0291393485274222
+2016,Campeche,No especificado,,4,0.187653340694721
+2011,Campeche,No especificado,,4,0.139569549229028
+2021,Coahuila de Zaragoza,No especificado,,5,0.236751219445075
+2016,Coahuila de Zaragoza,No especificado,,5,0.0869126281391968
+2011,Coahuila de Zaragoza,No especificado,,5,0.120992381961136
+2021,Colima,No especificado,,6,0.150309902602039
+2016,Colima,No especificado,,6,0.180319031819666
+2011,Colima,No especificado,,6,0.283188055219585
+2021,Chiapas,No especificado,,7,0.0
+2016,Chiapas,No especificado,,7,0.0961875349699
+2011,Chiapas,No especificado,,7,0.10607342870726
+2021,Chihuahua,No especificado,,8,0.0
+2016,Chihuahua,No especificado,,8,0.247003085431033
+2011,Chihuahua,No especificado,,8,0.725400677725203
+2021,Ciudad de México,No especificado,,9,0.266873620567018
+2016,Ciudad de México,No especificado,,9,0.249572575682258
+2011,Ciudad de México,No especificado,,9,0.0412040079202612
+2021,Durango,No especificado,,10,0.112633951784179
+2016,Durango,No especificado,,10,0.311049994772945
+2011,Durango,No especificado,,10,0.760155458802552
+2021,Guanajuato,No especificado,,11,0.124667049645258
+2016,Guanajuato,No especificado,,11,0.311935326725108
+2011,Guanajuato,No especificado,,11,0.260352862796687
+2021,Guerrero,No especificado,,12,0.104216084452827
+2016,Guerrero,No especificado,,12,0.1121791835958119
+2011,Guerrero,No especificado,,12,0.2081325950003859
+2021,Hidalgo,No especificado,,13,0.0
+2016,Hidalgo,No especificado,,13,0.0699446636700365
+2011,Hidalgo,No especificado,,13,0.204497452040605
+2021,Jalisco,No especificado,,14,0.0558055477863964
+2016,Jalisco,No especificado,,14,0.259452514871419
+2011,Jalisco,No especificado,,14,0.278753438298562
+2021,México,No especificado,,15,0.0824467421965622
+2016,México,No especificado,,15,0.2115553377477409
+2011,México,No especificado,,15,0.0281189491298697
+2021,Michoacán de Ocampo,No especificado,,16,0.0609173200540511
+2016,Michoacán de Ocampo,No especificado,,16,0.0892950323926066
+2011,Michoacán de Ocampo,No especificado,,16,0.476332515574431
+2021,Morelos,No especificado,,17,0.0929632949067927
+2016,Morelos,No especificado,,17,0.251848632232223
+2011,Morelos,No especificado,,17,0.150273348588585
+2021,Nayarit,No especificado,,18,0.0
+2016,Nayarit,No especificado,,18,0.206225795693533
+2011,Nayarit,No especificado,,18,0.200864123577319
+2021,Nuevo León,No especificado,,19,0.0526495384375438
+2016,Nuevo León,No especificado,,19,0.12690116540983
+2011,Nuevo León,No especificado,,19,0.316373714898132
+2021,Oaxaca,No especificado,,20,0.0793069590876695
+2016,Oaxaca,No especificado,,20,0.0735778732301539
+2011,Oaxaca,No especificado,,20,0.0548746322744533
+2021,Puebla,No especificado,,21,0.0650325486288162
+2016,Puebla,No especificado,,21,0.0583887248609134
+2011,Puebla,No especificado,,21,0.833067584193556
+2021,Querétaro,No especificado,,22,0.063590734495296
+2016,Querétaro,No especificado,,22,0.125621731042633
+2011,Querétaro,No especificado,,22,0.191193774969483
+2021,Quintana Roo,No especificado,,23,0.112957327564281
+2016,Quintana Roo,No especificado,,23,0.0464342085307879
+2011,Quintana Roo,No especificado,,23,0.495191163011164
+2021,San Luis Potosí,No especificado,,24,0.0
+2016,San Luis Potosí,No especificado,,24,0.201744117193944
+2011,San Luis Potosí,No especificado,,24,0.787578382668607
+2021,Sinaloa,No especificado,,25,0.07933810367733
+2016,Sinaloa,No especificado,,25,0.0438107301726087
+2011,Sinaloa,No especificado,,25,0.580594341862292
+2021,Sonora,No especificado,,26,0.0748000074243183
+2016,Sonora,No especificado,,26,0.228869418313855
+2011,Sonora,No especificado,,26,0.0
+2021,Tabasco,No especificado,,27,0.0934276064033397
+2016,Tabasco,No especificado,,27,0.259918022053501
+2011,Tabasco,No especificado,,27,0.794763908368396
+2021,Tamaulipas,No especificado,,28,0.0616461464550745
+2016,Tamaulipas,No especificado,,28,0.22742330337047
+2011,Tamaulipas,No especificado,,28,0.262231488285456
+2021,Tlaxcala,No especificado,,29,0.0338453833332029
+2016,Tlaxcala,No especificado,,29,0.359688875615172
+2011,Tlaxcala,No especificado,,29,0.263948632838016
+2021,Veracruz de Ignacio de la Llave,No especificado,,30,0.0
+2016,Veracruz de Ignacio de la Llave,No especificado,,30,0.10979907698537
+2011,Veracruz de Ignacio de la Llave,No especificado,,30,0.786528069629545
+2021,Yucatán,No especificado,,31,0.166688204142071
+2016,Yucatán,No especificado,,31,0.326284854513076
+2011,Yucatán,No especificado,,31,0.429519775654825
+2021,Zacatecas,No especificado,,32,0.285157140324664
+2016,Zacatecas,No especificado,,32,0.148508895269803
+2011,Zacatecas,No especificado,,32,0.0389050775055951
+2021,Estados Unidos Mexicanos,,Con al menos un incidente de violencia física,0,5.22016984630866
+2016,Estados Unidos Mexicanos,,Con al menos un incidente de violencia física,0,6.48697834463604
+2011,Estados Unidos Mexicanos,,Con al menos un incidente de violencia física,0,4.90482138674704
+2021,Aguascalientes,,Con al menos un incidente de violencia física,1,5.30756719483128
+2016,Aguascalientes,,Con al menos un incidente de violencia física,1,6.70230001731974
+2011,Aguascalientes,,Con al menos un incidente de violencia física,1,4.65396884211326
+2021,Baja California,,Con al menos un incidente de violencia física,2,4.08917724931559
+2016,Baja California,,Con al menos un incidente de violencia física,2,4.150745678431
+2011,Baja California,,Con al menos un incidente de violencia física,2,3.66954275028526
+2021,Baja California Sur,,Con al menos un incidente de violencia física,3,4.49332008544198
+2016,Baja California Sur,,Con al menos un incidente de violencia física,3,5.06535080067058
+2011,Baja California Sur,,Con al menos un incidente de violencia física,3,4.26686538377241
+2021,Campeche,,Con al menos un incidente de violencia física,4,6.04879354176888
+2016,Campeche,,Con al menos un incidente de violencia física,4,5.793680579895349
+2011,Campeche,,Con al menos un incidente de violencia física,4,4.90391849419574
+2021,Coahuila de Zaragoza,,Con al menos un incidente de violencia física,5,6.38213521564742
+2016,Coahuila de Zaragoza,,Con al menos un incidente de violencia física,5,5.65150313302946
+2011,Coahuila de Zaragoza,,Con al menos un incidente de violencia física,5,4.21039230863242
+2021,Colima,,Con al menos un incidente de violencia física,6,5.75426294593128
+2016,Colima,,Con al menos un incidente de violencia física,6,6.68850741395935
+2011,Colima,,Con al menos un incidente de violencia física,6,4.96809442382283
+2021,Chiapas,,Con al menos un incidente de violencia física,7,3.75841935545422
+2016,Chiapas,,Con al menos un incidente de violencia física,7,5.0899631143255
+2011,Chiapas,,Con al menos un incidente de violencia física,7,4.69447413406522
+2021,Chihuahua,,Con al menos un incidente de violencia física,8,4.65816468384623
+2016,Chihuahua,,Con al menos un incidente de violencia física,8,6.41663894939004
+2011,Chihuahua,,Con al menos un incidente de violencia física,8,5.34169053156931
+2021,Ciudad de México,,Con al menos un incidente de violencia física,9,4.45521466156375
+2016,Ciudad de México,,Con al menos un incidente de violencia física,9,6.93587668339205
+2011,Ciudad de México,,Con al menos un incidente de violencia física,9,4.5514984533927
+2021,Durango,,Con al menos un incidente de violencia física,10,5.00910318816237
+2016,Durango,,Con al menos un incidente de violencia física,10,6.97755582897075
+2011,Durango,,Con al menos un incidente de violencia física,10,5.445559123683229
+2021,Guanajuato,,Con al menos un incidente de violencia física,11,5.74153898133886
+2016,Guanajuato,,Con al menos un incidente de violencia física,11,6.365306868845511
+2011,Guanajuato,,Con al menos un incidente de violencia física,11,5.90519451586803
+2021,Guerrero,,Con al menos un incidente de violencia física,12,7.23657668290463
+2016,Guerrero,,Con al menos un incidente de violencia física,12,7.01836460540849
+2011,Guerrero,,Con al menos un incidente de violencia física,12,5.76974046361801
+2021,Hidalgo,,Con al menos un incidente de violencia física,13,5.28595550987446
+2016,Hidalgo,,Con al menos un incidente de violencia física,13,7.71859375014889
+2011,Hidalgo,,Con al menos un incidente de violencia física,13,5.75011881952008
+2021,Jalisco,,Con al menos un incidente de violencia física,14,5.02858958594336
+2016,Jalisco,,Con al menos un incidente de violencia física,14,6.72890653487332
+2011,Jalisco,,Con al menos un incidente de violencia física,14,4.26531577772132
+2021,México,,Con al menos un incidente de violencia física,15,5.22863443141385
+2016,México,,Con al menos un incidente de violencia física,15,8.09127540405249
+2011,México,,Con al menos un incidente de violencia física,15,5.479084969923771
+2021,Michoacán de Ocampo,,Con al menos un incidente de violencia física,16,6.28009020849444
+2016,Michoacán de Ocampo,,Con al menos un incidente de violencia física,16,6.60141007107168
+2011,Michoacán de Ocampo,,Con al menos un incidente de violencia física,16,6.4695153760136
+2021,Morelos,,Con al menos un incidente de violencia física,17,5.96518755729955
+2016,Morelos,,Con al menos un incidente de violencia física,17,6.73499086687647
+2011,Morelos,,Con al menos un incidente de violencia física,17,4.85281112964837
+2021,Nayarit,,Con al menos un incidente de violencia física,18,5.78978882004292
+2016,Nayarit,,Con al menos un incidente de violencia física,18,6.87714251359525
+2011,Nayarit,,Con al menos un incidente de violencia física,18,5.40319394348785
+2021,Nuevo León,,Con al menos un incidente de violencia física,19,3.67771450517322
+2016,Nuevo León,,Con al menos un incidente de violencia física,19,4.09835974847779
+2011,Nuevo León,,Con al menos un incidente de violencia física,19,3.48998830085608
+2021,Oaxaca,,Con al menos un incidente de violencia física,20,6.48396451176898
+2016,Oaxaca,,Con al menos un incidente de violencia física,20,7.17121485875321
+2011,Oaxaca,,Con al menos un incidente de violencia física,20,4.86118336527931
+2021,Puebla,,Con al menos un incidente de violencia física,21,5.80189014999547
+2016,Puebla,,Con al menos un incidente de violencia física,21,6.59525334546104
+2011,Puebla,,Con al menos un incidente de violencia física,21,5.40784988962912
+2021,Querétaro,,Con al menos un incidente de violencia física,22,6.718751568850361
+2016,Querétaro,,Con al menos un incidente de violencia física,22,5.76329335776821
+2011,Querétaro,,Con al menos un incidente de violencia física,22,4.11687171164774
+2021,Quintana Roo,,Con al menos un incidente de violencia física,23,5.3149788896968
+2016,Quintana Roo,,Con al menos un incidente de violencia física,23,6.16432841717392
+2011,Quintana Roo,,Con al menos un incidente de violencia física,23,5.62971409099547
+2021,San Luis Potosí,,Con al menos un incidente de violencia física,24,5.4072793213602
+2016,San Luis Potosí,,Con al menos un incidente de violencia física,24,6.43411770747417
+2011,San Luis Potosí,,Con al menos un incidente de violencia física,24,5.615539471738889
+2021,Sinaloa,,Con al menos un incidente de violencia física,25,3.5218485955647
+2016,Sinaloa,,Con al menos un incidente de violencia física,25,4.80628931522614
+2011,Sinaloa,,Con al menos un incidente de violencia física,25,3.74014007769733
+2021,Sonora,,Con al menos un incidente de violencia física,26,4.82413645897136
+2016,Sonora,,Con al menos un incidente de violencia física,26,4.76333865830314
+2011,Sonora,,Con al menos un incidente de violencia física,26,3.5383074633303706
+2021,Tabasco,,Con al menos un incidente de violencia física,27,6.21415748194567
+2016,Tabasco,,Con al menos un incidente de violencia física,27,7.08956053594503
+2011,Tabasco,,Con al menos un incidente de violencia física,27,4.09458113038844
+2021,Tamaulipas,,Con al menos un incidente de violencia física,28,4.32323725448431
+2016,Tamaulipas,,Con al menos un incidente de violencia física,28,5.06886133286971
+2011,Tamaulipas,,Con al menos un incidente de violencia física,28,4.25038877591127
+2021,Tlaxcala,,Con al menos un incidente de violencia física,29,5.45693223880363
+2016,Tlaxcala,,Con al menos un incidente de violencia física,29,7.02561971666385
+2011,Tlaxcala,,Con al menos un incidente de violencia física,29,5.11784544368047
+2021,Veracruz de Ignacio de la Llave,,Con al menos un incidente de violencia física,30,5.75879189854934
+2016,Veracruz de Ignacio de la Llave,,Con al menos un incidente de violencia física,30,6.59572592718073
+2011,Veracruz de Ignacio de la Llave,,Con al menos un incidente de violencia física,30,4.84363225251387
+2021,Yucatán,,Con al menos un incidente de violencia física,31,5.4780667487857
+2016,Yucatán,,Con al menos un incidente de violencia física,31,6.39157104099078
+2011,Yucatán,,Con al menos un incidente de violencia física,31,4.43308625885803
+2021,Zacatecas,,Con al menos un incidente de violencia física,32,4.39182515764682
+2016,Zacatecas,,Con al menos un incidente de violencia física,32,6.32895707967224
+2011,Zacatecas,,Con al menos un incidente de violencia física,32,5.778189970742599
+2021,Estados Unidos Mexicanos,,Con al menos un incidente de violencia sexual,0,2.06064210206344
+2016,Estados Unidos Mexicanos,,Con al menos un incidente de violencia sexual,0,2.07591617254717
+2011,Estados Unidos Mexicanos,,Con al menos un incidente de violencia sexual,0,2.34172150803347
+2021,Aguascalientes,,Con al menos un incidente de violencia sexual,1,2.92408070874994
+2016,Aguascalientes,,Con al menos un incidente de violencia sexual,1,2.92637796052415
+2011,Aguascalientes,,Con al menos un incidente de violencia sexual,1,2.34503594866716
+2021,Baja California,,Con al menos un incidente de violencia sexual,2,1.6192718899225802
+2016,Baja California,,Con al menos un incidente de violencia sexual,2,1.4484126819635297
+2011,Baja California,,Con al menos un incidente de violencia sexual,2,1.81964433041057
+2021,Baja California Sur,,Con al menos un incidente de violencia sexual,3,2.04222938470007
+2016,Baja California Sur,,Con al menos un incidente de violencia sexual,3,1.83308426953507
+2011,Baja California Sur,,Con al menos un incidente de violencia sexual,3,2.15140490071451
+2021,Campeche,,Con al menos un incidente de violencia sexual,4,2.02042727799831
+2016,Campeche,,Con al menos un incidente de violencia sexual,4,1.2651867383368
+2011,Campeche,,Con al menos un incidente de violencia sexual,4,2.11604311538921
+2021,Coahuila de Zaragoza,,Con al menos un incidente de violencia sexual,5,2.3023260613816
+2016,Coahuila de Zaragoza,,Con al menos un incidente de violencia sexual,5,2.16579437762588
+2011,Coahuila de Zaragoza,,Con al menos un incidente de violencia sexual,5,2.00105919256936
+2021,Colima,,Con al menos un incidente de violencia sexual,6,2.64488303675988
+2016,Colima,,Con al menos un incidente de violencia sexual,6,2.04083182118426
+2011,Colima,,Con al menos un incidente de violencia sexual,6,3.19222588313801
+2021,Chiapas,,Con al menos un incidente de violencia sexual,7,0.818084680112194
+2016,Chiapas,,Con al menos un incidente de violencia sexual,7,1.42833762770106
+2011,Chiapas,,Con al menos un incidente de violencia sexual,7,1.8836968579202695
+2021,Chihuahua,,Con al menos un incidente de violencia sexual,8,1.5587456282833605
+2016,Chihuahua,,Con al menos un incidente de violencia sexual,8,1.71752595333381
+2011,Chihuahua,,Con al menos un incidente de violencia sexual,8,2.63706495111023
+2021,Ciudad de México,,Con al menos un incidente de violencia sexual,9,1.6540160213709598
+2016,Ciudad de México,,Con al menos un incidente de violencia sexual,9,2.18290689486897
+2011,Ciudad de México,,Con al menos un incidente de violencia sexual,9,1.61601885942993
+2021,Durango,,Con al menos un incidente de violencia sexual,10,1.9155351477051
+2016,Durango,,Con al menos un incidente de violencia sexual,10,2.15772840220984
+2011,Durango,,Con al menos un incidente de violencia sexual,10,2.410996373205
+2021,Guanajuato,,Con al menos un incidente de violencia sexual,11,2.48989153214875
+2016,Guanajuato,,Con al menos un incidente de violencia sexual,11,2.00699781497201
+2011,Guanajuato,,Con al menos un incidente de violencia sexual,11,2.25141725620891
+2021,Guerrero,,Con al menos un incidente de violencia sexual,12,2.51653687868584
+2016,Guerrero,,Con al menos un incidente de violencia sexual,12,1.93686173380259
+2011,Guerrero,,Con al menos un incidente de violencia sexual,12,2.50415068516222
+2021,Hidalgo,,Con al menos un incidente de violencia sexual,13,1.6825933963117798
+2016,Hidalgo,,Con al menos un incidente de violencia sexual,13,2.11892308088138
+2011,Hidalgo,,Con al menos un incidente de violencia sexual,13,1.96036223436111
+2021,Jalisco,,Con al menos un incidente de violencia sexual,14,2.93634493521625
+2016,Jalisco,,Con al menos un incidente de violencia sexual,14,2.83353847833047
+2011,Jalisco,,Con al menos un incidente de violencia sexual,14,2.35966149885797
+2021,México,,Con al menos un incidente de violencia sexual,15,1.94533700367158
+2016,México,,Con al menos un incidente de violencia sexual,15,2.61676461686719
+2011,México,,Con al menos un incidente de violencia sexual,15,2.54127945020846
+2021,Michoacán de Ocampo,,Con al menos un incidente de violencia sexual,16,2.60545805316568
+2016,Michoacán de Ocampo,,Con al menos un incidente de violencia sexual,16,1.93694881467946
+2011,Michoacán de Ocampo,,Con al menos un incidente de violencia sexual,16,2.9097675103117795
+2021,Morelos,,Con al menos un incidente de violencia sexual,17,1.88019547972399
+2016,Morelos,,Con al menos un incidente de violencia sexual,17,2.14944761108299
+2011,Morelos,,Con al menos un incidente de violencia sexual,17,2.36608350275172
+2021,Nayarit,,Con al menos un incidente de violencia sexual,18,2.39077150090935
+2016,Nayarit,,Con al menos un incidente de violencia sexual,18,2.18000403830491
+2011,Nayarit,,Con al menos un incidente de violencia sexual,18,3.22529664419266
+2021,Nuevo León,,Con al menos un incidente de violencia sexual,19,1.54017930593664
+2016,Nuevo León,,Con al menos un incidente de violencia sexual,19,1.61578998050825
+2011,Nuevo León,,Con al menos un incidente de violencia sexual,19,2.26370745752406
+2021,Oaxaca,,Con al menos un incidente de violencia sexual,20,2.11600635239596
+2016,Oaxaca,,Con al menos un incidente de violencia sexual,20,1.78248789800232
+2011,Oaxaca,,Con al menos un incidente de violencia sexual,20,2.67328861667372
+2021,Puebla,,Con al menos un incidente de violencia sexual,21,1.83640107934618
+2016,Puebla,,Con al menos un incidente de violencia sexual,21,2.21940571240133
+2011,Puebla,,Con al menos un incidente de violencia sexual,21,3.07665366029847
+2021,Querétaro,,Con al menos un incidente de violencia sexual,22,3.38793583360201
+2016,Querétaro,,Con al menos un incidente de violencia sexual,22,2.01174032292093
+2011,Querétaro,,Con al menos un incidente de violencia sexual,22,2.19315127245192
+2021,Quintana Roo,,Con al menos un incidente de violencia sexual,23,1.66129558314407
+2016,Quintana Roo,,Con al menos un incidente de violencia sexual,23,2.21891856975148
+2011,Quintana Roo,,Con al menos un incidente de violencia sexual,23,2.56704302942532
+2021,San Luis Potosí,,Con al menos un incidente de violencia sexual,24,2.45507267531622
+2016,San Luis Potosí,,Con al menos un incidente de violencia sexual,24,1.97258585653216
+2011,San Luis Potosí,,Con al menos un incidente de violencia sexual,24,3.00291353978966
+2021,Sinaloa,,Con al menos un incidente de violencia sexual,25,1.56981176280569
+2016,Sinaloa,,Con al menos un incidente de violencia sexual,25,1.6823694038564705
+2011,Sinaloa,,Con al menos un incidente de violencia sexual,25,2.00252898750108
+2021,Sonora,,Con al menos un incidente de violencia sexual,26,2.38617591922342
+2016,Sonora,,Con al menos un incidente de violencia sexual,26,1.99960111609281
+2011,Sonora,,Con al menos un incidente de violencia sexual,26,2.33107624764309
+2021,Tabasco,,Con al menos un incidente de violencia sexual,27,1.6818132634623602
+2016,Tabasco,,Con al menos un incidente de violencia sexual,27,1.8771170841744
+2011,Tabasco,,Con al menos un incidente de violencia sexual,27,1.9158294453826403
+2021,Tamaulipas,,Con al menos un incidente de violencia sexual,28,1.57559154647093
+2016,Tamaulipas,,Con al menos un incidente de violencia sexual,28,1.15168288545666
+2011,Tamaulipas,,Con al menos un incidente de violencia sexual,28,1.91807508929029
+2021,Tlaxcala,,Con al menos un incidente de violencia sexual,29,1.77306768294114
+2016,Tlaxcala,,Con al menos un incidente de violencia sexual,29,1.76057100067956
+2011,Tlaxcala,,Con al menos un incidente de violencia sexual,29,1.92167185209199
+2021,Veracruz de Ignacio de la Llave,,Con al menos un incidente de violencia sexual,30,2.65648278188498
+2016,Veracruz de Ignacio de la Llave,,Con al menos un incidente de violencia sexual,30,2.04138829553546
+2011,Veracruz de Ignacio de la Llave,,Con al menos un incidente de violencia sexual,30,2.37647677400271
+2021,Yucatán,,Con al menos un incidente de violencia sexual,31,2.44258682072482
+2016,Yucatán,,Con al menos un incidente de violencia sexual,31,1.59158485198991
+2011,Yucatán,,Con al menos un incidente de violencia sexual,31,2.64839013719033
+2021,Zacatecas,,Con al menos un incidente de violencia sexual,32,1.75804695216147
+2016,Zacatecas,,Con al menos un incidente de violencia sexual,32,2.05057203758873
+2011,Zacatecas,,Con al menos un incidente de violencia sexual,32,2.74103955153056
+2021,Estados Unidos Mexicanos,,Con al menos un incidente de violencia emocional,0,18.3753357716689
+2016,Estados Unidos Mexicanos,,Con al menos un incidente de violencia emocional,0,23.1684003412438
+2011,Estados Unidos Mexicanos,,Con al menos un incidente de violencia emocional,0,23.0323169685704
+2021,Aguascalientes,,Con al menos un incidente de violencia emocional,1,22.9592333867994
+2016,Aguascalientes,,Con al menos un incidente de violencia emocional,1,30.9512482269193
+2011,Aguascalientes,,Con al menos un incidente de violencia emocional,1,23.4301702781598
+2021,Baja California,,Con al menos un incidente de violencia emocional,2,11.938211033361
+2016,Baja California,,Con al menos un incidente de violencia emocional,2,18.2662821034689
+2011,Baja California,,Con al menos un incidente de violencia emocional,2,19.1233675584591
+2021,Baja California Sur,,Con al menos un incidente de violencia emocional,3,16.1917389934603
+2016,Baja California Sur,,Con al menos un incidente de violencia emocional,3,17.3443224832546
+2011,Baja California Sur,,Con al menos un incidente de violencia emocional,3,20.3309516503748
+2021,Campeche,,Con al menos un incidente de violencia emocional,4,17.7039382721556
+2016,Campeche,,Con al menos un incidente de violencia emocional,4,17.5103829679004
+2011,Campeche,,Con al menos un incidente de violencia emocional,4,21.390703332091203
+2021,Coahuila de Zaragoza,,Con al menos un incidente de violencia emocional,5,19.934143086142
+2016,Coahuila de Zaragoza,,Con al menos un incidente de violencia emocional,5,24.7904039349787
+2011,Coahuila de Zaragoza,,Con al menos un incidente de violencia emocional,5,19.317126329083
+2021,Colima,,Con al menos un incidente de violencia emocional,6,20.6506526520236
+2016,Colima,,Con al menos un incidente de violencia emocional,6,22.8633143776905
+2011,Colima,,Con al menos un incidente de violencia emocional,6,25.4110188931059
+2021,Chiapas,,Con al menos un incidente de violencia emocional,7,10.6626088394487
+2016,Chiapas,,Con al menos un incidente de violencia emocional,7,15.5895297386689
+2011,Chiapas,,Con al menos un incidente de violencia emocional,7,14.2856564852809
+2021,Chihuahua,,Con al menos un incidente de violencia emocional,8,17.7625590821956
+2016,Chihuahua,,Con al menos un incidente de violencia emocional,8,25.1046486854347
+2011,Chihuahua,,Con al menos un incidente de violencia emocional,8,23.6714027020992
+2021,Ciudad de México,,Con al menos un incidente de violencia emocional,9,16.7022226037796
+2016,Ciudad de México,,Con al menos un incidente de violencia emocional,9,26.0641244541311
+2011,Ciudad de México,,Con al menos un incidente de violencia emocional,9,23.0235699164118
+2021,Durango,,Con al menos un incidente de violencia emocional,10,20.3844713708143
+2016,Durango,,Con al menos un incidente de violencia emocional,10,25.032608783061097
+2011,Durango,,Con al menos un incidente de violencia emocional,10,20.2738706298851
+2021,Guanajuato,,Con al menos un incidente de violencia emocional,11,20.0541919129604
+2016,Guanajuato,,Con al menos un incidente de violencia emocional,11,21.4131262582913
+2011,Guanajuato,,Con al menos un incidente de violencia emocional,11,18.8417684309454
+2021,Guerrero,,Con al menos un incidente de violencia emocional,12,22.5686063509328
+2016,Guerrero,,Con al menos un incidente de violencia emocional,12,19.642064393487
+2011,Guerrero,,Con al menos un incidente de violencia emocional,12,21.591097456226105
+2021,Hidalgo,,Con al menos un incidente de violencia emocional,13,21.3752533280519
+2016,Hidalgo,,Con al menos un incidente de violencia emocional,13,22.3337885136378
+2011,Hidalgo,,Con al menos un incidente de violencia emocional,13,19.0230584464161
+2021,Jalisco,,Con al menos un incidente de violencia emocional,14,20.0840062160628
+2016,Jalisco,,Con al menos un incidente de violencia emocional,14,27.4039419123917
+2011,Jalisco,,Con al menos un incidente de violencia emocional,14,21.962373474264
+2021,México,,Con al menos un incidente de violencia emocional,15,18.6495814879741
+2016,México,,Con al menos un incidente de violencia emocional,15,28.292285424478298
+2011,México,,Con al menos un incidente de violencia emocional,15,31.5605419262041
+2021,Michoacán de Ocampo,,Con al menos un incidente de violencia emocional,16,21.415559000216195
+2016,Michoacán de Ocampo,,Con al menos un incidente de violencia emocional,16,23.8935227754823
+2011,Michoacán de Ocampo,,Con al menos un incidente de violencia emocional,16,24.3507752065312
+2021,Morelos,,Con al menos un incidente de violencia emocional,17,17.3533195857227
+2016,Morelos,,Con al menos un incidente de violencia emocional,17,23.0988247980809
+2011,Morelos,,Con al menos un incidente de violencia emocional,17,22.4761218839932
+2021,Nayarit,,Con al menos un incidente de violencia emocional,18,21.1298811678249
+2016,Nayarit,,Con al menos un incidente de violencia emocional,18,21.7893774431178
+2011,Nayarit,,Con al menos un incidente de violencia emocional,18,29.750321815934
+2021,Nuevo León,,Con al menos un incidente de violencia emocional,19,15.8186169308835
+2016,Nuevo León,,Con al menos un incidente de violencia emocional,19,17.1957996987135
+2011,Nuevo León,,Con al menos un incidente de violencia emocional,19,21.781522923342795
+2021,Oaxaca,,Con al menos un incidente de violencia emocional,20,18.6123764585066
+2016,Oaxaca,,Con al menos un incidente de violencia emocional,20,21.6105173746051
+2011,Oaxaca,,Con al menos un incidente de violencia emocional,20,20.523266612871
+2021,Puebla,,Con al menos un incidente de violencia emocional,21,18.643351473424
+2016,Puebla,,Con al menos un incidente de violencia emocional,21,22.9328624789252
+2011,Puebla,,Con al menos un incidente de violencia emocional,21,23.4684267634342
+2021,Querétaro,,Con al menos un incidente de violencia emocional,22,22.9413057520608
+2016,Querétaro,,Con al menos un incidente de violencia emocional,22,23.7713270812046
+2011,Querétaro,,Con al menos un incidente de violencia emocional,22,21.3491336581166
+2021,Quintana Roo,,Con al menos un incidente de violencia emocional,23,16.3940729569685
+2016,Quintana Roo,,Con al menos un incidente de violencia emocional,23,22.0805895646606
+2011,Quintana Roo,,Con al menos un incidente de violencia emocional,23,23.6665115781242
+2021,San Luis Potosí,,Con al menos un incidente de violencia emocional,24,19.0648491755604
+2016,San Luis Potosí,,Con al menos un incidente de violencia emocional,24,21.2771398238695
+2011,San Luis Potosí,,Con al menos un incidente de violencia emocional,24,21.445142414403005
+2021,Sinaloa,,Con al menos un incidente de violencia emocional,25,17.5095822502736
+2016,Sinaloa,,Con al menos un incidente de violencia emocional,25,20.9816032298503
+2011,Sinaloa,,Con al menos un incidente de violencia emocional,25,19.0692213479921
+2021,Sonora,,Con al menos un incidente de violencia emocional,26,20.0673756890695
+2016,Sonora,,Con al menos un incidente de violencia emocional,26,21.2741016802007
+2011,Sonora,,Con al menos un incidente de violencia emocional,26,27.5913244203005
+2021,Tabasco,,Con al menos un incidente de violencia emocional,27,18.6354915537023
+2016,Tabasco,,Con al menos un incidente de violencia emocional,27,18.9525204883099
+2011,Tabasco,,Con al menos un incidente de violencia emocional,27,20.0077145664918
+2021,Tamaulipas,,Con al menos un incidente de violencia emocional,28,14.9357807293991
+2016,Tamaulipas,,Con al menos un incidente de violencia emocional,28,17.2547250637083
+2011,Tamaulipas,,Con al menos un incidente de violencia emocional,28,21.1905087410496
+2021,Tlaxcala,,Con al menos un incidente de violencia emocional,29,18.2473569298911
+2016,Tlaxcala,,Con al menos un incidente de violencia emocional,29,22.1671795804063
+2011,Tlaxcala,,Con al menos un incidente de violencia emocional,29,23.1353033110916
+2021,Veracruz de Ignacio de la Llave,,Con al menos un incidente de violencia emocional,30,19.0948158195085
+2016,Veracruz de Ignacio de la Llave,,Con al menos un incidente de violencia emocional,30,21.962673134104296
+2011,Veracruz de Ignacio de la Llave,,Con al menos un incidente de violencia emocional,30,21.8943000755778
+2021,Yucatán,,Con al menos un incidente de violencia emocional,31,20.5248188777355
+2016,Yucatán,,Con al menos un incidente de violencia emocional,31,24.5752121781141
+2011,Yucatán,,Con al menos un incidente de violencia emocional,31,22.4346629586102
+2021,Zacatecas,,Con al menos un incidente de violencia emocional,32,18.4953697841484
+2016,Zacatecas,,Con al menos un incidente de violencia emocional,32,23.7021633454188
+2011,Zacatecas,,Con al menos un incidente de violencia emocional,32,25.2896758106698

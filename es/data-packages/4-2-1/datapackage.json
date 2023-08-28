@@ -7,13 +7,28 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_jp",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Desarrollo adecuado_Niños_Niñas",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Niños",
+                "Niñas",
+                "Urbano",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Desarrollo adecuado_Niños_Niñas"
           },
           {
             "name": "Value",

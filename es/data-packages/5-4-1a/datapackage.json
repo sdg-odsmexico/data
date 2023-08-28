@@ -12,8 +12,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Tipo de localidad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nacional",
+                "Urbano (localidades de 2 500 y más habitantes)",
+                "Rural (localidades menores a 2 500 habitantes)",
+                ""
+              ]
+            },
+            "title": "Tipo de localidad"
+          },
+          {
+            "name": "Mujeres_trabajo doméstico",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (12 años y más)",
+                "De 15 y más",
+                "De 15 a 24 años",
+                "De 25 a 44 años",
+                "De 45 a 54 años",
+                "De 55 a 64 años",
+                "De 65 años y más",
+                ""
+              ]
+            },
+            "title": "Mujeres_trabajo doméstico"
           },
           {
             "name": "Value",

@@ -12,7 +12,128 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Principales ciudades",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aguascalientes",
+                "Ensenada",
+                "Mexicali",
+                "Tijuana",
+                "La Paz",
+                "Campeche",
+                "Saltillo",
+                "Torreón",
+                "Colima",
+                "Tapachula",
+                "Tuxtla Gutiérrez",
+                "Chihuahua",
+                "Juárez",
+                "Zona Metropolitana del Valle de México",
+                "Durango",
+                "Celaya",
+                "Irapuato",
+                "León",
+                "Acapulco",
+                "Chilpancingo de los Bravo",
+                "Pachuca",
+                "Guadalajara",
+                "Toluca",
+                "Morelia",
+                "Uruapan",
+                "Cuernavaca",
+                "Tepic",
+                "Monterrey",
+                "Oaxaca",
+                "Puebla",
+                "Tehuacán",
+                "Querétaro",
+                "Cancún",
+                "San Luis Potosí",
+                "Culiacán",
+                "Mazatlán",
+                "Ciudad Obregón",
+                "Hermosillo",
+                "Villahermosa",
+                "Heroica Matamoros",
+                "Nuevo Laredo",
+                "Reynosa",
+                "Tampico",
+                "Tlaxcala",
+                "Coatzacoalcos",
+                "Xalapa-Enríquez",
+                "Veracruz",
+                "Mérida",
+                "Zacatecas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Habilidades para uso de PC",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Copiar archivos entre carpetas",
+                "Crear archivos de texto",
+                "Crear hojas de cálculo",
+                "Crear presentaciones",
+                "Crear / usar base de datos",
+                "Descargar contenidos de Internet (música, videos, documentos, etcétera)",
+                "Enviar y recibir correo electrónico",
+                "Instalar dispositivos periféricos (impresoras, proyectores, etcétera)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

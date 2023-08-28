@@ -12,8 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Brecha en el tiempo y por grupos de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12-19 años",
+                "20-29 años",
+                "30-39 años",
+                "40-49 años",
+                "50-59 años",
+                "60 años y más",
+                ""
+              ]
+            },
+            "title": "Brecha en el tiempo y por grupos de edad"
           },
           {
             "name": "Value",

@@ -12,7 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total de 15 a 49 años de edad",
+                "De 15 a 17 años",
+                "De 18 a 19 años",
+                "De 20 a 24 años",
+                "De 25 a 29 años",
+                "De 30 a 34 años",
+                "De 35 a 39 años",
+                "De 40 a 44 años",
+                "De 45 a 49 años",
+                "De 50 a 54 años",
+                "De 55 a 59 años",
+                "De 60 años y más",
+                "No especificado",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tipo de violencia",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Con al menos un incidente de violencia física, sexual o emocional",
+                "Sin al menos un incidente de violencia física, sexual o emocional",
+                "No especificado",
+                "Con al menos un incidente de violencia física",
+                "Con al menos un incidente de violencia sexual",
+                "Con al menos un incidente de violencia emocional",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

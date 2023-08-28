@@ -1,1 +1,133 @@
-Year,Value
+Year,Entidad federativa,Mujeres casadas o unidas,GeoCode,Value
+2018,Estados Unidos Mexicanos,Antes de los 15 años,0,3.63020351097153
+2014,Estados Unidos Mexicanos,Antes de los 15 años,0,3.71990553089589
+2018,Estados Unidos Mexicanos,Antes de los 18 años,0,20.7010395164733
+2014,Estados Unidos Mexicanos,Antes de los 18 años,0,21.373006313436395
+2018,Aguascalientes,Antes de los 15 años,1,
+2014,Aguascalientes,Antes de los 15 años,1,
+2018,Aguascalientes,Antes de los 18 años,1,17.5107014636841
+2014,Aguascalientes,Antes de los 18 años,1,19.1632994973884
+2018,Baja California,Antes de los 15 años,2,
+2014,Baja California,Antes de los 15 años,2,
+2018,Baja California,Antes de los 18 años,2,17.9589278252045
+2014,Baja California,Antes de los 18 años,2,24.2791655362869
+2018,Baja California Sur,Antes de los 15 años,3,
+2014,Baja California Sur,Antes de los 15 años,3,
+2018,Baja California Sur,Antes de los 18 años,3,22.4930383905385
+2014,Baja California Sur,Antes de los 18 años,3,21.0075513914138
+2018,Campeche,Antes de los 15 años,4,
+2014,Campeche,Antes de los 15 años,4,
+2018,Campeche,Antes de los 18 años,4,26.111294948158
+2014,Campeche,Antes de los 18 años,4,21.8666737014272
+2018,Coahuila de Zaragoza,Antes de los 15 años,5,
+2014,Coahuila de Zaragoza,Antes de los 15 años,5,
+2018,Coahuila de Zaragoza,Antes de los 18 años,5,26.4292362306546
+2014,Coahuila de Zaragoza,Antes de los 18 años,5,27.255204317656094
+2018,Colima,Antes de los 15 años,6,
+2014,Colima,Antes de los 15 años,6,
+2018,Colima,Antes de los 18 años,6,20.7589917870292
+2014,Colima,Antes de los 18 años,6,19.3260461807128
+2018,Chiapas,Antes de los 15 años,7,
+2014,Chiapas,Antes de los 15 años,7,
+2018,Chiapas,Antes de los 18 años,7,29.3532129357413
+2014,Chiapas,Antes de los 18 años,7,29.6273521092117
+2018,Chihuahua,Antes de los 15 años,8,
+2014,Chihuahua,Antes de los 15 años,8,
+2018,Chihuahua,Antes de los 18 años,8,20.9157675809177
+2014,Chihuahua,Antes de los 18 años,8,24.47761391354929
+2018,Ciudad de México,Antes de los 15 años,9,
+2014,Ciudad de México,Antes de los 15 años,9,
+2018,Ciudad de México,Antes de los 18 años,9,
+2014,Ciudad de México,Antes de los 18 años,9,12.900833503225
+2018,Durango,Antes de los 15 años,10,3.7226604396052
+2014,Durango,Antes de los 15 años,10,
+2018,Durango,Antes de los 18 años,10,23.492675509456
+2014,Durango,Antes de los 18 años,10,23.569395301817
+2018,Guanajuato,Antes de los 15 años,11,
+2014,Guanajuato,Antes de los 15 años,11,
+2018,Guanajuato,Antes de los 18 años,11,21.0199096728715
+2014,Guanajuato,Antes de los 18 años,11,20.8514953384187
+2018,Guerrero,Antes de los 15 años,12,
+2014,Guerrero,Antes de los 15 años,12,
+2018,Guerrero,Antes de los 18 años,12,31.8565356228985
+2014,Guerrero,Antes de los 18 años,12,28.3546014321139
+2018,Hidalgo,Antes de los 15 años,13,
+2014,Hidalgo,Antes de los 15 años,13,
+2018,Hidalgo,Antes de los 18 años,13,25.659314427575698
+2014,Hidalgo,Antes de los 18 años,13,20.5399032000066
+2018,Jalisco,Antes de los 15 años,14,
+2014,Jalisco,Antes de los 15 años,14,
+2018,Jalisco,Antes de los 18 años,14,20.6109533746109
+2014,Jalisco,Antes de los 18 años,14,18.1090093274121
+2018,México,Antes de los 15 años,15,
+2014,México,Antes de los 15 años,15,
+2018,México,Antes de los 18 años,15,16.1860026982819
+2014,México,Antes de los 18 años,15,18.2274904145831
+2018,Michoacán de Ocampo,Antes de los 15 años,16,
+2014,Michoacán de Ocampo,Antes de los 15 años,16,
+2018,Michoacán de Ocampo,Antes de los 18 años,16,27.3735968182432
+2014,Michoacán de Ocampo,Antes de los 18 años,16,23.257137783905492
+2018,Morelos,Antes de los 15 años,17,
+2014,Morelos,Antes de los 15 años,17,
+2018,Morelos,Antes de los 18 años,17,19.891199913393
+2014,Morelos,Antes de los 18 años,17,22.660424048141305
+2018,Nayarit,Antes de los 15 años,18,
+2014,Nayarit,Antes de los 15 años,18,
+2018,Nayarit,Antes de los 18 años,18,26.6090257275411
+2014,Nayarit,Antes de los 18 años,18,29.0224978928487
+2018,Nuevo León,Antes de los 15 años,19,
+2014,Nuevo León,Antes de los 15 años,19,
+2018,Nuevo León,Antes de los 18 años,19,15.6357917777943
+2014,Nuevo León,Antes de los 18 años,19,21.5994701129549
+2018,Oaxaca,Antes de los 15 años,20,
+2014,Oaxaca,Antes de los 15 años,20,
+2018,Oaxaca,Antes de los 18 años,20,23.8756266497882
+2014,Oaxaca,Antes de los 18 años,20,25.0204271178072
+2018,Puebla,Antes de los 15 años,21,
+2014,Puebla,Antes de los 15 años,21,
+2018,Puebla,Antes de los 18 años,21,20.5786846497157
+2014,Puebla,Antes de los 18 años,21,20.6987915062331
+2018,Querétaro,Antes de los 15 años,22,
+2014,Querétaro,Antes de los 15 años,22,
+2018,Querétaro,Antes de los 18 años,22,15.7032599930884
+2014,Querétaro,Antes de los 18 años,22,15.1439380761872
+2018,Quintana Roo,Antes de los 15 años,23,
+2014,Quintana Roo,Antes de los 15 años,23,
+2018,Quintana Roo,Antes de los 18 años,23,23.3521848291953
+2014,Quintana Roo,Antes de los 18 años,23,25.4571293225959
+2018,San Luis Potosí,Antes de los 15 años,24,
+2014,San Luis Potosí,Antes de los 15 años,24,
+2018,San Luis Potosí,Antes de los 18 años,24,17.3602509026698
+2014,San Luis Potosí,Antes de los 18 años,24,20.297841294365
+2018,Sinaloa,Antes de los 15 años,25,
+2014,Sinaloa,Antes de los 15 años,25,
+2018,Sinaloa,Antes de los 18 años,25,20.4009246972618
+2014,Sinaloa,Antes de los 18 años,25,23.303817510115504
+2018,Sonora,Antes de los 15 años,26,
+2014,Sonora,Antes de los 15 años,26,
+2018,Sonora,Antes de los 18 años,26,20.1670869854518
+2014,Sonora,Antes de los 18 años,26,18.5173818900994
+2018,Tabasco,Antes de los 15 años,27,
+2014,Tabasco,Antes de los 15 años,27,
+2018,Tabasco,Antes de los 18 años,27,31.7792266371427
+2014,Tabasco,Antes de los 18 años,27,24.030480197152
+2018,Tamaulipas,Antes de los 15 años,28,
+2014,Tamaulipas,Antes de los 15 años,28,
+2018,Tamaulipas,Antes de los 18 años,28,17.8524039518679
+2014,Tamaulipas,Antes de los 18 años,28,20.0126101511717
+2018,Tlaxcala,Antes de los 15 años,29,
+2014,Tlaxcala,Antes de los 15 años,29,
+2018,Tlaxcala,Antes de los 18 años,29,18.3270056859704
+2014,Tlaxcala,Antes de los 18 años,29,19.1331299813047
+2018,Veracruz de Ignacio de la Llave,Antes de los 15 años,30,
+2014,Veracruz de Ignacio de la Llave,Antes de los 15 años,30,
+2018,Veracruz de Ignacio de la Llave,Antes de los 18 años,30,26.7945926681322
+2014,Veracruz de Ignacio de la Llave,Antes de los 18 años,30,26.3313989317995
+2018,Yucatán,Antes de los 15 años,31,
+2014,Yucatán,Antes de los 15 años,31,
+2018,Yucatán,Antes de los 18 años,31,19.4221657228707
+2014,Yucatán,Antes de los 18 años,31,18.3180838772133
+2018,Zacatecas,Antes de los 15 años,32,
+2014,Zacatecas,Antes de los 15 años,32,
+2018,Zacatecas,Antes de los 18 años,32,22.3274718261366
+2014,Zacatecas,Antes de los 18 años,32,28.4533648170012

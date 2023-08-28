@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Hablantes de lengua indígena",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (15 años y más)",
+                "Mujeres (15 años y más)",
+                "Hombres (15 años y más)",
+                ""
+              ]
+            },
+            "title": "Hablantes de lengua indígena"
           },
           {
             "name": "Value",

@@ -1,1 +1,1090 @@
-Year,Value
+Year,Entidad federativa,Violencia sexual,Lugar de la(s) agresión(es),GeoCode,Value
+2021,Estados Unidos Mexicanos,Con al menos un incidente,,0,22.285223526515995
+2016,Estados Unidos Mexicanos,Con al menos un incidente,,0,22.2025648932707
+2011,Estados Unidos Mexicanos,Con al menos un incidente,,0,15.184594555515398
+2021,Aguascalientes,Con al menos un incidente,,1,25.6714420256049
+2016,Aguascalientes,Con al menos un incidente,,1,26.7424520936688
+2011,Aguascalientes,Con al menos un incidente,,1,17.6698816602411
+2021,Baja California,Con al menos un incidente,,2,19.0312875592335
+2016,Baja California,Con al menos un incidente,,2,20.7233390030254
+2011,Baja California,Con al menos un incidente,,2,16.0309079373337
+2021,Baja California Sur,Con al menos un incidente,,3,21.2328525358191
+2016,Baja California Sur,Con al menos un incidente,,3,14.7901335609914
+2011,Baja California Sur,Con al menos un incidente,,3,11.2058812590655
+2021,Campeche,Con al menos un incidente,,4,19.8936984250191
+2016,Campeche,Con al menos un incidente,,4,16.7754050742069
+2011,Campeche,Con al menos un incidente,,4,11.629267654894
+2021,Coahuila de Zaragoza,Con al menos un incidente,,5,24.6644766340006
+2016,Coahuila de Zaragoza,Con al menos un incidente,,5,21.7982845312038
+2011,Coahuila de Zaragoza,Con al menos un incidente,,5,13.6881057509336
+2021,Colima,Con al menos un incidente,,6,26.615668864313097
+2016,Colima,Con al menos un incidente,,6,19.1522187098793
+2011,Colima,Con al menos un incidente,,6,16.0647240456894
+2021,Chiapas,Con al menos un incidente,,7,13.9078147316277
+2016,Chiapas,Con al menos un incidente,,7,13.4909874390914
+2011,Chiapas,Con al menos un incidente,,7,7.43201503542824
+2021,Chihuahua,Con al menos un incidente,,8,22.6102139398962
+2016,Chihuahua,Con al menos un incidente,,8,22.0548686822449
+2011,Chihuahua,Con al menos un incidente,,8,17.0248951953466
+2021,Ciudad de México,Con al menos un incidente,,9,28.0241838526337
+2016,Ciudad de México,Con al menos un incidente,,9,34.0175670451774
+2011,Ciudad de México,Con al menos un incidente,,9,19.8038637948206
+2021,Durango,Con al menos un incidente,,10,22.19287965355049
+2016,Durango,Con al menos un incidente,,10,22.5642158148266
+2011,Durango,Con al menos un incidente,,10,14.1267012605324
+2021,Guanajuato,Con al menos un incidente,,11,23.760433973217
+2016,Guanajuato,Con al menos un incidente,,11,22.043722696021
+2011,Guanajuato,Con al menos un incidente,,11,16.0979153160612
+2021,Guerrero,Con al menos un incidente,,12,18.4304374386736
+2016,Guerrero,Con al menos un incidente,,12,14.0680192133543
+2011,Guerrero,Con al menos un incidente,,12,9.77130139924622
+2021,Hidalgo,Con al menos un incidente,,13,19.6290539557152
+2016,Hidalgo,Con al menos un incidente,,13,18.299926292212
+2011,Hidalgo,Con al menos un incidente,,13,8.30271439811172
+2021,Jalisco,Con al menos un incidente,,14,25.429006748959903
+2016,Jalisco,Con al menos un incidente,,14,27.264463031127303
+2011,Jalisco,Con al menos un incidente,,14,18.031876855861
+2021,México,Con al menos un incidente,,15,26.0509371870082
+2016,México,Con al menos un incidente,,15,29.0384124939888
+2011,México,Con al menos un incidente,,15,19.9467358540177
+2021,Michoacán de Ocampo,Con al menos un incidente,,16,20.0174823762459
+2016,Michoacán de Ocampo,Con al menos un incidente,,16,17.0452874854948
+2011,Michoacán de Ocampo,Con al menos un incidente,,16,12.8393514122953
+2021,Morelos,Con al menos un incidente,,17,22.5545368321214
+2016,Morelos,Con al menos un incidente,,17,20.6871292049325
+2011,Morelos,Con al menos un incidente,,17,15.163655528496
+2021,Nayarit,Con al menos un incidente,,18,20.0436001377291
+2016,Nayarit,Con al menos un incidente,,18,15.7401924421252
+2011,Nayarit,Con al menos un incidente,,18,14.1082190744235
+2021,Nuevo León,Con al menos un incidente,,19,23.9972527472527
+2016,Nuevo León,Con al menos un incidente,,19,21.7858859586776
+2011,Nuevo León,Con al menos un incidente,,19,17.3315363278204
+2021,Oaxaca,Con al menos un incidente,,20,15.6877943710164
+2016,Oaxaca,Con al menos un incidente,,20,13.131261081999504
+2011,Oaxaca,Con al menos un incidente,,20,11.6779694659594
+2021,Puebla,Con al menos un incidente,,21,19.4391498025882
+2016,Puebla,Con al menos un incidente,,21,20.5377094853579
+2011,Puebla,Con al menos un incidente,,21,13.7148778613511
+2021,Querétaro,Con al menos un incidente,,22,27.2571942352352
+2016,Querétaro,Con al menos un incidente,,22,27.8530661210245
+2011,Querétaro,Con al menos un incidente,,22,14.8696180205823
+2021,Quintana Roo,Con al menos un incidente,,23,26.1274380509475
+2016,Quintana Roo,Con al menos un incidente,,23,24.6019162926053
+2011,Quintana Roo,Con al menos un incidente,,23,14.6129157268202
+2021,San Luis Potosí,Con al menos un incidente,,24,20.2729056794287
+2016,San Luis Potosí,Con al menos un incidente,,24,17.6674444172624
+2011,San Luis Potosí,Con al menos un incidente,,24,14.4634764021782
+2021,Sinaloa,Con al menos un incidente,,25,17.07251077718
+2016,Sinaloa,Con al menos un incidente,,25,16.138799484541
+2011,Sinaloa,Con al menos un incidente,,25,10.7065057843946
+2021,Sonora,Con al menos un incidente,,26,20.7855787542223
+2016,Sonora,Con al menos un incidente,,26,18.4239468750624
+2011,Sonora,Con al menos un incidente,,26,14.776187537427498
+2021,Tabasco,Con al menos un incidente,,27,20.1247893939652
+2016,Tabasco,Con al menos un incidente,,27,16.3286221687749
+2011,Tabasco,Con al menos un incidente,,27,14.8811203222791
+2021,Tamaulipas,Con al menos un incidente,,28,17.5085745762822
+2016,Tamaulipas,Con al menos un incidente,,28,19.9382087172218
+2011,Tamaulipas,Con al menos un incidente,,28,11.7005891261363
+2021,Tlaxcala,Con al menos un incidente,,29,21.522676342697697
+2016,Tlaxcala,Con al menos un incidente,,29,18.3582933089169
+2011,Tlaxcala,Con al menos un incidente,,29,13.3863420549842
+2021,Veracruz de Ignacio de la Llave,Con al menos un incidente,,30,20.3889264588963
+2016,Veracruz de Ignacio de la Llave,Con al menos un incidente,,30,18.2164968487096
+2011,Veracruz de Ignacio de la Llave,Con al menos un incidente,,30,13.2915826780942
+2021,Yucatán,Con al menos un incidente,,31,23.8188376318716
+2016,Yucatán,Con al menos un incidente,,31,21.8469080677643
+2011,Yucatán,Con al menos un incidente,,31,13.0652636688095
+2021,Zacatecas,Con al menos un incidente,,32,18.3700708108886
+2016,Zacatecas,Con al menos un incidente,,32,15.0114095256825
+2011,Zacatecas,Con al menos un incidente,,32,13.4197343031023
+2021,Estados Unidos Mexicanos,Sin incidentes,,0,77.4620661934358
+2016,Estados Unidos Mexicanos,Sin incidentes,,0,77.7912934010641
+2011,Estados Unidos Mexicanos,Sin incidentes,,0,84.4658036174361
+2021,Aguascalientes,Sin incidentes,,1,73.996397076425
+2016,Aguascalientes,Sin incidentes,,1,73.2575479063312
+2011,Aguascalientes,Sin incidentes,,1,82.1813560154927
+2021,Baja California,Sin incidentes,,2,80.7868622455193
+2016,Baja California,Sin incidentes,,2,79.2766609969746
+2011,Baja California,Sin incidentes,,2,83.5544794915598
+2021,Baja California Sur,Sin incidentes,,3,78.6413592824939
+2016,Baja California Sur,Sin incidentes,,3,85.2098664390086
+2011,Baja California Sur,Sin incidentes,,3,88.2874841418412
+2021,Campeche,Sin incidentes,,4,79.5948869547984
+2016,Campeche,Sin incidentes,,4,83.2245949257931
+2011,Campeche,Sin incidentes,,4,87.8804321179336
+2021,Coahuila de Zaragoza,Sin incidentes,,5,75.0217470731979
+2016,Coahuila de Zaragoza,Sin incidentes,,5,78.2017154687962
+2011,Coahuila de Zaragoza,Sin incidentes,,5,86.1350639875858
+2021,Colima,Sin incidentes,,6,73.2643688855806
+2016,Colima,Sin incidentes,,6,80.8477812901207
+2011,Colima,Sin incidentes,,6,83.3669362840428
+2021,Chiapas,Sin incidentes,,7,85.8143441921017
+2016,Chiapas,Sin incidentes,,7,86.4526588252265
+2011,Chiapas,Sin incidentes,,7,92.4649675236178
+2021,Chihuahua,Sin incidentes,,8,77.2952605007197
+2016,Chihuahua,Sin incidentes,,8,77.9451313177551
+2011,Chihuahua,Sin incidentes,,8,81.4606823754952
+2021,Ciudad de México,Sin incidentes,,9,71.9187695001389
+2016,Ciudad de México,Sin incidentes,,9,65.9824329548226
+2011,Ciudad de México,Sin incidentes,,9,80.143220674787
+2021,Durango,Sin incidentes,,10,77.2722121730698
+2016,Durango,Sin incidentes,,10,77.4357841851734
+2011,Durango,Sin incidentes,,10,85.641582022972
+2021,Guanajuato,Sin incidentes,,11,76.033061902624
+2016,Guanajuato,Sin incidentes,,11,77.9369771940819
+2011,Guanajuato,Sin incidentes,,11,83.5889232127096
+2021,Guerrero,Sin incidentes,,12,80.7117581964166
+2016,Guerrero,Sin incidentes,,12,85.9319807866457
+2011,Guerrero,Sin incidentes,,12,89.60419067092478
+2021,Hidalgo,Sin incidentes,,13,80.2291837369766
+2016,Hidalgo,Sin incidentes,,13,81.6750273720669
+2011,Hidalgo,Sin incidentes,,13,91.5357985837923
+2021,Jalisco,Sin incidentes,,14,74.3964257331467
+2016,Jalisco,Sin incidentes,,14,72.7355369688727
+2011,Jalisco,Sin incidentes,,14,81.7273083863434
+2021,México,Sin incidentes,,15,73.7601230505079
+2016,México,Sin incidentes,,15,70.9615875060112
+2011,México,Sin incidentes,,15,79.9860176491301
+2021,Michoacán de Ocampo,Sin incidentes,,16,79.6802653271052
+2016,Michoacán de Ocampo,Sin incidentes,,16,82.9136883991821
+2011,Michoacán de Ocampo,Sin incidentes,,16,86.9256369174776
+2021,Morelos,Sin incidentes,,17,77.1961866776916
+2016,Morelos,Sin incidentes,,17,79.3128707950675
+2011,Morelos,Sin incidentes,,17,84.4619189236931
+2021,Nayarit,Sin incidentes,,18,79.6826315555997
+2016,Nayarit,Sin incidentes,,18,84.2598075578748
+2011,Nayarit,Sin incidentes,,18,85.48462295170002
+2021,Nuevo León,Sin incidentes,,19,75.8293006687502
+2016,Nuevo León,Sin incidentes,,19,78.2141140413224
+2011,Nuevo León,Sin incidentes,,19,82.4179346968644
+2021,Oaxaca,Sin incidentes,,20,83.9013992169022
+2016,Oaxaca,Sin incidentes,,20,86.8509020186085
+2011,Oaxaca,Sin incidentes,,20,88.01566610766379
+2021,Puebla,Sin incidentes,,21,80.4182940245774
+2016,Puebla,Sin incidentes,,21,79.4622905146421
+2011,Puebla,Sin incidentes,,21,85.5154507137368
+2021,Querétaro,Sin incidentes,,22,72.2596998846672
+2016,Querétaro,Sin incidentes,,22,72.1469338789755
+2011,Querétaro,Sin incidentes,,22,84.6667661819884
+2021,Quintana Roo,Sin incidentes,,23,73.5704865690289
+2016,Quintana Roo,Sin incidentes,,23,75.3980837073947
+2011,Quintana Roo,Sin incidentes,,23,84.4979480707891
+2021,San Luis Potosí,Sin incidentes,,24,79.5548629292309
+2016,San Luis Potosí,Sin incidentes,,24,82.3325555827376
+2011,San Luis Potosí,Sin incidentes,,24,84.6364715490976
+2021,Sinaloa,Sin incidentes,,25,82.8706084980976
+2016,Sinaloa,Sin incidentes,,25,83.861200515459
+2011,Sinaloa,Sin incidentes,,25,88.67625528000129
+2021,Sonora,Sin incidentes,,26,79.0255459486509
+2016,Sonora,Sin incidentes,,26,81.5760531249376
+2011,Sonora,Sin incidentes,,26,85.2238124625725
+2021,Tabasco,Sin incidentes,,27,79.3278476488708
+2016,Tabasco,Sin incidentes,,27,83.6713778312251
+2011,Tabasco,Sin incidentes,,27,84.6634052753087
+2021,Tamaulipas,Sin incidentes,,28,82.2431826981381
+2016,Tamaulipas,Sin incidentes,,28,80.0617912827782
+2011,Tamaulipas,Sin incidentes,,28,87.842158044962
+2021,Tlaxcala,Sin incidentes,,29,78.2146461273615
+2016,Tlaxcala,Sin incidentes,,29,81.6417066910831
+2011,Tlaxcala,Sin incidentes,,29,86.206139096411
+2021,Veracruz de Ignacio de la Llave,Sin incidentes,,30,79.1761625991062
+2016,Veracruz de Ignacio de la Llave,Sin incidentes,,30,81.7835031512904
+2011,Veracruz de Ignacio de la Llave,Sin incidentes,,30,86.16370975601
+2021,Yucatán,Sin incidentes,,31,75.8389065169636
+2016,Yucatán,Sin incidentes,,31,78.1376283447559
+2011,Yucatán,Sin incidentes,,31,86.56662085556839
+2021,Zacatecas,Sin incidentes,,32,81.112354342162
+2016,Zacatecas,Sin incidentes,,32,84.9885904743175
+2011,Zacatecas,Sin incidentes,,32,86.5676488051061
+2021,Estados Unidos Mexicanos,No especificado,,0,0.252710280048268
+2016,Estados Unidos Mexicanos,No especificado,,0,0.0061417056652074
+2011,Estados Unidos Mexicanos,No especificado,,0,0.349601827048508
+2021,Aguascalientes,No especificado,,1,0.332160897970167
+2016,Aguascalientes,No especificado,,1,0.0
+2011,Aguascalientes,No especificado,,1,0.148762324266128
+2021,Baja California,No especificado,,2,0.181850195247119
+2016,Baja California,No especificado,,2,0.0
+2011,Baja California,No especificado,,2,0.414612571106515
+2021,Baja California Sur,No especificado,,3,0.125788181686909
+2016,Baja California Sur,No especificado,,3,0.0
+2011,Baja California Sur,No especificado,,3,0.506634599093347
+2021,Campeche,No especificado,,4,0.511414620182436
+2016,Campeche,No especificado,,4,0.0
+2011,Campeche,No especificado,,4,0.490300227172439
+2021,Coahuila de Zaragoza,No especificado,,5,0.313776292801454
+2016,Coahuila de Zaragoza,No especificado,,5,0.0
+2011,Coahuila de Zaragoza,No especificado,,5,0.176830261480556
+2021,Colima,No especificado,,6,0.119962250106338
+2016,Colima,No especificado,,6,0.0
+2011,Colima,No especificado,,6,0.568339670267739
+2021,Chiapas,No especificado,,7,0.277841076270645
+2016,Chiapas,No especificado,,7,0.0563537356821412
+2011,Chiapas,No especificado,,7,0.103017440953926
+2021,Chihuahua,No especificado,,8,0.0945255593841322
+2016,Chihuahua,No especificado,,8,0.0
+2011,Chihuahua,No especificado,,8,1.51442242915821
+2021,Ciudad de México,No especificado,,9,0.0570466472274593
+2016,Ciudad de México,No especificado,,9,0.0
+2011,Ciudad de México,No especificado,,9,0.0529155303923795
+2021,Durango,No especificado,,10,0.534908173379676
+2016,Durango,No especificado,,10,0.0
+2011,Durango,No especificado,,10,0.231716716495579
+2021,Guanajuato,No especificado,,11,0.206504124159022
+2016,Guanajuato,No especificado,,11,0.0193001098970964
+2011,Guanajuato,No especificado,,11,0.313161471229175
+2021,Guerrero,No especificado,,12,0.857804364909846
+2016,Guerrero,No especificado,,12,0.0
+2011,Guerrero,No especificado,,12,0.624507929828945
+2021,Hidalgo,No especificado,,13,0.141762307308197
+2016,Hidalgo,No especificado,,13,0.025046335721084
+2011,Hidalgo,No especificado,,13,0.161487018095987
+2021,Jalisco,No especificado,,14,0.174567517893478
+2016,Jalisco,No especificado,,14,0.0
+2011,Jalisco,No especificado,,14,0.24081475779565
+2021,México,No especificado,,15,0.188939762483903
+2016,México,No especificado,,15,0.0
+2011,México,No especificado,,15,0.0672464968521771
+2021,Michoacán de Ocampo,No especificado,,16,0.302252296648888
+2016,Michoacán de Ocampo,No especificado,,16,0.0410241153230882
+2011,Michoacán de Ocampo,No especificado,,16,0.235011670227075
+2021,Morelos,No especificado,,17,0.249276490187018
+2016,Morelos,No especificado,,17,0.0
+2011,Morelos,No especificado,,17,0.374425547810928
+2021,Nayarit,No especificado,,18,0.273768306671201
+2016,Nayarit,No especificado,,18,0.0
+2011,Nayarit,No especificado,,18,0.407157973876471
+2021,Nuevo León,No especificado,,19,0.173446583997043
+2016,Nuevo León,No especificado,,19,0.0
+2011,Nuevo León,No especificado,,19,0.250528975315231
+2021,Oaxaca,No especificado,,20,0.410806412081391
+2016,Oaxaca,No especificado,,20,0.0178368993919599
+2011,Oaxaca,No especificado,,20,0.306364426376799
+2021,Puebla,No especificado,,21,0.142556172834344
+2016,Puebla,No especificado,,21,0.0
+2011,Puebla,No especificado,,21,0.769671424912093
+2021,Querétaro,No especificado,,22,0.483105880097642
+2016,Querétaro,No especificado,,22,0.0
+2011,Querétaro,No especificado,,22,0.463615797429316
+2021,Quintana Roo,No especificado,,23,0.3020753800236
+2016,Quintana Roo,No especificado,,23,0.0
+2011,Quintana Roo,No especificado,,23,0.889136202390771
+2021,San Luis Potosí,No especificado,,24,0.172231391340398
+2016,San Luis Potosí,No especificado,,24,0.0
+2011,San Luis Potosí,No especificado,,24,0.9000520487241891
+2021,Sinaloa,No especificado,,25,0.0568807247224237
+2016,Sinaloa,No especificado,,25,0.0
+2011,Sinaloa,No especificado,,25,0.617238935604084
+2021,Sonora,No especificado,,26,0.188875297126732
+2016,Sonora,No especificado,,26,0.0
+2011,Sonora,No especificado,,26,0.0
+2021,Tabasco,No especificado,,27,0.547362957164009
+2016,Tabasco,No especificado,,27,0.0
+2011,Tabasco,No especificado,,27,0.455474402412187
+2021,Tamaulipas,No especificado,,28,0.248242725579672
+2016,Tamaulipas,No especificado,,28,0.0
+2011,Tamaulipas,No especificado,,28,0.457252828901692
+2021,Tlaxcala,No especificado,,29,0.262677529940786
+2016,Tlaxcala,No especificado,,29,0.0
+2011,Tlaxcala,No especificado,,29,0.407518848604803
+2021,Veracruz de Ignacio de la Llave,No especificado,,30,0.434910941997503
+2016,Veracruz de Ignacio de la Llave,No especificado,,30,0.0
+2011,Veracruz de Ignacio de la Llave,No especificado,,30,0.544707565895767
+2021,Yucatán,No especificado,,31,0.342255851164809
+2016,Yucatán,No especificado,,31,0.0154635874798097
+2011,Yucatán,No especificado,,31,0.368115475622077
+2021,Zacatecas,No especificado,,32,0.517574846949377
+2016,Zacatecas,No especificado,,32,0.0
+2011,Zacatecas,No especificado,,32,0.0126168917915986
+2021,Estados Unidos Mexicanos,,Calle o parque,0,77.1978959911071
+2016,Estados Unidos Mexicanos,,Calle o parque,0,78.3016915265988
+2011,Estados Unidos Mexicanos,,Calle o parque,0,90.2576567036029
+2021,Aguascalientes,,Calle o parque,1,79.4671966567067
+2016,Aguascalientes,,Calle o parque,1,78.3271547729379
+2011,Aguascalientes,,Calle o parque,1,90.6771840671496
+2021,Baja California,,Calle o parque,2,72.9949535581072
+2016,Baja California,,Calle o parque,2,76.7159597697101
+2011,Baja California,,Calle o parque,2,92.2940503432494
+2021,Baja California Sur,,Calle o parque,3,75.1560398373861
+2016,Baja California Sur,,Calle o parque,3,71.8330351818724
+2011,Baja California Sur,,Calle o parque,3,75.8380351808828
+2021,Campeche,,Calle o parque,4,76.9159460394327
+2016,Campeche,,Calle o parque,4,78.1325036355643
+2011,Campeche,,Calle o parque,4,87.99257968407441
+2021,Coahuila de Zaragoza,,Calle o parque,5,78.5804778589386
+2016,Coahuila de Zaragoza,,Calle o parque,5,79.0072641228448
+2011,Coahuila de Zaragoza,,Calle o parque,5,94.586043992846
+2021,Colima,,Calle o parque,6,77.2891852073813
+2016,Colima,,Calle o parque,6,75.6684692804567
+2011,Colima,,Calle o parque,6,88.8455172073029
+2021,Chiapas,,Calle o parque,7,78.0979078881353
+2016,Chiapas,,Calle o parque,7,78.4452423698384
+2011,Chiapas,,Calle o parque,7,87.85233824471489
+2021,Chihuahua,,Calle o parque,8,69.5842853095254
+2016,Chihuahua,,Calle o parque,8,77.0419227801283
+2011,Chihuahua,,Calle o parque,8,90.79216920593142
+2021,Ciudad de México,,Calle o parque,9,77.9605605884305
+2016,Ciudad de México,,Calle o parque,9,77.9547827339165
+2011,Ciudad de México,,Calle o parque,9,89.335513070101
+2021,Durango,,Calle o parque,10,76.8209523440176
+2016,Durango,,Calle o parque,10,80.8743169398907
+2011,Durango,,Calle o parque,10,89.9150902961993
+2021,Guanajuato,,Calle o parque,11,78.6063304850163
+2016,Guanajuato,,Calle o parque,11,80.2855694909109
+2011,Guanajuato,,Calle o parque,11,93.2517588549248
+2021,Guerrero,,Calle o parque,12,77.5873048520495
+2016,Guerrero,,Calle o parque,12,69.4375017090979
+2011,Guerrero,,Calle o parque,12,91.4160996492763
+2021,Hidalgo,,Calle o parque,13,75.6768381855944
+2016,Hidalgo,,Calle o parque,13,76.3735458011536
+2011,Hidalgo,,Calle o parque,13,87.9367937267537
+2021,Jalisco,,Calle o parque,14,79.0906067258093
+2016,Jalisco,,Calle o parque,14,80.4963688017531
+2011,Jalisco,,Calle o parque,14,94.0636483449875
+2021,México,,Calle o parque,15,77.7164826715
+2016,México,,Calle o parque,15,78.0594431709893
+2011,México,,Calle o parque,15,88.4663053821795
+2021,Michoacán de Ocampo,,Calle o parque,16,76.3125891247612
+2016,Michoacán de Ocampo,,Calle o parque,16,79.8867521877418
+2011,Michoacán de Ocampo,,Calle o parque,16,90.1027374177956
+2021,Morelos,,Calle o parque,17,78.0838239416877
+2016,Morelos,,Calle o parque,17,78.6157580610853
+2011,Morelos,,Calle o parque,17,91.37679152861192
+2021,Nayarit,,Calle o parque,18,78.2104653001001
+2016,Nayarit,,Calle o parque,18,77.3323011313477
+2011,Nayarit,,Calle o parque,18,86.8868626399294
+2021,Nuevo León,,Calle o parque,19,74.4027769754704
+2016,Nuevo León,,Calle o parque,19,84.2209231059356
+2011,Nuevo León,,Calle o parque,19,91.3295264165378
+2021,Oaxaca,,Calle o parque,20,77.9907491495682
+2016,Oaxaca,,Calle o parque,20,76.8823263067867
+2011,Oaxaca,,Calle o parque,20,89.1314662550526
+2021,Puebla,,Calle o parque,21,79.1866707082164
+2016,Puebla,,Calle o parque,21,78.884058120682
+2011,Puebla,,Calle o parque,21,91.9209858767518
+2021,Querétaro,,Calle o parque,22,83.9815306758198
+2016,Querétaro,,Calle o parque,22,85.6659410528082
+2011,Querétaro,,Calle o parque,22,91.7253074988792
+2021,Quintana Roo,,Calle o parque,23,75.7572698436313
+2016,Quintana Roo,,Calle o parque,23,80.9866227733683
+2011,Quintana Roo,,Calle o parque,23,92.15830273357808
+2021,San Luis Potosí,,Calle o parque,24,80.533950150241
+2016,San Luis Potosí,,Calle o parque,24,80.366476386464
+2011,San Luis Potosí,,Calle o parque,24,89.68344842791
+2021,Sinaloa,,Calle o parque,25,73.011643825534
+2016,Sinaloa,,Calle o parque,25,72.8154339859928
+2011,Sinaloa,,Calle o parque,25,85.0685924360575
+2021,Sonora,,Calle o parque,26,69.9841586310382
+2016,Sonora,,Calle o parque,26,76.1014219363355
+2011,Sonora,,Calle o parque,26,87.8872115265526
+2021,Tabasco,,Calle o parque,27,75.6725616008287
+2016,Tabasco,,Calle o parque,27,76.2972190470976
+2011,Tabasco,,Calle o parque,27,93.8430467397576
+2021,Tamaulipas,,Calle o parque,28,80.2326682726954
+2016,Tamaulipas,,Calle o parque,28,74.9991668980839
+2011,Tamaulipas,,Calle o parque,28,87.7084620135886
+2021,Tlaxcala,,Calle o parque,29,79.7347032002827
+2016,Tlaxcala,,Calle o parque,29,80.6889778984188
+2011,Tlaxcala,,Calle o parque,29,92.2414235167427
+2021,Veracruz de Ignacio de la Llave,,Calle o parque,30,74.9727173517643
+2016,Veracruz de Ignacio de la Llave,,Calle o parque,30,74.9429704697357
+2011,Veracruz de Ignacio de la Llave,,Calle o parque,30,89.1048151206674
+2021,Yucatán,,Calle o parque,31,77.5044633097719
+2016,Yucatán,,Calle o parque,31,78.3640606509694
+2011,Yucatán,,Calle o parque,31,91.5292906247792
+2021,Zacatecas,,Calle o parque,32,80.5673265172939
+2016,Zacatecas,,Calle o parque,32,76.5737582725363
+2011,Zacatecas,,Calle o parque,32,89.8405851203562
+2021,Estados Unidos Mexicanos,,Transporte público <sup>1</sup>,0,27.2346124099719
+2016,Estados Unidos Mexicanos,,Transporte público <sup>1</sup>,0,26.4624446188072
+2011,Estados Unidos Mexicanos,,Transporte público <sup>1</sup>,0,12.7032963908841
+2021,Aguascalientes,,Transporte público <sup>1</sup>,1,23.8522743515222
+2016,Aguascalientes,,Transporte público <sup>1</sup>,1,24.394501081248094
+2011,Aguascalientes,,Transporte público <sup>1</sup>,1,9.11170945681166
+2021,Baja California,,Transporte público <sup>1</sup>,2,16.8818108681343
+2016,Baja California,,Transporte público <sup>1</sup>,2,10.8976188799134
+2011,Baja California,,Transporte público <sup>1</sup>,2,6.25130018722696
+2021,Baja California Sur,,Transporte público <sup>1</sup>,3,14.533996282246996
+2016,Baja California Sur,,Transporte público <sup>1</sup>,3,8.40548598688133
+2011,Baja California Sur,,Transporte público <sup>1</sup>,3,1.68897739425453
+2021,Campeche,,Transporte público <sup>1</sup>,4,16.671048080249
+2016,Campeche,,Transporte público <sup>1</sup>,4,9.01958131827251
+2011,Campeche,,Transporte público <sup>1</sup>,4,3.90128731238406
+2021,Coahuila de Zaragoza,,Transporte público <sup>1</sup>,5,18.7299984823591
+2016,Coahuila de Zaragoza,,Transporte público <sup>1</sup>,5,14.1373233610219
+2011,Coahuila de Zaragoza,,Transporte público <sup>1</sup>,5,4.14062889675861
+2021,Colima,,Transporte público <sup>1</sup>,6,17.4657277698704
+2016,Colima,,Transporte público <sup>1</sup>,6,14.1955835962145
+2011,Colima,,Transporte público <sup>1</sup>,6,2.37912888801048
+2021,Chiapas,,Transporte público <sup>1</sup>,7,11.7355441490687
+2016,Chiapas,,Transporte público <sup>1</sup>,7,10.3111909036505
+2011,Chiapas,,Transporte público <sup>1</sup>,7,0.912075592568866
+2021,Chihuahua,,Transporte público <sup>1</sup>,8,22.887818522693703
+2016,Chihuahua,,Transporte público <sup>1</sup>,8,20.4581437428488
+2011,Chihuahua,,Transporte público <sup>1</sup>,8,6.015095397667399
+2021,Ciudad de México,,Transporte público <sup>1</sup>,9,45.72751381815291
+2016,Ciudad de México,,Transporte público <sup>1</sup>,9,52.1678085247256
+2011,Ciudad de México,,Transporte público <sup>1</sup>,9,35.7539226942212
+2021,Durango,,Transporte público <sup>1</sup>,10,17.6630276705901
+2016,Durango,,Transporte público <sup>1</sup>,10,12.6620993393687
+2011,Durango,,Transporte público <sup>1</sup>,10,1.85341781829555
+2021,Guanajuato,,Transporte público <sup>1</sup>,11,21.8161030208208
+2016,Guanajuato,,Transporte público <sup>1</sup>,11,16.1379105756712
+2011,Guanajuato,,Transporte público <sup>1</sup>,11,6.340975254730711
+2021,Guerrero,,Transporte público <sup>1</sup>,12,17.2742770576811
+2016,Guerrero,,Transporte público <sup>1</sup>,12,12.355273592387
+2011,Guerrero,,Transporte público <sup>1</sup>,12,6.408067486984531
+2021,Hidalgo,,Transporte público <sup>1</sup>,13,22.8615436293848
+2016,Hidalgo,,Transporte público <sup>1</sup>,13,19.7707498289178
+2011,Hidalgo,,Transporte público <sup>1</sup>,13,5.21309611238777
+2021,Jalisco,,Transporte público <sup>1</sup>,14,31.3859811445124
+2016,Jalisco,,Transporte público <sup>1</sup>,14,31.1446758585917
+2011,Jalisco,,Transporte público <sup>1</sup>,14,9.36122359865773
+2021,México,,Transporte público <sup>1</sup>,15,37.7326303070248
+2016,México,,Transporte público <sup>1</sup>,15,37.5469647410307
+2011,México,,Transporte público <sup>1</sup>,15,23.1391664760887
+2021,Michoacán de Ocampo,,Transporte público <sup>1</sup>,16,14.7945758334006
+2016,Michoacán de Ocampo,,Transporte público <sup>1</sup>,16,7.06895434974552
+2011,Michoacán de Ocampo,,Transporte público <sup>1</sup>,16,2.73356634603349
+2021,Morelos,,Transporte público <sup>1</sup>,17,23.20200125078169
+2016,Morelos,,Transporte público <sup>1</sup>,17,21.0251373231066
+2011,Morelos,,Transporte público <sup>1</sup>,17,12.3127309532221
+2021,Nayarit,,Transporte público <sup>1</sup>,18,16.4114454339464
+2016,Nayarit,,Transporte público <sup>1</sup>,18,14.655910035448
+2011,Nayarit,,Transporte público <sup>1</sup>,18,3.1091579147706603
+2021,Nuevo León,,Transporte público <sup>1</sup>,19,36.7966754716254
+2016,Nuevo León,,Transporte público <sup>1</sup>,19,24.1846211871199
+2011,Nuevo León,,Transporte público <sup>1</sup>,19,9.90390171311256
+2021,Oaxaca,,Transporte público <sup>1</sup>,20,15.7783951852479
+2016,Oaxaca,,Transporte público <sup>1</sup>,20,18.2618101323137
+2011,Oaxaca,,Transporte público <sup>1</sup>,20,4.79462339113148
+2021,Puebla,,Transporte público <sup>1</sup>,21,26.3691564568646
+2016,Puebla,,Transporte público <sup>1</sup>,21,26.0411223446552
+2011,Puebla,,Transporte público <sup>1</sup>,21,7.19508012455897
+2021,Querétaro,,Transporte público <sup>1</sup>,22,30.0913910474232
+2016,Querétaro,,Transporte público <sup>1</sup>,22,28.160965081969504
+2011,Querétaro,,Transporte público <sup>1</sup>,22,11.5738484629929
+2021,Quintana Roo,,Transporte público <sup>1</sup>,23,23.093475869910595
+2016,Quintana Roo,,Transporte público <sup>1</sup>,23,16.1419464631952
+2011,Quintana Roo,,Transporte público <sup>1</sup>,23,5.32979736162111
+2021,San Luis Potosí,,Transporte público <sup>1</sup>,24,21.475604747184303
+2016,San Luis Potosí,,Transporte público <sup>1</sup>,24,21.5983537022544
+2011,San Luis Potosí,,Transporte público <sup>1</sup>,24,6.8167755975791
+2021,Sinaloa,,Transporte público <sup>1</sup>,25,21.1316051599861
+2016,Sinaloa,,Transporte público <sup>1</sup>,25,18.0045100717709
+2011,Sinaloa,,Transporte público <sup>1</sup>,25,4.44038876324039
+2021,Sonora,,Transporte público <sup>1</sup>,26,16.3082504691804
+2016,Sonora,,Transporte público <sup>1</sup>,26,13.3815685134929
+2011,Sonora,,Transporte público <sup>1</sup>,26,5.28575556992858
+2021,Tabasco,,Transporte público <sup>1</sup>,27,16.3069100749464
+2016,Tabasco,,Transporte público <sup>1</sup>,27,10.919843122223702
+2011,Tabasco,,Transporte público <sup>1</sup>,27,3.2462286703486902
+2021,Tamaulipas,,Transporte público <sup>1</sup>,28,18.3219058208248
+2016,Tamaulipas,,Transporte público <sup>1</sup>,28,14.296769415903
+2011,Tamaulipas,,Transporte público <sup>1</sup>,28,6.59305577725188
+2021,Tlaxcala,,Transporte público <sup>1</sup>,29,22.079623516432395
+2016,Tlaxcala,,Transporte público <sup>1</sup>,29,14.8311209683648
+2011,Tlaxcala,,Transporte público <sup>1</sup>,29,6.54325419209271
+2021,Veracruz de Ignacio de la Llave,,Transporte público <sup>1</sup>,30,21.6964335885629
+2016,Veracruz de Ignacio de la Llave,,Transporte público <sup>1</sup>,30,16.7189907901435
+2011,Veracruz de Ignacio de la Llave,,Transporte público <sup>1</sup>,30,7.050703218055479
+2021,Yucatán,,Transporte público <sup>1</sup>,31,20.3822961451578
+2016,Yucatán,,Transporte público <sup>1</sup>,31,17.0826927968679
+2011,Yucatán,,Transporte público <sup>1</sup>,31,4.35195186706912
+2021,Zacatecas,,Transporte público <sup>1</sup>,32,12.9580160974549
+2016,Zacatecas,,Transporte público <sup>1</sup>,32,13.6719897002688
+2011,Zacatecas,,Transporte público <sup>1</sup>,32,4.21972430765827
+2021,Estados Unidos Mexicanos,,Casa particular,0,9.51831859762109
+2016,Estados Unidos Mexicanos,,Casa particular,0,7.55191083336182
+2011,Estados Unidos Mexicanos,,Casa particular,0,9.22410658979976
+2021,Aguascalientes,,Casa particular,1,8.76729671047706
+2016,Aguascalientes,,Casa particular,1,6.60642570281124
+2011,Aguascalientes,,Casa particular,1,7.70349020946313
+2021,Baja California,,Casa particular,2,10.3013237767864
+2016,Baja California,,Casa particular,2,9.54820628218294
+2011,Baja California,,Casa particular,2,12.989910547118802
+2021,Baja California Sur,,Casa particular,3,8.95434417929846
+2016,Baja California Sur,,Casa particular,3,12.6535480023852
+2011,Baja California Sur,,Casa particular,3,18.8184533687355
+2021,Campeche,,Casa particular,4,12.2933241093047
+2016,Campeche,,Casa particular,4,10.0984138794007
+2011,Campeche,,Casa particular,4,13.1092248018438
+2021,Coahuila de Zaragoza,,Casa particular,5,11.6772571609557
+2016,Coahuila de Zaragoza,,Casa particular,5,10.4589304034153
+2011,Coahuila de Zaragoza,,Casa particular,5,8.57625355384385
+2021,Colima,,Casa particular,6,12.130746373011698
+2016,Colima,,Casa particular,6,12.2258524861049
+2011,Colima,,Casa particular,6,14.5366504434617
+2021,Chiapas,,Casa particular,7,10.893506839798896
+2016,Chiapas,,Casa particular,7,11.6744464392579
+2011,Chiapas,,Casa particular,7,10.2290198590647
+2021,Chihuahua,,Casa particular,8,11.4399908369152
+2016,Chihuahua,,Casa particular,8,7.69504536867034
+2011,Chihuahua,,Casa particular,8,10.7987717465529
+2021,Ciudad de México,,Casa particular,9,9.70847265305908
+2016,Ciudad de México,,Casa particular,9,4.59380688746241
+2011,Ciudad de México,,Casa particular,9,4.92409746141089
+2021,Durango,,Casa particular,10,10.9344398983925
+2016,Durango,,Casa particular,10,9.45001767120681
+2011,Durango,,Casa particular,10,9.27288102215993
+2021,Guanajuato,,Casa particular,11,9.60765435070406
+2016,Guanajuato,,Casa particular,11,6.62215501755196
+2011,Guanajuato,,Casa particular,11,8.42157933042213
+2021,Guerrero,,Casa particular,12,10.0288346300347
+2016,Guerrero,,Casa particular,12,12.2212803193962
+2011,Guerrero,,Casa particular,12,12.9002413854008
+2021,Hidalgo,,Casa particular,13,7.75583438817269
+2016,Hidalgo,,Casa particular,13,10.3392315964415
+2011,Hidalgo,,Casa particular,13,9.49160171519272
+2021,Jalisco,,Casa particular,14,9.66467710430991
+2016,Jalisco,,Casa particular,14,6.57894098939244
+2011,Jalisco,,Casa particular,14,8.76844579761812
+2021,México,,Casa particular,15,7.38946559015763
+2016,México,,Casa particular,15,5.792567028099
+2011,México,,Casa particular,15,5.538838938895981
+2021,Michoacán de Ocampo,,Casa particular,16,10.0191029676864
+2016,Michoacán de Ocampo,,Casa particular,16,5.01842578041106
+2011,Michoacán de Ocampo,,Casa particular,16,14.0910097537961
+2021,Morelos,,Casa particular,17,6.77686485087662
+2016,Morelos,,Casa particular,17,7.98350871485592
+2011,Morelos,,Casa particular,17,8.21167012002406
+2021,Nayarit,,Casa particular,18,10.1017020603889
+2016,Nayarit,,Casa particular,18,13.4145513316764
+2011,Nayarit,,Casa particular,18,12.3068671384328
+2021,Nuevo León,,Casa particular,19,7.031713606024479
+2016,Nuevo León,,Casa particular,19,4.71783508556881
+2011,Nuevo León,,Casa particular,19,9.80835219037597
+2021,Oaxaca,,Casa particular,20,10.4079763572275
+2016,Oaxaca,,Casa particular,20,11.414700407506198
+2011,Oaxaca,,Casa particular,20,10.4643271130758
+2021,Puebla,,Casa particular,21,6.22502957827732
+2016,Puebla,,Casa particular,21,6.76257061125856
+2011,Puebla,,Casa particular,21,8.92491484961576
+2021,Querétaro,,Casa particular,22,9.46247080723025
+2016,Querétaro,,Casa particular,22,6.10494520605414
+2011,Querétaro,,Casa particular,22,6.446268103935599
+2021,Quintana Roo,,Casa particular,23,10.6716469456827
+2016,Quintana Roo,,Casa particular,23,9.32988324568623
+2011,Quintana Roo,,Casa particular,23,12.063103495172
+2021,San Luis Potosí,,Casa particular,24,7.74379039754426
+2016,San Luis Potosí,,Casa particular,24,8.66550272832256
+2011,San Luis Potosí,,Casa particular,24,11.269548890896
+2021,Sinaloa,,Casa particular,25,10.435281821795
+2016,Sinaloa,,Casa particular,25,12.1441271493311
+2011,Sinaloa,,Casa particular,25,15.4003335749277
+2021,Sonora,,Casa particular,26,13.074354119382898
+2016,Sonora,,Casa particular,26,11.8158131929292
+2011,Sonora,,Casa particular,26,14.153604799978
+2021,Tabasco,,Casa particular,27,14.5833553556516
+2016,Tabasco,,Casa particular,27,11.071792800870602
+2011,Tabasco,,Casa particular,27,14.322809331464802
+2021,Tamaulipas,,Casa particular,28,10.0216196182593
+2016,Tamaulipas,,Casa particular,28,10.963621216328798
+2011,Tamaulipas,,Casa particular,28,15.853870123741196
+2021,Tlaxcala,,Casa particular,29,7.6968824609338
+2016,Tlaxcala,,Casa particular,29,7.67762366623633
+2011,Tlaxcala,,Casa particular,29,7.04066458130352
+2021,Veracruz de Ignacio de la Llave,,Casa particular,30,13.7046139468306
+2016,Veracruz de Ignacio de la Llave,,Casa particular,30,10.1742766848686
+2011,Veracruz de Ignacio de la Llave,,Casa particular,30,12.0032003045949
+2021,Yucatán,,Casa particular,31,11.0220979377687
+2016,Yucatán,,Casa particular,31,8.79295280859111
+2011,Yucatán,,Casa particular,31,11.751582390292702
+2021,Zacatecas,,Casa particular,32,6.8044376767457
+2016,Zacatecas,,Casa particular,32,7.04266708829309
+2011,Zacatecas,,Casa particular,32,9.75984072338131
+2021,Estados Unidos Mexicanos,,Instalaciones de la escuela o trabajo <sup>2</sup>,0,16.986850299682
+2016,Estados Unidos Mexicanos,,Instalaciones de la escuela o trabajo <sup>2</sup>,0,14.320729203583
+2011,Estados Unidos Mexicanos,,Instalaciones de la escuela o trabajo <sup>2</sup>,0,16.6077860812322
+2021,Aguascalientes,,Instalaciones de la escuela o trabajo <sup>2</sup>,1,18.9741425664132
+2016,Aguascalientes,,Instalaciones de la escuela o trabajo <sup>2</sup>,1,19.1017917825147
+2011,Aguascalientes,,Instalaciones de la escuela o trabajo <sup>2</sup>,1,18.67597052094
+2021,Baja California,,Instalaciones de la escuela o trabajo <sup>2</sup>,2,17.9653331383018
+2016,Baja California,,Instalaciones de la escuela o trabajo <sup>2</sup>,2,15.6287187623959
+2011,Baja California,,Instalaciones de la escuela o trabajo <sup>2</sup>,2,16.7006448928646
+2021,Baja California Sur,,Instalaciones de la escuela o trabajo <sup>2</sup>,3,21.470779367982
+2016,Baja California Sur,,Instalaciones de la escuela o trabajo <sup>2</sup>,3,16.927847346452
+2011,Baja California Sur,,Instalaciones de la escuela o trabajo <sup>2</sup>,3,27.1158313972785
+2021,Campeche,,Instalaciones de la escuela o trabajo <sup>2</sup>,4,14.7616741611899
+2016,Campeche,,Instalaciones de la escuela o trabajo <sup>2</sup>,4,14.6335689404444
+2011,Campeche,,Instalaciones de la escuela o trabajo <sup>2</sup>,4,18.14042385744
+2021,Coahuila de Zaragoza,,Instalaciones de la escuela o trabajo <sup>2</sup>,5,20.1644990795178
+2016,Coahuila de Zaragoza,,Instalaciones de la escuela o trabajo <sup>2</sup>,5,17.249809709766
+2011,Coahuila de Zaragoza,,Instalaciones de la escuela o trabajo <sup>2</sup>,5,13.0760077240436
+2021,Colima,,Instalaciones de la escuela o trabajo <sup>2</sup>,6,19.7205783204734
+2016,Colima,,Instalaciones de la escuela o trabajo <sup>2</sup>,6,16.7830854739372
+2011,Colima,,Instalaciones de la escuela o trabajo <sup>2</sup>,6,19.6457247325642
+2021,Chiapas,,Instalaciones de la escuela o trabajo <sup>2</sup>,7,13.8311645025138
+2016,Chiapas,,Instalaciones de la escuela o trabajo <sup>2</sup>,7,11.4801516058249
+2011,Chiapas,,Instalaciones de la escuela o trabajo <sup>2</sup>,7,19.1295643818065
+2021,Chihuahua,,Instalaciones de la escuela o trabajo <sup>2</sup>,8,24.0217502697685
+2016,Chihuahua,,Instalaciones de la escuela o trabajo <sup>2</sup>,8,18.6510470716585
+2011,Chihuahua,,Instalaciones de la escuela o trabajo <sup>2</sup>,8,25.583035992891
+2021,Ciudad de México,,Instalaciones de la escuela o trabajo <sup>2</sup>,9,17.8148888462795
+2016,Ciudad de México,,Instalaciones de la escuela o trabajo <sup>2</sup>,9,11.1369900965923
+2011,Ciudad de México,,Instalaciones de la escuela o trabajo <sup>2</sup>,9,17.0906892516237
+2021,Durango,,Instalaciones de la escuela o trabajo <sup>2</sup>,10,19.9104147679898
+2016,Durango,,Instalaciones de la escuela o trabajo <sup>2</sup>,10,17.985890221026
+2011,Durango,,Instalaciones de la escuela o trabajo <sup>2</sup>,10,19.4133932605095
+2021,Guanajuato,,Instalaciones de la escuela o trabajo <sup>2</sup>,11,19.6239877585407
+2016,Guanajuato,,Instalaciones de la escuela o trabajo <sup>2</sup>,11,15.8536183397333
+2011,Guanajuato,,Instalaciones de la escuela o trabajo <sup>2</sup>,11,15.8494056283358
+2021,Guerrero,,Instalaciones de la escuela o trabajo <sup>2</sup>,12,14.7669695159817
+2016,Guerrero,,Instalaciones de la escuela o trabajo <sup>2</sup>,12,16.6736853619186
+2011,Guerrero,,Instalaciones de la escuela o trabajo <sup>2</sup>,12,17.1921915607627
+2021,Hidalgo,,Instalaciones de la escuela o trabajo <sup>2</sup>,13,15.50716266647
+2016,Hidalgo,,Instalaciones de la escuela o trabajo <sup>2</sup>,13,13.6621370612963
+2011,Hidalgo,,Instalaciones de la escuela o trabajo <sup>2</sup>,13,18.6266612968184
+2021,Jalisco,,Instalaciones de la escuela o trabajo <sup>2</sup>,14,16.9039023239782
+2016,Jalisco,,Instalaciones de la escuela o trabajo <sup>2</sup>,14,15.029597416952702
+2011,Jalisco,,Instalaciones de la escuela o trabajo <sup>2</sup>,14,16.4703700823668
+2021,México,,Instalaciones de la escuela o trabajo <sup>2</sup>,15,15.1958038117208
+2016,México,,Instalaciones de la escuela o trabajo <sup>2</sup>,15,14.7612228603807
+2011,México,,Instalaciones de la escuela o trabajo <sup>2</sup>,15,13.299431863441702
+2021,Michoacán de Ocampo,,Instalaciones de la escuela o trabajo <sup>2</sup>,16,17.3944628299298
+2016,Michoacán de Ocampo,,Instalaciones de la escuela o trabajo <sup>2</sup>,16,13.8842772355534
+2011,Michoacán de Ocampo,,Instalaciones de la escuela o trabajo <sup>2</sup>,16,16.9743012026151
+2021,Morelos,,Instalaciones de la escuela o trabajo <sup>2</sup>,17,17.0257272864506
+2016,Morelos,,Instalaciones de la escuela o trabajo <sup>2</sup>,17,15.4452521865342
+2011,Morelos,,Instalaciones de la escuela o trabajo <sup>2</sup>,17,15.8332458058417
+2021,Nayarit,,Instalaciones de la escuela o trabajo <sup>2</sup>,18,19.6890973283448
+2016,Nayarit,,Instalaciones de la escuela o trabajo <sup>2</sup>,18,18.1721875891293
+2011,Nayarit,,Instalaciones de la escuela o trabajo <sup>2</sup>,18,19.0061767911829
+2021,Nuevo León,,Instalaciones de la escuela o trabajo <sup>2</sup>,19,13.2928620317224
+2016,Nuevo León,,Instalaciones de la escuela o trabajo <sup>2</sup>,19,10.8302295978502
+2011,Nuevo León,,Instalaciones de la escuela o trabajo <sup>2</sup>,19,15.4218866511506
+2021,Oaxaca,,Instalaciones de la escuela o trabajo <sup>2</sup>,20,14.7374821063001
+2016,Oaxaca,,Instalaciones de la escuela o trabajo <sup>2</sup>,20,11.9640790863812
+2011,Oaxaca,,Instalaciones de la escuela o trabajo <sup>2</sup>,20,13.9670508531583
+2021,Puebla,,Instalaciones de la escuela o trabajo <sup>2</sup>,21,16.2573945693305
+2016,Puebla,,Instalaciones de la escuela o trabajo <sup>2</sup>,21,13.6286183429203
+2011,Puebla,,Instalaciones de la escuela o trabajo <sup>2</sup>,21,14.8197324766792
+2021,Querétaro,,Instalaciones de la escuela o trabajo <sup>2</sup>,22,16.0823016325017
+2016,Querétaro,,Instalaciones de la escuela o trabajo <sup>2</sup>,22,13.6493094238129
+2011,Querétaro,,Instalaciones de la escuela o trabajo <sup>2</sup>,22,19.8124792889028
+2021,Quintana Roo,,Instalaciones de la escuela o trabajo <sup>2</sup>,23,17.9943573367905
+2016,Quintana Roo,,Instalaciones de la escuela o trabajo <sup>2</sup>,23,15.7918230132935
+2011,Quintana Roo,,Instalaciones de la escuela o trabajo <sup>2</sup>,23,18.0280157758738
+2021,San Luis Potosí,,Instalaciones de la escuela o trabajo <sup>2</sup>,24,13.259690006269102
+2016,San Luis Potosí,,Instalaciones de la escuela o trabajo <sup>2</sup>,24,9.02453574731957
+2011,San Luis Potosí,,Instalaciones de la escuela o trabajo <sup>2</sup>,24,22.615195328890803
+2021,Sinaloa,,Instalaciones de la escuela o trabajo <sup>2</sup>,25,17.1134303897468
+2016,Sinaloa,,Instalaciones de la escuela o trabajo <sup>2</sup>,25,18.7796786573863
+2011,Sinaloa,,Instalaciones de la escuela o trabajo <sup>2</sup>,25,19.6442449592637
+2021,Sonora,,Instalaciones de la escuela o trabajo <sup>2</sup>,26,23.4414642607849
+2016,Sonora,,Instalaciones de la escuela o trabajo <sup>2</sup>,26,15.624061113218
+2011,Sonora,,Instalaciones de la escuela o trabajo <sup>2</sup>,26,20.7941706689419
+2021,Tabasco,,Instalaciones de la escuela o trabajo <sup>2</sup>,27,15.767803723005
+2016,Tabasco,,Instalaciones de la escuela o trabajo <sup>2</sup>,27,13.530365979699
+2011,Tabasco,,Instalaciones de la escuela o trabajo <sup>2</sup>,27,17.2838183167093
+2021,Tamaulipas,,Instalaciones de la escuela o trabajo <sup>2</sup>,28,14.1141104041839
+2016,Tamaulipas,,Instalaciones de la escuela o trabajo <sup>2</sup>,28,13.9701934647783
+2011,Tamaulipas,,Instalaciones de la escuela o trabajo <sup>2</sup>,28,19.0768333900105
+2021,Tlaxcala,,Instalaciones de la escuela o trabajo <sup>2</sup>,29,18.6767912705459
+2016,Tlaxcala,,Instalaciones de la escuela o trabajo <sup>2</sup>,29,15.4324870071833
+2011,Tlaxcala,,Instalaciones de la escuela o trabajo <sup>2</sup>,29,17.874297044596
+2021,Veracruz de Ignacio de la Llave,,Instalaciones de la escuela o trabajo <sup>2</sup>,30,18.2335335539605
+2016,Veracruz de Ignacio de la Llave,,Instalaciones de la escuela o trabajo <sup>2</sup>,30,14.6012971286305
+2011,Veracruz de Ignacio de la Llave,,Instalaciones de la escuela o trabajo <sup>2</sup>,30,14.6478250019938
+2021,Yucatán,,Instalaciones de la escuela o trabajo <sup>2</sup>,31,15.846116009618902
+2016,Yucatán,,Instalaciones de la escuela o trabajo <sup>2</sup>,31,14.6523407690861
+2011,Yucatán,,Instalaciones de la escuela o trabajo <sup>2</sup>,31,17.1937935977549
+2021,Zacatecas,,Instalaciones de la escuela o trabajo <sup>2</sup>,32,18.1996954535567
+2016,Zacatecas,,Instalaciones de la escuela o trabajo <sup>2</sup>,32,16.2503105730355
+2011,Zacatecas,,Instalaciones de la escuela o trabajo <sup>2</sup>,32,17.4526801885879
+2021,Estados Unidos Mexicanos,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",0,12.9601142809639
+2016,Estados Unidos Mexicanos,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",0,10.4979680043128
+2011,Estados Unidos Mexicanos,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",0,1.07460609235988
+2021,Aguascalientes,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",1,12.5516434001947
+2016,Aguascalientes,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",1,14.467871485943798
+2011,Aguascalientes,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",1,0.821671912725802
+2021,Baja California,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",2,12.4826300007314
+2016,Baja California,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",2,10.0427437561864
+2011,Baja California,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",2,1.59610983981693
+2021,Baja California Sur,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",3,13.4760990796294
+2016,Baja California Sur,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",3,8.81097197376267
+2011,Baja California Sur,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",3,0.545783088099716
+2021,Campeche,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",4,13.292286406087902
+2016,Campeche,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",4,9.9039534647773
+2011,Campeche,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",4,0.817921187250548
+2021,Coahuila de Zaragoza,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",5,15.9401785537542
+2016,Coahuila de Zaragoza,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",5,12.7027004666247
+2011,Coahuila de Zaragoza,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",5,1.45716504799025
+2021,Colima,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",6,9.2191674782131
+2016,Colima,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",6,11.9892594261679
+2011,Colima,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",6,0.518813153148702
+2021,Chiapas,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",7,15.353848636776698
+2016,Chiapas,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",7,13.4673847995212
+2011,Chiapas,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",7,1.6736066623959
+2021,Chihuahua,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",8,13.8790593370026
+2016,Chihuahua,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",8,12.5485617732365
+2011,Chihuahua,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",8,0.558502579965359
+2021,Ciudad de México,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",9,15.1177114880003
+2016,Ciudad de México,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",9,8.68626060660133
+2011,Ciudad de México,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",9,1.66919028048165
+2021,Durango,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",10,13.1527408815032
+2016,Durango,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",10,9.63080771008346
+2011,Durango,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",10,1.30434278962549
+2021,Guanajuato,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",11,9.81723776283892
+2016,Guanajuato,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",11,6.86215534716614
+2011,Guanajuato,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",11,0.302947598253275
+2021,Guerrero,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",12,17.0017522278608
+2016,Guerrero,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",12,16.0704421778009
+2011,Guerrero,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",12,1.20356274758825
+2021,Hidalgo,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",13,16.3448894569318
+2016,Hidalgo,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",13,10.9600156418027
+2011,Hidalgo,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",13,0.933405984222122
+2021,Jalisco,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",14,15.4848424375465
+2016,Jalisco,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",14,14.1071324684391
+2011,Jalisco,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",14,0.718192276940684
+2021,México,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",15,11.0733783709562
+2016,México,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",15,9.63334792798826
+2011,México,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",15,0.8086502709633651
+2021,Michoacán de Ocampo,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",16,16.6432588048538
+2016,Michoacán de Ocampo,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",16,8.88562380044931
+2011,Michoacán de Ocampo,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",16,1.4982138902529405
+2021,Morelos,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",17,13.6820426559703
+2016,Morelos,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",17,12.2133106442612
+2011,Morelos,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",17,1.09998185793811
+2021,Nayarit,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",18,9.72440322495653
+2016,Nayarit,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",18,11.8961278843934
+2011,Nayarit,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",18,0.0865096804332405
+2021,Nuevo León,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",19,10.8481293401182
+2016,Nuevo León,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",19,6.9265946914336896
+2011,Nuevo León,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",19,1.0610516257945
+2021,Oaxaca,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",20,9.52560530730987
+2016,Oaxaca,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",20,13.4356291190824
+2011,Oaxaca,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",20,1.17778485156067
+2021,Puebla,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",21,13.6181322173441
+2016,Puebla,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",21,7.81159315522601
+2011,Puebla,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",21,1.27615211950597
+2021,Querétaro,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",22,15.457738807367898
+2016,Querétaro,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",22,17.575548522125
+2011,Querétaro,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",22,0.474649616966531
+2021,Quintana Roo,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",23,10.953780106158598
+2016,Quintana Roo,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",23,8.6575346287436
+2011,Quintana Roo,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",23,1.6591867265061897
+2021,San Luis Potosí,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",24,10.0296158585356
+2016,San Luis Potosí,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",24,10.6002309633141
+2011,San Luis Potosí,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",24,0.837784210114573
+2021,Sinaloa,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",25,11.4819012850897
+2016,Sinaloa,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",25,9.66792428283354
+2011,Sinaloa,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",25,1.4661578630247003
+2021,Sonora,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",26,17.3339686600041
+2016,Sonora,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",26,9.20589263814257
+2011,Sonora,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",26,1.40710363713928
+2021,Tabasco,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",27,13.0775573196901
+2016,Tabasco,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",27,8.74668893436732
+2011,Tabasco,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",27,0.445964883356689
+2021,Tamaulipas,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",28,10.0735067020817
+2016,Tamaulipas,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",28,10.714801444043298
+2011,Tamaulipas,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",28,0.299810536397138
+2021,Tlaxcala,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",29,13.7940545246119
+2016,Tlaxcala,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",29,11.7647058823529
+2011,Tlaxcala,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",29,0.22904808300429
+2021,Veracruz de Ignacio de la Llave,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",30,10.3279241231845
+2016,Veracruz de Ignacio de la Llave,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",30,10.3926654725068
+2011,Veracruz de Ignacio de la Llave,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",30,1.9070625371418
+2021,Yucatán,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",31,12.9080740362894
+2016,Yucatán,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",31,15.6117630144107
+2011,Yucatán,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",31,1.2144277652712
+2021,Zacatecas,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",32,12.717859473569698
+2016,Zacatecas,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",32,13.0316445689246
+2011,Zacatecas,,"Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",32,1.01621800987183
+2021,Estados Unidos Mexicanos,,Otro <sup>4</sup>,0,2.27588507529974
+2016,Estados Unidos Mexicanos,,Otro <sup>4</sup>,0,2.10863803744443
+2011,Estados Unidos Mexicanos,,Otro <sup>4</sup>,0,5.562735905393869
+2021,Aguascalientes,,Otro <sup>4</sup>,1,2.50678936299099
+2016,Aguascalientes,,Otro <sup>4</sup>,1,3.1317578004325006
+2011,Aguascalientes,,Otro <sup>4</sup>,1,7.20922295119269
+2021,Baja California,,Otro <sup>4</sup>,2,3.94536678124771
+2016,Baja California,,Otro <sup>4</sup>,2,2.46341942635136
+2011,Baja California,,Otro <sup>4</sup>,2,5.23715415019763
+2021,Baja California Sur,,Otro <sup>4</sup>,3,2.72786350103523
+2016,Baja California Sur,,Otro <sup>4</sup>,3,3.89982110912343
+2011,Baja California Sur,,Otro <sup>4</sup>,3,7.25743998229893
+2021,Campeche,,Otro <sup>4</sup>,4,1.78623313732273
+2016,Campeche,,Otro <sup>4</sup>,4,1.95982278737867
+2011,Campeche,,Otro <sup>4</sup>,4,6.76822755635505
+2021,Coahuila de Zaragoza,,Otro <sup>4</sup>,5,2.40282149243489
+2016,Coahuila de Zaragoza,,Otro <sup>4</sup>,5,2.64503425224212
+2011,Coahuila de Zaragoza,,Otro <sup>4</sup>,5,6.04812563684169
+2021,Colima,,Otro <sup>4</sup>,6,2.990236472145229
+2016,Colima,,Otro <sup>4</sup>,6,4.84828000600871
+2011,Colima,,Otro <sup>4</sup>,6,7.11021073696173
+2021,Chiapas,,Otro <sup>4</sup>,7,1.64477954410697
+2016,Chiapas,,Otro <sup>4</sup>,7,1.17135447835627
+2011,Chiapas,,Otro <sup>4</sup>,7,4.91591928251121
+2021,Chihuahua,,Otro <sup>4</sup>,8,1.99206669761217
+2016,Chihuahua,,Otro <sup>4</sup>,8,2.4207711343498
+2011,Chihuahua,,Otro <sup>4</sup>,8,6.6093240535981606
+2021,Ciudad de México,,Otro <sup>4</sup>,9,2.67467607342948
+2016,Ciudad de México,,Otro <sup>4</sup>,9,1.19726830612127
+2011,Ciudad de México,,Otro <sup>4</sup>,9,4.80887091853996
+2021,Durango,,Otro <sup>4</sup>,10,2.38053686503397
+2016,Durango,,Otro <sup>4</sup>,10,1.49049832803197
+2011,Durango,,Otro <sup>4</sup>,10,3.33846884520486
+2021,Guanajuato,,Otro <sup>4</sup>,11,2.90236060725891
+2016,Guanajuato,,Otro <sup>4</sup>,11,1.92659492064538
+2011,Guanajuato,,Otro <sup>4</sup>,11,5.49551188743328
+2021,Guerrero,,Otro <sup>4</sup>,12,2.47724674769897
+2016,Guerrero,,Otro <sup>4</sup>,12,4.00393776149197
+2011,Guerrero,,Otro <sup>4</sup>,12,6.339100229610499
+2021,Hidalgo,,Otro <sup>4</sup>,13,1.13799756670067
+2016,Hidalgo,,Otro <sup>4</sup>,13,1.72597516863819
+2011,Hidalgo,,Otro <sup>4</sup>,13,3.32022458600839
+2021,Jalisco,,Otro <sup>4</sup>,14,2.01411440285916
+2016,Jalisco,,Otro <sup>4</sup>,14,2.24356177400275
+2011,Jalisco,,Otro <sup>4</sup>,14,4.53625555043795
+2021,México,,Otro <sup>4</sup>,15,1.83555775251277
+2016,México,,Otro <sup>4</sup>,15,1.41396450923327
+2011,México,,Otro <sup>4</sup>,15,4.31108838450674
+2021,Michoacán de Ocampo,,Otro <sup>4</sup>,16,1.25998869965292
+2016,Michoacán de Ocampo,,Otro <sup>4</sup>,16,3.446183426002
+2011,Michoacán de Ocampo,,Otro <sup>4</sup>,16,5.701108254619331
+2021,Morelos,,Otro <sup>4</sup>,17,3.71460611157836
+2016,Morelos,,Otro <sup>4</sup>,17,1.30378749014652
+2011,Morelos,,Otro <sup>4</sup>,17,4.29012021503118
+2021,Nayarit,,Otro <sup>4</sup>,18,2.40080096959477
+2016,Nayarit,,Otro <sup>4</sup>,18,4.82282796180853
+2011,Nayarit,,Otro <sup>4</sup>,18,9.59046317282904
+2021,Nuevo León,,Otro <sup>4</sup>,19,2.0913089980377
+2016,Nuevo León,,Otro <sup>4</sup>,19,3.44986092122012
+2011,Nuevo León,,Otro <sup>4</sup>,19,6.053191386339651
+2021,Oaxaca,,Otro <sup>4</sup>,20,2.0294918958856
+2016,Oaxaca,,Otro <sup>4</sup>,20,2.9320319967802
+2011,Oaxaca,,Otro <sup>4</sup>,20,5.04147172055087
+2021,Puebla,,Otro <sup>4</sup>,21,2.41319631175993
+2016,Puebla,,Otro <sup>4</sup>,21,1.70272531058627
+2011,Puebla,,Otro <sup>4</sup>,21,4.41831166229171
+2021,Querétaro,,Otro <sup>4</sup>,22,3.30284416889952
+2016,Querétaro,,Otro <sup>4</sup>,22,1.474378994178
+2011,Querétaro,,Otro <sup>4</sup>,22,6.5612756086626005
+2021,Quintana Roo,,Otro <sup>4</sup>,23,3.20229107003385
+2016,Quintana Roo,,Otro <sup>4</sup>,23,1.55602672655498
+2011,Quintana Roo,,Otro <sup>4</sup>,23,6.33482932136543
+2021,San Luis Potosí,,Otro <sup>4</sup>,24,2.8245314425301
+2016,San Luis Potosí,,Otro <sup>4</sup>,24,2.6544361922797
+2011,San Luis Potosí,,Otro <sup>4</sup>,24,8.43758223157835
+2021,Sinaloa,,Otro <sup>4</sup>,25,3.24633585051938
+2016,Sinaloa,,Otro <sup>4</sup>,25,2.52336347275526
+2011,Sinaloa,,Otro <sup>4</sup>,25,9.9793043827554
+2021,Sonora,,Otro <sup>4</sup>,26,3.2067277750609207
+2016,Sonora,,Otro <sup>4</sup>,26,2.41241571567184
+2011,Sonora,,Otro <sup>4</sup>,26,11.3387094554612
+2021,Tabasco,,Otro <sup>4</sup>,27,1.92492679781398
+2016,Tabasco,,Otro <sup>4</sup>,27,1.85282783827626
+2011,Tabasco,,Otro <sup>4</sup>,27,5.15950869672739
+2021,Tamaulipas,,Otro <sup>4</sup>,28,2.51281734511088
+2016,Tamaulipas,,Otro <sup>4</sup>,28,1.8587429417754295
+2011,Tamaulipas,,Otro <sup>4</sup>,28,4.65469737873982
+2021,Tlaxcala,,Otro <sup>4</sup>,29,2.10220563518673
+2016,Tlaxcala,,Otro <sup>4</sup>,29,2.14726295695543
+2011,Tlaxcala,,Otro <sup>4</sup>,29,6.39283455549288
+2021,Veracruz de Ignacio de la Llave,,Otro <sup>4</sup>,30,1.52812404806478
+2016,Veracruz de Ignacio de la Llave,,Otro <sup>4</sup>,30,3.47927912588889
+2011,Veracruz de Ignacio de la Llave,,Otro <sup>4</sup>,30,7.08929209982686
+2021,Yucatán,,Otro <sup>4</sup>,31,2.003479559863
+2016,Yucatán,,Otro <sup>4</sup>,31,2.29044780411197
+2011,Yucatán,,Otro <sup>4</sup>,31,7.50764695787359
+2021,Zacatecas,,Otro <sup>4</sup>,32,1.4452904067870402
+2016,Zacatecas,,Otro <sup>4</sup>,32,3.70315993946649
+2011,Zacatecas,,Otro <sup>4</sup>,32,5.19169881233841
+2021,Estados Unidos Mexicanos,,Lugar no especificado,0,
+2016,Estados Unidos Mexicanos,,Lugar no especificado,0,
+2011,Estados Unidos Mexicanos,,Lugar no especificado,0,0.185997241406589
+2021,Aguascalientes,,Lugar no especificado,1,
+2016,Aguascalientes,,Lugar no especificado,1,
+2011,Aguascalientes,,Lugar no especificado,1,0.214898807943671
+2021,Baja California,,Lugar no especificado,2,
+2016,Baja California,,Lugar no especificado,2,
+2011,Baja California,,Lugar no especificado,2,0.097254004576659
+2021,Baja California Sur,,Lugar no especificado,3,
+2016,Baja California Sur,,Lugar no especificado,3,
+2011,Baja California Sur,,Lugar no especificado,3,0.9366817863332968
+2021,Campeche,,Lugar no especificado,4,
+2016,Campeche,,Lugar no especificado,4,
+2011,Campeche,,Lugar no especificado,4,0.882567879026365
+2021,Coahuila de Zaragoza,,Lugar no especificado,5,
+2016,Coahuila de Zaragoza,,Lugar no especificado,5,
+2011,Coahuila de Zaragoza,,Lugar no especificado,5,0.126833925937538
+2021,Colima,,Lugar no especificado,6,
+2016,Colima,,Lugar no especificado,6,
+2011,Colima,,Lugar no especificado,6,0.0914099365071521
+2021,Chiapas,,Lugar no especificado,7,
+2016,Chiapas,,Lugar no especificado,7,
+2011,Chiapas,,Lugar no especificado,7,0.295483664317745
+2021,Chihuahua,,Lugar no especificado,8,
+2016,Chihuahua,,Lugar no especificado,8,
+2011,Chihuahua,,Lugar no especificado,8,0.067382092643594
+2021,Ciudad de México,,Lugar no especificado,9,
+2016,Ciudad de México,,Lugar no especificado,9,
+2011,Ciudad de México,,Lugar no especificado,9,0.101221872798771
+2021,Durango,,Lugar no especificado,10,
+2016,Durango,,Lugar no especificado,10,
+2011,Durango,,Lugar no especificado,10,0.761059691637611
+2021,Guanajuato,,Lugar no especificado,11,
+2016,Guanajuato,,Lugar no especificado,11,
+2011,Guanajuato,,Lugar no especificado,11,0.569808345463367
+2021,Guerrero,,Lugar no especificado,12,
+2016,Guerrero,,Lugar no especificado,12,
+2011,Guerrero,,Lugar no especificado,12,0.858726460718101
+2021,Hidalgo,,Lugar no especificado,13,
+2016,Hidalgo,,Lugar no especificado,13,
+2011,Hidalgo,,Lugar no especificado,13,0.0
+2021,Jalisco,,Lugar no especificado,14,
+2016,Jalisco,,Lugar no especificado,14,
+2011,Jalisco,,Lugar no especificado,14,0.0785585111367656
+2021,México,,Lugar no especificado,15,
+2016,México,,Lugar no especificado,15,
+2011,México,,Lugar no especificado,15,0.0177301775330385
+2021,Michoacán de Ocampo,,Lugar no especificado,16,
+2016,Michoacán de Ocampo,,Lugar no especificado,16,
+2011,Michoacán de Ocampo,,Lugar no especificado,16,0.144910790798887
+2021,Morelos,,Lugar no especificado,17,
+2016,Morelos,,Lugar no especificado,17,
+2011,Morelos,,Lugar no especificado,17,0.148001031232992
+2021,Nayarit,,Lugar no especificado,18,
+2016,Nayarit,,Lugar no especificado,18,
+2011,Nayarit,,Lugar no especificado,18,0.797619253594477
+2021,Nuevo León,,Lugar no especificado,19,
+2016,Nuevo León,,Lugar no especificado,19,
+2011,Nuevo León,,Lugar no especificado,19,0.0
+2021,Oaxaca,,Lugar no especificado,20,
+2016,Oaxaca,,Lugar no especificado,20,
+2011,Oaxaca,,Lugar no especificado,20,0.184986096012589
+2021,Puebla,,Lugar no especificado,21,
+2016,Puebla,,Lugar no especificado,21,
+2011,Puebla,,Lugar no especificado,21,0.171489308235901
+2021,Querétaro,,Lugar no especificado,22,
+2016,Querétaro,,Lugar no especificado,22,
+2011,Querétaro,,Lugar no especificado,22,0.382058829262587
+2021,Quintana Roo,,Lugar no especificado,23,
+2016,Quintana Roo,,Lugar no especificado,23,
+2011,Quintana Roo,,Lugar no especificado,23,0.0
+2021,San Luis Potosí,,Lugar no especificado,24,
+2016,San Luis Potosí,,Lugar no especificado,24,
+2011,San Luis Potosí,,Lugar no especificado,24,0.0
+2021,Sinaloa,,Lugar no especificado,25,
+2016,Sinaloa,,Lugar no especificado,25,
+2011,Sinaloa,,Lugar no especificado,25,0.0759712531763843
+2021,Sonora,,Lugar no especificado,26,
+2016,Sonora,,Lugar no especificado,26,
+2011,Sonora,,Lugar no especificado,26,0.0
+2021,Tabasco,,Lugar no especificado,27,
+2016,Tabasco,,Lugar no especificado,27,
+2011,Tabasco,,Lugar no especificado,27,0.2316379523534749
+2021,Tamaulipas,,Lugar no especificado,28,
+2016,Tamaulipas,,Lugar no especificado,28,
+2011,Tamaulipas,,Lugar no especificado,28,0.135331144901486
+2021,Tlaxcala,,Lugar no especificado,29,
+2016,Tlaxcala,,Lugar no especificado,29,
+2011,Tlaxcala,,Lugar no especificado,29,0.6871442490128711
+2021,Veracruz de Ignacio de la Llave,,Lugar no especificado,30,
+2016,Veracruz de Ignacio de la Llave,,Lugar no especificado,30,
+2011,Veracruz de Ignacio de la Llave,,Lugar no especificado,30,0.391291261161834
+2021,Yucatán,,Lugar no especificado,31,
+2016,Yucatán,,Lugar no especificado,31,
+2011,Yucatán,,Lugar no especificado,31,0.589547643323676
+2021,Zacatecas,,Lugar no especificado,32,
+2016,Zacatecas,,Lugar no especificado,32,
+2011,Zacatecas,,Lugar no especificado,32,0.414782861172176
+2021,Estados Unidos Mexicanos,,A través de medios electrónicos,0,28.1173252115502
+2016,Estados Unidos Mexicanos,,A través de medios electrónicos,0,20.806504555779
+2011,Estados Unidos Mexicanos,,A través de medios electrónicos,0,
+2021,Aguascalientes,,A través de medios electrónicos,1,29.9453447771251
+2016,Aguascalientes,,A través de medios electrónicos,1,25.3344145814025
+2011,Aguascalientes,,A través de medios electrónicos,1,
+2021,Baja California,,A través de medios electrónicos,2,27.5539384187815
+2016,Baja California,,A través de medios electrónicos,2,23.0415908239943
+2011,Baja California,,A través de medios electrónicos,2,
+2021,Baja California Sur,,A través de medios electrónicos,3,34.015928909308
+2016,Baja California Sur,,A través de medios electrónicos,3,25.051878354203904
+2011,Baja California Sur,,A través de medios electrónicos,3,
+2021,Campeche,,A través de medios electrónicos,4,26.2898650985818
+2016,Campeche,,A través de medios electrónicos,4,22.0687206195678
+2011,Campeche,,A través de medios electrónicos,4,
+2021,Coahuila de Zaragoza,,A través de medios electrónicos,5,29.887628587076296
+2016,Coahuila de Zaragoza,,A través de medios electrónicos,5,23.6960982228547
+2011,Coahuila de Zaragoza,,A través de medios electrónicos,5,
+2021,Colima,,A través de medios electrónicos,6,27.6038155167678
+2016,Colima,,A través de medios electrónicos,6,20.1873967252516
+2011,Colima,,A través de medios electrónicos,6,
+2021,Chiapas,,A través de medios electrónicos,7,23.8724594155559
+2016,Chiapas,,A través de medios electrónicos,7,18.7831637741871
+2011,Chiapas,,A través de medios electrónicos,7,
+2021,Chihuahua,,A través de medios electrónicos,8,24.8337683789177
+2016,Chihuahua,,A través de medios electrónicos,8,26.0537239562545
+2011,Chihuahua,,A través de medios electrónicos,8,
+2021,Ciudad de México,,A través de medios electrónicos,9,24.6059867426282
+2016,Ciudad de México,,A través de medios electrónicos,9,13.6342078447762
+2011,Ciudad de México,,A través de medios electrónicos,9,
+2021,Durango,,A través de medios electrónicos,10,34.7507966363525
+2016,Durango,,A través de medios electrónicos,10,24.59831987602969
+2011,Durango,,A través de medios electrónicos,10,
+2021,Guanajuato,,A través de medios electrónicos,11,26.7924625621099
+2016,Guanajuato,,A través de medios electrónicos,11,17.5810026863556
+2011,Guanajuato,,A través de medios electrónicos,11,
+2021,Guerrero,,A través de medios electrónicos,12,32.0440153310049
+2016,Guerrero,,A través de medios electrónicos,12,26.664661325166104
+2011,Guerrero,,A través de medios electrónicos,12,
+2021,Hidalgo,,A través de medios electrónicos,13,32.6594650837932
+2016,Hidalgo,,A través de medios electrónicos,13,18.9744843093167
+2011,Hidalgo,,A través de medios electrónicos,13,
+2021,Jalisco,,A través de medios electrónicos,14,29.4970458929748
+2016,Jalisco,,A través de medios electrónicos,14,23.4515290786743
+2011,Jalisco,,A través de medios electrónicos,14,
+2021,México,,A través de medios electrónicos,15,25.0309221727907
+2016,México,,A través de medios electrónicos,15,16.7425760424447
+2011,México,,A través de medios electrónicos,15,
+2021,Michoacán de Ocampo,,A través de medios electrónicos,16,34.030726181828
+2016,Michoacán de Ocampo,,A través de medios electrónicos,16,23.7278370758747
+2011,Michoacán de Ocampo,,A través de medios electrónicos,16,
+2021,Morelos,,A través de medios electrónicos,17,32.1995428177093
+2016,Morelos,,A través de medios electrónicos,17,21.8021546276948
+2011,Morelos,,A través de medios electrónicos,17,
+2021,Nayarit,,A través de medios electrónicos,18,28.263687621858
+2016,Nayarit,,A través de medios electrónicos,18,22.776351709244995
+2011,Nayarit,,A través de medios electrónicos,18,
+2021,Nuevo León,,A través de medios electrónicos,19,26.1046897346084
+2016,Nuevo León,,A través de medios electrónicos,19,18.1189005704587
+2011,Nuevo León,,A través de medios electrónicos,19,
+2021,Oaxaca,,A través de medios electrónicos,20,27.9064755953022
+2016,Oaxaca,,A través de medios electrónicos,20,24.2923982492328
+2011,Oaxaca,,A través de medios electrónicos,20,
+2021,Puebla,,A través de medios electrónicos,21,23.571686988491404
+2016,Puebla,,A través de medios electrónicos,21,22.0329846230108
+2011,Puebla,,A través de medios electrónicos,21,
+2021,Querétaro,,A través de medios electrónicos,22,30.0317632624043
+2016,Querétaro,,A través de medios electrónicos,22,20.8715756697167
+2011,Querétaro,,A través de medios electrónicos,22,
+2021,Quintana Roo,,A través de medios electrónicos,23,27.859454117497
+2016,Quintana Roo,,A través de medios electrónicos,23,26.8360557407692
+2011,Quintana Roo,,A través de medios electrónicos,23,
+2021,San Luis Potosí,,A través de medios electrónicos,24,30.4139734970492
+2016,San Luis Potosí,,A través de medios electrónicos,24,23.3141593646867
+2011,San Luis Potosí,,A través de medios electrónicos,24,
+2021,Sinaloa,,A través de medios electrónicos,25,36.1272626460385
+2016,Sinaloa,,A través de medios electrónicos,25,29.7182289295084
+2011,Sinaloa,,A través de medios electrónicos,25,
+2021,Sonora,,A través de medios electrónicos,26,34.4451550071683
+2016,Sonora,,A través de medios electrónicos,26,24.7151940817503
+2011,Sonora,,A través de medios electrónicos,26,
+2021,Tabasco,,A través de medios electrónicos,27,23.2344266973922
+2016,Tabasco,,A través de medios electrónicos,27,23.1052491084934
+2011,Tabasco,,A través de medios electrónicos,27,
+2021,Tamaulipas,,A través de medios electrónicos,28,28.4444169909609
+2016,Tamaulipas,,A través de medios electrónicos,28,19.531241321855
+2011,Tamaulipas,,A través de medios electrónicos,28,
+2021,Tlaxcala,,A través de medios electrónicos,29,24.396445471078504
+2016,Tlaxcala,,A través de medios electrónicos,29,21.0290531519304
+2011,Tlaxcala,,A través de medios electrónicos,29,
+2021,Veracruz de Ignacio de la Llave,,A través de medios electrónicos,30,33.9128493140151
+2016,Veracruz de Ignacio de la Llave,,A través de medios electrónicos,30,29.5285269267989
+2011,Veracruz de Ignacio de la Llave,,A través de medios electrónicos,30,
+2021,Yucatán,,A través de medios electrónicos,31,31.5337389783575
+2016,Yucatán,,A través de medios electrónicos,31,26.5287163096252
+2011,Yucatán,,A través de medios electrónicos,31,
+2021,Zacatecas,,A través de medios electrónicos,32,33.3373939525778
+2016,Zacatecas,,A través de medios electrónicos,32,30.4813317371762
+2011,Zacatecas,,A través de medios electrónicos,32,

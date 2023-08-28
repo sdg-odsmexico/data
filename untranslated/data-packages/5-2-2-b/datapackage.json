@@ -12,7 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total de 15 a 49 años de edad",
+                "De 15 a 17 años",
+                "De 18 a 19 años",
+                "De 20 a 24 años",
+                "De 25 a 29 años",
+                "De 30 a 34 años",
+                "De 35 a 39 años",
+                "De 40 a 44 años",
+                "De 45 a 49 años",
+                "De 50 a 54 años",
+                "De 55 a 59 años",
+                "De 60 años y más",
+                "No especificado",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Violencia sexual  y Lugar de la(s) agresión(es)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Con al menos un incidente de violencia sexual",
+                "Sin incidentes",
+                "No especificado",
+                "Calle o parque",
+                "Transporte público <sup>1</sup>",
+                "Casa particular",
+                "Instalaciones de la escuela o trabajo <sup>2</sup>",
+                "Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",
+                "Otro <sup>4</sup>",
+                "Lugar no especificado",
+                "A través de medios electrónicos",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

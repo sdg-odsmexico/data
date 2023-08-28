@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Nivel de escolaridad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Preescolar o menos",
+                "Básica",
+                "Media superior",
+                "Superior",
+                ""
+              ]
+            },
+            "title": "Nivel de escolaridad"
           },
           {
             "name": "Value",
