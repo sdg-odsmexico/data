@@ -4,6 +4,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-1(1),"Sexo, Grupo de edad",2
 #1-2-1(2),Población debajo de umbral de pobreza,1
 #1-2-1-a,"Entidad federativa, Municipio",2
+#1-2-1-esp,"Sexo, Entidad federativa, Grupo de edad, Municipios",4
 #1-2-2(1),"Sexo, Grupo de edad",2
 #1-2-2(2),"Sexo, Grupo de edad",2
 #1-2-2-a,"Entidad federativa, Municipio",2
@@ -45,6 +46,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-5-1,"Sexo, Entidad federativa",2
 #16-6-2-a,"Sexo, Entidad federativa",2
 #16-6-2-b,"Sexo, Entidad federativa",2
+#16-6-2-esp,"Sexo, Entidad federativa, Tipo de servicio",3
 #16-7-1b,"Sexo, Entidad federativa, Sexo_ Proporción plazas públicas",3
 #16-7-1c,"Sexo, Entidad federativa, Grupos de edad en plazas del Poder judicial",3
 #16-7-2,"Sexo, Grupos de edad",2
@@ -70,6 +72,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-8-1-a,Uso de internet,1
 #2-1-2,"Sexo, Grupo de edad",2
 #2-1-2-a,"Entidad federativa, Municipio",2
+#2-1-2-esp,"Sexo, Entidad federativa, Grupo de edad, Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Ciudad de México, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán de Ocampo, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave, Yucatán, Zacatecas",35
 #2-2-1,"Entidad federativa, Cobertura geografica",2
 #2-2-2,"Entidad federativa, Cobertura geografica",2
 #2-2-2(1),"Entidad federativa, Cobertura geografica",2
@@ -142,6 +145,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-n2-1,Entidad federativa,1
 #5-n3-1,Entidad federativa,1
 #6-n1-1,"Entidad federativa, Población con acceso al agua entubada y al saneamiento",2
+#7-1-1-esp,"Sexo, Entidad federativa, Municipios, Poblaciones",4
 #8-3-1,Sexo,1
 #8-3-1(2),Sexo,1
 #8-5-1a,"Sexo, Entidad federativa, Municipio",3
