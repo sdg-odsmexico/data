@@ -3,6 +3,7 @@
   (urbana o rural) cambio de prueba
 1-1-1-a-title: Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), por desglose geográfico
 1-1-r-1-title: Porcentaje de la población que vive por debajo del umbral de pobreza extrema regional, desglosada por sexo, edad, condición de actividad, ubicación geográfica (urbana y rural) y etnia
+1-2-1-esp-title: Proporción de la población que vive por debajo del umbral nacional de la pobreza, desglosada por sexo y edad
 1-2-1(1)-title: Proporción de la población que vive por debajo del umbral nacional de la pobreza, desglosada por sexo y edad (2016 - 2020)
 1-2-1(2)-title: Proporción de la población que vive por debajo del umbral nacional de la pobreza, desglosada por sexo y edad (2008 - 2014)
 1-2-1-a-title: Proporción de la población que vive por debajo del umbral nacional de la pobreza, por desglose geográfico
@@ -128,6 +129,7 @@
 16-6-1-title: Gastos primarios del gobierno en proporción al presupuesto aprobado
   originalmente, desglosados por sector (o por códigos presupuestarios o elementos
   similares)
+16-6-2-esp-title: Crear a todos los niveles instituciones eficaces y transparentes que rindan cuentas
 16-6-2-a-title: Satisfacción con el servicio de educación pública obligatoria
 16-6-2-b-title: Satisfacción con el servicio de educación pública universitaria
 16-7-1b-title: Proporciones de plazas en las instituciones nacionales y locales, entre ellas la administración pública
@@ -174,6 +176,7 @@
 17-n4-2-title: Crecimiento real del valor agregado bruto del sector de la cultura
 2-1-2-title: Prevalencia de la inseguridad alimentaria moderada o grave entre la población,
   según la escala de experiencia de inseguridad alimentaria
+2-1-2-esp-title: Proporción de la población con inseguridad alimentaria moderada o severa (carencia por acceso a la alimentación), desglosada por sexo y edad
 2-1-2-a-title: Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico
 2-2-1-title: Prevalencia del retraso del crecimiento (estatura para la edad, desviación
   típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización
@@ -298,6 +301,7 @@
 6-n1-1-title: Porcentaje de la población que tiene acceso al agua entubada diariamente así como al saneamiento
 6-n2-1-title: Grado de presión sobre el recurso hídrico de las zonas centro y norte del país
 6-n2-2-title: Rendimiento de cultivos básicos en zonas con infraestructura de riego
+7-1-1-esp-title: Proporción de la población que tiene acceso a la electricidad
 7-2-1-title: Proporción de energía renovable en el consumo final total de energía
 7-3-1-title: Intensidad energética medida en función de la energía primaria y el
   PIB
