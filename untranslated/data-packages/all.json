@@ -27301,6 +27301,28 @@
       "title": "14.n1.1 Refugios pesqueros en aguas nacionales."
     },
     {
+      "path": "1-2-1-esp/data.csv",
+      "name": "1-2-1-esp",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "13-n1-1/data.csv",
       "name": "13-n1-1",
       "profile": "tabular-data-resource",
@@ -27455,6 +27477,28 @@
       "title": "2.n3.1 Rendimiento agrícola del maíz de grano"
     },
     {
+      "path": "2-1-2-esp/data.csv",
+      "name": "2-1-2-esp",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "1-1-r-1/data.csv",
       "name": "1-1-r-1",
       "profile": "tabular-data-resource",
@@ -27541,6 +27585,50 @@
         ]
       },
       "title": "3.n2.1 Porcentaje de recursos económicos destinado a salud mental"
+    },
+    {
+      "path": "7-1-1-esp/data.csv",
+      "name": "7-1-1-esp",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "16-6-2-esp/data.csv",
+      "name": "16-6-2-esp",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "3-3-r-c/data.csv",
