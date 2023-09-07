@@ -91,8 +91,8 @@ data_notice_text:
 data_show_map:
   true
 data_start_values:
-  - field: 'Entidad federativa'
-    value: 'Estados Unidos Mexicanos'
+  - field: Entidad federativa
+    value: Estados Unidos Mexicanos
 embedded_feature_footer:
   ''
 embedded_feature_html:
