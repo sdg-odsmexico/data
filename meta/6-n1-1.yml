@@ -91,7 +91,10 @@ data_notice_text:
 data_show_map:
   true
 data_start_values:
-  []
+  - field: Entidad federativa
+    value: Estados Unidos Mexicanos
+  - field: Población con acceso al agua entubada y al saneamiento
+    value: Total
 embedded_feature_footer:
   ''
 embedded_feature_html:
