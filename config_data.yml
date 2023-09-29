@@ -67,8 +67,8 @@ inputs:
    # git: true
    # git_data_dir: data
     metadata_mapping: 'metadata-mapping.csv'
-  - class: InputSdmxMeta
-    meta_suffix: __GLOBAL
+  #- class: InputSdmxMeta
+  #  meta_suffix: __GLOBAL
 
 # Translations
 # ------------
