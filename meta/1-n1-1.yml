@@ -93,6 +93,8 @@ data_show_map:
 data_start_values:
   - field: Población en pobreza_nacional
     value: Nacional
+    value: Hombres
+    value: Mujeres
 embedded_feature_footer:
   ''
 embedded_feature_html:
