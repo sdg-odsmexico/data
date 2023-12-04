@@ -4,7 +4,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-1(1),"Sexo, Grupo de edad",2
 #1-2-1(2),Población debajo de umbral de pobreza,1
 #1-2-1-a,"Entidad federativa, Municipio",2
-#1-2-1-esp,"Sexo, Entidad federativa, Municipios, Grupo de edad",4
+#1-2-1-esp,"Entidad federativa, Sexo, Grupo de edad, Municipios",4
 #1-2-2(1),"Sexo, Grupo de edad",2
 #1-2-2(2),"Sexo, Grupo de edad",2
 #1-2-2-a,"Entidad federativa, Municipio",2
@@ -21,8 +21,8 @@ Indicator,Disaggregations,Number of disaggregations
 #10-n1-1,"Entidad federativa, Deciles",2
 #10-n2-1,Entidad federativa,1
 #11-1-1,"Entidad federativa, Municipio",2
-#11-2-1,"Sexo, Entidad federativa",2
-#11-2-r-1a,"Sexo, Entidad federativa",2
+#11-2-1,"Entidad federativa, Sexo",2
+#11-2-r-1a,"Entidad federativa, Sexo",2
 #11-2-r-1b,hablantes_lengua indígena,1
 #11-2-r-1c,"Sexo, Tam_loc",2
 #11-2-r-1d,"Sexo, Traslado al trabajo_grupos de edad",2
@@ -32,47 +32,47 @@ Indicator,Disaggregations,Number of disaggregations
 #11-n2-1,Entidad federativa,1
 #13-3-r-1,Sector de Emisión,1
 #15-5-1,Grupo taxonómico,1
-#16-1-1,"Sexo, Entidad federativa, Grupo de edad",3
-#16-1-3-a,"Sexo, Entidad federativa",2
-#16-1-3-b,"Sexo, Entidad federativa",2
+#16-1-1,"Entidad federativa, Sexo, Grupo de edad",3
+#16-1-3-a,"Entidad federativa, Sexo",2
+#16-1-3-b,"Entidad federativa, Sexo",2
 #16-1-3-c,Sexo,1
-#16-1-4,"Sexo, Entidad federativa",2
+#16-1-4,"Entidad federativa, Sexo",2
 #16-3-1,Sexo,1
 #16-3-1-a,Sexo,1
 #16-3-1-b,Sexo,1
 #16-3-1-c,Sexo,1
 #16-3-2,Sexo,1
 #16-3-r-b,"Entidad federativa, Ocupación carcelaria estatal",2
-#16-5-1,"Sexo, Entidad federativa",2
-#16-6-2-a,"Sexo, Entidad federativa",2
-#16-6-2-b,"Sexo, Entidad federativa",2
-#16-6-2-esp,"Sexo, Entidad federativa, Tipo de servicio",3
-#16-7-1b,"Sexo, Entidad federativa, Sexo_ Proporción plazas públicas",3
-#16-7-1c,"Sexo, Entidad federativa, Grupos de edad en plazas del Poder judicial",3
+#16-5-1,"Entidad federativa, Sexo",2
+#16-6-2-a,"Entidad federativa, Sexo",2
+#16-6-2-b,"Entidad federativa, Sexo",2
+#16-6-2-esp,"Entidad federativa, Sexo, Tipo de servicio",3
+#16-7-1b,"Entidad federativa, Sexo, Sexo_ Proporción plazas públicas",3
+#16-7-1c,"Entidad federativa, Sexo, Grupos de edad en plazas del Poder judicial",3
 #16-7-2,"Sexo, Grupos de edad",2
 #16-9-1a,"Sexo, Hijos sobrevivientes menores de 5",2
 #16-9-1b,"Entidad federativa, Hijos sobrevivientes menores de 5",2
 #16-b-1,"Discriminación total, Discriminación por sexo, Discriminación por edad, Discriminación por religión, Discriminación por estatus socioeconómico, Discriminación por lugar de residencia, Discriminación por otros motivos*",7
-#16-n1-1,"Sexo, Entidad federativa",2
+#16-n1-1,"Entidad federativa, Sexo",2
 #16-n1-2,"Entidad federativa, Unidades económicas víctimas",2
-#16-n2-1,"Sexo, Entidad federativa",2
-#16-n2-2,"Sexo, Entidad federativa",2
-#16-n2-3,"Sexo, Entidad federativa",2
-#16-n2-4,"Sexo, Entidad federativa",2
-#16-n3-1-a,"Sexo, Entidad federativa",2
-#16-n3-1-b,"Sexo, Entidad federativa",2
-#16-n3-1-c,"Sexo, Entidad federativa",2
-#16-n3-1-d,"Sexo, Entidad federativa",2
-#16-n3-1-e,"Sexo, Entidad federativa",2
-#16-n3-1-f,"Sexo, Entidad federativa",2
-#16-n3-2,"Sexo, Entidad federativa, Áreas metropolitanas autorrepresentadas",3
+#16-n2-1,"Entidad federativa, Sexo",2
+#16-n2-2,"Entidad federativa, Sexo",2
+#16-n2-3,"Entidad federativa, Sexo",2
+#16-n2-4,"Entidad federativa, Sexo",2
+#16-n3-1-a,"Entidad federativa, Sexo",2
+#16-n3-1-b,"Entidad federativa, Sexo",2
+#16-n3-1-c,"Entidad federativa, Sexo",2
+#16-n3-1-d,"Entidad federativa, Sexo",2
+#16-n3-1-e,"Entidad federativa, Sexo",2
+#16-n3-1-f,"Entidad federativa, Sexo",2
+#16-n3-2,"Entidad federativa, Sexo, Áreas metropolitanas autorrepresentadas",3
 #17-1-1,Ingresos con respecto al PIB,1
 #17-6-1,Suscripciones de banda ancha fija,1
 #17-8-1,"Entidad federativa, Municipio",2
 #17-8-1-a,Uso de internet,1
 #2-1-2,"Sexo, Grupo de edad",2
 #2-1-2-a,"Entidad federativa, Municipio",2
-#2-1-2-esp,"Sexo, Entidad federativa, Grupo de edad, Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Ciudad de México, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán de Ocampo, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave, Yucatán, Zacatecas",35
+#2-1-2-esp,"Entidad federativa, Sexo, Grupo de edad, Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Ciudad de México, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán de Ocampo, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave, Yucatán, Zacatecas",35
 #2-2-1,"Entidad federativa, Cobertura geografica",2
 #2-2-2,"Entidad federativa, Cobertura geografica",2
 #2-2-2(1),"Entidad federativa, Cobertura geografica",2
@@ -88,7 +88,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-3-r-2,Entidad federativa,1
 #3-4-1,Tasa de mortalidad-enfermedad no transmisible,1
 #3-4-2-a,"Entidad federativa, Sexo (t-h-m-na), Grupos quinquenales de edad (0 a 85 y más, NA)",3
-#3-4-2-b,"Sexo (t-h-m-na), Residencia habitual fuera de México o no especificada",2
+#3-4-2-b,"Residencia habitual fuera de México o no especificada, Sexo (t-h-m-na)",2
 #3-7-1,Entidad federativa,1
 #3-7-2-a,Entidad federativa,1
 #3-7-2-b,Entidad federativa,1
@@ -97,18 +97,18 @@ Indicator,Disaggregations,Number of disaggregations
 #3-7-r-b,Entidad federativa,1
 #3-9-2a,Entidad federativa,1
 #3-9-3a,"Entidad federativa, Sexo (t-h-m-na), Intoxicaciones_grupo de edad",3
-#3-9-3b,"Sexo (t-h-m-na), Residencia habitual fuera de México o no especificada",2
+#3-9-3b,"Residencia habitual fuera de México o no especificada, Sexo (t-h-m-na)",2
 #3-c-1,"Entidad federativa, Densidad del personal sanitario",2
-#3-n1-4,"Quintiles de Ingreso, Cobertura geografica",2
+#3-n1-4,"Cobertura geografica, Quintiles de Ingreso",2
 #3-n3-1,Entidad federativa,1
 #3-n4-1,Población con sobrepeso y obesidad,1
 #4-1-2,"Entidad federativa, Índice de finalización, Población que finalizó el nivel de instrucción",3
 #4-2-1,Desarrollo adecuado_Niños_Niñas,1
-#4-2-2,"Sexo, Entidad federativa",2
+#4-2-2,"Entidad federativa, Sexo",2
 #4-3-1,Entidad federativa,1
 #4-3-r-1,Sexo,1
 #4-4-1,"Entidad federativa, Principales ciudades, Habilidades para uso de PC",3
-#4-6-1-a,"Sexo, Entidad federativa",2
+#4-6-1-a,"Entidad federativa, Sexo",2
 #4-a-1-a,"Entidad federativa, Educación Básica, Educación Media",3
 #4-a-1-b,"Entidad federativa, Educación Básica, Educación Media",3
 #4-a-1-c,"Entidad federativa, Educación Básica, Educación Media",3
@@ -117,9 +117,9 @@ Indicator,Disaggregations,Number of disaggregations
 #4-a-1-e,"Entidad federativa, Educación Básica, Educación Media",3
 #4-a-1-f,"Entidad federativa, Educación Básica, Educación Media",3
 #4-a-1-g,"Entidad federativa, Educación Básica, Educación Media",3
-#4-c-1-a,"Sexo, Entidad federativa",2
-#4-c-1-b,"Sexo, Entidad federativa",2
-#4-c-1-c,"Sexo, Entidad federativa",2
+#4-c-1-a,"Entidad federativa, Sexo",2
+#4-c-1-b,"Entidad federativa, Sexo",2
+#4-c-1-c,"Entidad federativa, Sexo",2
 #4-n2-1,"Entidad federativa, Violencia en mujeres por edad",2
 #5-2-1-a,"Entidad federativa, Condición de violencia, Tipo de violencia",3
 #5-2-1-b,"Grupo de edad, Tipo de violencia",2
@@ -135,7 +135,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-5-1-e,Entidad federativa,1
 #5-5-2,"Entidad federativa, Municipio",2
 #5-6-1,Entidad federativa,1
-#5-a-1a,"Sexo, Entidad federativa",2
+#5-a-1a,"Entidad federativa, Sexo",2
 #5-a-1b,Entidad federativa,1
 #5-b-1,"Entidad federativa, Municipio, Usuarios",3
 #5-n1-1,Nivel de escolaridad,1
@@ -145,22 +145,22 @@ Indicator,Disaggregations,Number of disaggregations
 #5-n2-1,Entidad federativa,1
 #5-n3-1,Entidad federativa,1
 #6-n1-1,"Entidad federativa, Población con acceso al agua entubada y al saneamiento",2
-#7-1-1-esp,"Sexo, Entidad federativa, Municipios, Poblaciones",4
+#7-1-1-esp,"Entidad federativa, Sexo, Municipios, Poblaciones",4
 #8-3-1,Sexo,1
 #8-3-1(2),Sexo,1
-#8-5-1a,"Sexo, Entidad federativa, Municipio",3
+#8-5-1a,"Entidad federativa, Sexo, Municipio",3
 #8-5-1b,"Sexo, Grupos de edad_ocupados",2
 #8-5-1c,"Sexo, Tipo de ocupación",2
 #8-5-1d,"Sexo, Condición de residencia y país de nacimiento",2
-#8-5-2,"Sexo, Entidad federativa, Grupo de edad",3
-#8-5-2(2),"Sexo, Entidad federativa, Grupo de edad",3
+#8-5-2,"Entidad federativa, Sexo, Grupo de edad",3
+#8-5-2(2),"Entidad federativa, Sexo, Grupo de edad",3
 #8-6-1a,"Entidad federativa, Jóvenes de 15 a 24 años, Jóvenes de 15 a 19 años, Jóvenes de 20 a 24 años",4
-#8-6-1b,"Sexo, Entidad federativa, Municipio, Edades de 15 a 24 años",4
+#8-6-1b,"Entidad federativa, Sexo, Municipio, Edades de 15 a 24 años",4
 #8-6-1c,Jóvenes de 15 a 24 que no estudian ni trabajan,1
 #8-6-r-1,"Sexo, Jóvenes de 15 a 24 años que no estudian, no tienen empleo ni reciben capacitación",2
-#8-7-1,"Sexo, Entidad federativa, Grupo de edad",3
+#8-7-1,"Entidad federativa, Sexo, Grupo de edad",3
 #8-8-1,Sexo,1
-#8-n2-2,"Sexo, Entidad federativa, Edades IMSS",3
+#8-n2-2,"Entidad federativa, Sexo, Edades IMSS",3
 #8-n3-1a,Sexo,1
 #8-n3-1b,Edades (18 a 70 años),1
 #8-n3-1c,Escolaridad y sin escolaridad,1
